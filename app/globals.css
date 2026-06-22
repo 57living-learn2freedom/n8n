@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --color-primary-red: #d32f2f;
+}
+
+@layer base {
+  body {
+    @apply bg-zinc-50 text-zinc-800;
+  }
+}
+
+@layer components {
+  .nav-item {
+    position: relative;
+    transition: color 0.3s ease;
+  }
+
+  .nav-item::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 0;
+    height: 2px;
+    background-color: var(--color-primary-red);
+    transition: width 0.3s ease;
+  }
+
+  .nav-item:not(.nav-item-overlay):hover,
+  .nav-item:not(.nav-item-overlay):focus-visible {
+    color: var(--color-primary-red);
+  }
+
+  .nav-item:not(.nav-item-overlay):hover::after,
+  .nav-item:not(.nav-item-overlay):focus-visible::after {
+    width: 100%;
+  }
+
+  .nav-item-overlay {
+    transition: color 0.3s ease, opacity 0.3s ease;
+  }
+
+  .nav-item-overlay::after {
+    background-color: #ffffff;
+  }
+
+  .nav-item-overlay:hover,
+  .nav-item-overlay:focus-visible {
+    color: rgba(255, 255, 255, 0.75);
+  }
+
+  .nav-item-overlay:hover::after,
+  .nav-item-overlay:focus-visible::after {
+    width: 100%;
+  }
+}
