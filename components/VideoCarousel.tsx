@@ -144,12 +144,12 @@ export default function VideoCarousel() {
           </h2>
         </div>
 
-        <div className="relative" ref={carouselTrackRef}>
+        <div className="relative px-8 sm:px-0" ref={carouselTrackRef}>
           <button
             type="button"
             onClick={goPrev}
             aria-label="Previous page"
-            className="absolute -left-3 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-700 shadow-md transition-colors hover:border-red-300 hover:text-red-700 sm:-left-5 sm:h-12 sm:w-12"
+            className="absolute left-0 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-700 shadow-md transition-colors hover:border-red-300 hover:text-red-700 sm:-left-5 sm:h-12 sm:w-12"
           >
             <ChevronLeft className="h-5 w-5 sm:h-6 sm:w-6" />
           </button>
@@ -158,7 +158,7 @@ export default function VideoCarousel() {
             type="button"
             onClick={goNext}
             aria-label="Next page"
-            className="absolute -right-3 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-700 shadow-md transition-colors hover:border-red-300 hover:text-red-700 sm:-right-5 sm:h-12 sm:w-12"
+            className="absolute right-0 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-700 shadow-md transition-colors hover:border-red-300 hover:text-red-700 sm:-right-5 sm:h-12 sm:w-12"
           >
             <ChevronRight className="h-5 w-5 sm:h-6 sm:w-6" />
           </button>

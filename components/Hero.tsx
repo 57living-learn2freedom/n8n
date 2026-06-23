@@ -24,7 +24,7 @@ export default function Hero({
   return (
     <section
       id="home"
-      className="relative flex min-h-[600px] items-center overflow-hidden sm:min-h-[680px]"
+      className="relative flex min-h-[520px] items-center overflow-hidden sm:min-h-[600px] lg:min-h-[680px]"
     >
       <Image
         src={HERO_BACKGROUND}
@@ -40,18 +40,18 @@ export default function Hero({
 
       <Header overlay />
 
-      <div className="relative z-10 mx-auto w-full max-w-7xl px-4 pb-16 pt-28 sm:px-6 sm:pb-20 sm:pt-32 lg:px-8">
+      <div className="relative z-10 mx-auto w-full max-w-7xl px-4 pb-12 pt-24 sm:px-6 sm:pb-20 sm:pt-32 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
-          <h1 className="text-3xl font-bold tracking-tight text-white sm:text-4xl lg:text-5xl">
+          <h1 className="text-2xl font-bold tracking-tight text-white sm:text-4xl lg:text-5xl">
             Unlock Below-Market-Value Properties in Malaysia
           </h1>
-          <p className="mt-4 text-lg text-zinc-200 sm:text-xl">
+          <p className="mt-3 text-base text-zinc-200 sm:mt-4 sm:text-xl">
             Save up to 40% on Bank Lelong &amp; Auction properties. Updated
             daily.
           </p>
         </div>
 
-        <div className="mx-auto mt-10 max-w-5xl">
+        <div className="mx-auto mt-6 max-w-5xl sm:mt-10">
           <SearchFilterBar
             filters={filters}
             onFilterChange={onFilterChange}

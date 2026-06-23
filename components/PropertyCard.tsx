@@ -37,7 +37,7 @@ export default function PropertyCard({
     >
       <div className="relative aspect-[4/3] overflow-hidden bg-zinc-100">
         <Image
-          src={property.image}
+          src={property.images[0] ?? "/placeholder.jpg"}
           alt={property.title}
           fill
           className="object-cover transition-transform duration-300 group-hover:scale-105"
@@ -53,7 +53,7 @@ export default function PropertyCard({
       </div>
 
       <div className="flex flex-1 flex-col p-5">
-        <h3 className="text-lg font-bold text-zinc-900">{property.title}</h3>
+        <h3 className="text-base font-bold text-zinc-900 sm:text-lg">{property.title}</h3>
 
         <div className="mt-2 flex items-start gap-1.5 text-sm text-zinc-600">
           <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-zinc-400" />
@@ -62,7 +62,7 @@ export default function PropertyCard({
           </address>
         </div>
 
-        <p className="mt-3 text-xl font-bold text-red-700">
+        <p className="mt-3 text-lg font-bold text-red-700 sm:text-xl">
           Reserve Price: {formatPrice(property.reservePrice)}
         </p>
 

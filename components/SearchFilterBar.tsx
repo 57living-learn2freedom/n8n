@@ -40,7 +40,7 @@ export default function SearchFilterBar({
           : "rounded-2xl border border-zinc-200 bg-white p-4 shadow-sm sm:p-6"
       }
     >
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-6">
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-6">
         <div className="sm:col-span-2 lg:col-span-2">
           <label
             htmlFor={`${idPrefix}-keyword`}

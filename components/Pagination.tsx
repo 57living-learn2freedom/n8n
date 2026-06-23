@@ -1,6 +1,7 @@
 "use client";
 
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import { getVisiblePages } from "@/lib/pagination";
 
 interface PaginationProps {
   currentPage: number;
@@ -15,7 +16,7 @@ export default function Pagination({
 }: PaginationProps) {
   if (totalPages <= 1) return null;
 
-  const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
+  const visiblePages = getVisiblePages(currentPage, totalPages);
 
   return (
     <nav
@@ -34,7 +35,19 @@ export default function Pagination({
       </button>
 
       <div className="flex items-center gap-1">
-        {pages.map((page) => {
+        {visiblePages.map((page, index) => {
+          if (page === "ellipsis") {
+            return (
+              <span
+                key={`ellipsis-${index}`}
+                className="min-w-9 px-2 py-2 text-sm font-medium text-zinc-400"
+                aria-hidden="true"
+              >
+                …
+              </span>
+            );
+          }
+
           const isActive = page === currentPage;
           return (
             <button
