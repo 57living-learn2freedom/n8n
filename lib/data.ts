@@ -35,7 +35,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "872 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "public/images/property_2.png"
+    "image": "/images/property_2.png"
   }
 ];
 
