@@ -1,3 +1,10 @@
+export type PropertyType =
+  | "Terrace"
+  | "Condo/Apartment"
+  | "Semi-D/Bungalow"
+  | "Commercial"
+  | "Land";
+
 export interface Property {
   id: string;
   title: string;
@@ -9,8 +16,8 @@ export interface Property {
   auctionDate: string;
   landArea: string;
   builtUp: string;
-  tenure: string;
-  type: string;
+  tenure: "Freehold" | "Leasehold";
+  type: PropertyType;
   image: string;
 }
 
@@ -19,15 +26,23 @@ export const PROPERTIES: Property[] = [
     "id": "2",
     "title": "Town House (Upper Unit)",
     "address": "No. 26-1, Jalan TTP 3, Taman Tasik Puchong, 47120 Puchong, Selangor",
-    "postcode": "",
-    "state": "Puchong",
-    "area": "Town Villa (LBS Town Villa), Selangor",
+    "postcode": "47120",
+    "state": "Selangor",
+    "area": "Puchong",
     "reservePrice": 198288,
     "auctionDate": "1 Jul 2026 (Wed)",
-    "landArea": "",
+    "landArea": "—",
     "builtUp": "872 sq.ft",
-    "tenure": "",
-    "type": "LACA",
+    "tenure": "Freehold",
+    "type": "Terrace",
     "image": "https://lh3.googleusercontent.com/d/1DpkeKtH1hRBseV5wTU2Sj8qCL-kK1IJu"
   }
 ];
+
+export function formatPrice(price: number): string {
+  return new Intl.NumberFormat("en-MY", {
+    style: "currency",
+    currency: "MYR",
+    maximumFractionDigits: 0,
+  }).format(price);
+}
