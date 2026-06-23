@@ -35,7 +35,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "872 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_2.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "4",
@@ -50,7 +50,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "861 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_4.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "6",
@@ -65,7 +65,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "250 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_6.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "7",
@@ -80,7 +80,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "650 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_7.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "8",
@@ -95,7 +95,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "180 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_8.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "9",
@@ -110,7 +110,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "250 sq.ft",
     "tenure": "Freehold",
     "type": "Commercial",
-    "image": "/images/property_9.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "10",
@@ -125,7 +125,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "420 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_10.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "11",
@@ -140,7 +140,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "970 sq.ft",
     "tenure": "Freehold",
     "type": "Commercial",
-    "image": "/images/property_11.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "12",
@@ -155,7 +155,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "650 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_12.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "14",
@@ -170,7 +170,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "420 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_14.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "15",
@@ -185,7 +185,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_15.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "23",
@@ -200,7 +200,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "936 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_23.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "26",
@@ -215,7 +215,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "808 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_26.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "27",
@@ -230,7 +230,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "764 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_27.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "28",
@@ -245,7 +245,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "976 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_28.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "29",
@@ -260,7 +260,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "840 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_29.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "30",
@@ -275,7 +275,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "033 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_30.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "31",
@@ -290,7 +290,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "601 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_31.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "32",
@@ -305,7 +305,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "249 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_32.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "33",
@@ -320,7 +320,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "—",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_33.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "34",
@@ -335,7 +335,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "431 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_34.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "35",
@@ -350,7 +350,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "539 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_35.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "37",
@@ -365,7 +365,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "—",
     "tenure": "Freehold",
     "type": "Land",
-    "image": "/images/property_37.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "43",
@@ -380,7 +380,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "821 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_43.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "44",
@@ -395,7 +395,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "710 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_44.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "45",
@@ -410,7 +410,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "000 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_45.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "46",
@@ -425,7 +425,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "379 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_46.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "47",
@@ -440,7 +440,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "732 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_47.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "48",
@@ -455,7 +455,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_48.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "49",
@@ -470,7 +470,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "088 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_49.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "50",
@@ -485,7 +485,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "295 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_50.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "53",
@@ -500,7 +500,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "667 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_53.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "80",
@@ -515,7 +515,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "476 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_80.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "84",
@@ -530,7 +530,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "872 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_84.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "99",
@@ -545,7 +545,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "775 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_99.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "123",
@@ -560,7 +560,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "646 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_123.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "128",
@@ -575,7 +575,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "823 sq.ft",
     "tenure": "Freehold",
     "type": "Commercial",
-    "image": "/images/property_128.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "129",
@@ -590,7 +590,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "840 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_129.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "144",
@@ -605,7 +605,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "646 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_144.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "146",
@@ -620,7 +620,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "775 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_146.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "151",
@@ -635,7 +635,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "213 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_151.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "153",
@@ -650,7 +650,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "572 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_153.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "154",
@@ -665,7 +665,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "420 sq.ft",
     "tenure": "Freehold",
     "type": "Commercial",
-    "image": "/images/property_154.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "164",
@@ -680,7 +680,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "259 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_164.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "184",
@@ -695,7 +695,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "486 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_184.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "187",
@@ -710,7 +710,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "475 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_187.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "195",
@@ -725,7 +725,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "883 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_195.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "203",
@@ -740,7 +740,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "345 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_203.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "208",
@@ -755,7 +755,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "548 sq.ft",
     "tenure": "Freehold",
     "type": "Commercial",
-    "image": "/images/property_208.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "223",
@@ -770,7 +770,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "324 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_223.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "232",
@@ -785,7 +785,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "850 sq.ft",
     "tenure": "Freehold",
     "type": "Commercial",
-    "image": "/images/property_232.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "233",
@@ -800,7 +800,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "958 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_233.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "234",
@@ -815,7 +815,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "958 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_234.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "235",
@@ -830,7 +830,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "958 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_235.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "286",
@@ -845,7 +845,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "259 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_286.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "306",
@@ -860,7 +860,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "195 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_306.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "308",
@@ -875,7 +875,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "775 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_308.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "309",
@@ -890,7 +890,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "775 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_309.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "323",
@@ -905,7 +905,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "990 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_323.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "350",
@@ -920,7 +920,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "001 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_350.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "351",
@@ -935,7 +935,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "024 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_351.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "358",
@@ -950,7 +950,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "087 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_358.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "361",
@@ -965,7 +965,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "237 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_361.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "374",
@@ -980,7 +980,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "667 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_374.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "384",
@@ -995,7 +995,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "775 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_384.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "388",
@@ -1010,7 +1010,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "657 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_388.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "410",
@@ -1025,7 +1025,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "496 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_410.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "414",
@@ -1040,7 +1040,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "410 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_414.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "418",
@@ -1055,7 +1055,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "936 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_418.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "446",
@@ -1070,7 +1070,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "119 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_446.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "448",
@@ -1085,7 +1085,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "775 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_448.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "456",
@@ -1100,7 +1100,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "324 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_456.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "458",
@@ -1115,7 +1115,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "109 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_458.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "461",
@@ -1130,7 +1130,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "657 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_461.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "477",
@@ -1145,7 +1145,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "990 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_477.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "482",
@@ -1160,7 +1160,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "120 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_482.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "485",
@@ -1175,7 +1175,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "502 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_485.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "496",
@@ -1190,7 +1190,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "044 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_496.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "498",
@@ -1205,7 +1205,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "050 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_498.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "503",
@@ -1220,7 +1220,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_503.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "532",
@@ -1235,7 +1235,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "216 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_532.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "542",
@@ -1250,7 +1250,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "180 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_542.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "557",
@@ -1265,7 +1265,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "667 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_557.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "566",
@@ -1280,7 +1280,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "216 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_566.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "592",
@@ -1295,7 +1295,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "775 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_592.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "600",
@@ -1310,7 +1310,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_600.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "625",
@@ -1325,7 +1325,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "141 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_625.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "631",
@@ -1340,7 +1340,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "141 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_631.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "636",
@@ -1355,7 +1355,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "302 sq.ft",
     "tenure": "Freehold",
     "type": "Terrace",
-    "image": "/images/property_636.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "656",
@@ -1370,7 +1370,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "421 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_656.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   },
   {
     "id": "658",
@@ -1385,7 +1385,7 @@ export const PROPERTIES: Property[] = [
     "builtUp": "023 sq.ft",
     "tenure": "Freehold",
     "type": "Condo/Apartment",
-    "image": "/images/property_658.png"
+    "image": "https://via.placeholder.com/800x600?text=No+Image"
   }
 ];
 
