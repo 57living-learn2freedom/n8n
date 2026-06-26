@@ -4077,6 +4077,1727 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1Es75GcFGRVbDuAcaC-H1kKwVI4_0ugZI&sz=w800"
     ]
+  },
+  {
+    "id": "622",
+    "title": "2 Storey Terrace House",
+    "address": "No. 205, Jalan Tiara Sendayan 2/3, Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 500000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "168 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "632",
+    "title": "1 Storey Terrace House",
+    "address": "No. 558, Jalan Desa PD 9, Taman Desa PD, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 150000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "625 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "633",
+    "title": "2 Storey Terrace House",
+    "address": "No. 395, Jalan Saujana Sutera 15, Saujana Sutera (Suria), S2 Heights, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 580000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1W0VHRZZQ0ytvLojoAEFhStN5lxfHu4Dv&sz=w800"
+    ]
+  },
+  {
+    "id": "635",
+    "title": "1 Storey Terrace House",
+    "address": "No. 12, Lorong Sri Anggerik 2/1B, Taman Sri Anggerik, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 140000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=16UpHH497Thv4qleFU2Sp0tzVjMmFl0XE&sz=w800"
+    ]
+  },
+  {
+    "id": "642",
+    "title": "2 Storey Terrace House",
+    "address": "No. 585, Jalan Bayu Sutera 2/5, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
+    "postcode": "71960",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 450000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1PnWeRa4cMSRnRlyAz9urHCDUqt4ZSl1Y&sz=w800"
+    ]
+  },
+  {
+    "id": "644",
+    "title": "2 Storey Terrace House",
+    "address": "No. 980, Lorong Nusari Aman 3/4B, Nusari Aman 2, 71900 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 550000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1rVw3cpigwl63j8wY0dc5IBcrJrODDd6l&sz=w800",
+      "https://drive.google.com/thumbnail?id=1SPEqF9siVlXf3IU56Z47tBJSvzPC1AhL&sz=w800",
+      "https://drive.google.com/thumbnail?id=1H2OD1_FZ2iJD57AhWSRJWkf2cB6w6q55&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ozVYJIJbbZOB-GbgfRQrbdWzNQ6gE8g7&sz=w800"
+    ]
+  },
+  {
+    "id": "649",
+    "title": "2 Storey Terrace House",
+    "address": "No. 371, Jalan Tiara Sendayan 2/5, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 660000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "261 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "650",
+    "title": "1 Storey Terrace House",
+    "address": "No. 26, Jalan Timur 5/1D, Timur @ Enstek, 71760 Bandar Baru Enstek, Negeri Sembilan",
+    "postcode": "71760",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Baru Enstek",
+    "reservePrice": 360000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wDxDtIsPl8sO0EiqkKTzqwTubHokSSV-&sz=w800"
+    ]
+  },
+  {
+    "id": "651",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 22, Park Residences, Jalan Springhill 3/2, Bandar Springhill, 71000 Port Dickson, Negeri Sembilan",
+    "postcode": "71000",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 260000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "604 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=16kyFvYDbQv2yDrDZe4xlTBNbZ47TgLTL&sz=w800"
+    ]
+  },
+  {
+    "id": "652",
+    "title": "1 Storey Terrace House",
+    "address": "No. 319, Jalan Desa PD 2/5, Taman Desa PD 2, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 101250,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "653",
+    "title": "1 Storey Terrace House",
+    "address": "No. 475, Jalan Desa PD 8, Taman Desa PD, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 105300,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "655",
+    "title": "1 Storey Terrace House",
+    "address": "No. 48, Jalan Desa PD 2, Taman Desa PD, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 108000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "657",
+    "title": "1 Storey Terrace House",
+    "address": "No. 166 (PT. 3471), Jalan Desa PD 2/3, Taman Desa PD 2, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 98415,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "658",
+    "title": "2 Storey Terrace House",
+    "address": "No. 17, Jalan Cempaka 22, Taman Cempaka Fasa 2, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 250000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1O1AWFu_HmS2EfRSyeZlCA70Qsrml3yHl&sz=w800"
+    ]
+  },
+  {
+    "id": "660",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5796, Jalan Pinggiran Felda 13, Taman Pinggiran Felda, 73400 Gemas, Negeri Sembilan",
+    "postcode": "73400",
+    "state": "Negeri Sembilan",
+    "area": "Gemas",
+    "reservePrice": 80000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1oNXeoGsMIX9_jXyABaWt0Jg4Dbu9kUdN&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AsK1Um9-TbOlsR2PA9Ojq2t8ORz4WMtT&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "661",
+    "title": "1 Storey Terrace House",
+    "address": "PT 5539, Jalan Pinggiran Felda 2, Taman Pinggiran Felda, 73400 Gemas, Negeri Sembilan",
+    "postcode": "73400",
+    "state": "Negeri Sembilan",
+    "area": "Gemas",
+    "reservePrice": 94500,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1oNXeoGsMIX9_jXyABaWt0Jg4Dbu9kUdN&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AsK1Um9-TbOlsR2PA9Ojq2t8ORz4WMtT&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "663",
+    "title": "2 Storey Terrace House",
+    "address": "No. 4950, Kampung Paya, Batu 2, Jalan Seremban, 71000 Port Dickson, Negeri Sembilan",
+    "postcode": "71000",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 330000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1M-mUhGU2F7S9NRgLc3resWaqwC-KXFYs&sz=w800"
+    ]
+  },
+  {
+    "id": "664",
+    "title": "1 Storey Terrace House",
+    "address": "No. 98, Jalan Desa PD 2/2, Taman Desa PD 2, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 121500,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "339 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "670",
+    "title": "1 Storey Detached House with a Lower Ground Floor",
+    "address": "No. 854, Taman Nee Yan, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 567000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "403 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xZ06K3jgahAbNwRMGdvEJnWn85NLHwBx&sz=w800",
+      "https://drive.google.com/thumbnail?id=1U8lvw3brFJnVv38bzb5IF3aYXGLIpfBb&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800",
+      "https://drive.google.com/thumbnail?id=1Jmrdu7LTCdtRev7BHZSO0SnYhGWThii1&sz=w800",
+      "https://drive.google.com/thumbnail?id=1g0fnhLFNUebwh3etXsQPjzWTmIeGuL4K&sz=w800"
+    ]
+  },
+  {
+    "id": "671",
+    "title": "Apartment",
+    "address": "No. D-2-7, Block D, Rumah Pangsa Taman Semarak II, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 90000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1pwy_t-wqVncP8oO3d63boqBDgH52jaMn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ZMVpTUQnbtbHafXwaVVz_p47y3Aeo7-l&sz=w800",
+      "https://drive.google.com/thumbnail?id=19L2QFOlYwihDglXGqKHMb9XU4NHHOsw3&sz=w800"
+    ]
+  },
+  {
+    "id": "675",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1730, Jalan Tiara Sendayan 5/3, Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 364500,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "678",
+    "title": "Terrace House",
+    "address": "No. 3, Jalan PS 4/8, Taman Pinggiran Senawang, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 110000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "513 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=165SU-yOWbOlW6eylOmhnAZWcrJSRCne3&sz=w800"
+    ]
+  },
+  {
+    "id": "682",
+    "title": "1 Storey Terrace House",
+    "address": "PT 5779, Jalan Pinggiran Felda 12, Taman Pinggiran Felda, 73400 Gemas, Negeri Sembilan",
+    "postcode": "73400",
+    "state": "Negeri Sembilan",
+    "area": "Gemas",
+    "reservePrice": 90000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1oNXeoGsMIX9_jXyABaWt0Jg4Dbu9kUdN&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AsK1Um9-TbOlsR2PA9Ojq2t8ORz4WMtT&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "684",
+    "title": "2 Storey Terrace House",
+    "address": "No. 32, Jalan Surian 3, Taman Surian, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 432000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "100 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1FO9uEmaR-KJ1P2cOe0OHfgUIzd6G9aIA&sz=w800"
+    ]
+  },
+  {
+    "id": "685",
+    "title": "Apartment",
+    "address": "Unit No. B-09-01, Pangsapuri Kalista 2, Jalan S2 G3, Seksyen G, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 370000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jys-xVzfHL04UrXAVWHaWdCnnutx2edh&sz=w800"
+    ]
+  },
+  {
+    "id": "686",
+    "title": "Apartment",
+    "address": "Unit No. A-11-11, Pangsapuri Safira, Persiaran S2 E1, Seksyen E, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 216000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "872 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1-W9WPsEpzAreWZfbEln0hZief0bh-lZ8&sz=w800"
+    ]
+  },
+  {
+    "id": "688",
+    "title": "Apartment",
+    "address": "Unit No. 12-3A-14, Cempaka L, Garden Avenue, Jalan S2 G5, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 71280,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "624 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1CMhTo3uaK5p-XeGp_CUAMsjCE5czl1NZ&sz=w800"
+    ]
+  },
+  {
+    "id": "690",
+    "title": "2 Storey Terrace House",
+    "address": "No. 186, Jalan Tiara Sendayan 2/2, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 328050,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "780 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "692",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan BSS 1, Taman Bukit Sri Senawang, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 280000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1rlOeTVH4N5yCtZldCvB0qG4YK_hyRuIx&sz=w800"
+    ]
+  },
+  {
+    "id": "693",
+    "title": "2 Storey Terrace House",
+    "address": "No. 164, Jalan Bayu Sutera 1/6, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
+    "postcode": "71960",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 470000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "154 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1PnWeRa4cMSRnRlyAz9urHCDUqt4ZSl1Y&sz=w800"
+    ]
+  },
+  {
+    "id": "695",
+    "title": "[9 min to Pantai Tanjung Biru] Apartment [Close to Tanjung Tuan Recreational Forest]",
+    "address": "Unit No. D-5-36, PD Tiara Bay Apartment (Tiara Beach Resort), Batu 13 Jalan Pantai, 71250 Pasir Panjang, Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 28700,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "592 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=18Ia_r1ryFB19mCz5DKzn3JEug3LuX00-&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ukGrTZoQIqpeSkMMRXdey2y1WC5IqCpo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "698",
+    "title": "2 Storey Terrace House",
+    "address": "No. 356, Jalan Lazuli 14, Taman Lazuli 2, Off Jalan Labu, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 500000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "357 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1SqWO3gH0s75f1l9imlQyXXCrwm_T5dy4&sz=w800"
+    ]
+  },
+  {
+    "id": "700",
+    "title": "2 Storey Terrace House",
+    "address": "No. 752, Jalan Tiara Sendayan 14/10, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 405000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "934 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "702",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1773, Jalan Bayu Sutera 4/12, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
+    "postcode": "71960",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 570000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "280 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1PnWeRa4cMSRnRlyAz9urHCDUqt4ZSl1Y&sz=w800"
+    ]
+  },
+  {
+    "id": "706",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1173, Jalan Bukit Eka 3/11, Taman Bukit Eka, 71760 Seremban, Negeri Sembilan",
+    "postcode": "71760",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 400000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1RG1UshzAeG1mdcq4vvDy9nhBHaRc1FHn&sz=w800"
+    ]
+  },
+  {
+    "id": "709",
+    "title": "2 Storey Terrace House",
+    "address": "No. 144, Jalan Timur 2/4C, Timur @ Enstek, 71760 Bandar Enstek, Negeri Sembilan",
+    "postcode": "71760",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Enstek",
+    "reservePrice": 594000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "551 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wDxDtIsPl8sO0EiqkKTzqwTubHokSSV-&sz=w800"
+    ]
+  },
+  {
+    "id": "711",
+    "title": "1 Storey Terrace House",
+    "address": "No. 188, Jalan Perdana 6, Taman Bukit Perdana, Batu 9, Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 360000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "176 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1vyg9RPxZU0uP97EWTF8EnhBfsX4sVlwk&sz=w800"
+    ]
+  },
+  {
+    "id": "712",
+    "title": "1 Storey Terrace House",
+    "address": "No. 47, Jalan Sri Inai 1, Taman Sri Inai, Sikamat, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 280000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "507 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Av1s3wJT2aUuG8FKNPggoO3Q8fJ5IvOx&sz=w800"
+    ]
+  },
+  {
+    "id": "713",
+    "title": "[Located in the heart of the Nilai 3 Wholesale Centre] Retail Stall [Major commercial hub in Negeri Sembilan known for textiles, home decor & wedding supplies]",
+    "address": "Unit No. D-42, Pasar Rakyat Nilai 3, Jalan Nilai 3/4, Nilai 3, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 18000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "151 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1qLKmLrbTjnptppxoasR4ujz4FdW1RQjG&sz=w800"
+    ]
+  },
+  {
+    "id": "714",
+    "title": "2 Storey Detached House",
+    "address": "No. 1, Jalan RK 3/3, Rasah Kemayan, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 1700000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "938 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1tF5qr0lfBePPAIwqzKX-l6u23D6HCDa9&sz=w800"
+    ]
+  },
+  {
+    "id": "715",
+    "title": "2 Storey Terrace House",
+    "address": "No. 133, Jalan Anggerik 4, Laman Anggerik, Nilai Impian, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 396900,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JBWU8VbEi1VTS-TTCKO2JmPCvpU6ScmZ&sz=w800"
+    ]
+  },
+  {
+    "id": "716",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Tiara Sendayan 1/1, Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 396900,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "719",
+    "title": "1 Storey Terrace House",
+    "address": "No. 135, Jalan Mutiara 6, Taman Mutiara, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 250000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "593 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1lP0aify-cCYClcx-SmTfWETnNQuvd8Zp&sz=w800"
+    ]
+  },
+  {
+    "id": "720",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2201, Lorong Awana Indah 8, Taman Awana Indah, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 180000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Vt4NuWJm52micSRCFEqqcr8Nh5sILZYW&sz=w800"
+    ]
+  },
+  {
+    "id": "722",
+    "title": "2 Storey Terrace House",
+    "address": "No. 44, Jalan Seri Rahang 2, Taman Seri Rahang, 70100 Seremban, Negeri Sembilan",
+    "postcode": "70100",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 400000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wLNCHPIqSnJvrevmtZGcwOf2Lb0rGxFo&sz=w800"
+    ]
+  },
+  {
+    "id": "723",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2548, Jalan TD 3, Taman Delima, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 160000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ixm7XmGwi3qnmlvq4epSBXkMm7fn0XZ0&sz=w800"
+    ]
+  },
+  {
+    "id": "724",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1810, Taman Jaya Lukut, 71010 Lukut, Negeri Sembilan",
+    "postcode": "71010",
+    "state": "Negeri Sembilan",
+    "area": "Lukut",
+    "reservePrice": 90000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1NeLtckicgczFnoUcVzhGaarnF1HMVuJY&sz=w800"
+    ]
+  },
+  {
+    "id": "725",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1821, Taman Ujong, Jalan Tok Ungku, 70100 Seremban, Negeri Sembilan",
+    "postcode": "70100",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 430000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "760 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1YBc-poYIgt1_1m-OKRNkW3FkMO-g2bDC&sz=w800"
+    ]
+  },
+  {
+    "id": "726",
+    "title": "1 Storey Terrace House",
+    "address": "No. 205, Jalan Sri Mawar 8, Taman Sri Mawar, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 148500,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "100 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Io5SXJgfQUCTSioG-bh8k-0qbBW-P5-j&sz=w800"
+    ]
+  },
+  {
+    "id": "727",
+    "title": "1 Storey Terrace House",
+    "address": "No. 217, Jalan TME 8, Taman Mawar Ehsan, 71400 Pedas, Negeri Sembilan",
+    "postcode": "71400",
+    "state": "Negeri Sembilan",
+    "area": "Pedas",
+    "reservePrice": 290000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1TCoVfuJeZ45cCzF88aiVt8YMEmtw5_KC&sz=w800"
+    ]
+  },
+  {
+    "id": "728",
+    "title": "2 Storey Terrace House",
+    "address": "No. 5619, Taman Pantai Mas, 71000 Port Dickson, Negeri Sembilan",
+    "postcode": "71000",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 200000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Eo0eDThWm455tdput8kWN2tLvWQ6JCJR&sz=w800"
+    ]
+  },
+  {
+    "id": "729",
+    "title": "1 Storey Terrace House",
+    "address": "No. 140, Jalan Nilai Perdana 1, Taman Nilai Perdana, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 290000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1c-tAh2LrPaf2jiNCDH-6rApHqhyPKnmy&sz=w800"
+    ]
+  },
+  {
+    "id": "730",
+    "title": "1 Storey Terrace House",
+    "address": "No. 4352, Jalan Taman Semarak 1/6, Taman Semarak, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 265000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1XvSS23Er8bPpi2KP-cWUG6fRxtgakFfl&sz=w800"
+    ]
+  },
+  {
+    "id": "731",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1176, Jalan Warisan Puteri A 44/1, Taman Warisan Puteri, Precint 4, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 400000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1CcPviM-p60YXX58r0Ad00eZscpzHhD-3&sz=w800",
+      "https://drive.google.com/thumbnail?id=1xR0L_ZE6L585mRz_yi6tskteVFZS23-G&sz=w800",
+      "https://drive.google.com/thumbnail?id=1IAV3EAmcpEtXLuA6REFkC3uSw4brHWbb&sz=w800",
+      "https://drive.google.com/thumbnail?id=1x1Rz-khCAa22mWgaKlFL2zDr_1JMmbhb&sz=w800",
+      "https://drive.google.com/thumbnail?id=1A6QK4xT9Ov6ppUHlRqbu9w3ErlTuEW7W&sz=w800"
+    ]
+  },
+  {
+    "id": "732",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 43, Jalan Bukit Kemayan 2, Taman Bukit Kemayan, 70300, Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 950000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "389 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=11bBXiOB8WAe15kF1BCRXQSV6J-rb8xPR&sz=w800",
+      "https://drive.google.com/thumbnail?id=1xA8GOTDiSOtM-vsR3LpVCrOVZbpssnqn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "733",
+    "title": "2 Storey Terrace House",
+    "address": "No. 701, Jalan Tiara Sendayan 2/9, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 378000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "453 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "734",
+    "title": "Ocean View Resort Apartment",
+    "address": "Unit No. C1-3-3, Ocean View Resort, Batu 9, Jalan Pantai, Teluk Kemang, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 46800,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1iAOA_gRqpqabwMskTTnS2YILdTv5pC9R&sz=w800"
+    ]
+  },
+  {
+    "id": "735",
+    "title": "Retail Lot",
+    "address": "Unit No. 98 (Lot 1-104), Kiara Square, Jalan Kiara 2/2, Pusat Perniagaan Kiara, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 81450,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "403 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=10nfakAoY_4x2qVinKy0mbP5izlls5Bnf&sz=w800"
+    ]
+  },
+  {
+    "id": "741",
+    "title": "2 Storey Detached House",
+    "address": "No. 45, Jalan Bukit Senawang Perdana 4, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 820000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "693 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
+    ]
+  },
+  {
+    "id": "745",
+    "title": "Terrace House",
+    "address": "No. 23/G, Jalan Enclave G, Persada Damai, 71760 Bandar Baru Enstek, Negeri Sembilan",
+    "postcode": "71760",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Baru Enstek",
+    "reservePrice": 360000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "252 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1qwb0bJz10Aj2htJ7oCMpFgC3F054RNoj&sz=w800"
+    ]
+  },
+  {
+    "id": "746",
+    "title": "2 Storey Terrace Shop Office",
+    "address": "No. 23 & 23A, Jalan DS 2/2, Dataran Satria 2, 73400 Gemas, Negeri Sembilan",
+    "postcode": "73400",
+    "state": "Negeri Sembilan",
+    "area": "Gemas",
+    "reservePrice": 346500,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1h8uAQ3E3riPGMLwSj8YMlLAt-v9arOHp&sz=w800"
+    ]
+  },
+  {
+    "id": "747",
+    "title": "1 Storey Terrace House",
+    "address": "No. 420, Jalan Desa PD 7, Taman Desa PD, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 97200,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "750",
+    "title": "Condominium",
+    "address": "Unit No. M608, Block M, PD Perdana Condo Resort, Batu 5 1/2, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
+    "postcode": "71000",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 68040,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ZyvyDEIXOeZGf86JkhgoJ2Sm6VKP0KfL&sz=w800"
+    ]
+  },
+  {
+    "id": "751",
+    "title": "1 Storey Cluster House",
+    "address": "No. 31, Jalan Nibong 1, Taman Bukit Nibong, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 340200,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "580 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1FzoVQz5AFaNGDKHgyQGJp-_W_QtTxWni&sz=w800"
+    ]
+  },
+  {
+    "id": "752",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1878, Lorong Nusari Bayu 7C, Nusari Bayu 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 405000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cd_oDk8iwGEiqMtRq10U8oyu9_sPqkMn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1nzJINhpiK5PIK-Wke6s_0GhFPQkYJNPz&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "753",
+    "title": "Terrace House",
+    "address": "Jalan BBN 6/2G, Desa Cempaka, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 550000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nDp77_y5oLMPP99tuotzyhzkWmanbIw7&sz=w800"
+    ]
+  },
+  {
+    "id": "754",
+    "title": "1 Storey Terrace House",
+    "address": "No. 14, Jalan PS 5/7, Taman Pinggiran Senawang, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 270000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=165SU-yOWbOlW6eylOmhnAZWcrJSRCne3&sz=w800"
+    ]
+  },
+  {
+    "id": "757",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2281, Taman Orkid, 73200 Gemencheh, Negeri Sembilan",
+    "postcode": "73200",
+    "state": "Negeri Sembilan",
+    "area": "Gemencheh",
+    "reservePrice": 225000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Crmo647AwGv11vjvCpfjSofU_BlRQplu&sz=w800"
+    ]
+  },
+  {
+    "id": "758",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1052, Jalan Gunung Datok 27, Taman Angsamas, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 280000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13M1ScNyAunrXNn-r1zsjCYWVMsf7o0NO&sz=w800"
+    ]
+  },
+  {
+    "id": "759",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Jalan Linggi Jaya 1, Taman Linggi Jaya, Kampung Permatang Pasir, 71150 Port Dickson, Negeri Sembilan",
+    "postcode": "71150",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 200000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ufXGa_yvCyO8UbSnEoNtiXXq8uK6J003&sz=w800"
+    ]
+  },
+  {
+    "id": "760",
+    "title": "1 Storey Terrace House",
+    "address": "No. 896, Jalan Gunung Datok 19, Taman Angsamas Mambau, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 290000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13M1ScNyAunrXNn-r1zsjCYWVMsf7o0NO&sz=w800"
+    ]
+  },
+  {
+    "id": "761",
+    "title": "Shop Lot",
+    "address": "Unit No. F-06, Terminal One Shopping Centre, Jalan Lintang, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 58500,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "517 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19JH9AoMLg87aTgJ_MRHX7ubZXyLtBBY_&sz=w800"
+    ]
+  },
+  {
+    "id": "762",
+    "title": "Shop Lot",
+    "address": "No. F-08, Terminal One Shopping Centre, Jalan Lintang, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 58500,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "517 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19JH9AoMLg87aTgJ_MRHX7ubZXyLtBBY_&sz=w800"
+    ]
+  },
+  {
+    "id": "763",
+    "title": "Shop Lot",
+    "address": "No. F-22, Terminal One Shopping Centre, Jalan Lintang, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 40500,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "344 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19JH9AoMLg87aTgJ_MRHX7ubZXyLtBBY_&sz=w800"
+    ]
+  },
+  {
+    "id": "764",
+    "title": "2 Storey Terrace House",
+    "address": "No. 44, Jalan PS 5/6, Taman Pinggiran Senawang, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 300000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=165SU-yOWbOlW6eylOmhnAZWcrJSRCne3&sz=w800"
+    ]
+  },
+  {
+    "id": "765",
+    "title": "1 Storey Terrace House",
+    "address": "PT. 5274, Jalan Desa Puteri 13 (Jalan Puteri 13), Taman Desa Puteri, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 234900,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1tcOtChOQOvyWJeHh3BdebnbKjH7DKDun&sz=w800",
+      "https://drive.google.com/thumbnail?id=1VBG8stbNv-BIiUKyX137dZVc7fIgMYc-&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "766",
+    "title": "2 Storey Terrace House",
+    "address": "No. 65, Jalan Anggerik 3, Laman Anggerik, Nilai Impian, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 392850,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "813 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JBWU8VbEi1VTS-TTCKO2JmPCvpU6ScmZ&sz=w800"
+    ]
+  },
+  {
+    "id": "767",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 78, Jalan Laman Bakawali E/2, Laman Bakawali, Kota Seriemas, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 585000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "004 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ArWjVwEhxeLZmWj7TDUapJRQMNh3KrfX&sz=w800"
+    ]
+  },
+  {
+    "id": "769",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2002, Jalan Warisan Puteri A69, Precint 6, Taman Warisan Puteri, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 382500,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1CcPviM-p60YXX58r0Ad00eZscpzHhD-3&sz=w800",
+      "https://drive.google.com/thumbnail?id=1xR0L_ZE6L585mRz_yi6tskteVFZS23-G&sz=w800",
+      "https://drive.google.com/thumbnail?id=1IAV3EAmcpEtXLuA6REFkC3uSw4brHWbb&sz=w800",
+      "https://drive.google.com/thumbnail?id=1x1Rz-khCAa22mWgaKlFL2zDr_1JMmbhb&sz=w800",
+      "https://drive.google.com/thumbnail?id=1A6QK4xT9Ov6ppUHlRqbu9w3ErlTuEW7W&sz=w800"
+    ]
+  },
+  {
+    "id": "770",
+    "title": "1 Storey Terrace House",
+    "address": "No. 150, Lorong TM 4/2, Taman Merpati, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 270000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=16P2JfadmK7y9q2cagTk6YgpT2kz2uYC-&sz=w800"
+    ]
+  },
+  {
+    "id": "772",
+    "title": "2 Storey Terrace House",
+    "address": "No. 283, Jalan Azalea 4/4, Nilai Utama, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 900000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1c8r6fYYFKyULZNYsroeuGLZhFg6oDr08&sz=w800"
+    ]
+  },
+  {
+    "id": "774",
+    "title": "Adjoining parcels of Residential Land upon with a 1 Storey Detached House",
+    "address": "No. 47-C & 47-B, Taman Bukit Tembok, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 315000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "328 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Be1F12DmJXoiIfQq52z_6GiHBFHhw7kN&sz=w800"
+    ]
+  },
+  {
+    "id": "775",
+    "title": "2 Storey Terrace House",
+    "address": "No. 239, Jalan Laman Bakawali B/8, Laman Bakawali, Kota Seriemas, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 415000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ArWjVwEhxeLZmWj7TDUapJRQMNh3KrfX&sz=w800"
+    ]
+  },
+  {
+    "id": "777",
+    "title": "Apartment",
+    "address": "Unit No. A-30-20, PD Tiara Bay Apartment, 71250 Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 44550,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "420 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=18Ia_r1ryFB19mCz5DKzn3JEug3LuX00-&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ukGrTZoQIqpeSkMMRXdey2y1WC5IqCpo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "778",
+    "title": "2 Storey Terrace House",
+    "address": "No. 28, Jalan D'Areca 2, Taman Bandar Senawang, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 313470,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "528 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1SB-5MnFt-5avpsBuplnJiHDvBexR4gnO&sz=w800"
+    ]
+  },
+  {
+    "id": "779",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2089, Jalan Tiara Sendayan 6/3, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 414000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "086 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "780",
+    "title": "1 Storey Semi Detached House",
+    "address": "Jalan Bukit Senawang Perdana 41, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 468000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "155 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
+    ]
+  },
+  {
+    "id": "782",
+    "title": "Apartment",
+    "address": "Paradise Lagoon, Batu 2, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
+    "postcode": "71000",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 135000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1fwLQ4vytFew-0Pu6KP553QSb1fbglhPh&sz=w800"
+    ]
+  },
+  {
+    "id": "783",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 286, Jalan Saujana Sutera 11, Saujana Sutera, Seremban 2 Heights, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 1000000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "324 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1W0VHRZZQ0ytvLojoAEFhStN5lxfHu4Dv&sz=w800"
+    ]
+  },
+  {
+    "id": "784",
+    "title": "Apartment",
+    "address": "Unit No. LP3-12-21, Block LP3, Laman Komersil Areca, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 153000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "398 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1RyWuyfsSj0LeQmlTXhH5D4GIXEn8Jzql&sz=w800"
+    ]
+  },
+  {
+    "id": "788",
+    "title": "Terrace House",
+    "address": "Jalan Bayu Sutera 4/16, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
+    "postcode": "71960",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 640000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1PnWeRa4cMSRnRlyAz9urHCDUqt4ZSl1Y&sz=w800"
+    ]
+  },
+  {
+    "id": "789",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan BBN 6/1J, Desa Cempaka, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 251100,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "764 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nDp77_y5oLMPP99tuotzyhzkWmanbIw7&sz=w800"
+    ]
+  },
+  {
+    "id": "792",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Bukit Senawang Perdana 48, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 387000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
+    ]
+  },
+  {
+    "id": "793",
+    "title": "Terrace House",
+    "address": "Jalan Desa Rusa 1, Taman Desa Rusa, KM5, Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 220000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=11nFNjEMHpNKPOATFmPovAQlnM-Xr8tCr&sz=w800"
+    ]
+  },
+  {
+    "id": "795",
+    "title": "Retail Unit",
+    "address": "Unit No. G-38, Ground Floor, Terminal One Shopping Centre, No. 20B, Jalan Lintang, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 225000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "431 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19JH9AoMLg87aTgJ_MRHX7ubZXyLtBBY_&sz=w800"
+    ]
+  },
+  {
+    "id": "798",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Gunung Datok 31, Taman Angsamas, Mambau, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 170100,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13M1ScNyAunrXNn-r1zsjCYWVMsf7o0NO&sz=w800"
+    ]
+  },
+  {
+    "id": "804",
+    "title": "2 Storey Bungalow",
+    "address": "No. 572, Jalan Bukit Senawang Perdana 22, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 675000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "823 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1owzwKvwzLNvAEFNSHril1YcvaCsuz6ml&sz=w800",
+      "https://drive.google.com/thumbnail?id=1Cuk-QId0ZyR5EfUYigCAdPnnKuxYEq5A&sz=w800"
+    ]
   }
 ];
 
