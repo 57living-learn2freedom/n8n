@@ -636,6 +636,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "38",
+    "title": "Service Apartment",
+    "address": "Unit No. E-15-13, Pacific Place @ Ara Damansara, Jalan PJU 1A/4, Ara Damansara, 47301 Petaling Jaya, Selangor",
+    "postcode": "47301",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 310000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "906 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "39",
     "title": "SOHO",
     "address": "Unit No. B-12-12, 12th Floor, Block B, Kiara Plaza, Jalan Semenyih, 43500 Semenyih, Selangor",
@@ -650,6 +667,57 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1M-Qg5BJ52E_--kKxvXKUFFpFDeFQsB1Q&sz=w800"
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Apartment",
+    "address": "Unit No. B-5-5, Block B, Bayu Villa Apartment, Jalan Batu Unjur 10, Taman Bayu Perdana, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 215000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "926 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Small Office Home Office (SOHO)",
+    "address": "Unit No. A-09-38, Block A, Residensi Rimbun, Jalan Zamrud Utama, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 169200,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "452 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Shop Unit",
+    "address": "Unit No. J-02-02, Block J, Pacific Place Commercial Centre, Jalan PJU 1A/4, Ara Damansara, 47301 Petaling Jaya, Selangor",
+    "postcode": "47301",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 640000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "874 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -719,6 +787,23 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1WzZPUttd1wfGFtzXa0GOCsDEtl4bqKsQ&sz=w800"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Apartment",
+    "address": "Unit No. 317, Block C, Jalan PS 1/1, Taman Prima Selayang, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 84000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "600 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -1164,6 +1249,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "74",
+    "title": "2 Storey Detached House",
+    "address": "No. 55, Jalan Desa 3/8, Bandar Country Homes, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 790000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "154 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "75",
     "title": "1 Storey Terrace House",
     "address": "No. 32, Jalan BSE 4/15, Bandar Seri Ehsan, 42700 Banting, Selangor",
@@ -1300,6 +1402,74 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "83",
+    "title": "Service Apartment",
+    "address": "Unit No. A-15-5, Block A, O2 Residensi Lot 8, Jalan Puchong South 1, Bandar Puchong South, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 252000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "281 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "84",
+    "title": "Apartment",
+    "address": "Unit No. A-3A-08, Level 3A, Block A, Casa Embun, Jalan CE 1, 43800 Dengkil, Selangor",
+    "postcode": "43800",
+    "state": "Selangor",
+    "area": "Dengkil",
+    "reservePrice": 260000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "990 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "85",
+    "title": "Apartment",
+    "address": "Unit No. B-G-05, Ground Floor, Block B, Jalan Sabha Impian 3, Taman Sabha Impian, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 248000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "901 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "86",
+    "title": "Condominium",
+    "address": "Unit No. B-07-03, Residensi Opal, Jalan Mutiara 2, Mutiara Heights, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 400000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "87",
     "title": "Office Unit",
     "address": "Unit No. C-01-07, Block C, Sfera Residensi, Jalan Atmosphere Utama 1, Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
@@ -1334,6 +1504,57 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1Fx0ConyozHp-gmm8YAz2yJRGiJEBUzVO&sz=w800",
       "https://drive.google.com/thumbnail?id=1aDv--6Nn1zetM24n_hhRcBHxPIym15p_&sz=w800",
       "https://drive.google.com/thumbnail?id=1_CaXiRHgT8Zz9IfDv3gy8jwej3Z2uCDY&sz=w800"
+    ]
+  },
+  {
+    "id": "89",
+    "title": "Condominium",
+    "address": "Unit No. C-03-02, Block C (Carallia), Residensi Bayu 1 (Brezza One Residency), Jalan Bayu Utama, Bukit Ampang Permai, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 400000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "073 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "90",
+    "title": "2 Storey Terrace House",
+    "address": "No. 4, Jalan Teratai 3/1, Taman Saujana Utama 3, 47000 Sungai Buloh, Selangor",
+    "postcode": "47000",
+    "state": "Selangor",
+    "area": "Sungai Buloh",
+    "reservePrice": 480000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "574 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "91",
+    "title": "Town House",
+    "address": "No. 17-1, Jalan Seraya 2, Seraya Greenwoods @ Salak Perdana, Taman Salak Perdana, Bandar Salak Perdana, 43900 Sepang, Selangor",
+    "postcode": "43900",
+    "state": "Selangor",
+    "area": "Sepang",
+    "reservePrice": 380000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "292 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -1422,6 +1643,57 @@ export const PROPERTIES: Property[] = [
     "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1DzTvH7uDi99Q0vQrqaO2ov42sbmucEKp&sz=w800"
+    ]
+  },
+  {
+    "id": "97",
+    "title": "Service Apartment",
+    "address": "Unit No. 30-09, 30th Floor, Benteng 8 (Skyville 8), Jalan Klang Lama, 58000, Kuala Lumpur",
+    "postcode": "58000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 432000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "108 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "98",
+    "title": "Small Office Home Office (SOHO)",
+    "address": "Unit No. A-17-02, 17th Floor, Block A, Menara Perniagaan Manjalara, Jalan Manjalara Idaman 6 (Jalan 11/62A), Bandar Sri Manjalara, 52200, Kuala Lumpur",
+    "postcode": "52200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 335000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "474 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "99",
+    "title": "Service Apartment",
+    "address": "Unit No. B-12-9, 12th Floor, Block B, The Elements @ Ampang, Off Jalan Ampang, 55000, Kuala Lumpur",
+    "postcode": "55000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 430000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -1543,6 +1815,23 @@ export const PROPERTIES: Property[] = [
     "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=13sSdhTlvXo0dZz4oh2xhl8-awNPAtthX&sz=w800"
+    ]
+  },
+  {
+    "id": "107",
+    "title": "Apartment",
+    "address": "Unit No. 34-02-07, Block 34, Rumah Pangsa Sri Indah, Persiaran Lestari Perdana, Taman Lestari Perdana, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 100000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -1991,6 +2280,159 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "134",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 22, Jalan Pesona 25/116B, Pesona Kemuning, Seksyen 25, 40400 Shah Alam, Selangor",
+    "postcode": "40400",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 567000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "135",
+    "title": "2 Storey Terrace House",
+    "address": "Premises No. 19, Jalan Prima 1/2, Taman Puchong Prima, 47150 Puchong, Selangor",
+    "postcode": "47150",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 510000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "136",
+    "title": "Service Apartment",
+    "address": "Unit No. 3-3-5, Block 3, Amaya Saujana, Bandar Saujana, Persiaran Golf, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 688500,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "744 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "137",
+    "title": "2 Storey Terrace House",
+    "address": "No. 14, Jalan SG 10/10, Taman Sri Gombak, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 387000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "770 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "138",
+    "title": "1 Storey Detached House",
+    "address": "No. 3, Jalan 12/10A, Seksyen 12, 46200 Petaling Jaya, Selangor",
+    "postcode": "46200",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 1782000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "580 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "139",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 23, Jalan Angsana 9/KS6, Bandar Botanik, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 1440000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "972 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "140",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 1, Jalan Aman Perdana 7N/KU5, Taman Aman Perdana, 41050 Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 1150000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "150 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "141",
+    "title": "Apartment",
+    "address": "Unit No. 8-2B, 2nd Floor, Jalan Hentian 1C, Pusat Hentian Kajang, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 97000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "775 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "142",
+    "title": "Apartment",
+    "address": "Unit No. B-04-06, Block B, Pangsapuri Seri Meranti, Jalan PH4, Taman Puchong Hartamas, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 240000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "143",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Jalan Irama 1, Irama Perdana, LBS Alam Perdana, 42300 Bandar Puncak Alam, Selangor",
@@ -2005,6 +2447,23 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1m5iJV2IV_s1lgykwg-Xc0aA5gq37yTRk&sz=w800"
+    ]
+  },
+  {
+    "id": "144",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Jalan Dendang 64, Taman Telok, 42500 Telok Panglima Garang, Selangor",
+    "postcode": "42500",
+    "state": "Selangor",
+    "area": "Telok Panglima Garang",
+    "reservePrice": 360000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -2042,6 +2501,125 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "147",
+    "title": "2 Storey Terrace House",
+    "address": "No. 26, Lorong Batu Nilam 11, Bandar Bukit Tinggi 1, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 650000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "148",
+    "title": "Service Apartment",
+    "address": "Block R2, Setiawalk, Persiaran Wawasan Pusat Bandar Puchong, 47610 Puchong, Selangor",
+    "postcode": "47610",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 450000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "141 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "149",
+    "title": "Service Apartment",
+    "address": "Unit No. 15-16, Pangsapuri Akasia Residensi, Jalan Kenanga 1/8, Taman Salak Perdana, Bnadar Baru Salak Tinggi, 43900 Sepang, Selangor",
+    "postcode": "43900",
+    "state": "Selangor",
+    "area": "Sepang",
+    "reservePrice": 315000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "150",
+    "title": "Apartment",
+    "address": "Unit No. B3-7-4, Block 3, Jalan PJS 5/12, Desa Mentari, 46000 Petaling Jaya, Selangor",
+    "postcode": "46000",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 160000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "151",
+    "title": "Duplex Small Office Home Office (SOHO)",
+    "address": "Unit No. B-17-10, Tower B, Kompleks Evo (Evo SOHO Suites), Jalan Pusat Bandar 2, 43650 Bandar Baru Bangi, Selangor",
+    "postcode": "43650",
+    "state": "Selangor",
+    "area": "Bandar Baru Bangi",
+    "reservePrice": 430000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "152",
+    "title": "Service Apartment",
+    "address": "Unit No. A-01-13A, 1st Floor, Block A, Zeva Residence, Persiaran Pinggiran Putra, Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 262800,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "872 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "153",
+    "title": "Service Apartment",
+    "address": "Unit No. A-33A-13A, Block A, D'Clover Residences, Dataran Sentral Damansara, No. 3, Jalan PJU 8/8B, Sentral Damansara, PJU 8, 47820 Petaling Jaya, Selangor",
+    "postcode": "47820",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 540000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "154",
     "title": "Service Apartment",
     "address": "Unit No. RS-38-03, Residential Suites Sunsuria Forum, Jalan Setia Dagang AL U13/AL, Seksyen U13, Setia Alam, 40170 Shah Alam, Selangor",
@@ -2057,6 +2635,40 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1DGkvEzB7Ojc89F7OnObUmWNlYQcjUNNu&sz=w800",
       "https://drive.google.com/thumbnail?id=1EUM3-5Cpn_Q8uILhe9U0dd6VwAe4eKMC&sz=w800"
+    ]
+  },
+  {
+    "id": "155",
+    "title": "Service Apartment",
+    "address": "Unit No. B-13A-11, Block B, Casa Embun, Jalan CE 1, Cybersouth, 43800 Dengkil, Selangor",
+    "postcode": "43800",
+    "state": "Selangor",
+    "area": "Dengkil",
+    "reservePrice": 300000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "990 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "156",
+    "title": "Apartment",
+    "address": "Unit No. F0-13, On Site Block F, Apartment Setia Rawang, Jalan Setia Rawang 8, Taman Setia Rawang, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 130000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "750 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -2716,6 +3328,262 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "195",
+    "title": "Apartment",
+    "address": "Unit No. B-13A-15, Tower B, Residensi Metro Kepong, No. 5, Persiaran Metro Perdana, Taman Metropolitan Kepong, 52100, Kuala Lumpur",
+    "postcode": "52100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 200000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "196",
+    "title": "1 Storey Terrace House",
+    "address": "No. 4, Jalan Tenggiri, Off Jalan Gelama, 42000 Pelabuhan Klang, Selangor",
+    "postcode": "42000",
+    "state": "Selangor",
+    "area": "Pelabuhan Klang",
+    "reservePrice": 356400,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "599 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "197",
+    "title": "1 Storey Terrace House",
+    "address": "No. 12, Jalan Tanjung Agas 30/233, Seksyen 30, 40460 Shah Alam, Selangor",
+    "postcode": "40460",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 340200,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "281 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "198",
+    "title": "Flat",
+    "address": "Unit No. 8-4-8, Block Seri Sementa 8, Taman Seri Sementa, Batu 7, Jalan Kapar, Kapar, 42200 Klang, Selangor",
+    "postcode": "42200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 100000,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "199",
+    "title": "2 Storey Terrace House",
+    "address": "No. 10, Lorong Tepi Sungai 5, 41100 Klang, Selangor",
+    "postcode": "41100",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 608000,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "648 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "200",
+    "title": "1 Storey Terrace House",
+    "address": "No. 86, Jalan Pandamaran Jaya 15, 42000 Pelabuhan Klang, Selangor",
+    "postcode": "42000",
+    "state": "Selangor",
+    "area": "Pelabuhan Klang",
+    "reservePrice": 330000,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "602 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "201",
+    "title": "[6 min to Damansara Specialist Hospital 2] Apartment [10 min to Mutiara Damansara MRT Station]",
+    "address": "Unit No. F-06-22A, 6th Floor, Block F, Flora Damansara, No. 1, Jalan PJU 8/9, Bandar Damansara Perdana, 47820 Petaling Jaya, Selangor",
+    "postcode": "47820",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 131220,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "080 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JyxHzrc2fvS5Ns_80SyuDZ3fnFI97lh-&sz=w800",
+      "https://drive.google.com/thumbnail?id=1mBbad4vSZ_ktjrntFNFO8P9KOW6OGCuA&sz=w800"
+    ]
+  },
+  {
+    "id": "202",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 2A, Lorong Sungai Keramat 34B/KU6, Taman Klang Utama, 42100 Klang, Selangor",
+    "postcode": "42100",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 584820,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "942 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "203",
+    "title": "1 Storey Terrace House",
+    "address": "No. 50, Jalan Lombong Timah 29/9, Kampung Lombong, Seksyen 29, 40460 Shah Alam, Selangor",
+    "postcode": "40460",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 279000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "545 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "204",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan 19/6 (also known as Jalan Batas 19/6), Seksyen 19, 40300 Shah Alam, Selangor",
+    "postcode": "40300",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 270000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "205",
+    "title": "3 Storey Detached House",
+    "address": "No. 42A, Jalan KE 3/3, Kota Emerald (Fasa 2A2B), 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 2114100,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "322 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "206",
+    "title": "1 Storey Terrace House",
+    "address": "No. 21, Lorong Dato Abdul Hamid 18A, Taman Sentosa, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 360000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "299 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "207",
+    "title": "2 Storey Terrace House",
+    "address": "No. 14, Jalan Indah 1/24, Taman Universiti Indah, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 315000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "208",
+    "title": "Apartment",
+    "address": "Unit No. 1-8, Blok C, Jalan Gemilang 4, Taman Gemilang, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 234000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "861 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "209",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Jalan SP 3/18, Bandar Saujana Putra, 42610 Jenjarom, Selangor",
+    "postcode": "42610",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 1000000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "154 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "210",
     "title": "Apartment",
     "address": "Unit No. D-13-01, Block D (Dahlia), Pelangi Damansara, PJU 6, Persiaran Surian, 47800 Petaling Jaya, Selangor",
@@ -2730,6 +3598,57 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1xC6XuDL9sCh2o8ca095tstVTEDN97q52&sz=w800"
+    ]
+  },
+  {
+    "id": "211",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Hamzah Alang 76B/KU9, Taman Intan, 42200 Kapar, Selangor",
+    "postcode": "42200",
+    "state": "Selangor",
+    "area": "Kapar",
+    "reservePrice": 350000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "340 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "212",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan BK 7B/5, Bandar Kinrara, 47180 Puchong, Selangor",
+    "postcode": "47180",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 1350000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "163 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "213",
+    "title": "Flat",
+    "address": "Unit No. A-08-04, Block A, Taman Medan Cahaya, No. 49, Jalan PJS 2C/2, 46000 Petaling Jaya, Selangor",
+    "postcode": "46000",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 170000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "667 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -2750,6 +3669,193 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "215",
+    "title": "Office Lot",
+    "address": "Unit No. L3-3-19C, Pelangi Promenade, Jalan Pekan Baru 36, 41050 Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 140000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "216",
+    "title": "Office Lot",
+    "address": "Unit No. L3-3-19D, Pelangi Promenade, Jalan Pekan Baru 36, 41050 Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 125000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "689 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "217",
+    "title": "Service Apartment",
+    "address": "Unit No. B1-35-01, Kenwingston Residence, Kenwingston Square Garden, Persiaran Bestari, Cyber 9, 63000 Cyberjaya, Selangor",
+    "postcode": "63000",
+    "state": "Selangor",
+    "area": "Cyberjaya",
+    "reservePrice": 360000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "218",
+    "title": "Retail Lot",
+    "address": "Unit No. 3-5, Menara Infiniti, No. 28, Jalan SS 6/3, Kelana Jaya, 47301 Petaling Jaya, Selangor",
+    "postcode": "47301",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 360000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "474 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "219",
+    "title": "Apartment",
+    "address": "Unit No. D2-03-03A, Blok D, Hata Square, Pandan Mewah, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 250000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "220",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 13, Jalan Setia Nusantara U13/22U, Seksyen U13, 40170 Shah Alam, Selangor",
+    "postcode": "40170",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 1895400,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "478 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "221",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 7, Jalan 3/10, Taman Seri Jaromas, 42600 Jenjarom, Selangor",
+    "postcode": "42600",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 760000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "870 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "222",
+    "title": "2.5 Storey Terrace House",
+    "address": "Jalan PP 2/12, Taman Putra Prima, 47130 Puchong, Selangor",
+    "postcode": "47130",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 1050000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "223",
+    "title": "Akasia Apartment",
+    "address": "Unit No. 7A-02-01, Block A, Akasia Apartment, Jalan Wawasan 2/3, Pusat Bandar Puchong, 47160 Puchong, Selangor",
+    "postcode": "47160",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 194868,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "224",
+    "title": "3 Storey Terrace Shop Office",
+    "address": "No. 69, Jalan SS 6/10, Kelana Jaya, 47301 Petaling Jaya, Selangor",
+    "postcode": "47301",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 1890000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "002 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "225",
+    "title": "Apartment",
+    "address": "Unit No. C-6-07, Pangsapuri Puchong Permata, Jalan Permai 4, Taman Puchong Permai, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 150579,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "226",
     "title": "2 Storey Terrace House",
     "address": "No. 33, Jalan Setia Impian U13/3P, Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor",
@@ -2764,6 +3870,125 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1ig-8AR_j3ForPwqPBunUUvdFwXk9trgM&sz=w800"
+    ]
+  },
+  {
+    "id": "227",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 107, Jalan TPP 2/1, Taman Pinggiran Pelangi, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 306000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "335 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "228",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Jalan Awana 1 (Satu), Taman Cheras Awana, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 450000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "229",
+    "title": "Apartment",
+    "address": "Unit No. C501, Sri Kenanga Apartment, Jalan Bangau 3, Bandar Puchong Jaya, 47170 Puchong, Selangor",
+    "postcode": "47170",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 187200,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "990 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "230",
+    "title": "Shop House",
+    "address": "Unit No. B-3-06, Blok B, Desa Temenggung, Taman Desa Temenggung, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 150000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "231",
+    "title": "Condominium",
+    "address": "Unit No. B3-4-2, Block B3, Forest Green Park Condominium, Jalan Sungai Long, Batu 11 1/4, Jalan Cheras, Bandar Sungai Long, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 350000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "232",
+    "title": "Seri Puri Apartment",
+    "address": "Unit No. D-3A-17, Seri Puri Apartment, Jalan Aman, Desa Aman Puri, 52100 Kepong, Selangor",
+    "postcode": "52100",
+    "state": "Selangor",
+    "area": "Kepong",
+    "reservePrice": 255150,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "163 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "233",
+    "title": "2 Storey Terrace House",
+    "address": "No. 25, Jalan Selat Selatan 1/4, Taman Selat Damai Pandamaran, 42000 Klang, Selangor",
+    "postcode": "42000",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 700000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "551 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -2784,6 +4009,40 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "235",
+    "title": "2 Storey Terrace House",
+    "address": "No. 32, Jalan TK 3/13, Seksyen 3, Taman Kinrara, 47190 Puchong, Selangor",
+    "postcode": "47190",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 400000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "990 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "236",
+    "title": "2 Storey Terrace House",
+    "address": "No. 39, Jalan Az-Zaharah 10/1, Seksyen 10, 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 247860,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "080 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "237",
     "title": "Apartment",
     "address": "Unit No. 201, Blok 1, Flat PKNS Bangi, Jalan 6C/11, Seksyen 16, 43600 Bandar Baru Bangi, Selangor",
@@ -2798,6 +4057,125 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1bouvmAtRVTpxtY-VEVeUOZ6shbJAmrQA&sz=w800"
+    ]
+  },
+  {
+    "id": "238",
+    "title": "Bungalow",
+    "address": "No. 10, (Lot 39743), Jalan Subang-Sg Buluh, 40150, Mukim Sungai Buloh, Selangor",
+    "postcode": "39743",
+    "state": "Selangor",
+    "area": "Mukim Sungai Buloh",
+    "reservePrice": 1255500,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "890 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "239",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2, Jalan Tanjung Tenteram 30/21A, Taman Impian Sutera, Seksyen 30, 40460 Shah Alam, Selangor",
+    "postcode": "40460",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 469800,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "303 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "240",
+    "title": "Flat",
+    "address": "Unit No. I-5-7, Tingkat 5, Kinrara Court, Taman Kinrara, 47190 Puchong, Selangor",
+    "postcode": "47190",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 230000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "241",
+    "title": "1 Storey Terrace House",
+    "address": "No. 22, Jalan Adenium 2, Bandar Bukit Beruntung, 48300 Rawang, Selangor",
+    "postcode": "48300",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 210600,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "242",
+    "title": "Apartment",
+    "address": "Unit No. F-13-1, Blok F, Pangsapuri Laguna Biru, Jalan Tasik Biru 17, Kundang, 48050 Rawang, Selangor",
+    "postcode": "48050",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 171000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "243",
+    "title": "Office Unit",
+    "address": "Unit No. 1B-2, Tingkat 2, Jalan 3/1, Kawasan Industri Ringan Pandan Indah Tasek, 55100, Kuala Lumpur",
+    "postcode": "55100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 155520,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "292 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "244",
+    "title": "Apartment",
+    "address": "Unit No. PS-3-10, Prima Saujana, Jalan Wangsa 2/6, Taman Wangsa Permai, 52200, Kuala Lumpur",
+    "postcode": "52200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 260000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -2820,6 +4198,176 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "246",
+    "title": "Service Apartment",
+    "address": "Unit No. D2-4-3, Tingkat 4, Blok D2, Pangsapuri Putra Permai 3, Jalan Putra Permai 3, Taman Equine, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 71280,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "645 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "247",
+    "title": "Apartment",
+    "address": "Unit No. C2-G-7, Block C2, Pangsapuri Camelia Court, Persiaran Lembah Hijau 4, Bandar Tasik Puteri, 48020 Rawang, Selangor",
+    "postcode": "48020",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 80190,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "732 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "248",
+    "title": "2 Storey Terrace House",
+    "address": "No. 69, Jalan Meranti 8A/1, Bandar Utama Batang Kali Fasa 1, 44300 Batang Kali, Selangor",
+    "postcode": "44300",
+    "state": "Selangor",
+    "area": "Batang Kali",
+    "reservePrice": 145800,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "249",
+    "title": "1 Storey Terrace House",
+    "address": "No. 26, Jalan Dato Abdul Hamid 2, Taman Sentosa, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 291600,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "150 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "250",
+    "title": "Apartment",
+    "address": "Unit No. C-04-02, Sri Sunway Apartment, Taman Sunway Kinrara, 47190 Puchong, Selangor",
+    "postcode": "47190",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 190000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "251",
+    "title": "2 Storey Terrace House",
+    "address": "No. 7, Jalan Meranti 3/6, Bandar Hillpark (Meranti), 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 401000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "728 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "252",
+    "title": "Seraya Apartment",
+    "address": "Unit No. CG-26, Seraya Apartment, Jalan Seksyen 3/1A, Taman Kajang Utama, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 198000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "253",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 14, Jalan Bukit Saujana 2, Bukit Saujana, 47000 Sungai Buloh, Selangor",
+    "postcode": "47000",
+    "state": "Selangor",
+    "area": "Sungai Buloh",
+    "reservePrice": 712800,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "114 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "254",
+    "title": "2 Storey Terrace House",
+    "address": "No. 17, Lorong Dato Dagang 50C, Taman Sentosa, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 405000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "255",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Dato Abdul Hamid 24, Taman Sentosa, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 400000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "256",
     "title": "2 Storey Terrace House",
     "address": "Jalan Megah 16, Taman Megah Cheras, 43200 Cheras, Selangor",
@@ -2834,6 +4382,74 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1QuDJQLlkt1lXIHb4AajzhaJCt0qknOJ8&sz=w800"
+    ]
+  },
+  {
+    "id": "257",
+    "title": "2 Storey Terrace House",
+    "address": "No. 32, Lorong Naluri Sukma 8/2, Seksyen 8, 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 350000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "258",
+    "title": "2 Storey Terrace House",
+    "address": "No. 73, Jalan Saujana KLIA 2/2, Taman Saujana KLIA, 43900 Sepang, Selangor",
+    "postcode": "43900",
+    "state": "Selangor",
+    "area": "Sepang",
+    "reservePrice": 445500,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "259",
+    "title": "Apartment",
+    "address": "Unit No. A-12-13, Block A, Pangsapuri Putra, Jalan Putra Impian, Taman Putra Impian, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 300000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "260",
+    "title": "Apartment",
+    "address": "Unit No. B5-11-34, 11th Floor, Blok 5, Jalan PJS 6/5A, Desa Mentari, 46000 Petaling Jaya, Selangor",
+    "postcode": "46000",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 144000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -2854,6 +4470,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "262",
+    "title": "Apartment",
+    "address": "Blok 1, Pangsapuri Desa Lembah Permai, Jalan Permai 13, Desa Lembah Permai, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 170000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "263",
+    "title": "2.5 Storey Semi Detached House",
+    "address": "No. 28, Jalan Sinaran 4, Taman Sinaran, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 1000000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "768 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "264",
+    "title": "Apartment",
+    "address": "Unit No. 403, Tingkat 3, Block 2, Pangsapuri Sri Kerjaya, Jalan Pegawai U1/33, Section U1, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 196830,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "265",
     "title": "Service Apartment",
     "address": "Unit No. B-20-2, Pangsapuri Suria Perdana, Taman Serdang Perdana Sek 4, 43300 Seri Kembangan, Selangor",
@@ -2870,6 +4537,23 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1qxB-foyWgwSb5Jq7gTW3Sy0ytaYXF3iB&sz=w800",
       "https://drive.google.com/thumbnail?id=1yTHAP2__Su0yHx4hfHrDOUD0mTjF12vJ&sz=w800",
       "https://drive.google.com/thumbnail?id=1VZ-VvQdzi8H6F3DoKGRmln0JmOL3sNSj&sz=w800"
+    ]
+  },
+  {
+    "id": "266",
+    "title": "2 Storey Cluster Semi Detached House",
+    "address": "No. 23, Jalan Alam Suria 16/40, Fasa 5A6, Seksyen 16, 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 500000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -2928,6 +4612,176 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "270",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Jalan Putra Prima 2/9, Taman Putra Prima, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 1300000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "279 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "271",
+    "title": "2 Storey Terrace House",
+    "address": "No. 66, Jalan Sari Alamanda 8/5, Sari Alamanda, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 349920,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "620 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "272",
+    "title": "Apartment",
+    "address": "Unit No. A-1-07, 1st Floor, Block A, Casa Ria Apartment, Jalan Desa 10/2, Bandar Country Homes, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 145800,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "273",
+    "title": "2 Storey Terrace House",
+    "address": "No. 70, Jalan Pulau Lumut U10/76K, Alam Budiman, Seksyen U10, 40170 Shah Alam, Selangor",
+    "postcode": "40170",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 480000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "274",
+    "title": "2 Storey Semi Detached Factory",
+    "address": "No. 5, Jalan Meru Indah 22/KU8, Kawasan Perindustrian Meru Barat, 41050 Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 8910000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "039 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "275",
+    "title": "2 Storey Terrace House",
+    "address": "No. 12A, Jalan Saujana KLIA 3/3, Taman Saujana KLIA , 43900, Sepang, Selangor",
+    "postcode": "43900",
+    "state": "Selangor",
+    "area": "Sepang",
+    "reservePrice": 530000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "276",
+    "title": "Condominium",
+    "address": "Unit No. F-1605, Blok F, No. 17, Palm Spring @ Damansara, No. 1, Jalan PJU 3/29, 47810 Kota Damansara, Petaling Jaya, Selangor",
+    "postcode": "47810",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 384000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "925 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "277",
+    "title": "Condominium",
+    "address": "Unit No. B3-2-7, Cyber 11, Cyberia Smarthomes B Cyberia, 63000 Cyberjaya, Selangor",
+    "postcode": "63000",
+    "state": "Selangor",
+    "area": "Cyberjaya",
+    "reservePrice": 300000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "914 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "278",
+    "title": "Apartment",
+    "address": "Unit No. 3A10, Level 4, Block B, Jalan PJS 3/55, Taman Sri Manja, 46000 Petaling Jaya, Selangor",
+    "postcode": "46000",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 120000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "279",
+    "title": "2 Storey Semi Detached House",
+    "address": "Premises No. 9, Jalan BM 1/5, Seksyen 1, Bandar Bukit Mahkota, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 1600000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "224 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "280",
     "title": "2 Storey Terrace House",
     "address": "No. 30, Jalan Mahagoni 1B/5, Section 4, Bandar Utama Batang Kali, 44300 Batang Kali, Selangor",
@@ -2981,6 +4835,210 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "283",
+    "title": "Apartment",
+    "address": "Unit No. A-9-10, Laman Damai Kepong, Jalan Kuang Bertam 9, Taman Kepong, 52100, Kuala Lumpur",
+    "postcode": "52100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 153900,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "284",
+    "title": "Condominium",
+    "address": "Unit No. B-1-7, 1st Floor, Block B, Shamelin Bestari Condominium, Jalan 2/91A, Taman Shamelin Perkasa, 56100, Kuala Lumpur",
+    "postcode": "56100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 299700,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "285",
+    "title": "Condominium",
+    "address": "Unit No. 9-7, Sri Impian Condominium, No. 38, Jalan Ang Seng, Brickfields, 50470, Kuala Lumpur",
+    "postcode": "50470",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 585000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "550 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "286",
+    "title": "38 Bidara Service Apartment",
+    "address": "Unit No. 06-09/C1, 38 Bidara Service Apartment, No. 30, Jalan Bedara, 50250, Kuala Lumpur",
+    "postcode": "50250",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 400000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "287",
+    "title": "Retail Lot",
+    "address": "Unit No. KF-6, Sungei Wang Plaza, Jalan Bukit Bintang, 55100, Kuala Lumpur",
+    "postcode": "55100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 583380,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "667 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "288",
+    "title": "Service Apartment",
+    "address": "Unit No. 13-3A, The Annex @ Medan Connaught, No. 1, Jalan 3/144A, 56000, Kuala Lumpur",
+    "postcode": "56000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 379080,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "141 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "289",
+    "title": "Condominium",
+    "address": "Unit No. 20-20-5, Angkasa Impian Condominium (On Site is Angkasa Impian 1), Jalan Tong Shin, 50200, Kuala Lumpur",
+    "postcode": "50200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 270000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "743 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "290",
+    "title": "Apartment",
+    "address": "Unit No. 05-01-05, Blok 5, Taman Sri Murni, Jalan 1/2D, 68100, Kuala Lumpur",
+    "postcode": "68100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 144000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "291",
+    "title": "Detached House Plot",
+    "address": "Lot 7, Lorong Kota 3, 50480, Kuala Lumpur",
+    "postcode": "50480",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 7800000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "957 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "292",
+    "title": "Office Lot",
+    "address": "Unit No. B-3-3A, Block B, Endah Promenade, No. 5, Jalan 3/149E, Taman Sri Endah, 57000 Sri Petaling, Kuala Lumpur",
+    "postcode": "57000",
+    "state": "Kuala Lumpur",
+    "area": "Sri Petaling",
+    "reservePrice": 342000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "293",
+    "title": "2 Storey Linked House",
+    "address": "No. 19, Jalan 4/10, Taman Koperasi Polis Fasa 1, 68100, Kuala Lumpur",
+    "postcode": "68100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 364500,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "294",
+    "title": "2 Storey Cluster Link House",
+    "address": "No. 48, Jalan Dato Senu 13, Taman Dato' Senu, 51000, Kuala Lumpur",
+    "postcode": "51000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 260000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "295",
     "title": "Shop Office",
     "address": "Unit No. S-1-53, The Scott Garden (Kompleks Rimbun Scott), 289, Jalan Kelang Lama, 58000, Kuala Lumpur",
@@ -2995,6 +5053,210 @@ export const PROPERTIES: Property[] = [
     "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1dNwuAer5WlHLQcmQwxfssPhUYgoR0s87&sz=w800"
+    ]
+  },
+  {
+    "id": "296",
+    "title": "Office Unit",
+    "address": "Unit No. B-15-9, Block B, Megan Avenue II, No. 12, Jalan Yap Kwan Seng, 50450, Kuala Lumpur",
+    "postcode": "50450",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1260000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "530 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "297",
+    "title": "Condominium",
+    "address": "Unit No. 7-8-3, Union Heights Condominium, Jalan Awan Dandan, Taman Yarl, 58200, Kuala Lumpur",
+    "postcode": "58200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 330000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "298",
+    "title": "Flat",
+    "address": "Unit No. 5-G-05, Block 5, Jalan SP 4/3, Rumah Pangsa Impian, 42610 Bandar Saujana Putra, Selangor",
+    "postcode": "42610",
+    "state": "Selangor",
+    "area": "Bandar Saujana Putra",
+    "reservePrice": 131220,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "635 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "299",
+    "title": "2 Storey Detached House with Swimming Pool in Putra Crest",
+    "address": "No. 7, Jalan Putra Harmoni 1/1A, Putra Heights, 47650 Subang Jaya, Selangor",
+    "postcode": "47650",
+    "state": "Selangor",
+    "area": "Subang Jaya",
+    "reservePrice": 3331530,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "801 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "300",
+    "title": "2 Storey Terrace House",
+    "address": "No. 25, Jalan Ecohill 1/1J, Setia Ecohill, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 486000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "301",
+    "title": "2 Storey Terrace House",
+    "address": "No. 71, Jalan Iris 3A, Perumahan Jalan Iris, Taman Bunga Raya, 48300 Rawang, Selangor",
+    "postcode": "48300",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 250000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "959 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "302",
+    "title": "Apartment",
+    "address": "Unit No. 4-14, Block B, Taman Cheras Mas, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 64800,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "506 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "303",
+    "title": "Shop Apartment",
+    "address": "Unit No. 335-3F, Tingkat 3, Jalan Hulubalang 28, Taman Sentosa, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 89100,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "475 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "304",
+    "title": "4 Storey Shop Office",
+    "address": "Unit No. B-G-07 & B-1-07 & B-2-07 & B-3-07, Blok B, Amanseri, Jalan SS 7/13B, Kelana Jaya, 47301 Petaling Jaya, Selangor",
+    "postcode": "47301",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 2000000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "588 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "305",
+    "title": "Duplex Town House",
+    "address": "Unit No. 3A, Jalan Sungai Besi Indah 1/14, Taman Sungai Besi Indah, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 330000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "658 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "306",
+    "title": "Apartment",
+    "address": "Unit No. 3-01, Pangsapuri Damai Mewah A, Taman Damai Mewah, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 140000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "307",
+    "title": "Service Apartment",
+    "address": "Unit No. 7-09, Silk Residence, Jalan Sutera, Lebuhraya Silk, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 319140,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "066 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3050,6 +5312,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "311",
+    "title": "Service Apartment",
+    "address": "Unit No. A-28-02, Residensi Palmera, Laman Puteri 3, Bandar Puteri Bangi, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 315000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "312",
+    "title": "2 Storey Cluster House",
+    "address": "No. 11, Jalan Impian 1E/KU7, Taman Seri Residensi, Sungai Kapar Indah, 42200 Kapar, Selangor",
+    "postcode": "42200",
+    "state": "Selangor",
+    "area": "Kapar",
+    "reservePrice": 910000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "354 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "313",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 11A, Jalan BSC 2A/9, Presint 2, Bandar Seri Coalfields, 47000 Sungai Buloh, Selangor",
+    "postcode": "47000",
+    "state": "Selangor",
+    "area": "Sungai Buloh",
+    "reservePrice": 780000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "197 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "314",
     "title": "2 Storey Terrace House",
     "address": "No. 1, Jalan SP 6/3, Seri Pristana, 47000 Sungai Buloh, Selangor",
@@ -3064,6 +5377,40 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1NNyuAvX3LsjGXZBFi-gRK213cM1Inzpu&sz=w800"
+    ]
+  },
+  {
+    "id": "315",
+    "title": "Condominium",
+    "address": "Unit No. 21-1, Level 21, Mirage Residence, Jalan Yap Kwan Seng, 50450, Kuala Lumpur",
+    "postcode": "50450",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 972000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "507 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "316",
+    "title": "Condominium",
+    "address": "Unit No. 10B-12A-2, Putra Court, Jalan Ipoh Kecil, 50350, Kuala Lumpur",
+    "postcode": "50350",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 350000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3082,6 +5429,40 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1_0sTXy7Ntsa2-53TVXq9bYYr4SM3jGI7&sz=w800",
       "https://drive.google.com/thumbnail?id=12c67SL_L8VKgeyFXBpmTG4HJEMa59EO4&sz=w800"
+    ]
+  },
+  {
+    "id": "318",
+    "title": "Shop Office",
+    "address": "Unit No. 62A, Jalan Bukit Bintang, 55100, Kuala Lumpur",
+    "postcode": "55100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 2187000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "525 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "319",
+    "title": "Condominium",
+    "address": "Unit No. B-5-3, Block B, PV 12 Platinum Lake Condominium, No. 6, Jalan Langkawi, Taman Danau Kota, Setapak, 53300, Kuala Lumpur",
+    "postcode": "53300",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 530000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "658 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3123,6 +5504,193 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "322",
+    "title": "Condominium",
+    "address": "Unit No. A-16-08, Block Ametrine, Villa Kristal (Villa Crystal), No. 1, Jalan 6/38A, Taman Sri Rinar, Segambut, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 610000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "323",
+    "title": "Condominium",
+    "address": "Unit No. A-06-08, Sri Intan Condo 1, Lengkok Selinsing, Taman Kok Lian, Batu 5, Jalan Ipoh, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 252000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "324",
+    "title": "Town House (Upper Unit)",
+    "address": "Unit No. 4-05-B, Town Villa 4, Cyberia Crescent, Cyber 9, 63000 Cyberjaya, Selangor",
+    "postcode": "63000",
+    "state": "Selangor",
+    "area": "Cyberjaya",
+    "reservePrice": 223200,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "717 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "325",
+    "title": "2 Storey Terrace House",
+    "address": "No. 35, Jalan Mutiara Indah 2/8, Taman Mutiara Indah, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 454000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "995 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "326",
+    "title": "Apartment",
+    "address": "Unit No. A-17-1, Pangsapuri Laguna Biru, Jalan Tasik Biru 17, Kundang, 48050 Rawang, Selangor",
+    "postcode": "48050",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 135000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "327",
+    "title": "2 Storey Terrace House",
+    "address": "No. 7, Jalan Singgahsana 8/KU2, Bandar Bukit Raja, 41050 Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 546750,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "869 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "328",
+    "title": "Apartment",
+    "address": "Block E, Jalan PJU 10/9C, Prima Damansara, PJU 10, 47830 Petaling Jaya, Selangor",
+    "postcode": "47830",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 109350,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "329",
+    "title": "3 Storey Terrace House",
+    "address": "Premises No. 14, Jalan Wangsa 3, Wangsa Ukay, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 729000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "885 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "330",
+    "title": "2 Storey Terrace House",
+    "address": "No. 15, Jalan Liku, Taman Zoo View, Hulu Klang, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 600000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "542 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "331",
+    "title": "3 Storey Semi Detached House",
+    "address": "No. 19, Jalan Memanah 13/55F, Seksyen 13, 40100 Shah Alam, Selangor",
+    "postcode": "40100",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 1782000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "857 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "332",
+    "title": "Shop Office",
+    "address": "Unit No. F-02-05, Block F, Pusat Perdagangan Puchong Prima, Jalan Prima 5/3, Persiaran Prima Utama, Taman Puchong Prima, 47150 Puchong, Selangor",
+    "postcode": "47150",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 235000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "333",
     "title": "Apartment",
     "address": "Unit No. 2-6-2, Block 2, Pangsapuri Seroja, No. 2, Jalan Setia Murni U13/50, Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor",
@@ -3140,6 +5708,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "334",
+    "title": "3 Storey Terrace House",
+    "address": "No. 27, Jalan Sentosa Villa 1/2, Taman Sentosa Villa, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 583200,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "500 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "335",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Jalan Kajang Perdana 12/6, Taman Kajang Perdana, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 875000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "135 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "336",
+    "title": "Condominium",
+    "address": "Blok E, Garden Park Kondo, Bandar Sungai Long, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 207000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "337",
     "title": "2 Storey Terrace House",
     "address": "No. 38, Jalan Pending 7, Bandar Puteri, 41200 Klang, Selangor",
@@ -3154,6 +5773,74 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1I5nasFaqK43b091QviHNjiPxEBLKGMws&sz=w800"
+    ]
+  },
+  {
+    "id": "338",
+    "title": "1 Storey Terrace House",
+    "address": "No. 17, Jalan SP 1/6, Bandar Saujana Putra, 42610 Jenjarom, Selangor",
+    "postcode": "42610",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 378000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "907 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "339",
+    "title": "Apartment",
+    "address": "Unit No. B506, Pangsapuri Sri Cempaka, Bandar Puchong Jaya, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 198000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "340",
+    "title": "2 Storey Terrace House",
+    "address": "No. 8, Jalan Nenas Madu 10/KU10, Taman Saujana Meru, 41050 (On Site 42200) Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "(On Site ) Klang",
+    "reservePrice": 432000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "341",
+    "title": "1 Storey Terrace House",
+    "address": "No. 30, Jalan 12/2, Taman Cheras Jaya, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 330000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "678 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3193,6 +5880,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "344",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 1, Jalan Kelab Golf 13/6D, Seksyen 13, 40100 Shah Alam, Selangor",
+    "postcode": "40100",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 1800000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "354 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "345",
+    "title": "2 Storey Terrace House",
+    "address": "No. 61, Jalan Gunung Nuang U11/44, Bukit Bandaraya, 40170 Shah Alam, Selangor",
+    "postcode": "40170",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 518400,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "896 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "346",
+    "title": "Flat",
+    "address": "Unit No. B-10-13 (B10-10-13), Block B, Pangsapuri Angsana, Persiaran Subang Mewah, USJ 1, 47620 Subang Jaya, Selangor",
+    "postcode": "47620",
+    "state": "Selangor",
+    "area": "Subang Jaya",
+    "reservePrice": 170000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "347",
     "title": "Flat",
     "address": "Unit No. B10-1-20, Block 10, Jalan PJS 2B/1, Desa Mentari 2, 46150 Petaling Jaya, Selangor",
@@ -3208,6 +5946,159 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1QVQstc1-g2zezqgIPufuYK7AU_8z_sCW&sz=w800",
       "https://drive.google.com/thumbnail?id=1j08NUOv9yr1IrDPilCk06A86y7dssHFm&sz=w800"
+    ]
+  },
+  {
+    "id": "348",
+    "title": "2 Storey Terrace House",
+    "address": "No. 9, Jalan Damar Merah 4, Taman Pendamar Indah 2, 42000 Pelabuhan Klang, Selangor",
+    "postcode": "42000",
+    "state": "Selangor",
+    "area": "Pelabuhan Klang",
+    "reservePrice": 450000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "750 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "349",
+    "title": "Service Apartment",
+    "address": "Unit No. 17-3A, Pangsapuri Simfoni 2, Jalan Anggerik Villa 2/3, Taman Anggerik Perdana, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 330000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "350",
+    "title": "Apartment",
+    "address": "Unit No. D4-04-06, Block D, Pangsapuri Angsana, USJ 1, 47620 Subang Jaya, Selangor",
+    "postcode": "47620",
+    "state": "Selangor",
+    "area": "Subang Jaya",
+    "reservePrice": 190000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "351",
+    "title": "2 Storey Detached House",
+    "address": "No. 5, Jalan Mawar 5, Taman Saujana Utama, 47000 Sungai Buloh, Selangor",
+    "postcode": "47000",
+    "state": "Selangor",
+    "area": "Sungai Buloh",
+    "reservePrice": 960000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "060 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "352",
+    "title": "Terrace House",
+    "address": "Jalan Salak Perdana 4/3, Salak Perdana, 43900 Sepang, Selangor",
+    "postcode": "43900",
+    "state": "Selangor",
+    "area": "Sepang",
+    "reservePrice": 420000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "353",
+    "title": "Condominium",
+    "address": "Unit No. C-13-01, 13th Floor, La' Vista Condominium, Jalan Tempua 6, Bandar Puchong Jaya, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 450000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "356 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "354",
+    "title": "Apartment",
+    "address": "Unit No. A-8-07, Fairville Apartment, Jalan USJ 22/1, 47630 UEP Subang Jaya, Selangor",
+    "postcode": "47630",
+    "state": "Selangor",
+    "area": "UEP Subang Jaya",
+    "reservePrice": 340000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "355",
+    "title": "2 Storey Linked House",
+    "address": "No. 62, Jalan SG 1/18, Fasa 1, Taman Sri Gombak, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 283500,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "770 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "356",
+    "title": "3 Storey Bungalow",
+    "address": "No. 3, Jalan 3A, Sunway Puncak Melawati, 53100 Hulu Kelang, Selangor",
+    "postcode": "53100",
+    "state": "Selangor",
+    "area": "Hulu Kelang",
+    "reservePrice": 2200000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "950 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3228,6 +6119,193 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "358",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 5, Jalan Kajang Jaya, Taman Kajang Jaya, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 720000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "359",
+    "title": "Apartment",
+    "address": "Unit No E-4-15, Blok E, Rumah Pangsa Sri Saujana, Jalan SP 4/2, Bandar Saujana Putra, 42610 Jenjarom, Selangor",
+    "postcode": "42610",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 180000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "743 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "360",
+    "title": "Apartment",
+    "address": "Unit No. B-3-19, Block B, Tingkat 3, Pangsapuri Vista Sri Tanjung, Jalan Sri Tanjung 17, Taman Sri Tanjung, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 234000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "033 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "361",
+    "title": "2 Storey Shop Office",
+    "address": "No. 206, Jalan Kajang Jaya 7, Taman Kajang Jaya, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 383130,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "604 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "362",
+    "title": "Condominium",
+    "address": "Unit No. B-9-2, Garden Park Condominium, Bandar Sungai Long, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 310000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "363",
+    "title": "Condominium",
+    "address": "Unit No. B-703(A), Block B, Puteri Palma, IOI Resort City, 62502 Putrajaya, Selangor",
+    "postcode": "62502",
+    "state": "Selangor",
+    "area": "Putrajaya",
+    "reservePrice": 490000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "367 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "364",
+    "title": "Agricultural Land Zoned for Residential Use",
+    "address": "Lot 436 (GM 1532), Sungai Sompah, Mukim of Beranang, District of Hulu Langat, Selangor",
+    "postcode": "",
+    "state": "Selangor",
+    "area": "District of Hulu Langat",
+    "reservePrice": 423000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "365",
+    "title": "Apartment",
+    "address": "Unit No. 506, Pangsapuri Seri Setia, No. 72, Jalan SS 9A/19, 47300 Petaling Jaya, Selangor",
+    "postcode": "47300",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 203000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "366",
+    "title": "2 Storey Terrace House",
+    "address": "No. 27, Jalan Desa Kenanga 2/1, Taman Desa Kenanga 2, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 800000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "477 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "367",
+    "title": "2 Storey Terrace House",
+    "address": "No. 25, Jalan Mahkota 2, Taman Pinggiran Mahkota, 43200 Sungai Long, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Sungai Long",
+    "reservePrice": 900000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "165 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "368",
+    "title": "Apartment",
+    "address": "Unit No. E-21-02, Park Apartment, One South, Taman Serdang Perdana, Seksyen 6, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 500000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "066 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "369",
     "title": "Condominium",
     "address": "Unit No. A-05-08, Block A, Residensi Sembilan Cheras, Jalan Suria Residen, 43200 Cheras, Selangor",
@@ -3243,6 +6321,57 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1Yxyn3IrlYKNyS5e0y26jVGWAgBrbEZjU&sz=w800",
       "https://drive.google.com/thumbnail?id=16Kn0UKyx3QdC7gsbyG-vaKPUUuO-2bq9&sz=w800"
+    ]
+  },
+  {
+    "id": "370",
+    "title": "Service Apartment",
+    "address": "Unit No. A-20-15, 20th Floor, Menara Simfoni, Jalan Simfoni 2, Balakong, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 296000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "371",
+    "title": "Condominium",
+    "address": "Unit No. B-7-7, Block B, 7 Tree Seven Residence, Jalan Cuepacs 3, Taman Koperasi Cuepacs, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 350000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "372",
+    "title": "Flat",
+    "address": "Unit No. C-5-12, Block C, Jalan Sejati 2C, Taman Selayang Sejati, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 110000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3265,6 +6394,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "374",
+    "title": "2 Storey Cluster House",
+    "address": "No. 12A, Jalan Dato Senu 12, Taman Dato Senu, 51000, Kuala Lumpur",
+    "postcode": "51000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 131300,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "530 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "375",
+    "title": "Service Apartment",
+    "address": "Unit No. 7-13-1, May Tower, Jalan Munshi Abdullah, 50100, Kuala Lumpur",
+    "postcode": "50100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 200475,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "344 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "376",
+    "title": "2 Storey Terrace House",
+    "address": "No. 28, Lorong Beluntas 2, Medan Damansara, 50490, Kuala Lumpur",
+    "postcode": "50490",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1215000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "733 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "377",
     "title": "Apartment",
     "address": "Unit No. B4-08-02, Residensi PR1MA Alam Damai, Persiaran Bistari, Alam Damai, 56000, Kuala Lumpur",
@@ -3281,6 +6461,23 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1cVC8feyuqT6bv3Ox9QQj3N_olhUPIDJ2&sz=w800",
       "https://drive.google.com/thumbnail?id=1i749Y7s8vbPefO4V5bIrhwaAKXozEVxN&sz=w800",
       "https://drive.google.com/thumbnail?id=1jt5SYVwwSojpMmUBpFfI8kTCqDk6txCH&sz=w800"
+    ]
+  },
+  {
+    "id": "378",
+    "title": "Office Unit",
+    "address": "Unit No. 15-2, Jalan 2/1A, Taman Kepong Indah, 52100, Kuala Lumpur",
+    "postcode": "52100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 85000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3301,6 +6498,176 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "380",
+    "title": "Condominium",
+    "address": "Unit No. Z-D-1, Le Jardine Condominium, Jalan Pandan Indah 26, Pandan Indah, 55100, Kuala Lumpur",
+    "postcode": "55100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 320000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "381",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Lorong Ibu Kota Kanan 2, Taman Ibu Kota, Gombak, 53100, Kuala Lumpur",
+    "postcode": "53100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1000000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "097 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "382",
+    "title": "2 Storey Terrace House",
+    "address": "No. 27, Jalan Bukit Pandan Bistari 6, Bukit Pandan Bistari, 56100, Kuala Lumpur",
+    "postcode": "56100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 650000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "383",
+    "title": "Z Residence Condominium",
+    "address": "Block C, Z Residence, No. 5, Jalan Jalil Perwira 2, Bukit Jalil 58200, Kuala Lumpur",
+    "postcode": "58200",
+    "state": "Kuala Lumpur",
+    "area": "Bukit Jalil",
+    "reservePrice": 570000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "384",
+    "title": "Seri Emas Condominium",
+    "address": "Seri Emas Condominium, Jalan Hang Isap, 50150, Kuala Lumpur",
+    "postcode": "50150",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 550000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "385",
+    "title": "St Mary Residences Service Apartment",
+    "address": "Unit No. A3-18-3A, St Mary Residences, Tower A, No. 1, Jalan Tengah, 50250, Kuala Lumpur",
+    "postcode": "50250",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1000000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "141 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "386",
+    "title": "Apartment",
+    "address": "Unit No. A-11-01, Block A, Suria Kipark Damansara (Damansara Suria Apartment), Persiaran KIP 2, Taman KIP (Kipark Damansara), 52200, Kuala Lumpur",
+    "postcode": "52200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 330000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "980 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "387",
+    "title": "Apartment",
+    "address": "Unit No. 10-1-10, Jalan 1/144A, Taman Bukit Cheras, 56000, Kuala Lumpur",
+    "postcode": "56000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 140000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "517 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "388",
+    "title": "Apartment",
+    "address": "Unit No. C-2-08, 2nd Floor, Sentosa Court, Block C, Jalan Taman Seri Sentosa, Taman Seri Sentosa, 58200, Kuala Lumpur",
+    "postcode": "58200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 360000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "389",
+    "title": "2 Storey Cluster Terrace House",
+    "address": "No. 8, Jalan Marudi 7, Taman Beringin, 52000, Kuala Lumpur",
+    "postcode": "52000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 283500,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "630 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "390",
     "title": "11 Parcels of Residental Terrace Lots",
     "address": "Lot 43227 - 43237, Off Jalan 4/98, Taman Supreme, 56100, Kuala Lumpur",
@@ -3318,6 +6685,142 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "391",
+    "title": "Apartment",
+    "address": "Unit No. VS-13-14, Vista Saujana Apartment, No. 1, Jalan Wangsa 2/6, Taman Wangsa Permai, 52200, Kuala Lumpur",
+    "postcode": "52200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 252000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "392",
+    "title": "Condominium",
+    "address": "Unit No. B-8-1, Sri Intan Condominium 1, Lengkok Selinsing, Off Jalan Ipoh, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 259200,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "152 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "393",
+    "title": "Condominium",
+    "address": "Unit No. 19-1-4, Royal Tower, Mont' Kiara Palma, Jalan Kiara, Mont' Kiara, 50480, Kuala Lumpur",
+    "postcode": "50480",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 712800,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "386 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "394",
+    "title": "Apartment",
+    "address": "Unit No. B-05-08, Pangsapuri Sri Cassia, Laman Puteri 1, Bandar Puteri, 47100 Puchong, Selangor",
+    "postcode": "47100",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 225000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "395",
+    "title": "1 Storey Terrace House",
+    "address": "No. 74, Lorong Gugusan Alam 7/3, Seksyen 7, 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 380000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "396",
+    "title": "Condominium",
+    "address": "Unit No. C-3-3, Kondominium Casa Indah, No. 2A, Persiaran Surian, Damansara Indah, 47410 Petaling Jaya, Selangor",
+    "postcode": "47410",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 466560,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "377 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "397",
+    "title": "Apartment",
+    "address": "Unit No. D-4-02, Pangsapuri Kesuma, Jalan BK 3/1, Bandar Kinrara, 47180 Puchong, Selangor",
+    "postcode": "47180",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 252000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "398",
+    "title": "Apartment",
+    "address": "Parcel 8, Sri Ros Apartment, Taman Sepakat Indah Sungai Chua (R/P), 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 200000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "399",
     "title": "3 Storey Terrace Shop Office",
     "address": "Premises No. 28, Jalan MR 1/3, M-Residensi Galleria, 48020 Rawang, Selangor",
@@ -3332,6 +6835,91 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1Tk-KpFs1kKGp9pO9ENDye_fS-K3mDkUY&sz=w800"
+    ]
+  },
+  {
+    "id": "400",
+    "title": "Apartment",
+    "address": "Unit No. 1-3-28, Pangsapuri Resak, Persiaran Pulau Carey, Seksyen U10, 40170 Shah Alam, Selangor",
+    "postcode": "40170",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 230000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "401",
+    "title": "Service Apartment",
+    "address": "Unit No. A2-1-12, Block A2, Flexis One South, Jalan OS 2, Taman Serdang Perdana, Seksyen 6, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 430000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "141 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "402",
+    "title": "2 Storey Terrace House",
+    "address": "No. 40, Jalan Seri Sungai Long 8, Taman Seri Sungai Long, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 1000000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "403",
+    "title": "Town House",
+    "address": "Persiaran Puteri Satu, Taman Puteri (Venice Hills), 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 283500,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "087 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "404",
+    "title": "Apartment",
+    "address": "Unit No. B-09-09, Pangsapuri Casa Riana, Persiaran Taman Puncak Jalil, Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 226800,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3353,6 +6941,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "406",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 21, Jalan Berlian, Taman Berlian, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 810000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "423 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "407",
     "title": "Apartment",
     "address": "No. G-11-04, Blok G, (On Site Is No. G-11-4, Tower G), Mentari Court, Jalan PJS 8/9, Taman Seri Mentari, 46150 Petaling Jaya, Selangor",
@@ -3369,6 +6974,108 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1h_S2rACsIrMiq1qCKRTOdLOAStNcGY3G&sz=w800",
       "https://drive.google.com/thumbnail?id=12oQsK8f57CUggSY2uULhpbZiWOkPljhK&sz=w800",
       "https://drive.google.com/thumbnail?id=1Fc7K631eA4l8L2baxe6XdbPbmY-Gng-7&sz=w800"
+    ]
+  },
+  {
+    "id": "408",
+    "title": "2 Storey Terrace House",
+    "address": "No. 32, Lorong Cakera Purnama 12/4, Seksyen 12, 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 342000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "080 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "409",
+    "title": "Detached House",
+    "address": "No. 200, Jalan Impian Gemilang 3/1, Saujana Impian, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 1400000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "578 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "410",
+    "title": "2 Storey Cluster Semi Detached House",
+    "address": "No. 61, Jalan Tempua 3, Perumahan Tempua Bestari, 44100 Kalumpang, Selangor",
+    "postcode": "44100",
+    "state": "Selangor",
+    "area": "Kalumpang",
+    "reservePrice": 220000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "162 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "411",
+    "title": "3 Storey Semi Detached Light Industrial Factory",
+    "address": "No. 19, Jalan Astaka U8/88A, Megah 18, Seksyen U8, Bukit Jelutong, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 4900000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "105 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "412",
+    "title": "Condominium",
+    "address": "Casa Idaman Condominium, No. 5, Jalan 1/12D, Kampung Batu Muda, 51100, Kuala Lumpur",
+    "postcode": "51100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 291600,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "184 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "413",
+    "title": "Shop Apartment",
+    "address": "Unit No. 25-3, Jalan Seri Sentosa 1B, Taman Seri Sentosa, 58000, Kuala Lumpur",
+    "postcode": "58000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 102060,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3445,6 +7152,40 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "418",
+    "title": "2.5 Storey Detached House",
+    "address": "No. 35, Jalan 14/3, Taman Tun Abdul Razak, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 1771470,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "490 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "419",
+    "title": "Apartment",
+    "address": "Unit No. D-3-05, Block D, Pangsapuri Puchong Permata, Jalan Permai 4, Taman Puchong Permai, 47150 Puchong, Selangor",
+    "postcode": "47150",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 167000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "420",
     "title": "Flat",
     "address": "Unit No. B10-16-29, Block 10, Jalan PJS 2B/1, Desa Mentari 2, 46150 Petaling Jaya, Selangor",
@@ -3460,6 +7201,142 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1QVQstc1-g2zezqgIPufuYK7AU_8z_sCW&sz=w800",
       "https://drive.google.com/thumbnail?id=1j08NUOv9yr1IrDPilCk06A86y7dssHFm&sz=w800"
+    ]
+  },
+  {
+    "id": "421",
+    "title": "Apartment",
+    "address": "Unit No. 203, Damansara Villa, Lot 1092, Jalan SS23/1A (Jalan Jenjarum), Taman Sea, 47400 Petaling Jaya, Selangor",
+    "postcode": "47400",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 332100,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "980 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "422",
+    "title": "1 Storey Terrace House",
+    "address": "No. 83, Jalan Jururawat U1/83, Taman Ladang Jaya, Glenmarie, Seksyen U1, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 324000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "740 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "423",
+    "title": "2 Storey Terrace House",
+    "address": "No. 87, Jalan TPS 2/23, Taman Pelangi Semenyih 2, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 432000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "424",
+    "title": "2 Storey Terrace House",
+    "address": "No. 7, Jalan Timah 1, Taman Timah 1, 43800 Dengkil, Selangor",
+    "postcode": "43800",
+    "state": "Selangor",
+    "area": "Dengkil",
+    "reservePrice": 477000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "425",
+    "title": "2 Storey Terrace House",
+    "address": "No. 93, Jalan BSC 6A/5, Presint 6, Bandar Seri Coalfields, 47000 Sungai Buloh, Selangor",
+    "postcode": "47000",
+    "state": "Selangor",
+    "area": "Sungai Buloh",
+    "reservePrice": 800000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "185 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "426",
+    "title": "2 Storey Terrace House",
+    "address": "No. 32A, Jalan 5/3A, Bandar Tasik Puteri, 48020 Rawang, Selangor",
+    "postcode": "48020",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 420000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "345 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "427",
+    "title": "Apartment",
+    "address": "Unit No. VS-13A-25, Vista Saujana, Jalan Wangsa 2/6, Taman Wangsa Permai, 52200 Kepong, Selangor",
+    "postcode": "52200",
+    "state": "Selangor",
+    "area": "Kepong",
+    "reservePrice": 290000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "428",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Jalan Kasih 5, Taman Kasih, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 720000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3480,6 +7357,74 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "430",
+    "title": "Apartment",
+    "address": "Unit No. C1-4-05, Pangsapuri Sri Proton, Lorong Samarinda 6A, 41000 Klang, Selangor",
+    "postcode": "41000",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 170000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "689 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "431",
+    "title": "2 Storey Terrace House",
+    "address": "No. 7, Jalan Hamzah Alang 58, Taman Intan, Jalan Kapar, 42200 Kapar, Selangor",
+    "postcode": "42200",
+    "state": "Selangor",
+    "area": "Kapar",
+    "reservePrice": 300000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "432",
+    "title": "Apartment",
+    "address": "Unit No. 3, Tingkat 1, Blok 26, Rumah Pangsa Kos Rendah, Seksyen 28, 40400 Shah Alam, Selangor",
+    "postcode": "40400",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 150000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "603 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "433",
+    "title": "2 Storey Terrace House",
+    "address": "No. 34, Lorong Pauh Kijang 5, Taman Saga, Jalan Meru, 41050 Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 350000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "434",
     "title": "Apartment",
     "address": "Unit No. 3-9-B, Pangsapuri Impian Sentosa, Jalan Dato Dagang 6, Taman Sentosa, 41200 Klang, Selangor",
@@ -3494,6 +7439,23 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1BuK-9xg81wFtQYs_La2mdTLgAnqKWtI4&sz=w800"
+    ]
+  },
+  {
+    "id": "435",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 16, Jalan Barat Laut 9, D'island Residence, 47130 Puchong, Selangor",
+    "postcode": "47130",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 1350000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "197 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3513,6 +7475,74 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1cVC8feyuqT6bv3Ox9QQj3N_olhUPIDJ2&sz=w800",
       "https://drive.google.com/thumbnail?id=1i749Y7s8vbPefO4V5bIrhwaAKXozEVxN&sz=w800",
       "https://drive.google.com/thumbnail?id=1jt5SYVwwSojpMmUBpFfI8kTCqDk6txCH&sz=w800"
+    ]
+  },
+  {
+    "id": "437",
+    "title": "Bungalow Land",
+    "address": "Lot. 491 & Lot. 16612, Jalan Tiara Titiwangsa 2, Tiara Titiwangsa, 53200, Kuala Lumpur",
+    "postcode": "16612",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 882000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "125 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "438",
+    "title": "Condominium",
+    "address": "Unit No. E-16-8, Blok E, Villa Wangsamas Kondominium, Jalan Seri Wangsa 2, Wangsa Maju, 53300, Kuala Lumpur",
+    "postcode": "53300",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 450000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "270 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "439",
+    "title": "Apartment",
+    "address": "Unit No. 06-3A, Rosvilla Condominium, No. 2, Jalan Prima Pelangi, Bukit Prima Pelangi, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 364500,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "440",
+    "title": "Apartment",
+    "address": "Unit No. E-33A-08, Residensi Mizumi, No. 3, Persiaran Metro Perdana, Taman Metropolitan Kepong, 52100, Kuala Lumpur",
+    "postcode": "52100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 480000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3538,6 +7568,40 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "442",
+    "title": "1 Storey Semi Detached House",
+    "address": "Jalan Durian Tembaga 18/KU10, Taman Meru Harapan, 42200 Kapar, Selangor",
+    "postcode": "42200",
+    "state": "Selangor",
+    "area": "Kapar",
+    "reservePrice": 500000,
+    "auctionDate": "24 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "443",
+    "title": "1 Storey Terrace House",
+    "address": "No. 7, Jalan Meru Setia 10, Taman Meru 4, 42200 Kapar, Selangor",
+    "postcode": "42200",
+    "state": "Selangor",
+    "area": "Kapar",
+    "reservePrice": 300000,
+    "auctionDate": "24 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "444",
     "title": "Condominium",
     "address": "Unit No. A-15-09, Block A, Residensi Sembilan Cheras, Jalan Suria Residen, 43200 Cheras, Selangor",
@@ -3553,6 +7617,176 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1Yxyn3IrlYKNyS5e0y26jVGWAgBrbEZjU&sz=w800",
       "https://drive.google.com/thumbnail?id=16Kn0UKyx3QdC7gsbyG-vaKPUUuO-2bq9&sz=w800"
+    ]
+  },
+  {
+    "id": "445",
+    "title": "Apartment",
+    "address": "Unit No. B-2-8, Block B, Taman Koperasi Majujaya, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 160380,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "204 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "446",
+    "title": "2 Storey Terrace House",
+    "address": "No. 80, Maple Residence, Jalan MR 1, Laman View, Cyber 9, 63000 Cyberjaya, Selangor",
+    "postcode": "63000",
+    "state": "Selangor",
+    "area": "Cyberjaya",
+    "reservePrice": 760000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "873 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "447",
+    "title": "Service Apartment",
+    "address": "Unit No. C-07-03, Menara C, City of Green, Jalan PBS 14/2, Seksyen 13, Taman Bukit Serdang, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 264000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "448",
+    "title": "2 Storey Terrace House",
+    "address": "No. 8, Jalan Cheras Prima 8, Taman Cheras Prima, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 368000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "500 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "449",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Impian 2, Taman Seri Impian, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 190269,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "450",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Jalan Kebun Nenas 4R/KS8, Bandar Putera 2, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 420000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "148 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "451",
+    "title": "2 Storey Terrace House",
+    "address": "No. 70, Jalan SP 8/9, Bandar Saujana Putra Lebuhraya Elite, 42610 Jenjarom, Selangor",
+    "postcode": "42610",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 420000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "990 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "452",
+    "title": "Condominium with Rooftop Garden",
+    "address": "Unit No. F-3-9, On Site Block F, 280 Park Homes, Jalan Prima Utama 3, Taman Puchong Prima, 47150 Puchong, Selangor",
+    "postcode": "47150",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 900000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "078 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "453",
+    "title": "Apartment",
+    "address": "Unit No. A-02-13, Pangsapuri Kristal View, Jalan Kristal Tujuh/70G, 40000 Shah Alam, Selangor",
+    "postcode": "40000",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 430000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "454",
+    "title": "Apartment",
+    "address": "Unit No. B-09-03, Blok B, Pangsapuri Bayu Suria, Off Jalan Meranti, 43300 Balakong, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Balakong",
+    "reservePrice": 250000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "051 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3576,6 +7810,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "456",
+    "title": "Service Apartment",
+    "address": "Unit No. E-01-02, Block E, Radia Residensi, No. 3, Persiaran Singgahsana, Bukit Jelutong, Section U8, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 380000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "457",
     "title": "Service Apartment",
     "address": "Unit No. A-30-02, Block A, Kiara Plaza, Jalan Semenyih, 43500 Semenyih, Selangor",
@@ -3590,6 +7841,40 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1M-Qg5BJ52E_--kKxvXKUFFpFDeFQsB1Q&sz=w800"
+    ]
+  },
+  {
+    "id": "458",
+    "title": "Apartment",
+    "address": "Unit No. 23-03, Akoya Residence, Jalan Mutiara 3, Mutiara Heights, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 342000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "249 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "459",
+    "title": "Condominium",
+    "address": "Unit No. E-13A-1, Block E, Garden Park Condominium, Jalan Sungai Long 12, Bandar Sungai Long, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 290000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3610,6 +7895,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "461",
+    "title": "Condominium",
+    "address": "Unit No. T2-5-10, Tower 2, Skyvilla, Persiaran Utara, D'Island Residence, 47130 Puchong, Selangor",
+    "postcode": "47130",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 410000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "023 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "462",
     "title": "2 Storey Terrace House",
     "address": "No. 35, Jalan Ritma 2/11, Ritma Perdana, LBS Alam Perdana, 42300 Bandar Puncak Alam, Selangor",
@@ -3627,6 +7929,261 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "463",
+    "title": "Service Apartment [12 min to LRT Taman Melati Station]",
+    "address": "Unit No. C-28-03, KLTS, No. 99, Jalan Gombak, Setapak, 53000, Kuala Lumpur",
+    "postcode": "53000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 291600,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "918 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "464",
+    "title": "Condominium",
+    "address": "Unit No. 15-01, Royalle Condominium, No. 2B, Jalan 3/61, Off Jalan Segambut, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 405000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "184 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "465",
+    "title": "Service Apartment [Newly Completed in 2020; 3 min to Pavilion Bukit Jalil & Awan Besar LRT Station; 5 min to International Medical University]",
+    "address": "Unit No. B-41-03A, Residensi Skyluxe (On Site Skyluxe On The Park), Jalan Jalil Perkasa 1, Bukit Jalil, 57000, Kuala Lumpur",
+    "postcode": "57000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 405000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "466",
+    "title": "Apartment",
+    "address": "Unit No. A-18-01, Residensi Baron, No. 106, Jalan Sibu, Taman Wahyu, 68100, Kuala Lumpur",
+    "postcode": "68100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 480000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "467",
+    "title": "4 Storey Shop Office2",
+    "address": "No. 317, 317-A, 317-B & 317-C, Lorong Kedah, Melawati Square, Taman Melawati, 53100, Kuala Lumpur",
+    "postcode": "53100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 2250000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "916 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "468",
+    "title": "[Prime location facing the main road] Retail Shop Lot [Surrounded by residential areas]",
+    "address": "Unit No. B-1-138, 1st Floor, Block B, GM Klang Wholesale City, Jalan Kasuarina 1, Bandar Botanik, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 232000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "301 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "469",
+    "title": "[Next to Billion Shopping Centre] Flat [4 min to Mydin Wholesale Hypermarket]",
+    "address": "Unit No. B4-26, Block B, Jalan 1/18, Seksyen 1, Bandar Teknologi Kajang, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 30000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "549 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "470",
+    "title": "[Next to Kuala Lumpur-Seremban Expressway] Office Unit [6 min to South City Plaza]",
+    "address": "Unit No. B-2-10, Streetmall, One South, Jalan OS, Taman Serdang Perdana, Seksyen 6, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 173000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "471",
+    "title": "[Next to main road - Jalan Sulaiman 3] Service Apartment [6 min to Ampang Point Shopping Centre]",
+    "address": "Unit No. B-20-02, Block B, Ampang Putra Residensi, Taman Putra Sulaiman, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 378000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "915 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "472",
+    "title": "3 Storey Superlink Terrace House",
+    "address": "No. 25, Jalan Anggun 3E, Taman Anggun 3, Kota Emerald, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 519000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "473",
+    "title": "Shop Lot",
+    "address": "Unit No. P-1-16 & P-2-16, Pusat Perdagangan Icon City, No. 1B, Jalan SS 8/39, 47300 Petaling Jaya, Selangor",
+    "postcode": "47300",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 2107000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "531 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "474",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Paya Lebar Lima 27/10E, Laman Seri, Seksyen 27, 40400 Shah Alam, Selangor",
+    "postcode": "40400",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 607500,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "292 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "475",
+    "title": "2 Storey Terrace House",
+    "address": "No. 91, Jalan SM 1/2, Taman Selayang Mulia, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 405000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "056 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "476",
+    "title": "1 Storey Terrace House",
+    "address": "No. 36, Lorong Hulubalang 37A/KS07, Taman Sri Wangi, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 360000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "453 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "477",
+    "title": "Condominium",
+    "address": "Unit No. 03-05, Blok 19, Pangsapuri Elaeis 2, Jalan Bait U8/1, Bukit Jelutong, Seksyen U8, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 311850,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "055 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "478",
     "title": "2 Storey Terrace House",
     "address": "No. 55, Jalan Kubah U8/58, Bukit Jelutong, Seksyen 8, 40150 Shah Alam, Selangor",
@@ -3641,6 +8198,40 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1d4TqkhQT0jqIdTsrgFBl_Y2r2rj6zRel&sz=w800"
+    ]
+  },
+  {
+    "id": "479",
+    "title": "1 Storey Detached House",
+    "address": "No. C3, Lorong 6, Kampung Selangor Dredging, 43800 Dengkil, Selangor",
+    "postcode": "43800",
+    "state": "Selangor",
+    "area": "Dengkil",
+    "reservePrice": 300000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "966 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "480",
+    "title": "Terrace House",
+    "address": "No. 23, Lorong Tan Sri Manikavasagam 9E, Taman Menara Maju, 41000 Klang, Selangor",
+    "postcode": "41000",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 350000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3663,6 +8254,125 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "482",
+    "title": "Terrace House",
+    "address": "No. 23, Jalan Sari Alamanda 8/3A, Sari Alamanda, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 460000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "483",
+    "title": "1.5 Storey Terrace House",
+    "address": "No. 21, Jalan Chamar 1B/3, Lembah Beringin, 44110 Kuala Kubu Bahru, Selangor",
+    "postcode": "44110",
+    "state": "Selangor",
+    "area": "Kuala Kubu Bahru",
+    "reservePrice": 73000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "484",
+    "title": "1 Storey Terrace House",
+    "address": "No. 47, Jalan Api-Api 1, Kepong Baru, 52100, Kuala Lumpur",
+    "postcode": "52100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 486000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "430 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "485",
+    "title": "2 Storey Terrace House",
+    "address": "No. 109, Jalan Makmur, Taman Mulia, 56000, Kuala Lumpur",
+    "postcode": "56000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 792000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "486",
+    "title": "Condominium",
+    "address": "Unit No. 6-3A, Alam Puri Condominium, Jalan Kampung Batu, Batu 5, Off Jalan Ipoh, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 500000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "487",
+    "title": "Condominium",
+    "address": "Unit No. 8-0, Villa Inai Condominium, Jalan Inai, 55100, Kuala Lumpur",
+    "postcode": "55100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1100000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "217 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "488",
+    "title": "3 Storey Terrace House",
+    "address": "No. 18, Jalan Desiran Bayu, Taman Desiran Bayu, 53300, Kuala Lumpur",
+    "postcode": "53300",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1440000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "594 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "489",
     "title": "Semi Detached Plot",
     "address": "Lot 56094, Along Lorong Pantai Prima, 59200, Kuala Lumpur",
@@ -3677,6 +8387,23 @@ export const PROPERTIES: Property[] = [
     "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1EuHIe6vMt7z0CxmY8Ve9yyOhqsTw-x1j&sz=w800"
+    ]
+  },
+  {
+    "id": "490",
+    "title": "Apartment",
+    "address": "Unit No. B-3-6, Blok B, Pangsapuri Sri Jati II, Jalan Seri Jati, Taman Sri Jati, 58200, Kuala Lumpur",
+    "postcode": "58200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 360000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3702,6 +8429,159 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "492",
+    "title": "Terrace House",
+    "address": "Jalan 4/149J, Bandar Baru Sri Petaling, 57000, Kuala Lumpur",
+    "postcode": "57000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 735000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "285 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "493",
+    "title": "2 Storey Terrace House",
+    "address": "No. 31, Jalan Tokoh Dua 25/28B, Taman Sri Muda, Seksyen 25, 40400 Shah Alam, Selangor",
+    "postcode": "40400",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 259200,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "494",
+    "title": "1 Storey Semi Detached House",
+    "address": "Jalan Satria 1, Taman Satria, 42500 Telok Panglima Garang, Selangor",
+    "postcode": "42500",
+    "state": "Selangor",
+    "area": "Telok Panglima Garang",
+    "reservePrice": 432000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "940 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "495",
+    "title": "2 Storey Terrace House",
+    "address": "No. 23, Jalan Kebun Nenas 2G/KS7, Bandar Putera, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 342000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "173 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "496",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 18, Jalan LG3 3/4, Taman Langat Utama 3, Bukit Changgang, 42700 Banting, Selangor",
+    "postcode": "42700",
+    "state": "Selangor",
+    "area": "Banting",
+    "reservePrice": 450000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "820 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "497",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan 1/9A, Seksyen 1, 43650 Bandar Baru Bangi, Selangor",
+    "postcode": "43650",
+    "state": "Selangor",
+    "area": "Bandar Baru Bangi",
+    "reservePrice": 580000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "543 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "498",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Semilang 9, Taman Sri Putra, 42700 Banting, Selangor",
+    "postcode": "42700",
+    "state": "Selangor",
+    "area": "Banting",
+    "reservePrice": 330000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "499",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Semenyih Impian 19, Taman Semenyih Impian, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 300000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "500",
+    "title": "2 Storey Terrace House",
+    "address": "No. 28, Jalan 5/1A, Taman Sri Raya, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 360000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "501",
     "title": "3 Storey Detached House together with a basement and swimming pool",
     "address": "No. 3, Mutiara 33, Jalan Kemuning 33/158B, Seksyen 33, Taman Kemuning Utama, 40400 Shah Alam, Selangor",
@@ -3716,6 +8596,244 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1h0DKLFM6m4xcKauyKxmFTV93gH2EojRl&sz=w800"
+    ]
+  },
+  {
+    "id": "502",
+    "title": "Terrace House",
+    "address": "Jalan Seri Mas 4, Taman Seri Mas, 43000 Hulu Langat, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Hulu Langat",
+    "reservePrice": 540000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "503",
+    "title": "1 Storey Terrace House",
+    "address": "No. 16, Jalan LG3 1/18, Taman Langat Utama 3, Bukit Changgang, 42700 Banting, Selangor",
+    "postcode": "42700",
+    "state": "Selangor",
+    "area": "Banting",
+    "reservePrice": 252000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "356 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "504",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Balam 5/53, Taman Bentara, 42500 Telok Panglima Garang, Selangor",
+    "postcode": "42500",
+    "state": "Selangor",
+    "area": "Telok Panglima Garang",
+    "reservePrice": 405000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "505",
+    "title": "2 Storey Terrace House",
+    "address": "No. 12, Jalan Jaya 1, Taman Jaya II, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 252000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "506",
+    "title": "1 Storey Terrace House",
+    "address": "No. 27, Jalan Kebun Nenas 4R/KS8, Bandar Putera 2, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 380000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "507",
+    "title": "2 Storey Terrace House",
+    "address": "No. 59, Jalan Tasik Semenyih Permai 1, Taman Tasik Semenyih Permai, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 500000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "556 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "508",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2, Jalan Penghulu 8/3, Seksyen 3, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 1050000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "376 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "509",
+    "title": "1 Storey Terrace House",
+    "address": "No. 21, Jalan 12/4A, Taman Cheras Jaya, 43200 Cheras, Selangor",
+    "postcode": "43200",
+    "state": "Selangor",
+    "area": "Cheras",
+    "reservePrice": 250000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "040 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "510",
+    "title": "Duplex Condominium",
+    "address": "Unit No. B-PH-11, Blok B, Casa Villa Condominium, Jalan Berjaya Baru, Taman Berjaya Baru, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 450000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "970 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "511",
+    "title": "3 Storey Shop Office",
+    "address": "No. 5, Jalan Tasik Raja Lumu L U4/L, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 956600,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "512",
+    "title": "Condominium",
+    "address": "Unit No. B-4-5, Kondominium Puncak Prima, Jalan Sri Hartamas 17, Taman Sri Hartamas, 50480, Kuala Lumpur",
+    "postcode": "50480",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 522000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "513",
+    "title": "Condominium",
+    "address": "Unit No. 08-8, Residensi Pantai Sentral 2, Jalan Pantai Murni 7, Off Jalan Pantai Dalam, Pantai Sentral, 59200, Kuala Lumpur",
+    "postcode": "59200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 954000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "679 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "514",
+    "title": "2 Storey Terrace House",
+    "address": "No. 26, Jalan Tropika 5, Taman Tropika, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 470000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "736 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "515",
+    "title": "2 Storey Terrace House",
+    "address": "Premises No. 6, Jalan SI 2, Taman Semarang Indah, 43800 Dengkil, Selangor",
+    "postcode": "43800",
+    "state": "Selangor",
+    "area": "Dengkil",
+    "reservePrice": 580000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "346 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3753,6 +8871,74 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "518",
+    "title": "1 Storey Terrace House",
+    "address": "No. 20, Jalan Hamzah Alang 60, Taman Kapar Jaya, 42200 Kapar, Selangor",
+    "postcode": "42200",
+    "state": "Selangor",
+    "area": "Kapar",
+    "reservePrice": 270000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "519",
+    "title": "1.5 Storey Semi Detached House",
+    "address": "No. 27, Jalan Desa Bestari 15, Taman Desa Bestari, 43900 Sepang, Selangor",
+    "postcode": "43900",
+    "state": "Selangor",
+    "area": "Sepang",
+    "reservePrice": 620000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "693 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "520",
+    "title": "3 Storey Linked House",
+    "address": "No. 36, Jalan Bangi Avenue 7/7, Taman Bangi Avenue, Seksyen 7, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 1000000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "917 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "521",
+    "title": "3 Storey Semi Detached House",
+    "address": "No. 3, Jalan Setia Damai U13/14J, Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor",
+    "postcode": "40170",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 2000000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "412 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "522",
     "title": "Terrace House",
     "address": "No. 10, Jalan Selampit 28, Taman Desawan, 41200 Klang, Selangor",
@@ -3767,6 +8953,40 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1foz1a8FcehIsY3_oVXw5i_0410HynSf-&sz=w800"
+    ]
+  },
+  {
+    "id": "523",
+    "title": "Terrace House",
+    "address": "No. 6, Lorong Samarinda 31B, Taman Mesra 3A, 41000 Klang, Selangor",
+    "postcode": "41000",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 390000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "524",
+    "title": "Terrace House",
+    "address": "No. 32, Jalan Seri Pagi 8, Taman Saujana Utama, 47000 Sungai Buloh, Selangor",
+    "postcode": "47000",
+    "state": "Selangor",
+    "area": "Sungai Buloh",
+    "reservePrice": 350000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3785,6 +9005,57 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1Yxyn3IrlYKNyS5e0y26jVGWAgBrbEZjU&sz=w800",
       "https://drive.google.com/thumbnail?id=16Kn0UKyx3QdC7gsbyG-vaKPUUuO-2bq9&sz=w800"
+    ]
+  },
+  {
+    "id": "526",
+    "title": "1 Storey Terrace House",
+    "address": "No. 55, Jalan Utama 36, Taman Jaya Utama, 42500 Telok Panglima Garang, Selangor",
+    "postcode": "42500",
+    "state": "Selangor",
+    "area": "Telok Panglima Garang",
+    "reservePrice": 280000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "210 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "527",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 11, Jalan Puncak 2, Taman Puncak Bukit Utama, Bukit Antarabangsa, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 568600,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "544 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "528",
+    "title": "1 Storey Terrace House",
+    "address": "No. 8, Jalan TPS 2/12A, Taman Pelangi Semenyih 2, 43500 Semenyih, Selangor",
+    "postcode": "43500",
+    "state": "Selangor",
+    "area": "Semenyih",
+    "reservePrice": 320000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3822,6 +9093,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "531",
+    "title": "2 Storey Terrace House",
+    "address": "No. 37, Jalan Permai 4, Taman Sijangkang Permai, 42500 Telok Panglima Garang, Selangor",
+    "postcode": "42500",
+    "state": "Selangor",
+    "area": "Telok Panglima Garang",
+    "reservePrice": 360000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "692 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "532",
+    "title": "Apartment",
+    "address": "Tingkat 11, Block P2A, Pangsapuri Sri Camelia, Jalan Sepakat Indah 3, Taman Sepakat Indah, Sungai Chua, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 279000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "227 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "533",
+    "title": "Apartment",
+    "address": "Ground Floor, Pangsapuri Delima, No. 17, Jalan Arca U8/80, Taman Bukit Jelutong, Seksyen U8, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 300000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "534",
     "title": "1 Storey Terrace House",
     "address": "No. 107, Jalan Kesuma 4C/4, Bandar Tasik Kesuma, 43700 Beranang, Selangor",
@@ -3836,6 +9158,227 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1GxcLcPSxi3AR4LOBInBtVk9qr_haqo-H&sz=w800"
+    ]
+  },
+  {
+    "id": "535",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Lengkuk Sungai Keramat 8, Taman Klang Utama, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 400000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "536",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 5, Jalan Kemuning Permai 33/42G, Taman Kemuning Utama, Seksyen 33, 40400 Shah Alam, Selangor",
+    "postcode": "40400",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 2300000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "020 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "537",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 28, Jalan MD 1, Taman Meranti Damai, 47120 Puchong, Selangor",
+    "postcode": "47120",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 1134000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "538",
+    "title": "Apartment",
+    "address": "Desa Idaman, Jalan Prima Utama 1, Taman Puchong Prima, 47150 Puchong, Selangor",
+    "postcode": "47150",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 277020,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "033 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "539",
+    "title": "2 Storey Terrace Cluster House",
+    "address": "Lorong Hulubalang 9/KS07, Taman Sentosa, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 307800,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "540",
+    "title": "Apartment",
+    "address": "Unit No. C-2-37, Pangsapuri Sri Bayu, Jalan Batu Unjur 9, Taman Bayu Perdana, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 138000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "541",
+    "title": "1 Storey Terrace House",
+    "address": "No. 43, Jalan DD 3A/2, Taman Dato' Demang, Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 405000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "542",
+    "title": "2 Storey Terrace House",
+    "address": "No. 55, Jalan Buana U2/21, Taman TTDI Jaya, Section U2, 40150 Shah Alam, Selangor",
+    "postcode": "40150",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 432000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "543",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Hijau 11/7, Bandar Tasik Puteri, 48020 Rawang, Selangor",
+    "postcode": "48020",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 324000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "173 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "544",
+    "title": "Condominium",
+    "address": "Pangsapuri Villa Pavillion, Jalan Taman Bukit Serdang, Seksyen 13, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 270000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "545",
+    "title": "1 Storey Terrace House",
+    "address": "No. 20, Lorong Samarinda 29C, Taman Mewah Jaya 2, 41000 Klang, Selangor",
+    "postcode": "41000",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 350000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "152 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "546",
+    "title": "2 Storey Terrace House",
+    "address": "No. 159, Jalan Kolam Air Lama, Ampang Jaya, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 583200,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "668 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "547",
+    "title": "2.5 Storey Semi Detached House",
+    "address": "No. 3, Jalan UP 3/7, Taman Ukay Perdana, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 1350000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "862 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3856,6 +9399,40 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "549",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22A, Jalan USJ 13/1A, 47630 Subang Jaya, Selangor",
+    "postcode": "47630",
+    "state": "Selangor",
+    "area": "Subang Jaya",
+    "reservePrice": 650000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "550",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan SS 5D/5, 47301 Petaling Jaya, Selangor",
+    "postcode": "47301",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 2000000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "500 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "551",
     "title": "Apartment",
     "address": "Unit No. C-8-9, Block C, Mentari Court, Jalan PJS 8/9, Taman Seri Mentari, 46150 Petaling Jaya, Selangor",
@@ -3872,6 +9449,125 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1h_S2rACsIrMiq1qCKRTOdLOAStNcGY3G&sz=w800",
       "https://drive.google.com/thumbnail?id=12oQsK8f57CUggSY2uULhpbZiWOkPljhK&sz=w800",
       "https://drive.google.com/thumbnail?id=1Fc7K631eA4l8L2baxe6XdbPbmY-Gng-7&sz=w800"
+    ]
+  },
+  {
+    "id": "552",
+    "title": "Apartment",
+    "address": "Unit No. A-7-5, Jalan Tasik Biru 17, Laguna Biru, Taman Tasik Biru, 48050 Rawang, Selangor",
+    "postcode": "48050",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 190000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "553",
+    "title": "Apartment",
+    "address": "Unit No. K-5-09, Pangsapuri Kasuarina, Persiaran Kasuarina/KS6, Bandar Botanic, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 267000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "554",
+    "title": "Apartment",
+    "address": "Unit No. 2-1-11, Gugusan Cempaka, Jalan Cecawi PSB 6/19, 47810 Petaling Jaya, Selangor",
+    "postcode": "47810",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 160000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "614 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "555",
+    "title": "Apartment",
+    "address": "Unit No. PS-5-14, Pangsapuri Permai Seri, Jalan 13D, Taman Dato Ahmad Razali, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 250000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "732 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "556",
+    "title": "Apartment",
+    "address": "Unit No. A-01-09, Megah Villa Apartment, Kota Warisan, 43900 Sepang, Selangor",
+    "postcode": "43900",
+    "state": "Selangor",
+    "area": "Sepang",
+    "reservePrice": 150000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "557",
+    "title": "2 Storey Terrace House",
+    "address": "No. 70, Jalan Kuda Kepang 10/KU5, Bandar Bukit Raja, 41050 Klang, Selangor",
+    "postcode": "41050",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 675000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "507 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "558",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Enggang, Dato Keramat Tambahan, 54200 Ampang, Selangor",
+    "postcode": "54200",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 792000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "880 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3897,6 +9593,125 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "560",
+    "title": "2 Storey Pre-war Shop House",
+    "address": "No. 68, Jalan Tuanku Abdul Rahman, 50100, Kuala Lumpur",
+    "postcode": "50100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 5400000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "070 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "561",
+    "title": "Condominium",
+    "address": "Unit No. B-20-3, Blok B, Bayu Tasik 2 Condominium, Jalan Sri Permaisuri 5, Bandar Sri Permaisuri, 56000, Kuala Lumpur",
+    "postcode": "56000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 320000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "562",
+    "title": "Condominium",
+    "address": "Unit No. 7-5, Residensi Mutiara Condominium, No. 69, Jalan Thamby Abdullah, Brickfields, 50470, Kuala Lumpur",
+    "postcode": "50470",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 930000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "563",
+    "title": "Apartment",
+    "address": "Unit No. B-11-09, Blok B, Sri Penara, Jalan Sri Permaisuri 1, Bandar Sri Permaisuri, 56000, Kuala Lumpur",
+    "postcode": "56000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 250000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "564",
+    "title": "4 Storey Building with 5 units shop & 15 units Apartment",
+    "address": "No. 160, Jalan Raja Abdullah, 53000, Kampung Baru, Kuala Lumpur",
+    "postcode": "53000",
+    "state": "Kuala Lumpur",
+    "area": "Kampung Baru",
+    "reservePrice": 16000000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "727 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "565",
+    "title": "2 Storey Terrace House",
+    "address": "No. 8, Jalan Zamrud, Taman Gembira, 41100 Klang, Selangor",
+    "postcode": "41100",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 480000,
+    "auctionDate": "7 Aug 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "566",
+    "title": "Cluster Town House",
+    "address": "Jalan D'Alpinia 6, Taman D'Alpinia, 47110 Puchong, Selangor",
+    "postcode": "47110",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 567000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "851 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "567",
     "title": "Land",
     "address": "Plot 15 (Lot 44159 (formerly known as PT 37729)), Kampung Pulau Meranti, Off Jalan Putra Perdana 3A, Taman Putra Perdana, 47130 Puchong, Selangor",
@@ -3914,6 +9729,159 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "568",
+    "title": "2 Storey Terrace House",
+    "address": "No. 24, Jalan Bayu Malawati 2, Taman Bayu Malawati, 45000 Kuala Selangor, Selangor",
+    "postcode": "45000",
+    "state": "Selangor",
+    "area": "Kuala Selangor",
+    "reservePrice": 450000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "569",
+    "title": "Apartment",
+    "address": "Unit No. 11-04-16, Blok 11, Pinang Apartment (Fasa 1A Sri Sentosa), Jalan Seri Sentosa 9, Taman Seri Sentosa, 58200, Kuala Lumpur",
+    "postcode": "58200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 207000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "570",
+    "title": "2 Storey Detached House",
+    "address": "No. 34, Jalan Permai, Robson Heights, 50460, Kuala Lumpur",
+    "postcode": "50460",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 2880000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "524 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "571",
+    "title": "3 Storey Semi Detached House",
+    "address": "No. 2, Jalan Dutamas Melor 1, Changkat Kiara (Bayu), 50480, Kuala Lumpur",
+    "postcode": "50480",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 4000000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "140 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "572",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Bayu 1, Taman Desa Sri Bayu, 48000 Rawang, Selangor",
+    "postcode": "48000",
+    "state": "Selangor",
+    "area": "Rawang",
+    "reservePrice": 364500,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "573",
+    "title": "2 Storey Shop Office",
+    "address": "Unit No. 5, Jalan Dato Dagang 39, Taman Sri Sentosa, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 500000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "574",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan SG 9/30, Taman Sri Gombak, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 248100,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "770 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "575",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 1, Jalan DB2, Taman Desiran Bayu, 47120 Puchong, Selangor",
+    "postcode": "47120",
+    "state": "Selangor",
+    "area": "Puchong",
+    "reservePrice": 538002,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "856 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "576",
+    "title": "Impian Flat",
+    "address": "Unit No. 14-3-08, Block 14, Rumah Pangsa Impian, Jalan SP 4/3, Bandar Saujana Putra, 42610 Jenjarom, Selangor",
+    "postcode": "42610",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 89000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "635 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "577",
     "title": "2 Storey Terrace House",
     "address": "No. 33, Jalan Elektron U16/83, Denai Alam, Seksyen U16, 40160 Shah Alam, Selangor",
@@ -3928,6 +9896,108 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1r54n3deFZ5QYOqyGXh33P-d9g6mxHK_w&sz=w800"
+    ]
+  },
+  {
+    "id": "578",
+    "title": "2 Storey Terrace House",
+    "address": "No. 34, Jalan 19/7 (On Site Jalan Sangkar 19/7), Seksyen 19, 40300 Shah Alam, Selangor",
+    "postcode": "40300",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 279000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "588 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "579",
+    "title": "Office Unit",
+    "address": "2nd Floor, Block 4801, CBD Perdana, Cyber 12, 63000 Cyberjaya, Selangor",
+    "postcode": "63000",
+    "state": "Selangor",
+    "area": "Cyberjaya",
+    "reservePrice": 405000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "884 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "580",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Az-Zaharah 10/1, Seksyen 10, 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 380000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "080 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "581",
+    "title": "Apartment",
+    "address": "Unit No. A-12-08, Pangsapuri Suria Permai, Persiaran Permai Sentosa, Pusat Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
+    "postcode": "43300",
+    "state": "Selangor",
+    "area": "Seri Kembangan",
+    "reservePrice": 226800,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "582",
+    "title": "Condominium",
+    "address": "Unit No. 11-08-05, Sri Desa Condominium, Blok 11, Jalan 1/116B, 58200, Kuala Lumpur",
+    "postcode": "58200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 214000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "109 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "583",
+    "title": "2 Storey Terrace House",
+    "address": "No. 8, Jalan Belangkas, Kampung Pandan, 55100, Kuala Lumpur",
+    "postcode": "55100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 715000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "711 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -3951,6 +10021,40 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "585",
+    "title": "Apartment",
+    "address": "Crescent Court, Lengkok Tun Sambanthan, Brickfields, 50470, Kuala Lumpur",
+    "postcode": "50470",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 585000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "561 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "586",
+    "title": "Apartment",
+    "address": "Jalan Matang 2, Taman Sri Kuching, Off Jalan Kuching, 51200 Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Off Jalan Kuching",
+    "reservePrice": 185000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "743 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "587",
     "title": "Apartment",
     "address": "Verve Suites, Jalan Kiara 5, Mont Kiara, 50480, Kuala Lumpur",
@@ -3968,6 +10072,23 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1ky23AxpUhBl1TVY8L_46QDjfYv-63bvz&sz=w800",
       "https://drive.google.com/thumbnail?id=1IY7Y0y4oUljMwJxjGocwhvwc2zDeb8Pe&sz=w800",
       "https://drive.google.com/thumbnail?id=1q_SSsdgf8VNMCs6oX7qhKEYgcIYnl6ha&sz=w800"
+    ]
+  },
+  {
+    "id": "588",
+    "title": "Apartment",
+    "address": "Unit No. 06-15, Residensi Selingsing, Jalan Selingsing, Taman City, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 520000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "861 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
     ]
   },
   {
@@ -4008,6 +10129,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "591",
+    "title": "2 Storey Terrace House",
+    "address": "Lorong Mengkudu Pertama (On Site Is Lorong Mengkudu Satu), Desa Pahlawan), 55000, Kuala Lumpur",
+    "postcode": "55000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1600000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "592",
+    "title": "Apartment",
+    "address": "Unit No. F-13A-7 (On Site F-14-7), Block F, Menara Menjalara, Jalan 1/62B, Bandar Sri Menjalara, 52200, Kuala Lumpur",
+    "postcode": "52200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 364500,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "593",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan Alam Suria 16/70, Seksyen 16, 42300 Bandar Puncak Alam, Selangor",
+    "postcode": "42300",
+    "state": "Selangor",
+    "area": "Bandar Puncak Alam",
+    "reservePrice": 445500,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "556 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "594",
     "title": "2 Storey Terrace House",
     "address": "Lorong Gelang 7/KS07, Bandar Puteri, 41200 Klang, Selangor",
@@ -4042,6 +10214,329 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "596",
+    "title": "2 Storey Terrace House",
+    "address": "No. 53, Jalan Kebun Nenas 6K/KS8, Bandar Putera 2, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 600000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "597",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan B 12, Taman Melawati, 53100, Kuala Lumpur",
+    "postcode": "53100",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 1480000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "500 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "598",
+    "title": "Service Apartment",
+    "address": "Kompleks Danau Kota, Taman Zeta @ Zetapark, 67, Jalan Taman Ibu Kota, Setapak, 53300, Kuala Lumpur",
+    "postcode": "53300",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 550000,
+    "auctionDate": "18 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "281 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "599",
+    "title": "2 Storey Terrace House",
+    "address": "No. 40, Jalan Angsana 5/KS 6, Bandar Botanic, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 648000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "600",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 2, Jalan Bestari 6, Taman Bestari, 42600 Jenjarom, Selangor",
+    "postcode": "42600",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 980000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "167 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "601",
+    "title": "2 Storey Terrace House",
+    "address": "No. 38, Jalan Putra Bahagia 8/2P, Putra Heights, 47650 Subang Jaya, Selangor",
+    "postcode": "47650",
+    "state": "Selangor",
+    "area": "Subang Jaya",
+    "reservePrice": 1400000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "072 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "602",
+    "title": "1 Storey Terrace House",
+    "address": "No. 111, Jalan Utama 42, Taman Jaya Utama, 42500 Telok Panglima Garang, Selangor",
+    "postcode": "42500",
+    "state": "Selangor",
+    "area": "Telok Panglima Garang",
+    "reservePrice": 300000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "324 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "603",
+    "title": "Service Apartment",
+    "address": "Unit No. E-25-18, Simfoni Heights, Jalan Medan Batu Caves, 68100 Batu Caves, Selangor",
+    "postcode": "68100",
+    "state": "Selangor",
+    "area": "Batu Caves",
+    "reservePrice": 320000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "947 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "604",
+    "title": "Terrace House",
+    "address": "No. 38, Lorong Laksamana/KS07, Taman Sentosa Idaman, 41200 Klang, Selangor",
+    "postcode": "41200",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 1000000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "605",
+    "title": "Terrace House",
+    "address": "Jalan Lingkaran Nur 1/5, Taman Lingkaran Nur, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 300000,
+    "auctionDate": "10 Sep 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "606",
+    "title": "2 Storey Terrace House",
+    "address": "No. 10, Lorong Sultan Abdul Samad 45D, Bandar Sultan Suleiman, 42000 Pelabuhan Klang, Selangor",
+    "postcode": "42000",
+    "state": "Selangor",
+    "area": "Pelabuhan Klang",
+    "reservePrice": 440000,
+    "auctionDate": "11 Sep 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "552 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "607",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 9, Jalan SU 2B, Taman Sering Ukay, 68000 Ampang, Selangor",
+    "postcode": "68000",
+    "state": "Selangor",
+    "area": "Ampang",
+    "reservePrice": 1100000,
+    "auctionDate": "14 Sep 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "608",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Jalan SP 6/3, Bandar Saujana Putra, 42610 Lebuhraya Eiite, Jenjarom, Selangor",
+    "postcode": "42610",
+    "state": "Selangor",
+    "area": "Jenjarom",
+    "reservePrice": 580000,
+    "auctionDate": "14 Sep 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "609",
+    "title": "2 Storey Terrace House",
+    "address": "No. 20, Jalan Impian Sejati 1, Saujana Impian, 43000 Kajang, Selangor",
+    "postcode": "43000",
+    "state": "Selangor",
+    "area": "Kajang",
+    "reservePrice": 620000,
+    "auctionDate": "24 Sep 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "610",
+    "title": "2 Storey Terrace House",
+    "address": "No. 20, Lorong Zamrud, Taman Gembira, 41100 Klang, Selangor",
+    "postcode": "41100",
+    "state": "Selangor",
+    "area": "Klang",
+    "reservePrice": 480000,
+    "auctionDate": "25 Sep 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "320 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "611",
+    "title": "1 Storey Semi Detached House",
+    "address": "Jalan Lombong Emas 29/33, Kampung Lombong, Section 29, 40460 Shah Alam, Selangor",
+    "postcode": "40460",
+    "state": "Selangor",
+    "area": "Shah Alam",
+    "reservePrice": 540000,
+    "auctionDate": "25 Sep 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "144 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "612",
+    "title": "2 Storey Terrace House",
+    "address": "Lorong Sultan Abdul Samad 45J, Bandar Sultan Suleiman, 42000 Pelabuhan Klang, Selangor",
+    "postcode": "42000",
+    "state": "Selangor",
+    "area": "Pelabuhan Klang",
+    "reservePrice": 400000,
+    "auctionDate": "25 Sep 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "613",
+    "title": "Condominium",
+    "address": "Unit No. A-28-03A, Vila Kristal, Jalan 6/38A, Taman Sri Sinar, Segambut, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 630000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "614",
+    "title": "2 Storey Terrace House",
+    "address": "No. 62, Jalan 3/60C, Taman Segambut Muda, 51200, Kuala Lumpur",
+    "postcode": "51200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 340000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "615",
     "title": "Condominium",
     "address": "Unit No. B-9-2, Kondo Villa Angsana, Block B, Jalan Krian, Taman Rainbow, 51100, Kuala Lumpur",
@@ -4062,6 +10557,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "616",
+    "title": "Condominium",
+    "address": "Unit No. A-L26-12B, Block A, Residensi Hijauan Bukit Jalil, Jalan Jalil Perwira 2, Bukit Jalil, 58200, Kuala Lumpur",
+    "postcode": "58200",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 340000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
     "id": "617",
     "title": "Service Apartment",
     "address": "Unit No. 9-10, MH Platinum Residence, Jalan Gombak Sejahtera, Off Jalan Gombak, Setapak, 53000, Kuala Lumpur",
@@ -4076,6 +10588,78 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1Es75GcFGRVbDuAcaC-H1kKwVI4_0ugZI&sz=w800"
+    ]
+  },
+  {
+    "id": "618",
+    "title": "2 Storey Terrace House",
+    "address": "No. 11, Jalan PJS 2C/11, Petaling Jaya Selatan, 46000 Petaling Jaya, Selangor",
+    "postcode": "46000",
+    "state": "Selangor",
+    "area": "Petaling Jaya",
+    "reservePrice": 340000,
+    "auctionDate": "8 Oct 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "470 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "619",
+    "title": "Condominium",
+    "address": "Prima Setapak II Condominium, Jalan Gombak Sejahtera, Off Jalan Gombak, 53000, Kuala Lumpur",
+    "postcode": "53000",
+    "state": "Kuala Lumpur",
+    "area": "Kuala Lumpur",
+    "reservePrice": 590000,
+    "auctionDate": "4 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13sIzjmn2ICtzc7M8xPdDQ_xLj_TtlrMw&sz=w800"
+    ]
+  },
+  {
+    "id": "620",
+    "title": "Apartment",
+    "address": "Unit No. B-2-16, Block B, Jalan Citra 10/2, Citra Embun, Taman Bukit Citra, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 153000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "033 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1D2Okmi8Vtxy5t5fFEDkI4CL7abG1dJx5&sz=w800",
+      "https://drive.google.com/thumbnail?id=1XaAsc5vmjZfZgoa7BPjMxgl5Cg17l7M9&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "621",
+    "title": "1 Storey Terrace House",
+    "address": "No. 61, Jalan Sengkang 4, Taman Sengkang, Pasir Panjang, 71250 Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 129600,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "851 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=18epZmpkxe20fhVw7Q2ilhaIJkZTrk-t4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1s1pEbzwnRVhOcMLNJt3-FyMdRFWEuelA&sz=w800",
+      "https://drive.google.com/thumbnail?id=1C87tHEIzNy3TWqZYGKLmm7ZKEpVWFct5&sz=w800"
     ]
   },
   {
@@ -4096,6 +10680,162 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
       "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
       "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "623",
+    "title": "2 Storey Detached House",
+    "address": "No. 141, Lorong Laman Kemboja 1/2, Kota Seriemas, Labu, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 630000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "004 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=15cJO6uSWR-lrIA06NtCO6tlNF1Qz_gKi&sz=w800"
+    ]
+  },
+  {
+    "id": "624",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 611, Jalan Kasih Putera 18, Taman Kasih Putera, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 263250,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "045 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1qM7aEqH7FnWav23RB8X3ZYzeTK4o92ks&sz=w800",
+      "https://drive.google.com/thumbnail?id=1WExxMHylkIy5G0WgNtU5hAMW4GZefzzB&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "625",
+    "title": "1 Storey Terrace House",
+    "address": "No. 75, Jalan Seremban Batu 2, Taman Kiara 2, 71000 Port Dickson, Negeri Sembilan",
+    "postcode": "71000",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 320000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "497 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=18rkrHErqTbvHazqjm4iI4FCEwvIIdkrX&sz=w800"
+    ]
+  },
+  {
+    "id": "626",
+    "title": "1 Storey Detached House",
+    "address": "No. 500, Jalan Palas 8, Taman Desa Permai Sikamat, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 340000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "683 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1WAVMWFms0XIHlClUCcaIetNmqtvojFqV&sz=w800"
+    ]
+  },
+  {
+    "id": "627",
+    "title": "Land",
+    "address": "Lot 4410, Jalan Kuala Pilah - Batu Kikir, 72000 Kuala Pilah, Negeri Sembilan",
+    "postcode": "72000",
+    "state": "Negeri Sembilan",
+    "area": "Kuala Pilah",
+    "reservePrice": 799200,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "369 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wTFc4_wrnMkP5iF5G1zp9DBz7kVcRopg&sz=w800",
+      "https://drive.google.com/thumbnail?id=1LAawNF63WUamkHgG6rDz6NrlPRSuLc2h&sz=w800"
+    ]
+  },
+  {
+    "id": "628",
+    "title": "1 Storey Terrace House",
+    "address": "No. 4, Jalan Bagan Kurnia 6, Taman Bagan Kurnia, Chuah, 71960 Port Dickson, Negeri Sembilan",
+    "postcode": "71960",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 145000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1krHWz0QBf4LPwJsZGARu_K06LaGkLjoE&sz=w800"
+    ]
+  },
+  {
+    "id": "629",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2398, Jalan Ekar 5/3, Bandar Ekar, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 218700,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ZdVhvCUiOQ83VngigICZpwGsg30uuIwk&sz=w800"
+    ]
+  },
+  {
+    "id": "630",
+    "title": "2 Storey Terrace House",
+    "address": "No. 25, Jalan TTJ S/I, Taman Tuanku Jaafar, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 480000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1gYPM59kK9_sx4ISuC21TNodle7HfoKby&sz=w800"
+    ]
+  },
+  {
+    "id": "631",
+    "title": "2 Storey Terrace House",
+    "address": "No. 203, Jalan Pulai Perdana 6, Taman Pulai Perdana, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 311850,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1I0QevGxBm7njnYJ3SVIA951ujwQmROeb&sz=w800"
     ]
   },
   {
@@ -4135,6 +10875,25 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "634",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1401, Jalan Hijayu 2/74, Resort Residence 2, Hijayu 2, 71950 Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Sri Sendayan",
+    "reservePrice": 680000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
     "id": "635",
     "title": "1 Storey Terrace House",
     "address": "No. 12, Lorong Sri Anggerik 2/1B, Taman Sri Anggerik, 71200 Rantau, Negeri Sembilan",
@@ -4149,6 +10908,114 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=16UpHH497Thv4qleFU2Sp0tzVjMmFl0XE&sz=w800"
+    ]
+  },
+  {
+    "id": "636",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1176, Jalan Hijayu 2/65 , Resort Residence Hijayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 650000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "765 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
+    "id": "637",
+    "title": "Land",
+    "address": "Lot 4408, Jalan Kuala Pilah - Batu Kikir, 72000 Kuala Pilah, Negeri Sembilan",
+    "postcode": "72000",
+    "state": "Negeri Sembilan",
+    "area": "Kuala Pilah",
+    "reservePrice": 353700,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "691 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wTFc4_wrnMkP5iF5G1zp9DBz7kVcRopg&sz=w800"
+    ]
+  },
+  {
+    "id": "638",
+    "title": "2 Storey Terrace House",
+    "address": "No. 23, Jalan Bukit Citra 8/2, Taman Bukit Citra, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 351000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uwizljoS-YXIUpqAQIHP029Ju_DtxZtb&sz=w800"
+    ]
+  },
+  {
+    "id": "639",
+    "title": "1 Storey Terrace House",
+    "address": "No. PT 7964, Jalan BBN 5/3G, Desa Jasmin, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 251100,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "620 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1EU1ntcrGf08thhBfP5mvatra_PlKUYly&sz=w800"
+    ]
+  },
+  {
+    "id": "640",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1142, Jalan Laman Sendayan 4/4, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 382500,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uVO2yvswetVDr-gTjSnqrvXPazX4Za5A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1khMGYJroUxQUe8q1n_rzrs37RIMoXs8A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1gzLFHXLzHSzuvRqdsGZYa51c8fzI_2yS&sz=w800",
+      "https://drive.google.com/thumbnail?id=1zp1StLmpLuGE4noKGTTUQsQjucvsvOkt&sz=w800",
+      "https://drive.google.com/thumbnail?id=1a0hHZhTTqBvz2RtxNFSW1DNhrhSWqS4r&sz=w800"
+    ]
+  },
+  {
+    "id": "641",
+    "title": "2 Storey Bungalow",
+    "address": "No. 11, Jalan Senawang Perdana 3, Taman Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 930000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "502 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1owzwKvwzLNvAEFNSHril1YcvaCsuz6ml&sz=w800"
     ]
   },
   {
@@ -4169,6 +11036,25 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "643",
+    "title": "2 Storey Terrace House",
+    "address": "No. 480, Jalan Forest Heights 3/20, Precinct 3A, Forest Heights, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 700000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wEkJGISHjuGxEuDK8uvWrD0uXjQRURRy&sz=w800",
+      "https://drive.google.com/thumbnail?id=11zdgOHLTu5n9CZkjLDFX2f5-vqv8T4q7&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "644",
     "title": "2 Storey Terrace House",
     "address": "No. 980, Lorong Nusari Aman 3/4B, Nusari Aman 2, 71900 Bandar Sri Sendayan, Negeri Sembilan",
@@ -4186,6 +11072,76 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1SPEqF9siVlXf3IU56Z47tBJSvzPC1AhL&sz=w800",
       "https://drive.google.com/thumbnail?id=1H2OD1_FZ2iJD57AhWSRJWkf2cB6w6q55&sz=w800",
       "https://drive.google.com/thumbnail?id=1ozVYJIJbbZOB-GbgfRQrbdWzNQ6gE8g7&sz=w800"
+    ]
+  },
+  {
+    "id": "645",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Bakti YNS 1/6, Taman Bakti YNS, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 480000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1vb4H0900Pg8xOoWRInzT7KNNVxRaTHOS&sz=w800"
+    ]
+  },
+  {
+    "id": "646",
+    "title": "1 Storey Terrace House",
+    "address": "No. 138, Jalan Redani 4, Taman Redani, 72500 Juasseh, Negeri Sembilan",
+    "postcode": "72500",
+    "state": "Negeri Sembilan",
+    "area": "Juasseh",
+    "reservePrice": 210000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uSrGKTEX9SOK7j9PlbNeFw_czXoE1Puv&sz=w800"
+    ]
+  },
+  {
+    "id": "647",
+    "title": "1 Storey Terrace House",
+    "address": "No. 72, Jalan Mantau Indah 4, Taman Mantau Indah, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 295000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GmTK97Im3lJsDsse_7twbpn6A_W9aucv&sz=w800",
+      "https://drive.google.com/thumbnail?id=1RKm2D1Yf4B85vNdzcBj0Cn4ZKijTUH-D&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "648",
+    "title": "Apartment",
+    "address": "Unit No. B-6-6, Block B, Tunas Residensi, Taman Nada Bidara, 71950 Seremban, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 240000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1esBhw4wgp77vAD4dqlxPB78LUenPJots&sz=w800"
     ]
   },
   {
@@ -4281,6 +11237,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "654",
+    "title": "1 Storey Terrace House",
+    "address": "No. 22, Jalan Bagan Kurnia 1, Taman Bagan Kurnia, 71960 Chuah, Port Dickson, Negeri Sembilan",
+    "postcode": "71960",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 145800,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1krHWz0QBf4LPwJsZGARu_K06LaGkLjoE&sz=w800"
+    ]
+  },
+  {
     "id": "655",
     "title": "1 Storey Terrace House",
     "address": "No. 48, Jalan Desa PD 2, Taman Desa PD, 71200 Port Dickson, Negeri Sembilan",
@@ -4297,6 +11270,23 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
       "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
       "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "656",
+    "title": "Terrace House",
+    "address": "No. 256, Jalan Vista Jaya 1, Taman Vista Jaya, Lukut, 71010 Port Dickson, Negeri Sembilan",
+    "postcode": "71010",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 94500,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "097 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1f0uPFye5Z7ogcupy0PuMlsXeyxntAAgE&sz=w800"
     ]
   },
   {
@@ -4333,6 +11323,23 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1O1AWFu_HmS2EfRSyeZlCA70Qsrml3yHl&sz=w800"
+    ]
+  },
+  {
+    "id": "659",
+    "title": "1 Storey Terrace House",
+    "address": "No. 73, Jalan Areca 4, Taman Areca, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 200000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=18DJ4yMuHvyhv7apUpLNnyxrFaWkcHKVZ&sz=w800"
     ]
   },
   {
@@ -4374,6 +11381,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "662",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 43, Jalan Garsenia 5, Taman Garsenia, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 585000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "662 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1EtnEool5ZlxIOxlgTCpjzBhTdl7-pl_4&sz=w800"
+    ]
+  },
+  {
     "id": "663",
     "title": "2 Storey Terrace House",
     "address": "No. 4950, Kampung Paya, Batu 2, Jalan Seremban, 71000 Port Dickson, Negeri Sembilan",
@@ -4406,6 +11430,99 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
       "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "665",
+    "title": "2 Storey Terrace House",
+    "address": "No. 40, Jalan Rimbun Irama 2, Taman Rimbun Irama, Seremban 2 Heights, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 650000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=14N7vJjyKo1a6X-HTyNiWnIz7WexF_LUe&sz=w800",
+      "https://drive.google.com/thumbnail?id=1msX2dTT9KaFSs1Mmx95eMA9gcrOTTi0V&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "666",
+    "title": "2 Storey Terrace House",
+    "address": "No. 231, Jalan RPPD 3, Residensi Prima Port Dickson, 71010 Port Dickson, Negeri Sembilan",
+    "postcode": "71010",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 300000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1vfCi9KGkg30Pn0bF1vjk-4uOGssud3eO&sz=w800",
+      "https://drive.google.com/thumbnail?id=12BRHskWW5nxbJ0jmYiJhDLgOYNsxDP7K&sz=w800",
+      "https://drive.google.com/thumbnail?id=15ynG425VAuHlKVgr3BlZ45Ktit7K1v8B&sz=w800"
+    ]
+  },
+  {
+    "id": "667",
+    "title": "1 Storey Semi Detached House",
+    "address": "No 87, Lorong Iringan Bayu 38/3, Precint 8, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 405000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "809 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "668",
+    "title": "2 Storey Terrace House",
+    "address": "No. 346, Lorong Alamanda 2/4, Taman Alamanda, 70450, Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 320000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Z_0nSxILEIqVATy66NHqFOuOM3ikpyQW&sz=w800"
+    ]
+  },
+  {
+    "id": "669",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1060, Jalan Gadong Jaya 21, Taman Gadong Jaya, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 280000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "528 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=181-59r33y1BjXlo-BXkhONlxiV6LrAU_&sz=w800",
+      "https://drive.google.com/thumbnail?id=1HzM5dU8z-MHhtYn8N9I5pxQysstHu7VN&sz=w800",
       "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
     ]
   },
@@ -4450,6 +11567,61 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "672",
+    "title": "2 Storey Terrace Shop Office",
+    "address": "No. 1723, Jalan SJ 10/11, Taman Seremban Jaya, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 450000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1x5qa4tzadNrbPLYnuJqAQEvFsK_-kiB6&sz=w800",
+      "https://drive.google.com/thumbnail?id=1kkx413dPRxjPpbzMsTOPGBu8s2Fq743R&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "673",
+    "title": "1 Storey Terrace House",
+    "address": "No. 3, Jalan Tuanku Jaafar Selatan, Taman Tuanku Jaafar, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 290000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1gYPM59kK9_sx4ISuC21TNodle7HfoKby&sz=w800"
+    ]
+  },
+  {
+    "id": "674",
+    "title": "2 Storey Terrace House",
+    "address": "No. 93, Jalan Nusa Intan 2/6, Taman Nusa Intan, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 500000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1FZov8d-C9GHUfbntXJm4mVM7WC2zBV58&sz=w800",
+      "https://drive.google.com/thumbnail?id=1J9PP_Q05m0jz4teAqLmJGr1GkAoi5RLc&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "675",
     "title": "2 Storey Terrace House",
     "address": "No. 1730, Jalan Tiara Sendayan 5/3, Tiara Sendayan, 71900 Labu, Negeri Sembilan",
@@ -4470,6 +11642,44 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "676",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 191, Jalan Bukit Sarimban 2, Taman Bukit Sarimban, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 702000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "197 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=11pdzFefWMXrZaPyQFsPxvpT6zueWDTXp&sz=w800",
+      "https://drive.google.com/thumbnail?id=1UV7JM2Hcs_RA8cRO1GnYMeeXhMbuGdZn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1CZrJwYExveVzGdXB1a20WuNomptOe-pj&sz=w800",
+      "https://drive.google.com/thumbnail?id=1MdqhqLFkpDQw_FZFDS6LjJ-6hT8sgmU5&sz=w800",
+      "https://drive.google.com/thumbnail?id=1mGE0_mue_6cNGIcRxfyYP9-qBiItYbWe&sz=w800"
+    ]
+  },
+  {
+    "id": "677",
+    "title": "2 Storey Terrace House",
+    "address": "No. 274, Jalan Alamanda 2, Taman Alamanda, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 320000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Z_0nSxILEIqVATy66NHqFOuOM3ikpyQW&sz=w800"
+    ]
+  },
+  {
     "id": "678",
     "title": "Terrace House",
     "address": "No. 3, Jalan PS 4/8, Taman Pinggiran Senawang, 71450 Seremban, Negeri Sembilan",
@@ -4484,6 +11694,63 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=165SU-yOWbOlW6eylOmhnAZWcrJSRCne3&sz=w800"
+    ]
+  },
+  {
+    "id": "679",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1793, Jalan TBK 8/9, Taman Bukit Kepayang, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 400000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1sOR4EDqXMtQzVz7EeBOxOmiu3h5EjIey&sz=w800",
+      "https://drive.google.com/thumbnail?id=1R7TfEVn0i7yrfBXNuotCNlIRrLltLLkA&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "680",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Kurau 6/1, Taman Permai 1, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 270000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1DYN0_ljvH5vz2-Y5lf_AgnquhxQQwXuN&sz=w800",
+      "https://drive.google.com/thumbnail?id=14734aOSDmrirAZhEf9eK3LMox1nvWeml&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "681",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1142, Jalan Forest Heights 5/1, Forest Heights, Precint 5, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 405000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wEkJGISHjuGxEuDK8uvWrD0uXjQRURRy&sz=w800",
+      "https://drive.google.com/thumbnail?id=11zdgOHLTu5n9CZkjLDFX2f5-vqv8T4q7&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
     ]
   },
   {
@@ -4503,6 +11770,23 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1oNXeoGsMIX9_jXyABaWt0Jg4Dbu9kUdN&sz=w800",
       "https://drive.google.com/thumbnail?id=1AsK1Um9-TbOlsR2PA9Ojq2t8ORz4WMtT&sz=w800",
       "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "683",
+    "title": "Residential Land",
+    "address": "No. 50, Jalan Tasik Senangin 9/10, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
+    "postcode": "71750",
+    "state": "Negeri Sembilan",
+    "area": "Lenggeng",
+    "reservePrice": 140000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
     ]
   },
   {
@@ -4557,6 +11841,25 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "687",
+    "title": "Condominium",
+    "address": "Unit No. C-15-14, Block C, Residensi Lili, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 226800,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
     "id": "688",
     "title": "Apartment",
     "address": "Unit No. 12-3A-14, Cempaka L, Garden Avenue, Jalan S2 G5, Seremban 2, 70300 Seremban, Negeri Sembilan",
@@ -4571,6 +11874,25 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1CMhTo3uaK5p-XeGp_CUAMsjCE5czl1NZ&sz=w800"
+    ]
+  },
+  {
+    "id": "689",
+    "title": "2 Storey Terrace House",
+    "address": "No. 114, Jalan Irama Sendayan 1/2B, Taman Irama Sendayan 1, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 460000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1igNO6UBpOIVw1ZoS69xeFsBwkVjUkSlz&sz=w800",
+      "https://drive.google.com/thumbnail?id=1RgFhNnJfIFM5wDcWcpqFKvK6-IWYAqpC&sz=w800",
+      "https://drive.google.com/thumbnail?id=1vQTymssqwriLFmG3OrqlcRh53lm1UI7h&sz=w800"
     ]
   },
   {
@@ -4591,6 +11913,23 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
       "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
       "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "691",
+    "title": "2 Storey Terrace House",
+    "address": "No. 53, Jalan Tasik Senangin 1C/1, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
+    "postcode": "71750",
+    "state": "Negeri Sembilan",
+    "area": "Lenggeng",
+    "reservePrice": 320760,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
     ]
   },
   {
@@ -4628,6 +11967,25 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "694",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1260, Jalan Kaloi 20, Taman Permai 2, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 240000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1DYN0_ljvH5vz2-Y5lf_AgnquhxQQwXuN&sz=w800",
+      "https://drive.google.com/thumbnail?id=14734aOSDmrirAZhEf9eK3LMox1nvWeml&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "695",
     "title": "[9 min to Pantai Tanjung Biru] Apartment [Close to Tanjung Tuan Recreational Forest]",
     "address": "Unit No. D-5-36, PD Tiara Bay Apartment (Tiara Beach Resort), Batu 13 Jalan Pantai, 71250 Pasir Panjang, Port Dickson, Negeri Sembilan",
@@ -4647,6 +12005,46 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "696",
+    "title": "2 Storey Terrace House",
+    "address": "No. 574, Jalan Hijayu 2/49, Resort Homes, Hijayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 444690,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "162 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
+    "id": "697",
+    "title": "2 Storey Terrace House",
+    "address": "No. 183, Jalan Laman Sendayan 1A/6, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 518400,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "734 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uVO2yvswetVDr-gTjSnqrvXPazX4Za5A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1khMGYJroUxQUe8q1n_rzrs37RIMoXs8A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1gzLFHXLzHSzuvRqdsGZYa51c8fzI_2yS&sz=w800",
+      "https://drive.google.com/thumbnail?id=1zp1StLmpLuGE4noKGTTUQsQjucvsvOkt&sz=w800",
+      "https://drive.google.com/thumbnail?id=1a0hHZhTTqBvz2RtxNFSW1DNhrhSWqS4r&sz=w800"
+    ]
+  },
+  {
     "id": "698",
     "title": "2 Storey Terrace House",
     "address": "No. 356, Jalan Lazuli 14, Taman Lazuli 2, Off Jalan Labu, 70200 Seremban, Negeri Sembilan",
@@ -4661,6 +12059,26 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1SqWO3gH0s75f1l9imlQyXXCrwm_T5dy4&sz=w800"
+    ]
+  },
+  {
+    "id": "699",
+    "title": "2 Storey Terrace House",
+    "address": "No. 28, Jalan Irama Sendayan 1/1A, Taman Irama Sendayan 1, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 405000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "142 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1lUxVjS25wEKl4j0CHgrYMDQoSG-MeNlB&sz=w800",
+      "https://drive.google.com/thumbnail?id=1igNO6UBpOIVw1ZoS69xeFsBwkVjUkSlz&sz=w800",
+      "https://drive.google.com/thumbnail?id=1RgFhNnJfIFM5wDcWcpqFKvK6-IWYAqpC&sz=w800",
+      "https://drive.google.com/thumbnail?id=1vQTymssqwriLFmG3OrqlcRh53lm1UI7h&sz=w800"
     ]
   },
   {
@@ -4684,6 +12102,25 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "701",
+    "title": "2 Storey Terrace House",
+    "address": "No. 411, Jalan Ara Sendayan 2/3, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 468000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Nom0Qy-H63zOkykopvsYilfaLhU1gEX9&sz=w800",
+      "https://drive.google.com/thumbnail?id=1Hs0Vm8hq9vSIoKWOz4DWFTnPNZzO4hrV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "702",
     "title": "2 Storey Terrace House",
     "address": "No. 1773, Jalan Bayu Sutera 4/12, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
@@ -4698,6 +12135,63 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1PnWeRa4cMSRnRlyAz9urHCDUqt4ZSl1Y&sz=w800"
+    ]
+  },
+  {
+    "id": "703",
+    "title": "3 Storey Terrace House",
+    "address": "No. 109, Jalan Forest Heights 3/4, Precinct 3, Forest Heights, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 850000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1wEkJGISHjuGxEuDK8uvWrD0uXjQRURRy&sz=w800",
+      "https://drive.google.com/thumbnail?id=11zdgOHLTu5n9CZkjLDFX2f5-vqv8T4q7&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "704",
+    "title": "2 Storey Terrace House",
+    "address": "No. 842, Jalan Laman Sendayan 2B/4, Laman Sendayan Fasa 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 470000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "140 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uVO2yvswetVDr-gTjSnqrvXPazX4Za5A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1khMGYJroUxQUe8q1n_rzrs37RIMoXs8A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1gzLFHXLzHSzuvRqdsGZYa51c8fzI_2yS&sz=w800",
+      "https://drive.google.com/thumbnail?id=1zp1StLmpLuGE4noKGTTUQsQjucvsvOkt&sz=w800",
+      "https://drive.google.com/thumbnail?id=1a0hHZhTTqBvz2RtxNFSW1DNhrhSWqS4r&sz=w800"
+    ]
+  },
+  {
+    "id": "705",
+    "title": "1 Storey Terrace House",
+    "address": "No. 36, Jalan Tasik Senangin 16/13, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
+    "postcode": "71750",
+    "state": "Negeri Sembilan",
+    "area": "Lenggeng",
+    "reservePrice": 360000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "240 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
     ]
   },
   {
@@ -4718,6 +12212,46 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "707",
+    "title": "2 Storey Terrace House",
+    "address": "No. 439, Jalan Hijayu 2/46, Resort Homes, Hijayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 474000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "873 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
+    "id": "708",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1609, Jalan Hijayu 3/60, Hijayu 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 445500,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "765 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1_zvrt7sE25a11pxxY_uxzKX4eGCsoH5v&sz=w800",
+      "https://drive.google.com/thumbnail?id=1KIWlLy3LqkWDgTQNB23PyT1GQSo2rDaF&sz=w800",
+      "https://drive.google.com/thumbnail?id=1w3w8PJe7gzK0dFbDYy8XHBwB5jpFeK84&sz=w800",
+      "https://drive.google.com/thumbnail?id=1K8US_DAU4EBYwsH9tJUYs89QB4ymDpI0&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d5jk0p9sWEn0HQB6O2TzEW2NiBFP4ado&sz=w800"
+    ]
+  },
+  {
     "id": "709",
     "title": "2 Storey Terrace House",
     "address": "No. 144, Jalan Timur 2/4C, Timur @ Enstek, 71760 Bandar Enstek, Negeri Sembilan",
@@ -4732,6 +12266,25 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1wDxDtIsPl8sO0EiqkKTzqwTubHokSSV-&sz=w800"
+    ]
+  },
+  {
+    "id": "710",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1195, Jalan Suriaman 3/14, Suriaman 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 765000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "228 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1tLpQnqQjR0AX-lgYHl8F-rhv_E7DyVFt&sz=w800",
+      "https://drive.google.com/thumbnail?id=1-a2q43KaD5drsWu587ZhonHMmPlqS2Rz&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
     ]
   },
   {
@@ -4840,6 +12393,44 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "717",
+    "title": "2 Storey Terrace House",
+    "address": "No. 280, Jalan RPPD 3, Residensi Prima Port Dickson, 71010 Port Dickson, Negeri Sembilan",
+    "postcode": "71010",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 279000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1vfCi9KGkg30Pn0bF1vjk-4uOGssud3eO&sz=w800",
+      "https://drive.google.com/thumbnail?id=12BRHskWW5nxbJ0jmYiJhDLgOYNsxDP7K&sz=w800",
+      "https://drive.google.com/thumbnail?id=15ynG425VAuHlKVgr3BlZ45Ktit7K1v8B&sz=w800"
+    ]
+  },
+  {
+    "id": "718",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1174, Jalan SJ 9/8, Taman Seremban Jaya, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 200000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "293 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1x5qa4tzadNrbPLYnuJqAQEvFsK_-kiB6&sz=w800",
+      "https://drive.google.com/thumbnail?id=1kkx413dPRxjPpbzMsTOPGBu8s2Fq743R&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "719",
     "title": "1 Storey Terrace House",
     "address": "No. 135, Jalan Mutiara 6, Taman Mutiara, 71200 Rantau, Negeri Sembilan",
@@ -4871,6 +12462,25 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1Vt4NuWJm52micSRCFEqqcr8Nh5sILZYW&sz=w800"
+    ]
+  },
+  {
+    "id": "721",
+    "title": "2 Storey Terrace House",
+    "address": "No. 330, Jalan T.M 12, Taman Mulia, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 430000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "265 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1tVxsSROaGoD1w2hoEpPalUWQTxG7E5XJ&sz=w800",
+      "https://drive.google.com/thumbnail?id=116_1c3IqVParaNPNIdbFi0rgLRrqNA60&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
     ]
   },
   {
@@ -5121,6 +12731,93 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "736",
+    "title": "2 Storey Terrace House",
+    "address": "No. 991, Jalan Hijayu 2/62, Resort Residence, Hijayu 2, Bandar Sri Sendayan, 71950 Seremban, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 558000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
+    "id": "737",
+    "title": "1 Storey Terrace House",
+    "address": "No. 556, Jalan Nilam Sari 16, Taman Nilam Sari Fasa 2, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 260000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "738",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1609, Jalan Politeknik 31, Taman Politeknik, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 137700,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "739",
+    "title": "1 Storey Terrace House",
+    "address": "No. 21, Jalan 3/5, Taman Intan Perdana, Batu 9 Jalan Pantai, 71050 SI Rusa, Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 175000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "740",
+    "title": "1 Storey Terrace House",
+    "address": "No. 52, Jalan 3/7, Taman Intan Perdana, Batu 9 Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 129600,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "741",
     "title": "2 Storey Detached House",
     "address": "No. 45, Jalan Bukit Senawang Perdana 4, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
@@ -5135,6 +12832,61 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
+    ]
+  },
+  {
+    "id": "742",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 179, Lorong Iringan Bayu 38/6, Precint 8, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 480000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "810 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "743",
+    "title": "Apartment",
+    "address": "Block Nyior, Desa Palma Apartment, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 105300,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1BtPbOOGh-77UqDUw0IUGQDyXE4DOh75Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YhViVNfxBprKtcWvsyZkeu_xjlUq2Efh&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "744",
+    "title": "2 Storey Terrace House",
+    "address": "No. 371, Jalan Springhill 10/23, Bandar Springhill, 71100 Port Dickson, Negeri Sembilan",
+    "postcode": "71100",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 475000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "737 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1iX33VkUNNWAgg2Ctl3xhhMEQwWB11bFS&sz=w800"
     ]
   },
   {
@@ -5188,6 +12940,42 @@ export const PROPERTIES: Property[] = [
       "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
       "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800",
       "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "748",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22, Jalan Iringan Bayu 19, Precint 2, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 298890,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "920 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "749",
+    "title": "2 Storey Terrace House",
+    "address": "No. 66, Jalan Tasik Senangin 16/5, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
+    "postcode": "71750",
+    "state": "Negeri Sembilan",
+    "area": "Lenggeng",
+    "reservePrice": 364500,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
     ]
   },
   {
@@ -5275,6 +13063,42 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=165SU-yOWbOlW6eylOmhnAZWcrJSRCne3&sz=w800"
+    ]
+  },
+  {
+    "id": "755",
+    "title": "2 Storey Terrace House",
+    "address": "No. 324, Jalan Ekar 4/7, Residensi Prima Bandar Ekar, Bandar Ekar, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 400000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "520 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ZdVhvCUiOQ83VngigICZpwGsg30uuIwk&sz=w800"
+    ]
+  },
+  {
+    "id": "756",
+    "title": "2 Storey Terrace House",
+    "address": "No. 357, Lorong Iringan Bayu 35/2, Precinct 3, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 450000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "566 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
     ]
   },
   {
@@ -5467,6 +13291,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "768",
+    "title": "1 Storey Terrace House",
+    "address": "No. 83, Jalan Bukit Citra 2/4, Taman Bukit Citra, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 279000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uwizljoS-YXIUpqAQIHP029Ju_DtxZtb&sz=w800"
+    ]
+  },
+  {
     "id": "769",
     "title": "2 Storey Terrace House",
     "address": "No. 2002, Jalan Warisan Puteri A69, Precint 6, Taman Warisan Puteri, 70400 Seremban, Negeri Sembilan",
@@ -5505,6 +13346,23 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "771",
+    "title": "2 Storey Terrace House",
+    "address": "No. 296, Jalan Ekar 4/6, Residensi Prima Bandar Ekar, Bandar Ekar, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 300000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "824 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ZdVhvCUiOQ83VngigICZpwGsg30uuIwk&sz=w800"
+    ]
+  },
+  {
     "id": "772",
     "title": "2 Storey Terrace House",
     "address": "No. 283, Jalan Azalea 4/4, Nilai Utama, 71800 Nilai, Negeri Sembilan",
@@ -5519,6 +13377,23 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1c8r6fYYFKyULZNYsroeuGLZhFg6oDr08&sz=w800"
+    ]
+  },
+  {
+    "id": "773",
+    "title": "2 Storey Terrace House",
+    "address": "No. 239, Jalan Desa Mayang Sari 2/2, Taman Desa Mayang Sari, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 530000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1SAByADtCFlNBc9AT3BLnqi7yb_Snx8cB&sz=w800"
     ]
   },
   {
@@ -5553,6 +13428,23 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1ArWjVwEhxeLZmWj7TDUapJRQMNh3KrfX&sz=w800"
+    ]
+  },
+  {
+    "id": "776",
+    "title": "1 Storey Terrace House",
+    "address": "No. 149 (PT 2673), Jalan Musytari 10, Taman Musytari, 72200 Batu Kikir, Negeri Sembilan",
+    "postcode": "72200",
+    "state": "Negeri Sembilan",
+    "area": "Batu Kikir",
+    "reservePrice": 162000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
     ]
   },
   {
@@ -5629,6 +13521,25 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "781",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1251, Jalan Ara Sendayan 5/11, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 423000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Nom0Qy-H63zOkykopvsYilfaLhU1gEX9&sz=w800",
+      "https://drive.google.com/thumbnail?id=1Hs0Vm8hq9vSIoKWOz4DWFTnPNZzO4hrV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "782",
     "title": "Apartment",
     "address": "Paradise Lagoon, Batu 2, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
@@ -5680,6 +13591,57 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "785",
+    "title": "1 Storey Terrace House",
+    "address": "No. 120, Jalan Musytari 9, Taman Musytari, 72200 Batu Kikir, Negeri Sembilan",
+    "postcode": "72200",
+    "state": "Negeri Sembilan",
+    "area": "Batu Kikir",
+    "reservePrice": 200000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "937 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "786",
+    "title": "2 Storey Terrace House",
+    "address": "No. 157, Jalan Springhill 9/3A, Bandar Springhill, 71010 Port Dickson, Negeri Sembilan",
+    "postcode": "71010",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 170000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1iX33VkUNNWAgg2Ctl3xhhMEQwWB11bFS&sz=w800"
+    ]
+  },
+  {
+    "id": "787",
+    "title": "1 Storey Terrace House",
+    "address": "No. 979, Jalan Intan 2/1, Taman Bukit Sentosa, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 200000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "788",
     "title": "Terrace House",
     "address": "Jalan Bayu Sutera 4/16, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
@@ -5711,6 +13673,46 @@ export const PROPERTIES: Property[] = [
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1nDp77_y5oLMPP99tuotzyhzkWmanbIw7&sz=w800"
+    ]
+  },
+  {
+    "id": "790",
+    "title": "Apartment",
+    "address": "Block E, Desa Palma Apartment, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 135000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1BtPbOOGh-77UqDUw0IUGQDyXE4DOh75Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YhViVNfxBprKtcWvsyZkeu_xjlUq2Efh&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "791",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Laman Sendayan 1A/4, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 380700,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uVO2yvswetVDr-gTjSnqrvXPazX4Za5A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1khMGYJroUxQUe8q1n_rzrs37RIMoXs8A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1gzLFHXLzHSzuvRqdsGZYa51c8fzI_2yS&sz=w800",
+      "https://drive.google.com/thumbnail?id=1zp1StLmpLuGE4noKGTTUQsQjucvsvOkt&sz=w800",
+      "https://drive.google.com/thumbnail?id=1a0hHZhTTqBvz2RtxNFSW1DNhrhSWqS4r&sz=w800"
     ]
   },
   {
@@ -5748,6 +13750,25 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "794",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Iringan Bayu 20, Precint 2, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 435000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "795",
     "title": "Retail Unit",
     "address": "Unit No. G-38, Ground Floor, Terminal One Shopping Centre, No. 20B, Jalan Lintang, 70200 Seremban, Negeri Sembilan",
@@ -5762,6 +13783,40 @@ export const PROPERTIES: Property[] = [
     "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=19JH9AoMLg87aTgJ_MRHX7ubZXyLtBBY_&sz=w800"
+    ]
+  },
+  {
+    "id": "796",
+    "title": "1 Storey Terrace House",
+    "address": "No. 247, Taman Senawang Jaya, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 200000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "689 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1O6SNiH43di2x-ewrweRZEQADSWcRZ9oD&sz=w800"
+    ]
+  },
+  {
+    "id": "797",
+    "title": "Apartment",
+    "address": "Pangsapuri Kalista 1, Persiaran S2 G1, Seksyen G, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 290000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
     ]
   },
   {
@@ -5782,6 +13837,94 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
+    "id": "799",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Bungai Raya 2, Taman Bunga Raya, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 295000,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "210 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "800",
+    "title": "2 Storey Split Level Detached House",
+    "address": "Jalan Rasah, Taman Bukit Rasah, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 480000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "428 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "801",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Politeknik 29, Taman Politeknik, Batu Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 153090,
+    "auctionDate": "18 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "802",
+    "title": "2 Storey Terrace House",
+    "address": "No. 70, Jalan Irama Sendayan 2/1B, Taman Irama Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 500000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "071 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1lUxVjS25wEKl4j0CHgrYMDQoSG-MeNlB&sz=w800",
+      "https://drive.google.com/thumbnail?id=1igNO6UBpOIVw1ZoS69xeFsBwkVjUkSlz&sz=w800",
+      "https://drive.google.com/thumbnail?id=1RgFhNnJfIFM5wDcWcpqFKvK6-IWYAqpC&sz=w800",
+      "https://drive.google.com/thumbnail?id=1vQTymssqwriLFmG3OrqlcRh53lm1UI7h&sz=w800"
+    ]
+  },
+  {
+    "id": "803",
+    "title": "Terrace House",
+    "address": "Jalan Shorea Hartamas 8, Taman Shorea Hartamas, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 500000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
     "id": "804",
     "title": "2 Storey Bungalow",
     "address": "No. 572, Jalan Bukit Senawang Perdana 22, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
@@ -5797,6 +13940,20610 @@ export const PROPERTIES: Property[] = [
     "images": [
       "https://drive.google.com/thumbnail?id=1owzwKvwzLNvAEFNSHril1YcvaCsuz6ml&sz=w800",
       "https://drive.google.com/thumbnail?id=1Cuk-QId0ZyR5EfUYigCAdPnnKuxYEq5A&sz=w800"
+    ]
+  },
+  {
+    "id": "805",
+    "title": "1 Storey Terrace House",
+    "address": "No. 799, Lorong Mahkota 19/2, Taman Seri Mahkota, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 189000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "806",
+    "title": "1 Storey Terrace House",
+    "address": "No. 265, Jalan Seroja 1/4, Taman Seroja, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 178200,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "550 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "807",
+    "title": "1 Storey Terrace House",
+    "address": "No. 261, Lorong Ria 15/1, Taman Ria, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 360000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "808",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Jalan Kemboja 31/A, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 240000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "809",
+    "title": "Terrace House",
+    "address": "No. 30, Lorong 42C, Taman Bandar Baru, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 129600,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "810",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 311, Lorong Kijang 3/6, Taman Kijang, 09600 Lunas, Kedah",
+    "postcode": "09600",
+    "state": "Kedah",
+    "area": "Lunas",
+    "reservePrice": 232000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "811",
+    "title": "1 Storey Terrace House",
+    "address": "Persiaran Utama 2, Kulim Utama, Kulim Hi- Tech Park, 09090 Kulim, Kedah",
+    "postcode": "09090",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 310000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "812",
+    "title": "Terrace House",
+    "address": "No. 46, Jalan Natura 2/2, Bandar Seri Astana, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 256500,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "813",
+    "title": "Land",
+    "address": "Lot 501 (GM 370), Sekyen 8, Bandar Pokok Sena, Daerah Pokok Sena, Kedah",
+    "postcode": "",
+    "state": "Kedah",
+    "area": "Daerah Pokok Sena",
+    "reservePrice": 290000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "814",
+    "title": "1 Storey Terrace House",
+    "address": "No. 792, Lorong 24 , Jalan Kuala Kangsar, Taman Ria, 34700 Simpang, Perak",
+    "postcode": "34700",
+    "state": "Perak",
+    "area": "Simpang",
+    "reservePrice": 126000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "815",
+    "title": "1 Storey Terrace House",
+    "address": "No. 176, Lorong 9, Taman Jana Permai, 34600 Kamunting, Perak",
+    "postcode": "34600",
+    "state": "Perak",
+    "area": "Kamunting",
+    "reservePrice": 220000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "816",
+    "title": "2 Storey Terrace House",
+    "address": "No. 194, Jalan Perak, Taman Rakyat, 34600 Kamunting, Perak",
+    "postcode": "34600",
+    "state": "Perak",
+    "area": "Kamunting",
+    "reservePrice": 162000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "147 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "817",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 36, Taman Beruas, 32700 Beruas, Perak",
+    "postcode": "32700",
+    "state": "Perak",
+    "area": "Beruas",
+    "reservePrice": 216000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "511 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "818",
+    "title": "2 Storey Terrace House",
+    "address": "No. 29, Lorong Bersatu 6, Taman Simpang Bersatu, 34700 Simpang, Perak",
+    "postcode": "34700",
+    "state": "Perak",
+    "area": "Simpang",
+    "reservePrice": 396000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "819",
+    "title": "Apartment",
+    "address": "Unit No. 863-3A, Jalan Baru, Taman Tasik Emas, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 31500,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "820",
+    "title": "2 Storey Terrace House",
+    "address": "No. 74, Jalan Suasa 2, Taman Bandar Baru Utama, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 230000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "821",
+    "title": "1 Storey Terrace House",
+    "address": "No. 39, Laluan Prisma 19, Taman Pengkalan Prisma, 31550 Pusing, Perak",
+    "postcode": "31550",
+    "state": "Perak",
+    "area": "Pusing",
+    "reservePrice": 162000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "822",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 3, Lebuh Mawar, Taman Tunas Jaya, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 580000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "390 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "823",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1, Laluan Wawasan 4, Taman Tronoh Wawasan, 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 170100,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "660 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "824",
+    "title": "1 Storey Terrace House",
+    "address": "No. 53, Laluan Kelebang Jaya 33, Taman Klebang Jaya, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 125000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "825",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Jalan Kinding Perdana 11, Taman Kinding Perdana, 31250 Tanjung Rambutan, Perak",
+    "postcode": "31250",
+    "state": "Perak",
+    "area": "Tanjung Rambutan",
+    "reservePrice": 180000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "431 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "826",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1392, Jalan Residen 4/18, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 162000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "827",
+    "title": "1 Storey Terrace House",
+    "address": "No. 113, Lorong 1, Taman Kaya, 34000 Taiping, Perak",
+    "postcode": "34000",
+    "state": "Perak",
+    "area": "Taiping",
+    "reservePrice": 190000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "828",
+    "title": "Apartment",
+    "address": "Unit No. 7B-5-19, Pangsapuri Palm Court, Jalan Seri Tanjung Pinang, 10470 Tanjong Pinang, Penang",
+    "postcode": "10470",
+    "state": "Penang",
+    "area": "Tanjong Pinang",
+    "reservePrice": 177147,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "829",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Solok Kalui, Seberang Jaya, 13700 Perai, Penang",
+    "postcode": "13700",
+    "state": "Penang",
+    "area": "Perai",
+    "reservePrice": 230000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "227 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "830",
+    "title": "Flat",
+    "address": "Unit No. 4-G-15, Tingkat Seri Genting 1, 11000 Balik Pulau, Penang",
+    "postcode": "11000",
+    "state": "Penang",
+    "area": "Balik Pulau",
+    "reservePrice": 145800,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "495 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "831",
+    "title": "Apartment",
+    "address": "Unit No. 5-09-07, Villa Kejora, Hilir Paya Terubong 2, Relau, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 234900,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "699 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "832",
+    "title": "Flat",
+    "address": "Unit No. 330-15-03, Jalan Bukit Gambir, Taman Gambir, 11700 Gelugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Gelugor",
+    "reservePrice": 135000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "473 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "833",
+    "title": "Apartment",
+    "address": "Unit No. 1-11-7, Jalan Tapah (Taman Sri Bunga), 11600 Jelutong, Penang",
+    "postcode": "11600",
+    "state": "Penang",
+    "area": "Jelutong",
+    "reservePrice": 315000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "834",
+    "title": "Condominium",
+    "address": "Unit No. 1A-10-3A, Platino Condominium, No. 1, Persiaran Tunku Kudin, 11700 Gelugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Gelugor",
+    "reservePrice": 1125000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "819 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "835",
+    "title": "Condominium",
+    "address": "Unit No. 1D-20-5, Sunny Ville, Jalan Batu Uban, 11700 Gelugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Gelugor",
+    "reservePrice": 450000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "836",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Lintang Mawar 1, Taman Mawar, 12300 Butterworth, Penang",
+    "postcode": "12300",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 950000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "110 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "837",
+    "title": "1 Storey Terrace House",
+    "address": "No. 80, Jalan Sepadu Jaya 2, Taman Sepadu Jaya, 13300 Tasek Gelugor, Penang",
+    "postcode": "13300",
+    "state": "Penang",
+    "area": "Tasek Gelugor",
+    "reservePrice": 350000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "838",
+    "title": "Apartment",
+    "address": "Unit No. 23-7-10, Lintang Batu Lancang, Taman Seri Damai, 11600 Jelutong, Penang",
+    "postcode": "11600",
+    "state": "Penang",
+    "area": "Jelutong",
+    "reservePrice": 141750,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "571 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "839",
+    "title": "Apartment",
+    "address": "Unit No. 1A-17-7, Desa Bayan, Jalan Merbah, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 330000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "840",
+    "title": "1 Storey Terrace House",
+    "address": "No. A/103, Taman Bahtera, Jalan Kuala Kedah, 06600 Kuala Kedah, Kedah",
+    "postcode": "06600",
+    "state": "Kedah",
+    "area": "Kuala Kedah",
+    "reservePrice": 240000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "100 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "841",
+    "title": "1 Storey Terrace House",
+    "address": "No. 46, Laluan Taman Jati 5, Taman Meru Jaya, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 160000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "593 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "842",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 3101, Lorong 22, Taman Ria, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 306000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "600 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "843",
+    "title": "2 Storey Detached House",
+    "address": "No. 252, Lorong Empat, Taman Julaiha, 36400 Hutan Melintang, Perak",
+    "postcode": "36400",
+    "state": "Perak",
+    "area": "Hutan Melintang",
+    "reservePrice": 546750,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "661 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "844",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 58, Jalan Desa Sitiawan 2/2, Taman Desa Sitiawan II, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 210600,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "845",
+    "title": "1 Storey Terrace House",
+    "address": "No. 31, Laluan Klebang Restu 6, Medan Klebang Restu, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 252000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "846",
+    "title": "1 Storey Terrace House",
+    "address": "No. 64, Persiaran Hulu Bercham 2, Bandar Baru Putra, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 198000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "760 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "847",
+    "title": "Terrace House",
+    "address": "Laluan Perpaduan Ria 2, Taman Perpaduan Raya, 31150 Ulu Kinta, Perak",
+    "postcode": "31150",
+    "state": "Perak",
+    "area": "Ulu Kinta",
+    "reservePrice": 430000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "848",
+    "title": "1 Storey Terrace House",
+    "address": "No. 3, Margosa A/4, Bandar Seri Botani, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 200000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "681 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "849",
+    "title": "Terrace House",
+    "address": "No. 32, Jalan Raia Utama 2, Taman Raia Utama, 31600 Gopeng, Perak",
+    "postcode": "31600",
+    "state": "Perak",
+    "area": "Gopeng",
+    "reservePrice": 230000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "240 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "850",
+    "title": "1 Storey Terrace House",
+    "address": "No. 148, Lorong Warisan 3, Fasa 3B, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 208000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "930 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "851",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 536, Jalan Residen 3/14, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 210000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "852",
+    "title": "1 Storey Terrace House",
+    "address": "No. 817, Jalan Residen 3/20, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 198000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "853",
+    "title": "Terrace House",
+    "address": "Jalan Permai 1/2, Taman Kerian Permai, 34200 Parit Buntar, Perak",
+    "postcode": "34200",
+    "state": "Perak",
+    "area": "Parit Buntar",
+    "reservePrice": 550000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "854",
+    "title": "2 Storey Terrace House",
+    "address": "No. 78, Persiaran Klebang Selatan 29, Taman Bertuah, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 160000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "855",
+    "title": "1 Storey Terrace House",
+    "address": "No. 452, Laluan Kledang 5/3, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 113400,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "856",
+    "title": "1 Storey Terrace House",
+    "address": "No. 56, Jalan Raja Perempuan Muzwin, Taman Rishah, 30100 Ipoh, Perak",
+    "postcode": "30100",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 260000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "857",
+    "title": "Service Apartment",
+    "address": "Unit No. B-6-9, Kampar Unilodge, Jalan Siswa 3, Taman Kampar Siswa, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 110000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "635 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "858",
+    "title": "Town House",
+    "address": "Unit No. 392A, Persiaran Kledang 8, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 91125,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "859",
+    "title": "Town House",
+    "address": "Unit No. 9A, Laluan Bemban Iris 7, Taman Bemban Iris, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 112500,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "860",
+    "title": "1 Storey Terrace House",
+    "address": "No. 48, Jalan Bemban Indah 7, Taman Bemban Indah, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 167670,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "861",
+    "title": "2 Storey Terrace House",
+    "address": "No. 25, Persiaran Tembok 8, Taman Sri Desa, 30010 Ipoh, Perak",
+    "postcode": "30010",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 281880,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "862",
+    "title": "Town House",
+    "address": "Unit No. 368B, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 88000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "775 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "863",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Jalan Chepor Perdana 7, Bandar Baru Chepor, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 340000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "864",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 33 (PT 20113), Jalan Stesyen, Taman Impian, 34600 Kamunting, Perak",
+    "postcode": "20113",
+    "state": "Perak",
+    "area": "Kamunting",
+    "reservePrice": 218700,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "467 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "865",
+    "title": "1 Storey Terrace House",
+    "address": "No. 595, Laluan Kledang 5/6, Taman Kledang, 31100, Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 109350,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "866",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2A, Jalan Mahkota Kampar 5, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 200000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "867",
+    "title": "1 Storey Terrace House",
+    "address": "No. 860, Jalan Residen 4/14, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 178200,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "868",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Persiaran Gading 11, Taman Gading, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 210000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "869",
+    "title": "Semi Detached House",
+    "address": "No. 9, Jalan Suria Firus 1, Taman Suria Firus, 34200 Parit Buntar, Perak",
+    "postcode": "34200",
+    "state": "Perak",
+    "area": "Parit Buntar",
+    "reservePrice": 450000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "303 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "870",
+    "title": "1 Storey Terrace House",
+    "address": "No. 36, Lorong Lagenda 71, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 210000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "871",
+    "title": "1 Storey Terrace House",
+    "address": "No. 332, Jalan Residen 3/8, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 198000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "872",
+    "title": "1 Storey Terrace House",
+    "address": "No. 58, Persiaran Jelapang 7, Taman Silibin, 30100 Ipoh, Perak",
+    "postcode": "30100",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 198000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "873",
+    "title": "1 Storey Shop House",
+    "address": "No. 16, Jalan Rimba Setia 1, Taman Rimba Setia, 31100 Sungai Siput, Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput",
+    "reservePrice": 162000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "852 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "874",
+    "title": "2 Storey Terrace House",
+    "address": "No. 165, Lorong 3, Taman Bakar Arang, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 230850,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "408 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "875",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Bandar Puteri Jaya 2/26, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 320000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "882 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "876",
+    "title": "Apartment",
+    "address": "Unit No. C-2-24, Jalan Desa Aman S 10/3, Pangsapuri Enesta Desa Aman, 09410 Padang Meha, Kedah",
+    "postcode": "09410",
+    "state": "Kedah",
+    "area": "Padang Meha",
+    "reservePrice": 211500,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "872 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "877",
+    "title": "2 Storey Terrace House",
+    "address": "No. 343, Jalan Seri Bayu 2/11, Taman Seri Bayu, Sungai Lalang, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 225990,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "878",
+    "title": "Semi Detached House",
+    "address": "No. 23, Tanjung Indah, Taman Seri Tanjung, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 324000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "358 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "879",
+    "title": "1 Storey Terrace House",
+    "address": "No. A331, Jalan Sinar Mentari A16, Taman Sinar Mentari, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 152000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "880",
+    "title": "1 Storey Terrace House",
+    "address": "No. 411, Jalan Seroja 2/9, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 216000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "881",
+    "title": "2 Storey Detached House",
+    "address": "No. 110, Persiaran Utama 1/20, Kulim Utama/Kulim Hi-Tech Park, 09090 Kulim, Kedah",
+    "postcode": "09090",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 405000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "318 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "882",
+    "title": "1 Storey Semi Detached House",
+    "address": "No.120, Jalan Kenanga 7/3, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 400000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "263 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "883",
+    "title": "2 Storey Terrace House",
+    "address": "No. 383A, Lengkok Sinar Intan 6/1, Taman Sinar Intan, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 342000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "884",
+    "title": "Terrace House",
+    "address": "No. 1868, Jalan Serai Wangi 5/5, Taman Serai Wangi, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 320000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "604 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "885",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 261, Jalan SP Heights 7, SP Heights, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 360000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "768 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "886",
+    "title": "2 Storey Terrace House",
+    "address": "No. 341, Lorong Jati 1/1, Taman Jati, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 310000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "887",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2875, Jalan Permata 2/8, Bandar Permata Lunas, 09600 Lunas, Kedah",
+    "postcode": "09600",
+    "state": "Kedah",
+    "area": "Lunas",
+    "reservePrice": 259200,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "061 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "888",
+    "title": "2 Storey Terrace House",
+    "address": "No. 4, Persiaran Bercham Utara 8, Taman Ramai, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 129600,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "140 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "889",
+    "title": "1 Storey Terrace House",
+    "address": "No. 45, Lorong Lagenda 59, Seksyen 3, Bandar Lagenda, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 144000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "890",
+    "title": "2 Storey Terrace House",
+    "address": "No. 28, Chemor Ria 2, Taman Chemor Ria, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 388800,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "766 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "891",
+    "title": "1 Storey Terrace House",
+    "address": "No. 58, Lorong Lagenda 37, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 145800,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "892",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2614, Jalan Residen 1/32, Residen 1, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 162000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "893",
+    "title": "1 Storey Terrace House",
+    "address": "No. CC391, Persiaran Seri Tanjung, Fasa 3A, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 130000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "335 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "894",
+    "title": "Condominium",
+    "address": "Unit No. B-5-6, Block B, Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 226800,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "861 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "895",
+    "title": "2 Storey Terrace House",
+    "address": "Laluan BTI 1/23A, Bandar Tasik Idaman, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 440000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "896",
+    "title": "Terrace House",
+    "address": "No. 6, Lorong Aman 9, Residensi PR1MA Kamunting, 34600 Kamunting, Perak",
+    "postcode": "34600",
+    "state": "Perak",
+    "area": "Kamunting",
+    "reservePrice": 243000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "897",
+    "title": "2 Storey Terrace House",
+    "address": "No. 49, Laluan Klebang Perdana 36, Klebang Perdana, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 558000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "874 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "898",
+    "title": "1 Storey Terrace House",
+    "address": "No. 70, Lorong Lagenda 45, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 220000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "899",
+    "title": "1 Storey Terrace House",
+    "address": "No. 616, Laluan Kledang 5/8, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 112000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "900",
+    "title": "1 Storey Terrace House",
+    "address": "No. 503, Laluan Kledang 5/4, Taman Kledang, 31100 Sungai Siput, Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput",
+    "reservePrice": 160000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "691 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "901",
+    "title": "2 Storey Terrace House",
+    "address": "No. 16, Jalan Taman Meru 10, Taman Meru 2B, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 440000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "902",
+    "title": "1 Storey Terrace House",
+    "address": "No. 629, Laluan Kledang 5/8, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 104000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "432 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "903",
+    "title": "1 Storey Semi Detached Cluster House",
+    "address": "No. 369, Jalan Residen 2/3, Residen 2, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 202500,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "981 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "904",
+    "title": "2 Storey Terrace House",
+    "address": "No. 53, Laluan Pengkalan Indah 8, Taman Pengkalan Indah, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 275400,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "905",
+    "title": "2 Storey Terrace House",
+    "address": "No. 15, Jalan Lakeville 36, Bandar Universiti, 32610 Seri Iskandar, Perak",
+    "postcode": "32610",
+    "state": "Perak",
+    "area": "Seri Iskandar",
+    "reservePrice": 330000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "906",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1063, Laluan Kledang 4/4, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 117000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "907",
+    "title": "Commercial Land",
+    "address": "PT 5478, Taman Setia, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 140000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "603 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "908",
+    "title": "1 Storey Terrace House",
+    "address": "No. 8, Jalan Mahkota Kampar 4, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 260000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "909",
+    "title": "Shop Lot",
+    "address": "Unit No. 5-G, Jalan Kampar Barat 9, Taman Kampar Barat, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 144000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "217 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "910",
+    "title": "Condominium",
+    "address": "Unit No. C-G-5, Kondominium Kelab Golf, Jalan Kelab Golf, 30350 Ipoh, Perak",
+    "postcode": "30350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 250776,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "163 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "911",
+    "title": "Service Suite",
+    "address": "Unit No. 19-23, Menara Agacia @ Kampar (Champ Elysees), Lingkaran Agacia, Bandar Agacia, 31910 Kampar, Perak",
+    "postcode": "31910",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 72900,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "431 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "912",
+    "title": "Condominium",
+    "address": "Unit No. E-G-2, Kondominium Kelab Golf, Jalan Kelab Golf, 30350 Ipoh, Perak",
+    "postcode": "30350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 384000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "163 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "913",
+    "title": "SOHO",
+    "address": "Unit No. 02-33, Level 2, Residensi Lagenda Ipoh, Jalan Sultan Nazrin Shah, 30250 Ipoh, Perak",
+    "postcode": "30250",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 270000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "914",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 28, Jalan Pala, Taman Usaha, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 300000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "250 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "915",
+    "title": "Apartment",
+    "address": "Unit No. 89-1-2, Taman Tanjong Bungah, 11200 Tanjong Bungah, Penang",
+    "postcode": "11200",
+    "state": "Penang",
+    "area": "Tanjong Bungah",
+    "reservePrice": 405000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "916",
+    "title": "1 Storey Terrace House",
+    "address": "No. 46, Lorong Seri Desa 9, Taman Seri Desa, 13300 Tasek Gelugor, Penang",
+    "postcode": "13300",
+    "state": "Penang",
+    "area": "Tasek Gelugor",
+    "reservePrice": 210000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "917",
+    "title": "Apartment",
+    "address": "Unit No. M3-6-5, Lorong Mahsuri 12, Bandar Bayan Baru, 11950 Bayan Lepas, Penang",
+    "postcode": "11950",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 300000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "915 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "918",
+    "title": "Apartment",
+    "address": "Unit No. M-5, Block Lantana, Lengkok Kelicap, Mutiara Perdana, MK 12, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 210000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "919",
+    "title": "Apartment",
+    "address": "Unit No. 10B-13A-2, Lengkok Kelicap, Forestville, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 390000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "920",
+    "title": "Studio Apartment",
+    "address": "Unit No. H-1-136 (also known as Unit No. 6555), LS Block H, Bukit Merah Laketown, 34400 Simpang Ampat Semanggol, Perak",
+    "postcode": "34400",
+    "state": "Perak",
+    "area": "Simpang Ampat Semanggol",
+    "reservePrice": 8199,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "310 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "921",
+    "title": "Studio Apartment",
+    "address": "Unit No. H-0-007 (also known on site as Unit No. 6498), LS Block H, Bukit Merah Laketown, 34400 Simpang Ampat Semanggol, Perak",
+    "postcode": "34400",
+    "state": "Perak",
+    "area": "Simpang Ampat Semanggol",
+    "reservePrice": 8199,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "310 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "922",
+    "title": "3 Storey Semi Detached House",
+    "address": "No. 2A, Jalan Sentri 2, Vila Sentri, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 792000,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "885 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "923",
+    "title": "2 Storey Cluster Semi Detached House",
+    "address": "No. 653, Jalan SP Saujana Permai 2/9, Taman SP Saujana Permai, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 504000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "376 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "924",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 134, Jalan Pr1ma 3, Pr1ma Residensi Utama, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 280000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "249 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "925",
+    "title": "1 Storey Terrace House",
+    "address": "No. 505, Jalan Bandar Puteri Jaya 2/13, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 234000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "926",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. A123A, Persiaran Venice Sutera 8/1, Desa Manjung Raya, 32200 Lumut, Perak",
+    "postcode": "32200",
+    "state": "Perak",
+    "area": "Lumut",
+    "reservePrice": 744000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "890 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "927",
+    "title": "2 Storey Terrace House",
+    "address": "No. 36, Lahat Sri Wang 23, Desa Lahat Sri Wang, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 267300,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "928",
+    "title": "2 Storey Terrace House",
+    "address": "No. 5, Jalan Klebang Rima 2, Taman Klebang Rima, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 291600,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "929",
+    "title": "1 Storey Terrace House",
+    "address": "No. 25, RPA Sungai Dungun, Lorong 2, Taman Seri Kurau, 34350 Kuala Kurau, Perak",
+    "postcode": "34350",
+    "state": "Perak",
+    "area": "Kuala Kurau",
+    "reservePrice": 89100,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "927 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "930",
+    "title": "2 Storey Semi Detached Cluster House",
+    "address": "No. 8, Tingkat Lahat Mines 3, Bandar Lahat Mines, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 567000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "625 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "931",
+    "title": "1 Storey Terrace House",
+    "address": "No. 44, Jalan Aman 3, Taman Larah Aman, 34600 Kamunting, Perak",
+    "postcode": "34600",
+    "state": "Perak",
+    "area": "Kamunting",
+    "reservePrice": 207000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "932",
+    "title": "2 Storey Terrace House",
+    "address": "No. 50, Jalan Menglembu Impiana 9, Taman Menglembu Impiana Adril, 31450 Menglembu, Perak",
+    "postcode": "31450",
+    "state": "Perak",
+    "area": "Menglembu",
+    "reservePrice": 300000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "933",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 10, Persiaran Tawas Permai 2, Taman Tawas Permai, 30010 Ipoh, Perak",
+    "postcode": "30010",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 420000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "885 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "934",
+    "title": "2 Storey Terrace House",
+    "address": "Sri Klebang D/3, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 620000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "972 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "935",
+    "title": "1 Storey Terrace House",
+    "address": "No. 13, Lorong Suria Permai 9, Taman Suria Permai, 34000 Taiping, Perak",
+    "postcode": "34000",
+    "state": "Perak",
+    "area": "Taiping",
+    "reservePrice": 270000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "936",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 9, Jalan Damai 3, Taman Damai III, 34200 Parit Buntar, Perak",
+    "postcode": "34200",
+    "state": "Perak",
+    "area": "Parit Buntar",
+    "reservePrice": 350000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "454 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "937",
+    "title": "Vacant Detached Industrial Land",
+    "address": "Lot 401389, Jalan Degong, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 2664000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "938",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 265, Taman Terus Maju, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 240000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "648 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "939",
+    "title": "1 Storey Terrace House",
+    "address": "No. 59, Jalan Mahkota Kampar 4, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 186300,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "940",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan LB 1/6, Lembah Beriah 1, 34310 Lembah Beriah, Perak",
+    "postcode": "34310",
+    "state": "Perak",
+    "area": "Lembah Beriah",
+    "reservePrice": 50000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "941",
+    "title": "1 Storey Terrace House",
+    "address": "No. 62, Jalan Lekir Baiduri 3, Taman Lekir Baiduri Batu 10 Lekir, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 190350,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "942",
+    "title": "1 Storey Terrace House",
+    "address": "No. 56, Lorong Lagenda 36, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 220000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "943",
+    "title": "1 Storey Terrace House",
+    "address": "No. 60, Jalan Tanjung Utara 9, Taman Tanjung Utara, 31250 Tanjong Rambutan, Perak",
+    "postcode": "31250",
+    "state": "Perak",
+    "area": "Tanjong Rambutan",
+    "reservePrice": 170000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "944",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Jalan LD 4, Taman Larah Damai, 34600 Kamunting, Perak",
+    "postcode": "34600",
+    "state": "Perak",
+    "area": "Kamunting",
+    "reservePrice": 180000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "945",
+    "title": "1 Storey Terrace House",
+    "address": "No. 7, Jalan Mahkota Kampar 5, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 260000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "946",
+    "title": "1 Storey Semi Detached Cluster House",
+    "address": "No. 952, Jalan Residen 6/30 Residen 6, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 192000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "916 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "947",
+    "title": "1 Storey Terrace House",
+    "address": "No. 44, Jalan Seri Kenangan, Taman Seri Kenangan, 32600 Bota, Perak",
+    "postcode": "32600",
+    "state": "Perak",
+    "area": "Bota",
+    "reservePrice": 180000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "948",
+    "title": "1 Storey Terrace House",
+    "address": "No. 40, Lorong Lagenda 60, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 137700,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "949",
+    "title": "Apartment",
+    "address": "Unit No. 3D-11-04, Jalan Batu Uban, N-Park, Mukim 13, 11700 Gelugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Gelugor",
+    "reservePrice": 240000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "697 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "950",
+    "title": "2 Storey Terrace House",
+    "address": "No. 9, Lorong Bukit Juru 3, Taman Bukit Juru, 14100 Simpang Ampat, Penang",
+    "postcode": "14100",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 441450,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "485 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "951",
+    "title": "Condominium",
+    "address": "Unit No. 5-01-01, Persiaran Tanjung Bungah, Twin Tower, 11200 Tanjong Bungah, Penang",
+    "postcode": "11200",
+    "state": "Penang",
+    "area": "Tanjong Bungah",
+    "reservePrice": 469800,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "324 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "952",
+    "title": "3 Storey Semi Detached House",
+    "address": "No. 17, Lengkok Sungai Emas 1, Ferringgi Park, 11100 Batu Ferringgi, Penang",
+    "postcode": "11100",
+    "state": "Penang",
+    "area": "Batu Ferringgi",
+    "reservePrice": 1170000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "093 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "953",
+    "title": "1 Storey Terrace House",
+    "address": "No. 6, Lorong Tasek Maju 6, Taman Tasek Maju, 14120 Simpang Ampat, Penang",
+    "postcode": "14120",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 180000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "954",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 30, Solok Kampung Jawa 3, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 648000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "193 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "955",
+    "title": "Flat",
+    "address": "Unit No. 42B-15-16, Gat Lebuh Macallum, Sri Saujana, 10300 Georgetown, Penang",
+    "postcode": "10300",
+    "state": "Penang",
+    "area": "Georgetown",
+    "reservePrice": 240000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "956",
+    "title": "2 Storey Cluster House",
+    "address": "No. 19, Persiaran Seksyen 6/4, Bandar Putra Bertam, 13200 Kepala Batas, Penang",
+    "postcode": "13200",
+    "state": "Penang",
+    "area": "Kepala Batas",
+    "reservePrice": 210600,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "957",
+    "title": "Flat",
+    "address": "Unit No. 1066-17-14, Jalan Paya Terubong, Mukim 13, 11060, Penang",
+    "postcode": "11060",
+    "state": "Penang",
+    "area": "Penang",
+    "reservePrice": 120000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "538 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "958",
+    "title": "Apartment",
+    "address": "Unit No. 1-3-2, Tingkat Paya Terubong 5, Taman Terubong Indah, 11060 Paya Terubong, Penang",
+    "postcode": "11060",
+    "state": "Penang",
+    "area": "Paya Terubong",
+    "reservePrice": 160000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "959",
+    "title": "Apartment",
+    "address": "Unit No. 31-09-07, Persiaran Sungai Emas, Ferringghi Delima Condominium, 11100 Batu Ferringghi, Penang",
+    "postcode": "11100",
+    "state": "Penang",
+    "area": "Batu Ferringghi",
+    "reservePrice": 190269,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "960",
+    "title": "Apartment",
+    "address": "Unit No. 1150E-16-12, Jalan Teluk Kumbar, Saujana Heights, 11920 Bayan Lepas, Penang",
+    "postcode": "11920",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 162000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "495 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "961",
+    "title": "Flat",
+    "address": "Unit No. 9-3-9, Taman Sri Angsana, Lebuh Relau 3, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 190000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "689 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "962",
+    "title": "2 Storey Terrace House",
+    "address": "Lorong Sintar Indah 6, Taman Sintar Indah, 14300 Nibong Tebal, Penang",
+    "postcode": "14300",
+    "state": "Penang",
+    "area": "Nibong Tebal",
+    "reservePrice": 350000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "963",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan Sungai Nipah 11, 11020 Balik Pulau, Penang",
+    "postcode": "11020",
+    "state": "Penang",
+    "area": "Balik Pulau",
+    "reservePrice": 650000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "857 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "964",
+    "title": "2 Storey Cluster House",
+    "address": "No. 17, Lorong Cassia Tengah 38, Bandar Cassia, 14110, Bandar Cassia, Penang",
+    "postcode": "14110",
+    "state": "Penang",
+    "area": "Bandar Cassia",
+    "reservePrice": 380000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "152 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "965",
+    "title": "2 Storey Terrace House",
+    "address": "No. 5, Lorong Seri Penaga 3, Taman Seri Penaga, 13100 Penaga, Penang",
+    "postcode": "13100",
+    "state": "Penang",
+    "area": "Penaga",
+    "reservePrice": 349920,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "259 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "966",
+    "title": "Flat",
+    "address": "Unit No. 7A-5-13, Jalan Seri Tanjung Pinang, 10470 Tanjung Tokong, Penang",
+    "postcode": "10470",
+    "state": "Penang",
+    "area": "Tanjung Tokong",
+    "reservePrice": 177147,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "967",
+    "title": "Apartment",
+    "address": "Unit No. 3B-12-3A, Waterside Residence, Jalan Pantai Sinaran, 11700 Gelugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Gelugor",
+    "reservePrice": 840000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "968",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Lorong Mekar Sari Anggun 4, Taman Mekar Sari Anggun, 13200 Kepala Batas, Penang",
+    "postcode": "13200",
+    "state": "Penang",
+    "area": "Kepala Batas",
+    "reservePrice": 615600,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "894 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "969",
+    "title": "Apartment",
+    "address": "Unit No. 1-37-12, The Rise Collection II (Taman Harapan), Jalan Dr. Wu Lien Teh, 10150 George Town, Penang",
+    "postcode": "10150",
+    "state": "Penang",
+    "area": "George Town",
+    "reservePrice": 324000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "970",
+    "title": "Flat",
+    "address": "Unit No. 16-08-04, Taman Alor Vista, Lebuh Relau, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 131220,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "517 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "971",
+    "title": "Flat",
+    "address": "Unit No. 18-16-05, Tingkat Batu Uban 2, Mukim 13, 11700 Glugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Glugor",
+    "reservePrice": 189000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "581 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "972",
+    "title": "Apartment",
+    "address": "Unit No. 17-12B-2, Serina Bay, Hilir Sungai Pinang, 11600 Jelutong, Penang",
+    "postcode": "11600",
+    "state": "Penang",
+    "area": "Jelutong",
+    "reservePrice": 380000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "973",
+    "title": "Condominium",
+    "address": "Unit No. 33-7-7, Persiaran Sungai Emas, Ferringhi Delima Condominium, 11100 Batu Ferringhi, Penang",
+    "postcode": "11100",
+    "state": "Penang",
+    "area": "Batu Ferringhi",
+    "reservePrice": 324000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "974",
+    "title": "2 Storey Terrace House",
+    "address": "No. 12, Lorong Telok Air Tawar 10, Taman Air Tawar Indah, 13050 Butterworth, Penang",
+    "postcode": "13050",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 378000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "975",
+    "title": "Flat",
+    "address": "Unit No. M-14, Blok Begonia, Lengkok Kelicap, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 283500,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "976",
+    "title": "1 Storey Terrace House",
+    "address": "No. 36, Jalan Cenderawasih 14, Taman Cenderawasih, 14300 Nibong Tebal, Penang",
+    "postcode": "14300",
+    "state": "Penang",
+    "area": "Nibong Tebal",
+    "reservePrice": 225000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "977",
+    "title": "Apartment",
+    "address": "Unit No. 63B-15-14, Jalan Lenggong, Simphony Park, 11600 Jelutong, Penang",
+    "postcode": "11600",
+    "state": "Penang",
+    "area": "Jelutong",
+    "reservePrice": 450000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "732 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "978",
+    "title": "1 Storey Terrace House",
+    "address": "No. 3, Tingkat Siakap 17, Taman Siakap, Seberang Jaya, 13700 Perai, Penang",
+    "postcode": "13700",
+    "state": "Penang",
+    "area": "Perai",
+    "reservePrice": 380000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "725 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "979",
+    "title": "Apartment",
+    "address": "Unit No. 2-06, Pangsapuri Prima Aman, Lorong Perai Utama 8, Taman Perai Utama, 13600 Perai, Penang",
+    "postcode": "13600",
+    "state": "Penang",
+    "area": "Perai",
+    "reservePrice": 200000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "861 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "980",
+    "title": "Duplex Condominium",
+    "address": "Unit No. 33-7-8, Halaman York, Sri York Condominium, 10450 Georgetown, Penang",
+    "postcode": "10450",
+    "state": "Penang",
+    "area": "Georgetown",
+    "reservePrice": 720000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "981",
+    "title": "1 Storey Terrace House",
+    "address": "No. 39, Lorong Bentara 4, Bertam Perdana 3, 13200 Kepala Batas, Penang",
+    "postcode": "13200",
+    "state": "Penang",
+    "area": "Kepala Batas",
+    "reservePrice": 350000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "982",
+    "title": "Apartment",
+    "address": "Unit No. 98-8-18, Jalan Faraday, Sinar Bukit Dumbar, 11700, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Penang",
+    "reservePrice": 205000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "983",
+    "title": "Apartment",
+    "address": "No. 7G-1015, Jalan Then Tek Mukim 13, 11500 Ayer Itam, Penang",
+    "postcode": "11500",
+    "state": "Penang",
+    "area": "Ayer Itam",
+    "reservePrice": 131220,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "984",
+    "title": "Apartment",
+    "address": "Unit No. 2-22, Block B, Jalan Kampung Gajah, Taman Bagan Jermal, 12200 Butterworth, Penang",
+    "postcode": "12200",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 194862,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "985",
+    "title": "Apartment",
+    "address": "Unit No. 2-7-1, Jalan Kampung Perlis, Pangsapuri Bayan Permai, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 218700,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "915 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "986",
+    "title": "Apartment",
+    "address": "Unit No. 2-3-16, Relau Vista Apartment, Lebuh Relau 6, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 340000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "987",
+    "title": "2 Storey Terrace House",
+    "address": "No. 3, Lorong Permaipura Mesra 1, Taman Permaipura, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 270000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "988",
+    "title": "1 Storey Terrace House",
+    "address": "No. 26, Jalan Bukit Puteri 1/11, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 225000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "989",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 1 (Lot 1035), Kampung Kemunting Baru, Jalan Changloon, 06000 Kubang Pasu, Kedah",
+    "postcode": "06000",
+    "state": "Kedah",
+    "area": "Kubang Pasu",
+    "reservePrice": 342000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "132 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "990",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Yarra 8/6, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 340000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "382 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "991",
+    "title": "1 Storey Terrace House",
+    "address": "No. 392, Lorong Jelutong 2/1, Taman Jelutong, 06010 Changlun, Kedah",
+    "postcode": "06010",
+    "state": "Kedah",
+    "area": "Changlun",
+    "reservePrice": 210000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "992",
+    "title": "Terrace House",
+    "address": "No. 159, Lorong Berlian 5/1, Taman Berlian, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 207360,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "993",
+    "title": "1 Storey Terrace House",
+    "address": "No. 159-A, Jalan Bujang Utama 4, Taman Lembah Bujang Utama, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 144000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "994",
+    "title": "1 Storey Terrace House",
+    "address": "No. 37, Lorong Cempaka 1, Taman Cempaka, 08010 Bukit Selambau, Kedah",
+    "postcode": "08010",
+    "state": "Kedah",
+    "area": "Bukit Selambau",
+    "reservePrice": 144000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "347 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "995",
+    "title": "2 Storey Shop House",
+    "address": "No. 37, Bandar Darul Aman, Tanah Merah, 06000 Jitra, Kedah",
+    "postcode": "06000",
+    "state": "Kedah",
+    "area": "Jitra",
+    "reservePrice": 324000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "996",
+    "title": "1 Storey Terrace House",
+    "address": "No. 364, Jalan Yarra 5/13, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 297000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "997",
+    "title": "1 Storey Terrace House",
+    "address": "No. 475, Lorong Kucai 5, Taman Kucai, 09600 Lunas, Kedah",
+    "postcode": "09600",
+    "state": "Kedah",
+    "area": "Lunas",
+    "reservePrice": 170000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "998",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1060, Jalan Kelisa Ria 6/17, Taman Kelisa Ria, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 320000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "230 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "999",
+    "title": "1 Storey Terrace House",
+    "address": "No. 52C, Jalan Lembah Bujang 8/2, Taman Lembah Bujang, 08400 Merbok, Kedah",
+    "postcode": "08400",
+    "state": "Kedah",
+    "area": "Merbok",
+    "reservePrice": 183708,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1000",
+    "title": "2.5 Storey Cluster House",
+    "address": "No. 13, Lorong Sejati 3/4, Taman Sejati III, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 426465,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "669 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1001",
+    "title": "1 Storey Terrace House",
+    "address": "No. 26, Lorong Lagenda 72, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 160000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1002",
+    "title": "2 Storey Terrace House",
+    "address": "No. 137, Jalan Selatan 6, Taman Bandar Baru Selatan, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 243000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1003",
+    "title": "1 Storey Terrace House",
+    "address": "No. 378, Persiaran Yakin Mesra 17, Taman Yakin Mesra, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 121500,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1004",
+    "title": "2 Storey Terrace House",
+    "address": "No. 16, Jalan Metro 4, Metro Pengkalan, 31550 Pusing, Perak",
+    "postcode": "31550",
+    "state": "Perak",
+    "area": "Pusing",
+    "reservePrice": 306000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1005",
+    "title": "Condominium",
+    "address": "Unit No. B-4-3, Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 252000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1006",
+    "title": "1 Storey Terrace House",
+    "address": "Rumah Murah Fasa II, 31600 Gopeng, Perak",
+    "postcode": "31600",
+    "state": "Perak",
+    "area": "Gopeng",
+    "reservePrice": 75000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1007",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Lorong Lagenda 40, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 171000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1008",
+    "title": "Condominium",
+    "address": "Unit No. B-6-3, Block B, Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 226800,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1009",
+    "title": "2 Storey Semi Detached House",
+    "address": "Lengkok Wah Keong, Taman Wah Keong, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 350000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1010",
+    "title": "2 Storey Shop Office",
+    "address": "No. 28 & 28A, Jalan Teknologi 2, Kawasan Perindustrian Gopeng 2, 31600 Gopeng, Perak",
+    "postcode": "31600",
+    "state": "Perak",
+    "area": "Gopeng",
+    "reservePrice": 342000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1011",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 20, Lorong Singa Baru 2/2, Taman Singa Baru II, Kampung Koh, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 600000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1012",
+    "title": "1 Storey Terrace House",
+    "address": "No. 22, Jalan Mahkota Kampar 8, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 230000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1013",
+    "title": "2 Storey Terrace House",
+    "address": "No. 219, Jalan Sejati Suria 9, Taman Sejati Suria, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 295000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1014",
+    "title": "Terrace House",
+    "address": "Jalan 10/2, Taman Maju Jaya, 35500 Bidor, Perak",
+    "postcode": "35500",
+    "state": "Perak",
+    "area": "Bidor",
+    "reservePrice": 320000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "816 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1015",
+    "title": "1 Storey Terrace House",
+    "address": "No. 9, Lebuh Tembok 9, Taman Permai, 30010 Ipoh, Perak",
+    "postcode": "30010",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 220000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "760 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1016",
+    "title": "Flat",
+    "address": "Unit No. 22B, Tingkat 2, Jalan Iskandar, Taman Pelangi, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 30780,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "022 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1017",
+    "title": "1 Storey Detached House",
+    "address": "No. 11, Kampung Tersusun, 31600 Gopeng, Perak",
+    "postcode": "31600",
+    "state": "Perak",
+    "area": "Gopeng",
+    "reservePrice": 250000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "146 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1018",
+    "title": "1 Storey Terrace House",
+    "address": "No. 497, Jalan Residen 1/8, Residen 1, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 220000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1019",
+    "title": "Terrace House",
+    "address": "No. 6, Laluan Mewah Indah 16, Jalan Pusing, Taman Mewah Indah, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 180000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1020",
+    "title": "1 Storey Terrace House",
+    "address": "No. 19, Jalan Mahkota Kampar 8, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 234000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1021",
+    "title": "1 Storey Semi Detached Factory",
+    "address": "No. 21, Laluan Industri Lahat 6, Kawasan Perindustrian Rima, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 650000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "502 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1022",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1023, Laluan Kledang 4/4, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 165000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1023",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Balik Pulau, Taman Seri Sayang, 11000 Balik Pulau, Penang",
+    "postcode": "11000",
+    "state": "Penang",
+    "area": "Balik Pulau",
+    "reservePrice": 580000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1024",
+    "title": "1 Storey Terrace House",
+    "address": "No. 96, Jalan Angsana Sari 7, Taman Angsana Sari, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 250000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1025",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Halba 6, Taman Simpang Perdana, Simpang Empat, 06650 Simpang Empat, Kedah",
+    "postcode": "06650",
+    "state": "Kedah",
+    "area": "Simpang Empat",
+    "reservePrice": 280000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "340 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1026",
+    "title": "Terrace House",
+    "address": "No. 1204, Lorong Ria Mesra 38, Taman Ria Mesra II, 08300 Gurun, Kedah",
+    "postcode": "08300",
+    "state": "Kedah",
+    "area": "Gurun",
+    "reservePrice": 137700,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1027",
+    "title": "1 Storey Terrace House",
+    "address": "No. 107, Jalan Pelangi 3, Taman Pelangi, 06300 Kuala Nerang, Kedah",
+    "postcode": "06300",
+    "state": "Kedah",
+    "area": "Kuala Nerang",
+    "reservePrice": 240000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "888 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1028",
+    "title": "Agricultural Land with Development Potential and Zoned for Residential Used",
+    "address": "Lot 2924, Kampung Serdang, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 1200000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1029",
+    "title": "1.5 Storey Terrace House",
+    "address": "No. 299, Taman Bukit Maju, 32200 Lumut, Perak",
+    "postcode": "32200",
+    "state": "Perak",
+    "area": "Lumut",
+    "reservePrice": 160000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1030",
+    "title": "2 Storey Shop Office",
+    "address": "Unit No. 45 & 45A, Jalan Jelapang 5, Pusat Komersial Jelapang, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 360000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1031",
+    "title": "1 Storey Terrace House",
+    "address": "No. 63, Lorong Lagenda 41, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 145000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1032",
+    "title": "2 Storey Terrace House",
+    "address": "No. 4, Jalan Putra D/7A, Taman Klebang Putra, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 291600,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1033",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1107, Jalan Emas, Taman Bandar Baru, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 148500,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1034",
+    "title": "1 Storey Terrace House",
+    "address": "No. 368, Jalan RB 9, Residensi Bidoria, 35500 Bidor, Perak",
+    "postcode": "35500",
+    "state": "Perak",
+    "area": "Bidor",
+    "reservePrice": 288000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "814 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1035",
+    "title": "1 Storey Terrace House",
+    "address": "No. 39, Laluan Sri Kuang 21, Desa Chemor Sejahtera, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 234000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1036",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Block C, Rancangan Perumahan Awam 1, RPA 1, Jalan Siputeh, 30200 Pusing, Perak",
+    "postcode": "30200",
+    "state": "Perak",
+    "area": "Pusing",
+    "reservePrice": 54000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "034 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1037",
+    "title": "Condominium",
+    "address": "Unit No. A-7-3, Jalan Medan Ipoh 1H, Kediaman D'Festivo, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 500000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "259 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1038",
+    "title": "1 Storey Terrace House",
+    "address": "No. 44, Laluan Permai 2, Taman Bemban Permai, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "760 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1039",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Persiaran Perpaduan Utara 3, Taman Bercham Jaya, 31150 Ulu Kinta, Perak",
+    "postcode": "31150",
+    "state": "Perak",
+    "area": "Ulu Kinta",
+    "reservePrice": 240000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "475 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1040",
+    "title": "3 Storey Shop Office",
+    "address": "Unit No. 162 & 162A & 162B, Jalan Sultan Nazrin Shah, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 800000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "755 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1041",
+    "title": "2 Storey Terrace House",
+    "address": "No. 58, Persiaran Cempaka Sari 9, Taman Cempaka, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 135000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "064 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1042",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 46, Hala Falim 9, Taman Mas Jaya, 30200 Ipoh, Perak",
+    "postcode": "30200",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 260000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1043",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1381, Jalan Residen 4/18, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 220000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1044",
+    "title": "1 Storey Terrace Dwelling House",
+    "address": "PT. 1457, Batu 12, Taman Orkid, 36020 Teluk Intan, Perak",
+    "postcode": "36020",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 60000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "100 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1045",
+    "title": "1 Storey Terrace House",
+    "address": "No. 8, Jalan Mahkota Kampar 3, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 210000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1046",
+    "title": "Vacant Residential Land",
+    "address": "Lot 138761, Jalan Raja Udang, Taman Anggerik, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 94770,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "716 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1047",
+    "title": "2 Storey Terrace House",
+    "address": "No. 27, Laluan Tasek Timur 16A, Gerbang Bercham Selamat, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 300000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1048",
+    "title": "1 Storey Terrace House",
+    "address": "No. 29, Laluan Puspa Indah 19, Taman Puspa Indah, 31550 Pusing, Perak",
+    "postcode": "31550",
+    "state": "Perak",
+    "area": "Pusing",
+    "reservePrice": 200000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1049",
+    "title": "1 Storey Terrace House",
+    "address": "No. 74, Klebang Prima 1, Medan Klebang Prima, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 170000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1050",
+    "title": "1 Storey Terrace House",
+    "address": "No. 7, Lorong Bakti 8, Taman Desa Bakti, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 138000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1051",
+    "title": "1 Storey Terrace House",
+    "address": "No. 9, Hala Taman Meru 3, Taman Meru 2B, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1052",
+    "title": "2 Storey Shop Office",
+    "address": "No. 16 & 16A, Jalan PP 7, Bandar Universiti, 32610 Seri Iskandar, Perak",
+    "postcode": "32610",
+    "state": "Perak",
+    "area": "Seri Iskandar",
+    "reservePrice": 202500,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1053",
+    "title": "Terrace House",
+    "address": "No. 8, Laluan Mewah Indah 16, Jalan Pusing, Taman Mewah Indah, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 150000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1054",
+    "title": "1 Storey Terrace House",
+    "address": "No. 44, Jalan Gelung Permai 2, Taman Gelung Permai, 32600 Gelung Pepuyu, Perak",
+    "postcode": "32600",
+    "state": "Perak",
+    "area": "Gelung Pepuyu",
+    "reservePrice": 207000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1055",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 116, Jalan Pasir Puteh, Taman SPPK, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 486000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "201 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1056",
+    "title": "1 Storey Terrace House",
+    "address": "No. 230, Persiaran Yakin Mesra 12, Taman Yakin Mesra, Sungai Buloh, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 160000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1057",
+    "title": "2 Storey Terrace House",
+    "address": "No. 123, Taman Laksamana, Off Jalan Laksamana, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 288000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "254 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1058",
+    "title": "2 Storey Terrace House",
+    "address": "No. 104, Jalan Taman Meru 1, Taman Meru 1, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 315000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1059",
+    "title": "1 Storey Terrace House",
+    "address": "No. 386, Jalan Tropika 3, Residensi Lagenda Tropika, 35350 Temoh, Perak",
+    "postcode": "35350",
+    "state": "Perak",
+    "area": "Temoh",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1060",
+    "title": "1 Storey Cluster Semi Detached House",
+    "address": "No. 50, Lorong Lagenda 20, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 250000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "701 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1061",
+    "title": "1 Storey Terrace House",
+    "address": "No. 84, Lorong Lagenda 57, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 162000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1062",
+    "title": "1 Storey Terrace House",
+    "address": "No. 31, Jalan Putra Mutiara 3, Kampar Putra, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 135000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1063",
+    "title": "1 Storey Terrace House",
+    "address": "No.163, Persiaran Muhibbah Jaya 6, Taman Muhibbah Jaya, 31100, Sungai Siput, Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1064",
+    "title": "2 Storey Terrace House",
+    "address": "No. 13, Persiaran Bemban Raya 2A, Taman Bemban Raya, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 300000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "227 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1065",
+    "title": "1 Storey Terrace House",
+    "address": "No. 17, Laluan Desa Tasek 1, Desa Tasek Bakti, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 184680,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "378 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1066",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Jalan Chenderong 1, Taman Chenderong Jaya, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 90000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1067",
+    "title": "1 Storey Terrace House",
+    "address": "No. 4, Laluan Wawasan 8, Taman Tronoh Wawasan, 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 126000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1068",
+    "title": "2.5 Storey Semi Detached House",
+    "address": "No. 12, Hala Bandar Baru Tambun 19, Taman Ipoh Perdana, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 518400,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "197 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1069",
+    "title": "2 Storey Terrace House",
+    "address": "No. 77, Persiaran Sengat Baru 12, Taman Bersatu, 31300 Kampung Kepayang, Perak",
+    "postcode": "31300",
+    "state": "Perak",
+    "area": "Kampung Kepayang",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1070",
+    "title": "1 Storey Terrace House",
+    "address": "No. 601, Laluan Kledang 5/7, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 110000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "732 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1071",
+    "title": "1 Storey Semi Detached Cluster House",
+    "address": "No. 166, Persiaran Presint 1/3, Presint 1, Bandar Baru Segari, 32200 Lumut, Perak",
+    "postcode": "32200",
+    "state": "Perak",
+    "area": "Lumut",
+    "reservePrice": 218700,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1072",
+    "title": "1 Storey Detached House",
+    "address": "No. 114, Kampung Tun Sambanthan, 32400 Ayer Tawar, Perak",
+    "postcode": "32400",
+    "state": "Perak",
+    "area": "Ayer Tawar",
+    "reservePrice": 260000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "903 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1073",
+    "title": "Town House",
+    "address": "Unit No. 65-3, Blok 65, Aras 3, Persiaran Residensi, Bandar Agacia, 31910 Kampar, Perak",
+    "postcode": "31910",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 130000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1074",
+    "title": "1 Storey Terrace House",
+    "address": "No. 80, Taman Desa 2/4, Taman Desa Dua, Simpang Dua, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 80000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1075",
+    "title": "1 Storey Terrace House",
+    "address": "No. 16, Lorong Lagenda 67, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 145800,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1076",
+    "title": "1 Storey Terrace House",
+    "address": "No. 594, Jalan Residen 3/16, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 160380,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1077",
+    "title": "1 Storey Linked House",
+    "address": "No. 758, Persiaran Tun Sambanthan 6, Taman Tun Sambanthan, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 104000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "050 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1078",
+    "title": "Apartment",
+    "address": "Block A, Pangsa Ria (Pearl Tower), Lebuh Kampung Benggali, 12200 Butterworth, Penang",
+    "postcode": "12200",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 124659,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1079",
+    "title": "1 Storey Terrace Shop",
+    "address": "No. 14, Jalan Fettes, 10470, Penang",
+    "postcode": "10470",
+    "state": "Penang",
+    "area": "Penang",
+    "reservePrice": 2560000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "136 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1080",
+    "title": "Apartment",
+    "address": "Unit No. 6-01, Pangsapuri Seri Pelangi, Jalan Usahaniaga 1, Taman Niaga Jaya, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 300000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1081",
+    "title": "Flat",
+    "address": "Unit No. 19-8-5, Taman Seri Sari, Hilir Paya Terubong 1, Mukim 13, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 216000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1082",
+    "title": "Condominium",
+    "address": "Unit No. 15-07, Blok D, Kondominium Mutiara, Jalan Perda Barat, Bandar Perda, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 216000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1083",
+    "title": "3 Storey Terrace House",
+    "address": "No. 6, Tingkat Sungai Rusa 6, Rena Park, 11010 Balik Pulau, Penang",
+    "postcode": "11010",
+    "state": "Penang",
+    "area": "Balik Pulau",
+    "reservePrice": 505197,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "668 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1084",
+    "title": "Flat",
+    "address": "Unit No. 25-3-8, Taman Terubong Jaya, Tingkat Paya Terubong 3, 11060, Penang",
+    "postcode": "11060",
+    "state": "Penang",
+    "area": "Penang",
+    "reservePrice": 120000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "560 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1085",
+    "title": "2 Storey Terrace House",
+    "address": "No. 70, Lorong Tasek Palma 1, Taman Tasek Palma, 14100 Simpang Ampat, Penang",
+    "postcode": "14100",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 600000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "163 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1086",
+    "title": "1 Storey Detached House",
+    "address": "No. 21, Lorong Senangin 11, Taman Senangin, 13600 Perai, Penang",
+    "postcode": "13600",
+    "state": "Penang",
+    "area": "Perai",
+    "reservePrice": 292000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "780 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1087",
+    "title": "Apartment",
+    "address": "Unit No. 18-04- 12A, Halaman Tembaga, Menara Greenview, 11600 Jelutong, Penang",
+    "postcode": "11600",
+    "state": "Penang",
+    "area": "Jelutong",
+    "reservePrice": 500000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1088",
+    "title": "3 Storey Bungalow",
+    "address": "No. 2, Jalan Brother James, 10350 Georgetown, Penang",
+    "postcode": "10350",
+    "state": "Penang",
+    "area": "Georgetown",
+    "reservePrice": 3600000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "370 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1089",
+    "title": "3 Storey Terrace House",
+    "address": "No. 42A, Jalan Nuri 6, Setia Pulau Mutiara, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 925000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "373 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1090",
+    "title": "Flat",
+    "address": "Unit No. 1D-15-08, Jalan Merbah, Desa Bayan/Mukim 12, 11900 Bayan lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan lepas",
+    "reservePrice": 290000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1091",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1115, Taman Derga Jaya, Jalan Datuk Kumbar, 05300 Alor Setar, Kedah",
+    "postcode": "05300",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 207000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "100 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1092",
+    "title": "Apartment",
+    "address": "Unit No. A3-5-2, Block A3, Pangsapuri Samudera 1, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 145800,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "969 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1093",
+    "title": "1 Storey Terrace House",
+    "address": "No. 121, Rumah Murah II, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 108000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "023 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1094",
+    "title": "2 Storey Terrace House",
+    "address": "No. 143, Lebuh Bercham Selatan, Desa Bercham, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 340000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "320 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1095",
+    "title": "2 Storey Terrace House",
+    "address": "No. 35, Laluan Chepor Permai 4, Taman Chepor Permai, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 290000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "328 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1096",
+    "title": "1 Storey Cluster Semi Detached House",
+    "address": "No. 10, Jalan Residen 6/6, Residen 6, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 250000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "915 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1097",
+    "title": "1 Storey Detached House",
+    "address": "No. 4, Laluan Sakura 24, Taman Pusing Sakura, 31550 Pusing, Perak",
+    "postcode": "31550",
+    "state": "Perak",
+    "area": "Pusing",
+    "reservePrice": 265000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1098",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 1, Laluan Lapangan Siber 8, Panorama Lapangan Perdana, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 675000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "361 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1099",
+    "title": "2 Storey Cluster House",
+    "address": "No. 23, Persiaran Seksyen 6/6, Bandar Putera Bertam, 13200 Kepala Batas, Penang",
+    "postcode": "13200",
+    "state": "Penang",
+    "area": "Kepala Batas",
+    "reservePrice": 193185,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1100",
+    "title": "2 Storey Terrace House",
+    "address": "No. 11, Lorong Bukit Minyak Utama 30, Taman Bukit Minyak Utama, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 680000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "640 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1101",
+    "title": "Flat",
+    "address": "Unit No. 3-4-16, Bandar Baru Perda Teluk Kumbar, Tingkat Teluk Kumbar, Bandar Baru Teluk Kumbar, 11920 Bayan Lepas, Penang",
+    "postcode": "11920",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 91854,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "506 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1102",
+    "title": "2 Storey Detached House",
+    "address": "No. 43, Lorong Bandar Utama 3, Bandar Utama, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 543250.8,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "350 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1103",
+    "title": "2 Storey Terrace House",
+    "address": "No. 97, Lorong 23, Taman Petani Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 350000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1104",
+    "title": "1 Storey Terrace House",
+    "address": "No. 232A, Jalan Bujang Utama 3, Taman Lembah Bujang Utama, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 250000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1105",
+    "title": "1 Storey Terrace House",
+    "address": "No. 389, Lorong Residensi B14, Taman Residensi Mesra, 08300 Gurun, Kedah",
+    "postcode": "08300",
+    "state": "Kedah",
+    "area": "Gurun",
+    "reservePrice": 160000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "453 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1106",
+    "title": "1 Storey Terrace House",
+    "address": "No. 190, Jalan Kemboja 31/B, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 185000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1107",
+    "title": "1 Storey Terrace House",
+    "address": "No. 329, Jalan Tanjung 5, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 350000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "405 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1108",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 326, Jalan SP Heights 8, SP Heights, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 243000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "898 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1109",
+    "title": "1 Storey Terrace House",
+    "address": "No. 505, Lorong Lembah Impiana 7/3, Lembah Impiana, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 348000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "465 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1110",
+    "title": "2 Storey Terrace House",
+    "address": "No. 152-B, Lorong Astana 7/10, Bandar Seri Astana, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 248000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1111",
+    "title": "2 Storey Terrace House",
+    "address": "No. 899, Jalan Damai 4/4, Taman Damai, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 290000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1112",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1050, Lorong Permai Utama 30, Taman Permai Utama, 08300 Gurun, Kedah",
+    "postcode": "08300",
+    "state": "Kedah",
+    "area": "Gurun",
+    "reservePrice": 252000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1113",
+    "title": "Apartment",
+    "address": "Unit No. 73A-3, Block 73A, Aras 3, The Residence @ Kampar, Persiaran Residensi, Bandar Agacia, 31910 Kampar, Perak",
+    "postcode": "31910",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 160000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1114",
+    "title": "2 Storey Terrace House",
+    "address": "No. 6, Lorong Bakti 2, Taman Bakti Kampung Koh, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 178200,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1115",
+    "title": "1 Storey Cluster Semi Detached House",
+    "address": "No. 21, Lorong Lagenda 6, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 180000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "981 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1116",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1, Regat Hillview, Taman Hillview, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 330000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "408 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1117",
+    "title": "1 Storey Terrace House",
+    "address": "No. 111, Jalan Tropika 1, Residensi Lagenda Tropika, 35350 Temoh, Perak",
+    "postcode": "35350",
+    "state": "Perak",
+    "area": "Temoh",
+    "reservePrice": 153000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1118",
+    "title": "1 Storey Cluster House",
+    "address": "No. 692, Jalan Residen 7/11, Residen 7, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 220000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "156 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1119",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Impiana 33, Taman Impiana Bidor, 35500 Bidor, Perak",
+    "postcode": "35500",
+    "state": "Perak",
+    "area": "Bidor",
+    "reservePrice": 220000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1120",
+    "title": "2 Storey Terrace House",
+    "address": "No. 82, Persiaran Jelapang 19A, Taman Sri Wani, 30100 Ipoh, Perak",
+    "postcode": "30100",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 180000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1121",
+    "title": "1 Storey Terrace House",
+    "address": "No. 19, Lorong Cantik 4, Taman Cantik II, Pasir Panjang Laut, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 198000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "270 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1122",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 68, Lorong Raz Intan 3, Taman Raz Intan Cassia, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 522000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "820 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1123",
+    "title": "1 Storey Terrace House",
+    "address": "No. 35, Persiaran Pulai Timur 2, Taman Chandan Desa, 31300 Simpang Pulai, Perak",
+    "postcode": "31300",
+    "state": "Perak",
+    "area": "Simpang Pulai",
+    "reservePrice": 162000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1124",
+    "title": "2 Storey Terrace House",
+    "address": "No. 218, Jalan Sejati Suria 9, Taman Sejati Suria, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 295000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1125",
+    "title": "Terrace House",
+    "address": "Jalan Perpaduan Bayu 4, Arena Perpaduan Bayu, 31150 Ipoh, Perak",
+    "postcode": "31150",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 360000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "839 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1126",
+    "title": "2 Storey Terrace House",
+    "address": "No. 84, Sri Klebang D/7, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 378000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "771 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1127",
+    "title": "1 Storey Terrace House",
+    "address": "No. 28, Laluan Klebang Jaya 32, Taman Klebang Jaya, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 200000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "580 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1128",
+    "title": "2 Storey Terrace House",
+    "address": "No. 71, Pesara Lahat Baru 8, Bandar Lahat Baru, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 135000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1129",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1518, Taman Samudera, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 135000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1130",
+    "title": "2 Storey Terrace House",
+    "address": "No. 7, Lengkuk Meru Permai 5, Halaman Meru Permai, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 330000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1131",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2, Jalan 2, Taman Bidor Intan, 35500 Bidor, Perak",
+    "postcode": "35500",
+    "state": "Perak",
+    "area": "Bidor",
+    "reservePrice": 80000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1132",
+    "title": "1 Storey Terrace House",
+    "address": "No. 749, Jalan Diawan 7, Taman Permai, 31950 Mambang Diawan, Perak",
+    "postcode": "31950",
+    "state": "Perak",
+    "area": "Mambang Diawan",
+    "reservePrice": 150000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1133",
+    "title": "1 Storey Terrace House",
+    "address": "No. 4, Jalan Suria Indah 5, Taman Gelung Permai, 32600 Bota, Perak",
+    "postcode": "32600",
+    "state": "Perak",
+    "area": "Bota",
+    "reservePrice": 180000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1134",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Jalan Mahkota Kampar 9, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 162000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1135",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Lorong Mewah 30, Taman Mewah, 34600 Kamunting, Perak",
+    "postcode": "34600",
+    "state": "Perak",
+    "area": "Kamunting",
+    "reservePrice": 230000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1136",
+    "title": "1 Storey Cluster Semi Detached House",
+    "address": "No. 1126, Jalan Residen 8/28, Residen 8, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 220000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1137",
+    "title": "1 Storey Terrace House",
+    "address": "No. 54, Jalan Seri Kenangan, Taman Seri Kenangan, 32600 Bota, Perak",
+    "postcode": "32600",
+    "state": "Perak",
+    "area": "Bota",
+    "reservePrice": 160000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1138",
+    "title": "1 Storey Terrace House",
+    "address": "No. 72, Tingkat Zarib 1B, Taman Pinji Mewah, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 152280,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "173 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1139",
+    "title": "2 Storey Terrace House",
+    "address": "No. 37, Jalan Murni Jaya 1, Taman Murni Jaya, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 400000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1140",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Laluan Wawasan 6, Taman Tronoh Wawasan, 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 90000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "829 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1141",
+    "title": "1 Storey Terrace House",
+    "address": "No. 73, Jalan Seri Rubiah 4, Taman Seri Rubiah, 32040, Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 300000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "110 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1142",
+    "title": "Condominium",
+    "address": "Unit No. 3-11-10, Kondominium Timur Perdana, Jalan Kolej, Taman Bandar Baru, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 342000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1143",
+    "title": "Apartment",
+    "address": "Unit No. 84-6-4, Kayangan Puri Mutiara, Medan Fettes, 10470 Tanjong Tokong, Penang",
+    "postcode": "10470",
+    "state": "Penang",
+    "area": "Tanjong Tokong",
+    "reservePrice": 473850,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "593 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1144",
+    "title": "1 Storey Terrace House",
+    "address": "No. 27, Lorong Sepadu Jaya 2/7, Taman Sepadu Jaya, 13300 Tasek Gelugor, Penang",
+    "postcode": "13300",
+    "state": "Penang",
+    "area": "Tasek Gelugor",
+    "reservePrice": 255150,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "432 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1145",
+    "title": "Flat",
+    "address": "Unit No. 5-02-3, Lorong Gangsa, Taman Lembah Hijau, 11600 Jelutong, Penang",
+    "postcode": "11600",
+    "state": "Penang",
+    "area": "Jelutong",
+    "reservePrice": 291600,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1146",
+    "title": "Apartment",
+    "address": "Unit No. 1-9-09, Desa lxora, Solok Angsana, 11500, Bandar Baru Ayer ltam, Penang",
+    "postcode": "11500",
+    "state": "Penang",
+    "area": "Bandar Baru Ayer ltam",
+    "reservePrice": 130000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "506 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1147",
+    "title": "Flat",
+    "address": "Unit No. 1-4-3, Jalan Sempadan, 11400 Georgetown, Penang",
+    "postcode": "11400",
+    "state": "Penang",
+    "area": "Georgetown",
+    "reservePrice": 260000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1148",
+    "title": "Town House",
+    "address": "Unit No. F-1-11, Lorong Indera Putera 10, Kondo Villa Putera, Bandar Putera Bertam, 13200 Kepala Batas, Penang",
+    "postcode": "13200",
+    "state": "Penang",
+    "area": "Kepala Batas",
+    "reservePrice": 290000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "087 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1149",
+    "title": "Flat",
+    "address": "Unit No. 8A-4-3, Persiaran Mayang Pasir 5, Bandar Bayan Baru, 11950 Bayan Lepas, Penang",
+    "postcode": "11950",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 140000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "499 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1150",
+    "title": "Flat",
+    "address": "Idaman Selasih, Lilitan Sungai Ara, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 300000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "678 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1151",
+    "title": "Flat",
+    "address": "Unit No. T3-13, Desa Permai Indah, Lorong Helang 1, 11700 Glugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Glugor",
+    "reservePrice": 165000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "549 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1152",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2A, Lorong 4/SS7, Bandar Tasek Mutiara, 14120 Simpang Ampat, Penang",
+    "postcode": "14120",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 470000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "119 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1153",
+    "title": "Service Apartment",
+    "address": "Unit No. 9-15, Pangsapuri Luminari, Jalan Harbour Place 1, 12100 Butterworth, Penang",
+    "postcode": "12100",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 490000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "055 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1154",
+    "title": "Flat",
+    "address": "Unit No. 7D-07-23, Desa Intan, Lebuhraya Thean Teik, Bandar Baru Air Itam, 11500 Ayer Itam, Penang",
+    "postcode": "11500",
+    "state": "Penang",
+    "area": "Ayer Itam",
+    "reservePrice": 205000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "635 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1155",
+    "title": "2 Storey Terrace House",
+    "address": "No. 85, Persiaran Mayang Pasir, MK 12, Bandar Bayan Baru, 11950 Bayan Lepas, Penang",
+    "postcode": "11950",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 520000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "120 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1156",
+    "title": "Semi Detached House",
+    "address": "No. 6, Lorong Sungai Kecil 3, Taman Sungai Kecil, 14300 Nibong Tebal, Penang",
+    "postcode": "14300",
+    "state": "Penang",
+    "area": "Nibong Tebal",
+    "reservePrice": 270000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "034 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1157",
+    "title": "Flat",
+    "address": "Unit No. 1066-17-02, Jalan Paya Terubong, Mukim 13, 11060, Penang",
+    "postcode": "11060",
+    "state": "Penang",
+    "area": "Penang",
+    "reservePrice": 90000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "538 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1158",
+    "title": "1 Storey Terrace House",
+    "address": "No. 30, Lorong 6/SS2, Taman Tasek Mutiara, 14120 Simpang Ampat, Penang",
+    "postcode": "14120",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 288000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1159",
+    "title": "Service Apartment",
+    "address": "Unit No. 26-12, Pangsapuri Luminari, Jalan Harbour Place 1, 12100 Butterworth, Penang",
+    "postcode": "12100",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 437400,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1160",
+    "title": "Condominium",
+    "address": "Unit No. 26B-18-3A, Lintang Sungai Ara 6, Zan Pavillion, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 532170,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "991 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1161",
+    "title": "Flat",
+    "address": "Unit No. 7B-02-16, Lebuhraya Thean Teik, Bandar Baru Ayer Itam - Desa Intan, 11500 Ayer Itam, Penang",
+    "postcode": "11500",
+    "state": "Penang",
+    "area": "Ayer Itam",
+    "reservePrice": 126000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "624 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1162",
+    "title": "2 Storey Cluster House",
+    "address": "No. 1, Lorong Sembilang 7, Seberang Jaya, 13700 Perai, Penang",
+    "postcode": "13700",
+    "state": "Penang",
+    "area": "Perai",
+    "reservePrice": 204120,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "024 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1163",
+    "title": "Flat",
+    "address": "Unit No. 8-18-33A, Jalan Rajawali, I-Park, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 186300,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "667 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1164",
+    "title": "Apartment",
+    "address": "Unit No. 07-01, Park View Tower, Jalan Harbour Place, 12100 Butterworth, Penang",
+    "postcode": "12100",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 320000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1165",
+    "title": "1 Storey Terrace House",
+    "address": "No. 44, Persiaran Seksyen 3/5, Bandar Putra Bertam, 13200 Kepala Batas, Penang",
+    "postcode": "13200",
+    "state": "Penang",
+    "area": "Kepala Batas",
+    "reservePrice": 259200,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "291 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1166",
+    "title": "2 Storey Terrace House",
+    "address": "No. 26, Solok Prestij 6, Taman Prestij III, 11000 Balik Pulau, Penang",
+    "postcode": "11000",
+    "state": "Penang",
+    "area": "Balik Pulau",
+    "reservePrice": 405000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1167",
+    "title": "Flat",
+    "address": "Unit No. 6- 5-6, Solok Sungai Ara 1, Mukim 12, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 160000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "541 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1168",
+    "title": "Condominium",
+    "address": "Unit No. 501G-07-01, Diamond Villa, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Penang",
+    "postcode": "11200",
+    "state": "Penang",
+    "area": "Tanjung Bungah",
+    "reservePrice": 765000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "615 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1169",
+    "title": "Service Apartment",
+    "address": "Unit No. B-13-10, Persiaran Mutiara 8, Pangsapuri Perkhidmatan Palma, 14120 Simpang Ampat, Penang",
+    "postcode": "14120",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 400000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1170",
+    "title": "Condominium",
+    "address": "Unit No. 1B-1-5, Sunrise Garden, Cangkat Kenari, MK 12, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 460000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1171",
+    "title": "1 Storey Terrace House",
+    "address": "No. 9, Lorong Bintang, 12300 Butterworth, Penang",
+    "postcode": "12300",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 420000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1172",
+    "title": "1 Storey Terrace House",
+    "address": "No. 21, Lorong Kota Permai 12, Taman Kota Permai, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 342000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1173",
+    "title": "Duplex Condominium",
+    "address": "Unit No. 76-17-10, Marina Bay Condominium, Jalan Tanjung Tokong, 10470, Penang",
+    "postcode": "10470",
+    "state": "Penang",
+    "area": "Penang",
+    "reservePrice": 1418000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "864 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1174",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Lorong Cempaka 10, Batu Kawan, 14100 Simpang Ampat, Penang",
+    "postcode": "14100",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 240000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "980 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1175",
+    "title": "1 Storey Terrace House",
+    "address": "No. 11A, Lorong Kuala Bekah 1, Taman Kuala Bekah, 13100 Penaga, Penang",
+    "postcode": "13100",
+    "state": "Penang",
+    "area": "Penaga",
+    "reservePrice": 250000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1176",
+    "title": "Condominium",
+    "address": "Unit No. 33-2-1, Persiaran Sungai Emas, Ferringhi Delima Condominium, 11100 Batu Ferringgi, Penang",
+    "postcode": "11100",
+    "state": "Penang",
+    "area": "Batu Ferringgi",
+    "reservePrice": 240000,
+    "auctionDate": "21 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1177",
+    "title": "Apartment",
+    "address": "Sun Moon City, Tingkat Paya Terubong 2, Mukim 13, 11060 Paya Terubong, Penang",
+    "postcode": "11060",
+    "state": "Penang",
+    "area": "Paya Terubong",
+    "reservePrice": 121500,
+    "auctionDate": "21 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "689 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1178",
+    "title": "Apartment",
+    "address": "Unit No. 95-12-2, Jalan Sungai Dua, Mukim 13, 11700, Glugor, Penang",
+    "postcode": "11700",
+    "state": "Penang",
+    "area": "Glugor",
+    "reservePrice": 409500,
+    "auctionDate": "21 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1179",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 49, Lorong Tembikai 5, Taman Sri Rambai, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 450000,
+    "auctionDate": "21 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1180",
+    "title": "Terrace House",
+    "address": "Lorong Eco Meadows 14, Taman Eco Meadows, 14100 Simpang Ampat, Penang",
+    "postcode": "14100",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 670000,
+    "auctionDate": "21 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1181",
+    "title": "2 Storey Terrace House",
+    "address": "No. 154, Lorong Camar 6/2, Taman Camar, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 405000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "014 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1182",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 110, Lorong Penaga 7, Taman Desa Penaga, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 630000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "220 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1183",
+    "title": "1 Storey Terrace House",
+    "address": "No. 193, Jalan PR1MA 6, PR1MA Residensi Utama, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 225000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "902 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1184",
+    "title": "1 Storey Semi Detached House",
+    "address": "Taman Perpaduan 2, Off Jalan Kuala Kedah, 06600 Kuala Kedah, Kedah",
+    "postcode": "06600",
+    "state": "Kedah",
+    "area": "Kuala Kedah",
+    "reservePrice": 350000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "595 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1185",
+    "title": "1 Storey Terrace House",
+    "address": "No. 565, Jalan PR1MA 14, PR1MA Residensi Utama, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 240000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "902 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1186",
+    "title": "Terrace House",
+    "address": "No. 936, Lorong Serai Wangi 5/3, Taman Serai Wangi, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 300000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1187",
+    "title": "1 Storey Detached House",
+    "address": "No. 24, Jalan Kiara 1, Taman Kiara, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 320000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "005 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1188",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 18, Jalan Batik 12, Medan Pasir Impian, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 468000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "854 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1189",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 46, Jalan Harum, Taman Camay, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 900000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "019 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1190",
+    "title": "2 Storey Semi Detached House",
+    "address": "Taman Mawar, 33000 Kuala Kangsar, Perak",
+    "postcode": "33000",
+    "state": "Perak",
+    "area": "Kuala Kangsar",
+    "reservePrice": 315000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "434 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1191",
+    "title": "1 Storey Terrace House",
+    "address": "Laluan Tronoh Universiti 17, Taman Tronoh Universiti, 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 200000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1192",
+    "title": "1 Storey Terrace House",
+    "address": "No. 107, Persiaran Pegoh Aman 4, Taman Desa Aman, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 180000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "259 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1193",
+    "title": "2 Storey Detached House",
+    "address": "Jalan Taman Kinta, Taman Chateau, 30250 Ipoh, Perak",
+    "postcode": "30250",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 2800000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "221 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1194",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1025, Jalan Residen 3/23, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 200000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1195",
+    "title": "1 Storey Terrace House",
+    "address": "Lebuh Taman Jati, Taman Meru Jaya, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 301500,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "798 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1196",
+    "title": "2 Storey Terrace House",
+    "address": "No. 72, Lorong Merak 3, Taman Maharajalela, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 290000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "412 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1197",
+    "title": "2 Storey Terrace House",
+    "address": "No. 15, Laluan Chepor Permai 3, Taman Chepor Permai, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 290000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "061 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1198",
+    "title": "1 Storey Terrace House",
+    "address": "No. 431, Jalan Residen 3/2, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 200000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "080 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1199",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Jalan Taman Saujana Indah 3, Taman Saujana Indah, 35400 Tapah Road, Perak",
+    "postcode": "35400",
+    "state": "Perak",
+    "area": "Tapah Road",
+    "reservePrice": 234000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "733 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1200",
+    "title": "1 Storey Terrace House",
+    "address": "No. 11, Laluan Wawasan 6, Taman Tronoh Wawasan , 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 128000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "798 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1201",
+    "title": "2 Storey Terrace House",
+    "address": "No. 146, Jalan Terus Maju 8, Taman Terus Maju, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 171000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "775 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1202",
+    "title": "1 Storey Terrace House",
+    "address": "No. 69, Lebuh Rapat Baru 5, Taman Song Choon, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 140000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1203",
+    "title": "1 Storey Shop",
+    "address": "No. 15, Laluan Tronoh Universiti 36, Taman Tronoh Universiti, 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 162000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1204",
+    "title": "1 Storey Terrace House",
+    "address": "No. 14, Lorong Sentul 3, Taman Sentul, 14100 Simpang Ampat, Penang",
+    "postcode": "14100",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 252000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1205",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2, Lebuh Batu Maung 11, Desaku, 11960 Bayan Lepas, Penang",
+    "postcode": "11960",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 2250000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "418 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1206",
+    "title": "1 Storey Terrace House",
+    "address": "No. 210, Lorong Cermai 8/3, Taman Putra Jaya, Off Jalan Tanjung Bendahara, 05300 Alor Setar, Kedah",
+    "postcode": "05300",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 245000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "180 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1207",
+    "title": "2 Storey Terrace House",
+    "address": "No. 41, Jalan Sena 2, Taman Sena, 06010 Changlun, Kedah",
+    "postcode": "06010",
+    "state": "Kedah",
+    "area": "Changlun",
+    "reservePrice": 307800,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1208",
+    "title": "Semi Detached House",
+    "address": "No. 184, Fasa 2, Taman Juragan, Jalan Kuala Kedah, 06600 Kuala Kedah, Kedah",
+    "postcode": "06600",
+    "state": "Kedah",
+    "area": "Kuala Kedah",
+    "reservePrice": 307800,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "551 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1209",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. B-42, Taman Armada Fasa 2, Jalan Kuala Kedah, 06600 Alor Setar, Kedah",
+    "postcode": "06600",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 396000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "567 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1210",
+    "title": "2 Storey Terrace Shop Office",
+    "address": "No. 8, Persiaran Seri Iskandar Prima 4, Taman Iskandar Prima, 32610 Seri Iskandar, Perak",
+    "postcode": "32610",
+    "state": "Perak",
+    "area": "Seri Iskandar",
+    "reservePrice": 252000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "421 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1211",
+    "title": "2 Storey Terrace House",
+    "address": "No. 9, Lebuh Pengkalan Barat 12, Taman Pengkalan Barat, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 333000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "765 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1212",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Laluan Tronoh Universiti 8, Taman Tronoh Universiti, 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 280000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1213",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 7, Jalan Murni 1, Taman Kurau Murni, Kuala Kurau, Perak",
+    "postcode": "",
+    "state": "Perak",
+    "area": "Kuala Kurau",
+    "reservePrice": 280000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "519 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1214",
+    "title": "1 Storey Semi Detached Cluster House",
+    "address": "No. 21, Lorong Lagenda 31, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 198000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "081 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1215",
+    "title": "2 Storey Terrace House",
+    "address": "Laluan Tai Chong 3, Taman Tai Chong, 31100 Sungai Siput, Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput",
+    "reservePrice": 220000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "603 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1216",
+    "title": "2 Storey Terrace House",
+    "address": "No. 28, Jalan Bercham Utama 10, Anjung Bercham Utama, 31400 Bercham, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Bercham",
+    "reservePrice": 240000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1217",
+    "title": "Terrace House",
+    "address": "No. 31, Persiaran Kinta Permai 2/2, Taman Kinta Permai, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 310000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "765 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1218",
+    "title": "2 Storey Terrace House",
+    "address": "No. 20, Laluan Bercham Utara 15, Taman Utama, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 171000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1219",
+    "title": "3 Storey Shop Office",
+    "address": "No. 85, Taman Dindings, 32400 Ayer Tawar, Perak",
+    "postcode": "32400",
+    "state": "Perak",
+    "area": "Ayer Tawar",
+    "reservePrice": 648000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "433 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1220",
+    "title": "1 Storey Terrace House",
+    "address": "No. 12, Laluan Sri Klebang 2, Taman Sri Klebang, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 300000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "604 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1221",
+    "title": "2 Storey Terrace House",
+    "address": "No. 60, Simpang Tiga Perumahan (Laluan Tai Chong 3), Taman Tai Chong, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 220000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "919 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1222",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 1 (PT 2470), Jalan Pusing, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 216000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "338 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1223",
+    "title": "Flat",
+    "address": "Taman Alor Vista, Lebuh Relau, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 131300,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "517 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1224",
+    "title": "Flat",
+    "address": "Unit No. 4E-1223, Lorong Semarak Api 1, Mukim 13, 11500 Ayer Itam, Penang",
+    "postcode": "11500",
+    "state": "Penang",
+    "area": "Ayer Itam",
+    "reservePrice": 125000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "512 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1225",
+    "title": "Flat",
+    "address": "Unit No. 3-17-16, Blok C, Green Lane Heights, Jalan Gangsa, 11600 Jelutong, Penang",
+    "postcode": "11600",
+    "state": "Penang",
+    "area": "Jelutong",
+    "reservePrice": 183708,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "689 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1226",
+    "title": "Apartment",
+    "address": "Unit No. 6E-11-13, Lebuhraya Thean Tek, Melody Homes, 11500 Ayer Itam, Penang",
+    "postcode": "11500",
+    "state": "Penang",
+    "area": "Ayer Itam",
+    "reservePrice": 259200,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1227",
+    "title": "Apartment",
+    "address": "Unit No. 2-10-6, Taman Kumbar Permai, Lintang Kampung Masjid 1, Bandar Baru Teluk Kumbar, 11920 Bayan Lepas, Penang",
+    "postcode": "11920",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 370000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1228",
+    "title": "Condominium",
+    "address": "Unit No. 1-B1-23A-1, Jalan Bukit Belah, Emerald Residence, 11920 Bayan Lepas, Penang",
+    "postcode": "11920",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 520000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "119 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1229",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 19, Lorong Fajar 2, Taman Fajar, 14300 Nibong Tebal, Penang",
+    "postcode": "14300",
+    "state": "Penang",
+    "area": "Nibong Tebal",
+    "reservePrice": 330000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "034 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1230",
+    "title": "Duplex Condominium",
+    "address": "Unit No. 31-B22-7, Jalan Tanjung Tokong, Grand View, 10470 Georgetown, Penang",
+    "postcode": "10470",
+    "state": "Penang",
+    "area": "Georgetown",
+    "reservePrice": 623000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "433 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1231",
+    "title": "Apartment",
+    "address": "Taman Jubilee, Lengkok Nipah 2,11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 350000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1232",
+    "title": "2 Storey Terrace House",
+    "address": "No. 46, Lorong Sutera 1/3, Taman Sutera Suria, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 333000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "679 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1233",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan PR1MA 13, PR1MA Residensi Utama, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 315000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "792 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1234",
+    "title": "1 Storey Terrace House",
+    "address": "No. 43, Lorong Kenangan 1, Taman Kenangan, 09410 Padang Serai, Kedah",
+    "postcode": "09410",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 153000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "120 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1235",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2A, Lorong BLM 5/24, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 440000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "625 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1236",
+    "title": "2 Storey Terrace House",
+    "address": "No. 519, Jalan Batik 1/2 A, Taman Batik, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 350000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1237",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1029, Jalan Saujana 2/11, Bandar SP Saujana, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 620000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "247 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1238",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1338, Jalan Mahsuri 9/D, Taman Mahsuri, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 260000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1239",
+    "title": "2 Storey Terrace House",
+    "address": "No. 167, Jalan Bintang Maya 2/6, Bintang Maya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 450000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "074 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1240",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2142, Jalan Seksyen 2/4, Bandar Barat, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 208000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "440 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1241",
+    "title": "1 Storey Terrace House",
+    "address": "No. 66, Laluan Hulu Bercham 8, Bandar Baru Putra, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 152280,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1242",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22, Taman Cempaka, Kampung Koh, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 140000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1243",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22, Laluan Prisma 13, Taman Pengkalan Prisma, 31550 Pusing, Perak",
+    "postcode": "31550",
+    "state": "Perak",
+    "area": "Pusing",
+    "reservePrice": 234000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1244",
+    "title": "2 Storey Terrace House",
+    "address": "No. 33, Persiaran Klebang Selatan 3B, Klebang Tekoma, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 360000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1245",
+    "title": "1 Storey Terrace House",
+    "address": "No. 189, Jalan Mulia 7, Taman Mulia, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 346000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1246",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 12, Lebuh Pegoh Timur 17,Taman Lapangan SSI, 31650 IPoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "IPoh",
+    "reservePrice": 370000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "896 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1247",
+    "title": "1 Storey Terrace House",
+    "address": "No. 26, Tingkat Zarib 4C, Taman Pinji Mewah, Lahat, 31500 Ipoh, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 215000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1248",
+    "title": "Terrace House",
+    "address": "Jalan Veerappen, Off Jalan Bukit Panchor, 14300 Nibong Tebal, Penang",
+    "postcode": "14300",
+    "state": "Penang",
+    "area": "Nibong Tebal",
+    "reservePrice": 425000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "212 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1249",
+    "title": "2 Storey Terrace House",
+    "address": "No. 728, Jalan PR1MA 15, PR1MA Residensi Utama, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 360000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "466 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1250",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 2317, Jalan Permata 13/7, Bandar Permata Lunas, 09600 Lunas, Kedah",
+    "postcode": "09600",
+    "state": "Kedah",
+    "area": "Lunas",
+    "reservePrice": 324000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "379 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1251",
+    "title": "Terrace House",
+    "address": "Lorong Melor 1/2, Taman Melor & Melor Indah, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 160000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "720 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1252",
+    "title": "Semi Detached House",
+    "address": "Jalan Merbau 1, Taman Merbau Jaya, Merbau Pulas, 09410 Padang Meha, Kedah",
+    "postcode": "09410",
+    "state": "Kedah",
+    "area": "Padang Meha",
+    "reservePrice": 310000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "239 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1253",
+    "title": "1 Storey Detached House",
+    "address": "No. 138-A, Jalan Bistari Jaya 11, Taman Bistari Utama, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 530000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "372 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1254",
+    "title": "1 Storey Terrace House",
+    "address": "No. 316, Jalan Anggerik 4/12, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 162000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1255",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 88, Jalan Yarra 1/7, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 485000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1256",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 125, Lorong Seri Akasia 1/2, Taman Seri Akasia, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 640000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "520 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1257",
+    "title": "1 Storey Terrace House",
+    "address": "No. 132, Jalan Puyu, Taman Seluang, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 250000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "160 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1258",
+    "title": "Terrace House",
+    "address": "Lorong Bunga Raya 10, Taman Bunga Raya, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 120000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "738 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1259",
+    "title": "Terrace House",
+    "address": "No. 2102, Lorong Kenari 12/3, Taman Kenari, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 256000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1260",
+    "title": "Terrace House",
+    "address": "No. 85, Jalan Bintang Maya 2/2, Bintang Maya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 262440,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1261",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Salad 4, Taman Salad, 09600, Kedah",
+    "postcode": "09600",
+    "state": "Kedah",
+    "area": "Kedah",
+    "reservePrice": 300000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1262",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 61, Jalan Mewah 1, Taman Mewah, 09600 Lunas, Kedah",
+    "postcode": "09600",
+    "state": "Kedah",
+    "area": "Lunas",
+    "reservePrice": 335000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "561 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1263",
+    "title": "1 Storey Semi Detached House",
+    "address": "Lorong Cendana 1/1, Taman Cendana, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 425000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "595 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1264",
+    "title": "[7 min to SJK (C) Pekan Gurney & Town] 1 Storey Terrace House [Short drive to AEON Seri Manjung & Lotus’s Seri Manjung]",
+    "address": "No. 870, Jalan Residen 3/21, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 96000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1265",
+    "title": "Duplex Penthouse Apartment",
+    "address": "Lapangan Perdana 19, Pangsapuri Lapangan Perdana (Treetops Residency), 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 492075,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "530 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1266",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 339 (Lot 41482), Taman Hijau I, Kampung Koh, 32000 Sitiawan, Perak",
+    "postcode": "41482",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 1020600,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "866 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1267",
+    "title": "Town House",
+    "address": "Blok 1, Aras 3, Persiaran Residensi, Bandar Agacia (The Residence @ Kampar), 31910 Kampar, Perak",
+    "postcode": "31910",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 360000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "097 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1268",
+    "title": "2 Storey Terrace House",
+    "address": "No. 133, Jalan Lestari 6, Lestari IUS, 32610 Seri Iskandar, Perak",
+    "postcode": "32610",
+    "state": "Perak",
+    "area": "Seri Iskandar",
+    "reservePrice": 208000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1269",
+    "title": "2 Storey Terrace House",
+    "address": "No. 12, Margosa E/5, Bandar Seri Botani, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 360000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "864 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1270",
+    "title": "1 Storey Terrace House, Intermediate, Renovated [3 min walk to Econsave Bagan Serai & SMK Alang Iskandar]",
+    "address": "No. 7, Taman Seri Kerian, Rumah Awam Bagan Serai, 34300 Bagan Serai, Perak",
+    "postcode": "34300",
+    "state": "Perak",
+    "area": "Bagan Serai",
+    "reservePrice": 84000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "023 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1271",
+    "title": "1 Storey Terrace House",
+    "address": "No. 45, Taman Rasa Sayang, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 168000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "760 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1272",
+    "title": "2 Storey Terrace House",
+    "address": "No. 74, Jalan Melati 2/2, Taman Melati, 32200 Lumut, Perak",
+    "postcode": "32200",
+    "state": "Perak",
+    "area": "Lumut",
+    "reservePrice": 200000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1273",
+    "title": "2 Storey Cluster Semi Detached House",
+    "address": "No. 19, Lebuh Bercham Selatan 1/16, Taman Bercham Mas, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 450000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1274",
+    "title": "Shop Office",
+    "address": "Unit No. 23-1-1, Jalan Kampar Barat 3, Taman Kampar Barat, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 18000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "312 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1275",
+    "title": "Apartment",
+    "address": "Unit No. D2-5, Jalan Desa Tambun, Desa Tambun, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 108000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1276",
+    "title": "1 Storey Terrace House",
+    "address": "No. 164, Taman Lintang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 100000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1277",
+    "title": "Apartment",
+    "address": "Unit No. 7-10, Pangsapuri Juru Ria, Jalan Juru 2, 14100 Simpang Ampat, Penang",
+    "postcode": "14100",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 292000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "312 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1278",
+    "title": "1 Storey Terrace House",
+    "address": "No. 72, Taman Seri Jaya, 09110 Kuala Pegang, Kedah",
+    "postcode": "09110",
+    "state": "Kedah",
+    "area": "Kuala Pegang",
+    "reservePrice": 117000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1279",
+    "title": "1 Storey Terrace House",
+    "address": "No. 51, Jalan Universiti Bestari 3, Taman Universiti Bestari, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 225000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1280",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2296, Jalan Mutiara 9/4, Taman Mutiara, 09700 Karangan, Kedah",
+    "postcode": "09700",
+    "state": "Kedah",
+    "area": "Karangan",
+    "reservePrice": 330000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "830 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1281",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 441, Jalan Kenanga 3, Persiaran Amanjaya 5, Bandar Amanjaya, 08000 Sungai Lalang, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Lalang",
+    "reservePrice": 470000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "004 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1282",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Yarra 8/3, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 400000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "959 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1283",
+    "title": "2 Storey Terrace House",
+    "address": "Taman Seri Ampang, Jalan Kilang Tebu, 05050 Alor Setar, Kedah",
+    "postcode": "05050",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 450000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1284",
+    "title": "1 Storey Terrace House",
+    "address": "No. 354, Taman Dindings, 32400 Ayer Tawar, Perak",
+    "postcode": "32400",
+    "state": "Perak",
+    "area": "Ayer Tawar",
+    "reservePrice": 116700,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1285",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1021, Jalan Residen 4/15, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 178200,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1286",
+    "title": "1 Storey Terrace House",
+    "address": "No. 736, Jalan Residen 8/13, Residen 8, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 162000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1287",
+    "title": "1 Storey Linked House",
+    "address": "Laluan Bercham Selatan, Taman Bercham Aman, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 130000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "950 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1288",
+    "title": "1 Storey Terrace House",
+    "address": "No. 899, Jalan Residen 3/21, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 279000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "486 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1289",
+    "title": "2 Storey Bungalow",
+    "address": "Jalan Sri Klebang 2, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 738000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "998 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1290",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Residen 3/4, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 171000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1291",
+    "title": "1 Storey Cluster Semi Detached House",
+    "address": "Jalan Residen 7/9, Residen 7, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 216000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "916 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1292",
+    "title": "1 Storey Terrace House",
+    "address": "Block A, Lorong Kiri, Perumahan Awam III, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 120000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1293",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Pengkalan Bandaraya 21, Desa Pengkalan Bandaraya, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 230000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1294",
+    "title": "1 Storey Terrace House",
+    "address": "Laluan Permai 5, Taman Bemban Permai, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 220000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1295",
+    "title": "Apartment",
+    "address": "Unit No. A-3A-9, Jalan Pusat Perniagaan Falim, Residensi Prima Falim, 30200 Ipoh, Perak",
+    "postcode": "30200",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 200000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "785 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1296",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 74, Jalan Desa Manjung 2, Taman Desa Manjung, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 430000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1297",
+    "title": "2 Storey Terrace House",
+    "address": "No. 28, Lintasan Bercham Timur 2, Taman Pakatan, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 85000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "786 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1298",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 1, Jalan Klebang Mewah 9, Medan Klebang Mewah, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 387000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "768 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1299",
+    "title": "Apartment",
+    "address": "Unit No. A-15-17, Residensi Prima Falim, Jalan Pusat Perniagaan Falim, 30200 Ipoh, Perak",
+    "postcode": "30200",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 173000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "785 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1300",
+    "title": "Terrace House",
+    "address": "Laluan Kledang 4/1, Taman Kledang, 31100 Sungai Siput (U), Perak",
+    "postcode": "31100",
+    "state": "Perak",
+    "area": "Sungai Siput (U)",
+    "reservePrice": 190000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1301",
+    "title": "Terrace House",
+    "address": "Jalan Mahkota Kampar 5, Taman Mahkota Kampar, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 260000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1302",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2, Persiaran Putra 2, Taman Tasek Putra, 31750 Tronoh, Perak",
+    "postcode": "31750",
+    "state": "Perak",
+    "area": "Tronoh",
+    "reservePrice": 260000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "143 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1303",
+    "title": "1 Storey Semi Detached House",
+    "address": "Lorong 4, Taman Sutera, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 288000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "536 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1304",
+    "title": "2 Storey Terrace House",
+    "address": "No. 3, Lorong BLM 2/12, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 319500,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "220 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1305",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 199, Jalan Bukit Puteri 2/6, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 485000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "816 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1306",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 86, Jalan Saujana 3/8, Bandar SP Saujana, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 630000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "601 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1307",
+    "title": "2 Storey Terrace House",
+    "address": "No. 82, Persiaran Rishah 22, Taman Silibin Ria, 30100 Ipoh, Perak",
+    "postcode": "30100",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 539460,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "542 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1308",
+    "title": "2 Storey Terrace House",
+    "address": "No. 39, Jalan Tawas Impiana 2, Anjung Tawas Impiana, 30010 Ipoh, Perak",
+    "postcode": "30010",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 304000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "342 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1309",
+    "title": "1.5 Storey Detached House",
+    "address": "Lot 378377, Laluan Meru Indah E6, Gerbang Meru Indah, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 738000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "288 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1310",
+    "title": "Terrace House",
+    "address": "Lorong Mutiara 4, Taman Intan Mutiara, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 190000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1311",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1466, Jalan Residen 1/22, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 153900,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1312",
+    "title": "1 Storey Terrace House",
+    "address": "No. 51, Lorong Tiga (Lorong Samudera Baru 3), Taman Samudera Baru, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 162000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1313",
+    "title": "2 Storey Shop House",
+    "address": "No. 43 & 43A, Persiaran Loke Lim, Taman Loke Lim, 30010 Ipoh, Perak",
+    "postcode": "30010",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 220000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "203 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1314",
+    "title": "2 Storey Shop Office",
+    "address": "Unit No. O11, Jalan SM1C/10, Fasa 1C3, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 192000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "755 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1315",
+    "title": "2 Storey Terrace House",
+    "address": "No. 86, Jalan Desa Maju 3, Taman Desa Maju, 32000 Sitiawan, Perak",
+    "postcode": "32000",
+    "state": "Perak",
+    "area": "Sitiawan",
+    "reservePrice": 141750,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1316",
+    "title": "1 Storey Terrace House",
+    "address": "No. 32, Lorong Jati 28-B, Taman Bandar Baru, 08100 Sungai Lalang, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Sungai Lalang",
+    "reservePrice": 153000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "880 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1317",
+    "title": "Terrace House",
+    "address": "Jalan Desa Bayanmas 6, Taman Desa Bayanmas, 06050 Bukit Kayu Hitam, Kedah",
+    "postcode": "06050",
+    "state": "Kedah",
+    "area": "Bukit Kayu Hitam",
+    "reservePrice": 220000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1318",
+    "title": "1 Storey Detached House",
+    "address": "Off Jalan Kuala Kedah, Batu 2 1/2, 05400 Alor Setar, Kedah",
+    "postcode": "05400",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 255200,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "548 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1319",
+    "title": "1 Storey Terrace House",
+    "address": "No. 394, Lorong Residensi A12, Taman Residensi Mesra, 08300 Gurun, Kedah",
+    "postcode": "08300",
+    "state": "Kedah",
+    "area": "Gurun",
+    "reservePrice": 145800,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "209 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1320",
+    "title": "1 Storey Terrace House",
+    "address": "No. 8, Laluan Pinggiran Saujana 5, Taman Pinggiran Saujana, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 90000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1321",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Cempaka 12, Taman Cempaka, 09810 Selama, Kedah",
+    "postcode": "09810",
+    "state": "Kedah",
+    "area": "Selama",
+    "reservePrice": 105300,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1322",
+    "title": "1 Storey Terrace House",
+    "address": "No. 25, Lorong Permaipura Riang 2, Taman Permaipura, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 240000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1323",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 92, Lorong Seruling 8, Taman Seruling, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 320000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1324",
+    "title": "Detached House",
+    "address": "Lorong Permaipura Villa 2, Permaipura Villa, 08100 Bedong, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Bedong",
+    "reservePrice": 560000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1325",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Mahsuri 1/C, Taman Mahsuri, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 260000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1326",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Desa Baiduri 4, Taman Desa Baiduri, 08600 Tikam Batu, Kedah",
+    "postcode": "08600",
+    "state": "Kedah",
+    "area": "Tikam Batu",
+    "reservePrice": 210000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1327",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 138, Jalan Yarra 1/11, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 432000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "595 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1328",
+    "title": "1 Storey Terrace House",
+    "address": "No. 73, Lorong Lagenda 56, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 160380,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1329",
+    "title": "2 Storey Terrace House",
+    "address": "No. 67, Laluan BTI 1/23A, Bandar Tasik Idaman, 31000 Batu Gajah, Perak",
+    "postcode": "31000",
+    "state": "Perak",
+    "area": "Batu Gajah",
+    "reservePrice": 360000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1330",
+    "title": "2 Storey Terrace House",
+    "address": "No. 267, Lorong Matahari 6, Taman Bunga Matahari, 32400 Ayer Tawar, Perak",
+    "postcode": "32400",
+    "state": "Perak",
+    "area": "Ayer Tawar",
+    "reservePrice": 278000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "018 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1331",
+    "title": "1 Storey Terrace House",
+    "address": "No. 29, Lorong Jati 68-D, Taman Bandar Baru, 08100 Sungai Lalang, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Sungai Lalang",
+    "reservePrice": 131220,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1332",
+    "title": "Terrace House",
+    "address": "Jalan Arowana 8, Taman Arowana, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 300000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1333",
+    "title": "Terrace House",
+    "address": "Jalan Perdana Heights 1/7, Perdana Heights, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 700000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1334",
+    "title": "Land",
+    "address": "Lot No. 1814, Bukit Chupak, Mukim Derang, 06300 Daerah Pokok Sena, Kedah",
+    "postcode": "06300",
+    "state": "Kedah",
+    "area": "Daerah Pokok Sena",
+    "reservePrice": 148500,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1335",
+    "title": "Agricultural Land",
+    "address": "Lot 2663, Bukit Me, 06750 Pendang, Kedah",
+    "postcode": "06750",
+    "state": "Kedah",
+    "area": "Pendang",
+    "reservePrice": 63900,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1336",
+    "title": "Terrace House",
+    "address": "Blok LL, Taman Serai Jaya, Jalan Siakap, 34300 Bagan Serai, Perak",
+    "postcode": "34300",
+    "state": "Perak",
+    "area": "Bagan Serai",
+    "reservePrice": 130000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "630 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1337",
+    "title": "Apartment",
+    "address": "Unit No. 3-14-12, Lebuh Relau 6, Mukim 13, 11900 Bayan Lepas, Penang",
+    "postcode": "11900",
+    "state": "Penang",
+    "area": "Bayan Lepas",
+    "reservePrice": 320000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1338",
+    "title": "3 Storey Detached House",
+    "address": "No. 71, Jalan Mengkuang, 12200 Butterworth, Penang",
+    "postcode": "12200",
+    "state": "Penang",
+    "area": "Butterworth",
+    "reservePrice": 2030000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "101 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1339",
+    "title": "Condominium",
+    "address": "Unit No. B-05-03, Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 216000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1340",
+    "title": "2 Storey Terrace House",
+    "address": "No. 11, Lahat Sri Wang 21, Desa Lahat Sri Wang, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 300000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1341",
+    "title": "2 Storey Terrace House",
+    "address": "Persiaran Pengkalan Timur 3, Desa Pakatan, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 180000,
+    "auctionDate": "10 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1342",
+    "title": "1 Storey Terrace House",
+    "address": "Persiaran Desa Pinji Utara 3, Taman Desa Pinji, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 153000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "819 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1343",
+    "title": "2 Storey Terrace House",
+    "address": "Lorong Sejati 2, Taman Melor Sejati, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 332100,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1344",
+    "title": "2 Storey Terrace House",
+    "address": "No. 14, Laluan Chepor Permai 3, Taman Chepor Permai, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 225000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "960 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1345",
+    "title": "2 Storey Terrace House",
+    "address": "Lahat Permai 2, Taman Lahat Permai, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 258000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1346",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Meru Idaman 5, Taman Meru Idaman, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 348300,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "152 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1347",
+    "title": "Terrace House",
+    "address": "Laluan Lahat Sentosa 15, Taman Lahat Sentosa, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 400000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1348",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Bandar U56, Bandar Universiti, 32610 Seri Iskandar, Perak",
+    "postcode": "32610",
+    "state": "Perak",
+    "area": "Seri Iskandar",
+    "reservePrice": 230000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1349",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 77, Jalan Angsana Sari 6, Taman Angsana Sari, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 210000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1350",
+    "title": "1 Storey Terrace House",
+    "address": "No. 152, Jalan Melati 5, Taman Pusing Baru, 31550 Kinta, Perak",
+    "postcode": "31550",
+    "state": "Perak",
+    "area": "Kinta",
+    "reservePrice": 200000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "470 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1351",
+    "title": "Terrace House",
+    "address": "Laluan Chemor Damai 1, Desa Chemor Impian, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 340000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1352",
+    "title": "2 Storey Terrace House",
+    "address": "Taman Samudera, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 260000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1353",
+    "title": "2 Storey Terrace House",
+    "address": "No. 222, Jalan SM5A/9, Fasa 2D, 32040 Seri Manjung, Perak",
+    "postcode": "32040",
+    "state": "Perak",
+    "area": "Seri Manjung",
+    "reservePrice": 315000,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1354",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Laguna 5, Polo Laguna Tambun, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 414000,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1355",
+    "title": "2 Storey Terrace House",
+    "address": "Hala Bandar Baru Tambun 23, Bandar Baru Tambun, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 388800,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "357 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1356",
+    "title": "2 Storey Terrace House",
+    "address": "Selasar Rokam 4, Taman Ipoh Jaya, 31350 Ipoh, Perak",
+    "postcode": "31350",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 226800,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1357",
+    "title": "2 Storey Terrace House",
+    "address": "No. 8, Lorong Rebana Indah 2, Taman Rebana Indah, 14200 Sungai Bakap, Penang",
+    "postcode": "14200",
+    "state": "Penang",
+    "area": "Sungai Bakap",
+    "reservePrice": 550000,
+    "auctionDate": "13 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1358",
+    "title": "1 Storey Terrace House",
+    "address": "Laluan Klebang Restu 26, Medan Klebang Restu, 31200 Chemor, Perak",
+    "postcode": "31200",
+    "state": "Perak",
+    "area": "Chemor",
+    "reservePrice": 200000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1359",
+    "title": "2 Storey Semi Detached House",
+    "address": "Persiaran Venice Intan 5/9, Desa Manjung Raya, 32200 Lumut, Perak",
+    "postcode": "32200",
+    "state": "Perak",
+    "area": "Lumut",
+    "reservePrice": 432000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "626 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1360",
+    "title": "4 Storey Shop House",
+    "address": "No. 73, Jalan Sultan Iskandar, 30000 Ipoh, Perak",
+    "postcode": "30000",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 810000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "256 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1361",
+    "title": "2 Storey Terrace House",
+    "address": "No. 35, Pesara Lahat Baru 14, Bandar Lahat Baru, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 80000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1362",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Cahaya 7, Taman Cahaya, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 160000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1363",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Pengkalan Utama 10, Taman Pengkalan Utama, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 275400,
+    "auctionDate": "18 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1364",
+    "title": "Service Apartment",
+    "address": "Block C, MH Unilodge, Kampar Siswa, 31900 Kampar, Perak",
+    "postcode": "31900",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 124200,
+    "auctionDate": "18 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1365",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong 1, Taman Desa Bakti, 36000 Teluk Intan, Perak",
+    "postcode": "36000",
+    "state": "Perak",
+    "area": "Teluk Intan",
+    "reservePrice": 130000,
+    "auctionDate": "18 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1366",
+    "title": "2 Storey Shop House",
+    "address": "No. 10, Hala Kledang Emas 9, Taman Kledang Emas, 30100 Ipoh, Perak",
+    "postcode": "30100",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 315900,
+    "auctionDate": "18 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1367",
+    "title": "Apartment",
+    "address": "Unit No. A2-1-8, Pinggiran Machang Bubok 1, Jalan Pinggiran Machang Bubok, 14020 Bukit Mertajam, Penang",
+    "postcode": "14020",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 396000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "173 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1368",
+    "title": "Residential Land",
+    "address": "Lot 204481, Laluan Lahat Timur 1/8, RPT Pengkalan Gate, 31500 Lahat, Perak",
+    "postcode": "31500",
+    "state": "Perak",
+    "area": "Lahat",
+    "reservePrice": 90000,
+    "auctionDate": "20 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "600 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1369",
+    "title": "2 Storey Terrace House",
+    "address": "No. 53, Persiaran Sengat Baru, Taman Desa Pulai Aman, 31300 Simpang Pulai, Perak",
+    "postcode": "31300",
+    "state": "Perak",
+    "area": "Simpang Pulai",
+    "reservePrice": 300000,
+    "auctionDate": "20 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "615 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1370",
+    "title": "Terrace House",
+    "address": "Jalan Bersatu 1, Taman Bersatu, 34350 Kuala Kurau, Perak",
+    "postcode": "34350",
+    "state": "Perak",
+    "area": "Kuala Kurau",
+    "reservePrice": 340000,
+    "auctionDate": "20 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1371",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1150, Lorong 27, Taman Kaya, 34000 Taiping, Perak",
+    "postcode": "34000",
+    "state": "Perak",
+    "area": "Taiping",
+    "reservePrice": 220000,
+    "auctionDate": "20 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1372",
+    "title": "1 Storey Terrace House",
+    "address": "No. 3, Lorong Trong Bakti 12, Taman Trong Bakti, 34800 Trong, Perak",
+    "postcode": "34800",
+    "state": "Perak",
+    "area": "Trong",
+    "reservePrice": 90000,
+    "auctionDate": "20 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1373",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Selayang 6/4, Taman Selayang Fasa 2, Off Lebuhraya Sultanah Bahiyah, 05350 Alor Setar, Kedah",
+    "postcode": "05350",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 580000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "025 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1374",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2, Lorong Jati 70D, Taman Bandar Baru, 08100 Sungai Lalang, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Sungai Lalang",
+    "reservePrice": 180000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "660 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1375",
+    "title": "2 Storey Terrace House",
+    "address": "No. 61 BGH, Pinggiran Belleza 3A, Belleza Garden Homes, Taman Belleza, Jenan, 06000 Jitra, Kedah",
+    "postcode": "06000",
+    "state": "Kedah",
+    "area": "Jitra",
+    "reservePrice": 277000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "760 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1376",
+    "title": "Vacant Land",
+    "address": "Plot. 145, Taman Kempas, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 40000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "286 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1377",
+    "title": "Semi Detached House",
+    "address": "No. 422, Lorong KTC 4/17, Kulim Techno-City, 09090 Kulim, Kedah",
+    "postcode": "09090",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 324000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "197 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1378",
+    "title": "Terrace House",
+    "address": "Lorong Utama 18, Taman Pengkalan Utama, 34700 Simpang, Perak",
+    "postcode": "34700",
+    "state": "Perak",
+    "area": "Simpang",
+    "reservePrice": 530000,
+    "auctionDate": "27 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1379",
+    "title": "1 Storey Terrace House",
+    "address": "No. 7, Jalan Bakawali 4, Taman Bakawali, 13300 Tasek Gelugor, Penang",
+    "postcode": "13300",
+    "state": "Penang",
+    "area": "Tasek Gelugor",
+    "reservePrice": 250000,
+    "auctionDate": "2 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "080 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1380",
+    "title": "2 Storey Terrace House",
+    "address": "No. 15, Lorong Seri Juru 18, Taman Seri Juru, 14100 Simpang Ampat, Penang",
+    "postcode": "14100",
+    "state": "Penang",
+    "area": "Simpang Ampat",
+    "reservePrice": 485000,
+    "auctionDate": "2 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1381",
+    "title": "1 Storey Detached House",
+    "address": "No. 90, Taman Bunga Raya, 06000 Jitra, Kedah",
+    "postcode": "06000",
+    "state": "Kedah",
+    "area": "Jitra",
+    "reservePrice": 500000,
+    "auctionDate": "7 Sep 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "628 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1382",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2, Lorong Kijang Indah 1, Taman Kijang Indah, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 620000,
+    "auctionDate": "8 Sep 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "153 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1383",
+    "title": "2 Storey Semi Detached House",
+    "address": "Lorong Janggus Jaya 1, Taman Janggus Jaya, 13500 Permatang Pauh, Penang",
+    "postcode": "13500",
+    "state": "Penang",
+    "area": "Permatang Pauh",
+    "reservePrice": 1011600,
+    "auctionDate": "15 Sep 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "605 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1384",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 5, Jalan Perdana Heights 3/6, Lot 88 The Residence, Perdana Heights, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 756000,
+    "auctionDate": "24 Sep 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "885 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1385",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2201, Jalan Mutiara 6/4, Taman Mutiara, Sungai Kob, 09700 Karangan, Kedah",
+    "postcode": "09700",
+    "state": "Kedah",
+    "area": "Karangan",
+    "reservePrice": 290000,
+    "auctionDate": "24 Sep 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "475 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1386",
+    "title": "Detached House",
+    "address": "No. 8, Laluan Tasek Timur 12, Taman Seri Dermawan, 31400 Ipoh, Perak",
+    "postcode": "31400",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 600000,
+    "auctionDate": "24 Sep 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "898 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1387",
+    "title": "Industrial Premises",
+    "address": "No. Lot 80 (Lot 68993), Jalan Degong, 31900 Kampar, Perak",
+    "postcode": "68993",
+    "state": "Perak",
+    "area": "Kampar",
+    "reservePrice": 3660000,
+    "auctionDate": "28 Sep 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "587 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1388",
+    "title": "1 Storey Semi Detached House",
+    "address": "Jalan Raya Murni 3, Taman Raya Murni, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 300000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1389",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Merawan 1/3, Taman Merawan, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 200000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "990 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1390",
+    "title": "2 Storey Detached House",
+    "address": "No. 27, Persiaran Indah Lapan, RPT Desa Pengkalan Indah, 31650 Ipoh, Perak",
+    "postcode": "31650",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 500000,
+    "auctionDate": "22 Oct 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "595 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1391",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Budiman 2, Taman Desa Budiman, 08100 Sungai Lalang, Kedah",
+    "postcode": "08100",
+    "state": "Kedah",
+    "area": "Sungai Lalang",
+    "reservePrice": 300000,
+    "auctionDate": "29 Oct 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1392",
+    "title": "Terrace House",
+    "address": "Lorong Eugenia 4, Bukit Banyan, 08000 Sungai Petani, Kedah",
+    "postcode": "08000",
+    "state": "Kedah",
+    "area": "Sungai Petani",
+    "reservePrice": 750000,
+    "auctionDate": "29 Oct 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1393",
+    "title": "1 Storey Semi Detached House",
+    "address": "Taman Sultan Abdul Halim, Off Jalan Tanjung Bendahara, 05300 Alor Setar, Kedah",
+    "postcode": "05300",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 450000,
+    "auctionDate": "18 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "790 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1394",
+    "title": "2 Storey Terrace House",
+    "address": "No. 433, Taman Nuri, Jalan Datuk Kumbar, 05300 Alor Setar, Kedah",
+    "postcode": "05300",
+    "state": "Kedah",
+    "area": "Alor Setar",
+    "reservePrice": 180000,
+    "auctionDate": "18 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "288 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1395",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 6, Lorong Kota Permai 23, Taman Saujana Permai, 14000 Bukit Mertajam, Penang",
+    "postcode": "14000",
+    "state": "Penang",
+    "area": "Bukit Mertajam",
+    "reservePrice": 820000,
+    "auctionDate": "19 Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "256 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1396",
+    "title": "1 Storey Detached House",
+    "address": "No. 271, Hala Jati Meru 12, RPT Jelapang Jaya, 30020 Ipoh, Perak",
+    "postcode": "30020",
+    "state": "Perak",
+    "area": "Ipoh",
+    "reservePrice": 280000,
+    "auctionDate": "26 Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "307 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1397",
+    "title": "1 Storey Semi Detached House",
+    "address": "Jalan Raya Murni 2, Taman Raya Murni, 09400 Padang Serai, Kedah",
+    "postcode": "09400",
+    "state": "Kedah",
+    "area": "Padang Serai",
+    "reservePrice": 380000,
+    "auctionDate": "30 Dec 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "370 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1398",
+    "title": "Detached House",
+    "address": "Lorong Kedidi 1/1, Taman Kedidi, 09000 Kulim, Kedah",
+    "postcode": "09000",
+    "state": "Kedah",
+    "area": "Kulim",
+    "reservePrice": 400000,
+    "auctionDate": "30 Dec 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "692 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+    ]
+  },
+  {
+    "id": "1399",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2004, Jalan Pulai Jaya 53, Bandar Pulai Jaya, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 387000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1400",
+    "title": "1 Storey Terrace House",
+    "address": "No. 137, Jalan Cendana 13, Taman Rinting, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 405000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1401",
+    "title": "Service Apartment",
+    "address": "Unit No. #18-12, Block B, Pangsapuri Suriamas, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor",
+    "postcode": "80350",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 342000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "979 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1402",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan Semerbak 13, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 720000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "510 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1403",
+    "title": "Terrace House",
+    "address": "Jalan Kemboja 3, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 500000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1404",
+    "title": "1 Storey Terrace House",
+    "address": "No. 36, Jalan Bestari 54/2, Taman Bestari Indah, 81800 Ulu Tiram, Johor",
+    "postcode": "81800",
+    "state": "Johor",
+    "area": "Ulu Tiram",
+    "reservePrice": 430000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1405",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Helang 10, Taman Scientex, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 390000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1406",
+    "title": "2 Storey Terrace House",
+    "address": "No. 37, Jalan Hang Tuah 20, Taman Skudai Baru, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 280000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "836 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1407",
+    "title": "Flat",
+    "address": "Unit No. #0421, Blok 12, Jalan Perkasa 7, Taman Ungku Tun Aminah, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 140000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "495 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1408",
+    "title": "Apartment",
+    "address": "Unit No. #08-02, Tingkat 8, Blok M1, Jalan Mewah Ria 2/10, Taman Bukit Mewah, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 270000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1409",
+    "title": "Service Apartment",
+    "address": "Unit No. 11-04, Block D, Kip Villa Indah, (Formerly Kipark Apartments), Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 350000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1410",
+    "title": "2 Storey Bungalow",
+    "address": "No. 12, Jalan Dahlia 1, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 1100000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "489 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1411",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 1, Jalan Eko Botani 2/23, Taman Eko Botani, 79100 Iskandar Puteri, Johor",
+    "postcode": "79100",
+    "state": "Johor",
+    "area": "Iskandar Puteri",
+    "reservePrice": 2600000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "326 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1412",
+    "title": "Service Apartment",
+    "address": "Unit No. C-06-09, Block C, 6, Villa Krystal, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 210000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1413",
+    "title": "2 Storey Terrace House",
+    "address": "No. 34, Jalan Tasek Maya 12, Bandar Seri Alam, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 600000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1414",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 1106, Jalan Scientex Jaya 22, Taman Scientex Senai, 81400 Senai, Johor",
+    "postcode": "81400",
+    "state": "Johor",
+    "area": "Senai",
+    "reservePrice": 421200,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1415",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Jalan Dahlia 13, Taman Dahlia, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 340000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "040 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1416",
+    "title": "Terrace House",
+    "address": "Jalan Idaman 5/10, Taman Nusa Idaman, 79100 Iskandar Puteri, Johor",
+    "postcode": "79100",
+    "state": "Johor",
+    "area": "Iskandar Puteri",
+    "reservePrice": 1200000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "552 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1417",
+    "title": "2 Storey Terrace House",
+    "address": "No. 19, Jalan Lembah 31, Taman Desa Jaya, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 350000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "092 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1418",
+    "title": "Service Apartment",
+    "address": "Unit No. 17.13, Pangsapuri Rafflesia (also known as the Raffles Suites), Jalan Persiara Sutera Danga, Bandar Uda Utama, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 420000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "068 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1419",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10378, Jalan Merbuk 6, Bandar Putra, 81000 Kulai, Johor",
+    "postcode": "10378",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 430000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "154 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1420",
+    "title": "Service Apartment",
+    "address": "Unit No. D-06-02, Pangsapuri Amara Larkin, Jalan Larkin, 80350 Johor Bahru, Johor",
+    "postcode": "80350",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 480000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "636 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1421",
+    "title": "Service Apartment",
+    "address": "Unit No. #19-10, Pangsapuri Rinting Indah, Jalan Rinting, Taman Rinting, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 250000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "538 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1422",
+    "title": "Service Apartment",
+    "address": "Unit No. #30-22, Blok A, Residensi ARC, Jalan Sagu 36, Taman Daya, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 360000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1423",
+    "title": "2 Storey Terrace House",
+    "address": "No. 3, Jalan Wau Merak 10, Bandar Layangkasa, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 490000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1424",
+    "title": "Apartment",
+    "address": "Unit No. #03-6B, Jalan Mawar 2, Taman Tampoi Indah II, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 162000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1425",
+    "title": "Town House",
+    "address": "Unit No. 8 (E-G-8), Blok E, Laman Impian Emas Satu, Jalan Impian Emas 19, Taman Impian Emas, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 330000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1426",
+    "title": "Service Apartment",
+    "address": "Unit No. 08-10, Pangsapuri Lagenda Tasek, Jalan Padi Makmur, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 328050,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "335 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1427",
+    "title": "2 Storey Terrace House",
+    "address": "No. 77, Jalan Seri Impian 7/5, Bandar Seri Alam, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 372600,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "646 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1428",
+    "title": "2 Storey Terrace House",
+    "address": "No. 67, Jalan PI 4/7, Taman Pulai Indah, 81110, Johor Bahru, Johor",
+    "postcode": "81110",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 600000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "651 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1429",
+    "title": "2 Storey Terrace House",
+    "address": "No. 11, Jalan Tiram 1/16, Bandar Tiram, 81800 Ulu Tiram, Johor",
+    "postcode": "81800",
+    "state": "Johor",
+    "area": "Ulu Tiram",
+    "reservePrice": 720000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "380 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1430",
+    "title": "Terrace House",
+    "address": "Jalan Anggerik 19, Taman Kulai Utama, 81000 Kulai, Johor",
+    "postcode": "81000",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 660000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1431",
+    "title": "2 Storey Terrace House",
+    "address": "No. 30, Jalan Berlian 5, Taman Berlian Biru, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 380000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1432",
+    "title": "2 Storey Terrace House",
+    "address": "No. 27, Jalan Akasia 5, Taman Desaru Utama, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 500000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1433",
+    "title": "2 Storey Terrace House",
+    "address": "No. 75, Jalan Impian 2/20, Taman Impian Jaya, 81400 Senai, Johor",
+    "postcode": "81400",
+    "state": "Johor",
+    "area": "Senai",
+    "reservePrice": 450000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "797 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1434",
+    "title": "2 Storey Terrace House",
+    "address": "No. 78, Jalan Impiana Indah 4, Bandar Seri Impian, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 270000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1435",
+    "title": "Service Apartment",
+    "address": "Unit No. E26-18, Menara E, Residensi KSL Kangkar Tebrau, Jalan Kesum, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 320000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1436",
+    "title": "Apartment",
+    "address": "Unit No. E-03-07, Blok E, Pangsapuri Skudai Villa, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 342000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1437",
+    "title": "2 Storey Cluster House",
+    "address": "No. 8059, Jalan Sri Putri 5/21, Taman Putri Kulai, 81000 Kulai, Johor",
+    "postcode": "81000",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 850000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "564 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1438",
+    "title": "Residential Land",
+    "address": "PTD 24319, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24319",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 396030,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1439",
+    "title": "Detached House Plot",
+    "address": "PTD 24339, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24339",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 86084,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "835 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1440",
+    "title": "Residential Plot",
+    "address": "PTD 24351, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24351",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 124835,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1441",
+    "title": "Residential Land",
+    "address": "PTD 24348, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24348",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 81788,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "907 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1442",
+    "title": "Residential Land",
+    "address": "PTD 24331, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24331",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 68875,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "249 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1443",
+    "title": "Detached House Plot",
+    "address": "PTD 24343, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24343",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 68875,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "249 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1444",
+    "title": "Residential Plot",
+    "address": "PTD 24344, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24344",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 68875,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "249 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1445",
+    "title": "Residential Plot",
+    "address": "PTD 24349, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24349",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 68875,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "249 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1446",
+    "title": "Residential Plot",
+    "address": "PTD 24328, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24328",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 111921,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "468 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1447",
+    "title": "Residential Plot",
+    "address": "PTD 24352, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24352",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 77485,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "799 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1448",
+    "title": "Detached House Plot",
+    "address": "PTD 24353, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24353",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 77485,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "799 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1449",
+    "title": "Residential Plot",
+    "address": "PTD 24337, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24337",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 116226,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "697 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1450",
+    "title": "Residential Land",
+    "address": "PTD 24338, Batu Dua, Off Jalan Yong Peng - Labis (Jalan Besar), 83700 Yong Peng, Johor",
+    "postcode": "24338",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 73180,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "500 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1451",
+    "title": "Apartment",
+    "address": "Unit No. #06-19, Block C, Sri Akasia Apartment, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 225990,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1452",
+    "title": "2 Storey Terrace House",
+    "address": "No. 10, Jalan Nusaria 6/20, Taman Nusantara, 79200 Iskandar Puteri, Johor",
+    "postcode": "79200",
+    "state": "Johor",
+    "area": "Iskandar Puteri",
+    "reservePrice": 460000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1453",
+    "title": "Apartment",
+    "address": "Unit No. #04-25, Blok A, Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 360000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "119 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1454",
+    "title": "Apartment",
+    "address": "Unit No. #15-04, Tower A, Pangsapuri Lagun, Jalan Seri Austin 3/56, Taman Seri Austin, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 360000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "861 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1455",
+    "title": "Service Apartment",
+    "address": "Unit No. 10-01, Menara B, Pangsapuri Palma, Jalan Palma Perak 1, Desa Palma, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 410000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1456",
+    "title": "Service Apartment",
+    "address": "Unit No. 13-10, Menara D, Residensi KSL Kangkar Tebrau, Jalan Kesum, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 300000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1457",
+    "title": "2 Storey Terrace House",
+    "address": "No. 18, Jalan Gunung Panti 16, Bukit Pelali @ Pengerang, 81600 Pengerang, Johor",
+    "postcode": "81600",
+    "state": "Johor",
+    "area": "Pengerang",
+    "reservePrice": 440000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "004 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1458",
+    "title": "Apartment",
+    "address": "Unit No. 17-03, Block C, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 328050,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1459",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22, Jalan KM 2/2, Taman Kota Mas, 81900 Kota Tinggi, Johor",
+    "postcode": "81900",
+    "state": "Johor",
+    "area": "Kota Tinggi",
+    "reservePrice": 218700,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "331 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1460",
+    "title": "2 Storey Terrace House",
+    "address": "No. 24, Jalan KM 2/2, Taman Kota Mas, 81900 Kota Tinggi, Johor",
+    "postcode": "81900",
+    "state": "Johor",
+    "area": "Kota Tinggi",
+    "reservePrice": 340200,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "166 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1461",
+    "title": "2 Storey Terrace House",
+    "address": "No. 9, Jalan Kemboja 7, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 414000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1462",
+    "title": "Apartment",
+    "address": "Unit No. 12-06, Block D, Apartment Persiaran Tanjung, Jalan Persiaran Tanjung, Taman Bukit Alif, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 290000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1463",
+    "title": "2 Storey Cluster House",
+    "address": "No. 9, Jalan Kempas Utama 1/45, Taman Kempas Utama, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 990000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "475 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1464",
+    "title": "Apartment",
+    "address": "Unit No. #05-12, Block 2, Impian Senibong, Jalan Persiaran Senibong, Taman Bayu Senibong, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 261000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1465",
+    "title": "Apartment",
+    "address": "Unit No. 03-13, Block H, Jalan EJ 8/2, Taman Ehsan Jaya, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 145800,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1466",
+    "title": "Condominium",
+    "address": "Unit No. 19-02, Block D, Pangsapuri Seri Mutiara, Bandar Seri Alam, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 269730,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "324 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1467",
+    "title": "Service Apartment",
+    "address": "Unit No. 23-09, Residensi & Hotel Marina (Pinetree Marina Resort), Persiaran Tanjung, Puteri Harbour, 79000 Iskandar Puteri, Johor",
+    "postcode": "79000",
+    "state": "Johor",
+    "area": "Iskandar Puteri",
+    "reservePrice": 600000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1468",
+    "title": "2 Storey Terrace House",
+    "address": "No. 70, Jalan Kemboja 5, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 480000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "259 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1469",
+    "title": "Apartment",
+    "address": "Unit No. 06-06, Block C, Pangsapuri Meridian Medini, Jalan Legoland, 79250 Bandar Medini Iskandar, Johor",
+    "postcode": "79250",
+    "state": "Johor",
+    "area": "Bandar Medini Iskandar",
+    "reservePrice": 380700,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "346 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1470",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1, Jalan Tiong 8, Taman Scientex, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 534600,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "520 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1471",
+    "title": "1 Storey Terrace House",
+    "address": "No. 385, Jalan Attar, Kampung Tok Siak, 80250 Johor Bahru, Johor",
+    "postcode": "80250",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 530000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "167 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1472",
+    "title": "2 Storey Detached House",
+    "address": "No. 6, Jalan Padi Huma 6, Bandar Baru Uda, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 1700000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "548 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1473",
+    "title": "1 Storey Terrace House",
+    "address": "No. 29, Jalan Pulai Ria 4, Bandar Baru Kangkar Pulai, 81110 Kangkar Pulai, Johor",
+    "postcode": "81110",
+    "state": "Johor",
+    "area": "Kangkar Pulai",
+    "reservePrice": 400000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1474",
+    "title": "2 Storey Shop Office",
+    "address": "No. 10, Jalan Mangga 7, Taman Kota Masai, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 585000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1475",
+    "title": "2 Storey Terrace House",
+    "address": "No. 42, Jalan Pulai 5, Taman Desaru Utama, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 324769.5,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1476",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1524, Jalan Seri Impian 6/26, Bandar Seri Impian, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 400000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1477",
+    "title": "2 Storey Terrace House",
+    "address": "No. 15, Jalan Cermai 11, Taman Kota Masai, 81700 Johor Bahru, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 250000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "775 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1478",
+    "title": "Service Apartment",
+    "address": "Unit No. 13-09, Blok C, Kip Villa Indah, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 315000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "850 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1479",
+    "title": "2 Storey Terrace House",
+    "address": "No. 16104, Jalan Camar 5, Bandar Putra, 81000 Kulai, Johor",
+    "postcode": "16104",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 640000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1480",
+    "title": "Apartment",
+    "address": "Unit No. #03-06, Block D, Pangsapuri Titiwangsa, Jalan Padi Malinja 1, Bandar Baru Uda, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 240000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1481",
+    "title": "1 Storey Terrace House",
+    "address": "No. 9, Jalan Pengkalan 11, Taman Pasir Emas, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 310000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "100 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1482",
+    "title": "1 Storey Terrace House",
+    "address": "No. 24, Jalan Simbang 9, Taman Perling, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 520000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "314 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1483",
+    "title": "3 Storey Terrace Shop Office",
+    "address": "No. 3, Jalan Yayasan Jaya 2, Taman Yayasan Jaya, 85000 Segamat, Johor",
+    "postcode": "85000",
+    "state": "Johor",
+    "area": "Segamat",
+    "reservePrice": 484201.8,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "620 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1484",
+    "title": "Service Apartment",
+    "address": "Unit No. B-19-18, Block B, Villa Krystal, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 250000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "818 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1485",
+    "title": "2 Storey Terrace House",
+    "address": "No. 32, Jalan Bukit Flora 2/7, Taman Bukit Flora 2, 83000 Batu Pahat, Johor",
+    "postcode": "83000",
+    "state": "Johor",
+    "area": "Batu Pahat",
+    "reservePrice": 135000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "770 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1486",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 10, Jalan Bendahara Jaya 2, Taman Bendahara, 83000 Batu Pahat, Johor",
+    "postcode": "83000",
+    "state": "Johor",
+    "area": "Batu Pahat",
+    "reservePrice": 153900,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1487",
+    "title": "1 Storey Detached House",
+    "address": "No. 358, Kampung Genuang Baru, 85000 Segamat, Johor",
+    "postcode": "85000",
+    "state": "Johor",
+    "area": "Segamat",
+    "reservePrice": 188956.8,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "393 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1488",
+    "title": "Vacant Land",
+    "address": "PTD 24354, Taman Villa Indah, 83710 Yong Peng, Johor",
+    "postcode": "24354",
+    "state": "Johor",
+    "area": "Yong Peng",
+    "reservePrice": 178605,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "675 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1489",
+    "title": "1 Storey Terrace House",
+    "address": "No. 644, Jalan Seri Impian 7/23, Bandar Seri Impian, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 210600,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1490",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan Pulai Perdana 6, Taman Sri Pulai Perdana, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 802000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1491",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Mutiara Utama 11, Taman Mutiara Utama, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 700000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1492",
+    "title": "1 Storey Terrace House",
+    "address": "No. 21, Jalan Perubatan 8, Taman Universiti, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 351000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1493",
+    "title": "Apartment",
+    "address": "Unit No. A-04-21, Block A, Jalan Masai Utama 2, Taman Masai Utama, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 78732,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1494",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 16, Jalan Cempaka Sari, Taman Seri Cempaka, 84000 Muar, Johor",
+    "postcode": "84000",
+    "state": "Johor",
+    "area": "Muar",
+    "reservePrice": 282123,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "982 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1495",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Seri Impian 3/18, Bandar Seri Impian, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 420000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1496",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Serindit 20, Taman Scientex, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 360000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "336 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1497",
+    "title": "2 Storey Terrace House",
+    "address": "No. 5, Jalan Sejati 9, Taman Tasik Sejati, Buloh Kasap, 85010 Segamat, Johor",
+    "postcode": "85010",
+    "state": "Johor",
+    "area": "Segamat",
+    "reservePrice": 360000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "901 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1498",
+    "title": "Retail Lot",
+    "address": "Unit No. 3-34, Aras 3, City Plaza, Jalan Tebrau, 80300 Johor Bahru, Johor",
+    "postcode": "80300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 97200,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "409 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1499",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Jalan Betik 6, Taman Kota Masai, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 333000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "254 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1500",
+    "title": "Condominium",
+    "address": "Unit No. B4-10, Kondominium Selesa Puteri, Jalan Silat Gayong 4, Bandar Selesa Jaya, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 261000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1501",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10133, Jalan Merbuk 2, Bandar Putra, 81000 Kulai, Johor",
+    "postcode": "10133",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 410000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1502",
+    "title": "1 Storey Terrace House",
+    "address": "Premises No. 10454, Jalan Merbuk 9, Bandar Putra, 81000 Kulai, Johor",
+    "postcode": "10454",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 420000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "120 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1503",
+    "title": "2 Storey Terrace House",
+    "address": "No. 10, Jalan Melati 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 500000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1504",
+    "title": "2 Storey Detached House",
+    "address": "No. 26, Jalan Indah 2/10, Taman Kluang Indah, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 961000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "519 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1505",
+    "title": "Apartment",
+    "address": "Unit No. 11-03, Blok B, Pangsapuri Seri Mutiara, Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 414000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1506",
+    "title": "Apartment",
+    "address": "Unit No. #02-1B, Jalan Mawar 3, Taman Tampoi Indah II, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 200000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "882 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1507",
+    "title": "2 Storey Terrace House",
+    "address": "No. 19, Jalan Semerbak 13, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 410000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1508",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Jalan Pulai Ria 4, Bandar Baru Kangkar Pulai, 81110 Pulai, Johor",
+    "postcode": "81110",
+    "state": "Johor",
+    "area": "Pulai",
+    "reservePrice": 400000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1509",
+    "title": "2 Storey Cluster House",
+    "address": "No. 38, Jalan Ekoflora 1/15, Taman Ekoflora, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 1500000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1510",
+    "title": "3 Storey Cluster House",
+    "address": "No. 18, Jalan Bukit Skudai 2, Taman Bukit Skudai, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 891000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1511",
+    "title": "2 Storey Terrace House",
+    "address": "No. 11, Jalan Sierra Perdana 3/13, Taman Sierra Perdana, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 520000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1512",
+    "title": "2 Storey Terrace House",
+    "address": "No. 38, Jalan Seri Impian 7/40, Bandar Seri Impian, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 430000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1513",
+    "title": "Condominium",
+    "address": "Vista Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 250000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1514",
+    "title": "Apartment",
+    "address": "Unit No. F-2-7, Skudai Villa Apartment, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 242757,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "109 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1515",
+    "title": "2 Storey Terrace House",
+    "address": "No. 8, Jalan Kemboja 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 349920,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "372 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1516",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Jalan Santalia 4, Taman Flora Heights, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 333000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "960 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1517",
+    "title": "2 Storey Shop House",
+    "address": "No. 6, Jalan Hussien, Kota Kecil, 81900 Kota Tinggi, Johor",
+    "postcode": "81900",
+    "state": "Johor",
+    "area": "Kota Tinggi",
+    "reservePrice": 342000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "723 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1518",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 16, Taman Beting, Jalan Bakariah, 84000 Muar, Johor",
+    "postcode": "84000",
+    "state": "Johor",
+    "area": "Muar",
+    "reservePrice": 495000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "282 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1519",
+    "title": "2 Storey Terrace House",
+    "address": "No. 24, Jalan Perwira Jaya 1, Taman Perwira Jaya, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 405000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "566 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1520",
+    "title": "Apartment",
+    "address": "Unit No. 12-12, Block B, Pangsapuri Seroja, Persiaran Seroja Indah, Taman Seroja, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 324000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "281 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1521",
+    "title": "Apartment",
+    "address": "Unit No. 14-04, Block C, Pangsapuri Persiaran Tanjung, Jalan Persiaran Tanjung, Taman Bukit Alif, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 216000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1522",
+    "title": "2 Storey Terrace House",
+    "address": "No. 14, Jalan Orkid 1, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 450000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "858 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1523",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2, Jalan Eko Tropika 2/12, Taman Kota Masai, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 769500,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "357 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1524",
+    "title": "2 Storey Terrace House",
+    "address": "No. 37, Jalan Anggerik 2, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 388800,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "996 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1525",
+    "title": "Apartment",
+    "address": "Unit No. 03-03, Block A, Pangsapuri Ria, Jalan Utama 1, Taman D'Utama, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 340000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "152 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1526",
+    "title": "Service Apartment",
+    "address": "Unit No. C-17-05, Villa Krystal, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 350000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1527",
+    "title": "2.5 Storey Terrace House",
+    "address": "No. 19, Jalan Pulai 64, Taman Pulai Utama, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 630000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "765 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1528",
+    "title": "2 Storey Terrace House",
+    "address": "No. 628, Jalan Impiana 19, Taman Impiana, Kelapa Sawit, 81030 Kulai, Johor",
+    "postcode": "81030",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 470000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "986 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1529",
+    "title": "2 Storey Terrace House",
+    "address": "No. 51, Jalan Indah 19/4, Taman Bukit Indah, 79100 Iskandar Puteri, Johor",
+    "postcode": "79100",
+    "state": "Johor",
+    "area": "Iskandar Puteri",
+    "reservePrice": 670000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1530",
+    "title": "2 Storey Terrace House",
+    "address": "No. 11, Jalan Indah 30/5, Taman Bukit Indah, 79100 Iskdandar Puteri, Johor",
+    "postcode": "79100",
+    "state": "Johor",
+    "area": "Iskdandar Puteri",
+    "reservePrice": 920000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "916 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1531",
+    "title": "2 Storey Terrace House",
+    "address": "No. 104, Jalan Bestari 25/3, Taman Bestari Indah, 81800 Ulu Tiram, Johor",
+    "postcode": "81800",
+    "state": "Johor",
+    "area": "Ulu Tiram",
+    "reservePrice": 270000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "775 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1532",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Bayu 10, Taman Sri Bayu, 86200 Simpang Renggam, Johor",
+    "postcode": "86200",
+    "state": "Johor",
+    "area": "Simpang Renggam",
+    "reservePrice": 140000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1533",
+    "title": "2 Storey Terrace House",
+    "address": "No. 234, Jalan Seri Impian 6/12, Bandar Seri Impian, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 349920,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1534",
+    "title": "1 Storey Terrace House",
+    "address": "No. 28, Jalan Biru 4, Taman Melati, 86600 Paloh, Johor",
+    "postcode": "86600",
+    "state": "Johor",
+    "area": "Paloh",
+    "reservePrice": 189000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "520 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1535",
+    "title": "1 Storey Terrace House",
+    "address": "No. 125, Jalan Puteri 4/4, Bandar Baru Tangkak, 84900 Tangkak, Johor",
+    "postcode": "84900",
+    "state": "Johor",
+    "area": "Tangkak",
+    "reservePrice": 196830,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1536",
+    "title": "[4 min to Angsana Johor Bahru Mall] Service Apartment [6 min to Perling Mall]",
+    "address": "Unit No. B-24-05, Pangsapuri Dwi Alif, Jalan Tampoi, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 259200,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "915 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1537",
+    "title": "Service Apartment",
+    "address": "Unit No. #23-05, Block C, Pangsapuri Seri Bayu, Jalan Bayu Puteri 2, Taman Bayu Puteri, 81750 Johor Bahru, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 544000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "561 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1538",
+    "title": "2 Storey Terrace House",
+    "address": "No. 69, Jalan Merak 6, Taman Scientex, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 299700,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "440 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1539",
+    "title": "Service Apartment",
+    "address": "Aras 2, Pangsapuri Lagenda Tasek, Jalan Tun Abdul Razak Susur 6, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 381000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "237 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1540",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Nusaria 6/3, Taman Nusantara, 79200 Iskandar Puteri, Johor",
+    "postcode": "79200",
+    "state": "Johor",
+    "area": "Iskandar Puteri",
+    "reservePrice": 531000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "637 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1541",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Kemboja 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
+    "postcode": "81930",
+    "state": "Johor",
+    "area": "Bandar Penawar",
+    "reservePrice": 405000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1542",
+    "title": "2 Storey Terrace House",
+    "address": "No. 384, Jalan Mutiara Hijau 12, Taman Mutiara Hijau, 81000 Kulai, Johor",
+    "postcode": "81000",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 600000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1543",
+    "title": "3 Storey Terrace House",
+    "address": "Jalan Pulai Mutiara 2/7, Taman Pulai Mutiara, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 570000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "173 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1544",
+    "title": "2 Storey Terrace House",
+    "address": "No. 85, Jalan Eko Tropika 3/15, Taman Kota Masai, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 550000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1545",
+    "title": "2 Storey Terrace House",
+    "address": "No. 34, Jalan Delima 12, Taman Cahaya Masai, 81700 Masai, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 390000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "299 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1546",
+    "title": "2 Storey Terrace House",
+    "address": "No. 174, Jalan Scientex Jaya 8, Taman Scientex, 81400 Senai, Johor",
+    "postcode": "81400",
+    "state": "Johor",
+    "area": "Senai",
+    "reservePrice": 540000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "642 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1547",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2514, Jalan Sri Putri 6/17, Taman Putri Kulai, 81000 Kulai, Johor",
+    "postcode": "81000",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 445500,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "906 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1548",
+    "title": "Terrace House",
+    "address": "No. 14, Jalan NB2 4/8, Taman Nusa Bestari 2, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 530000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "140 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1549",
+    "title": "2 Storey Terrace House",
+    "address": "No. 42, Jalan Kemboja 9, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
+    "postcode": "81700",
+    "state": "Johor",
+    "area": "Pasir Gudang",
+    "reservePrice": 480000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "920 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1550",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Pulai Mutiara 5/3, Taman Pulai Mutiara, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 500000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "596 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1551",
+    "title": "Service Apartment",
+    "address": "Unit No. A-18-6, Inspira Bestari (D'Inspire Residence), Jalan Bestari 15/2, Taman Nusa Bestari, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 460000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "033 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1552",
+    "title": "Service Apartment",
+    "address": "Unit No. B-09-05, Inspira Bestari, Jalan Bestari 15/2, Taman Nusa Bestari, 81300 Skudai, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Skudai",
+    "reservePrice": 520000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1553",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Nusaria 4/9D, Taman Nusantara, 79150 Iskandar Puteri, Johor",
+    "postcode": "79150",
+    "state": "Johor",
+    "area": "Iskandar Puteri",
+    "reservePrice": 370000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1554",
+    "title": "Apartment",
+    "address": "Pangsapuri Permata Austin, Jalan Austin Perdana 1, Taman Austin Perdana, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 500000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1555",
+    "title": "Apartment",
+    "address": "Blok J, Pangsapuri Lily & Jasmine, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
+    "postcode": "81200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 250000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1556",
+    "title": "Apartment",
+    "address": "Block B, Pangsapuri Seri Mutiara (Seri Mutiara Apartment), Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 284000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "324 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1557",
+    "title": "2 Storey Terrace House",
+    "address": "No. 27, Jalan Seri Austin 3/26, Taman Seri Austin, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 630000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "185 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1558",
+    "title": "2 Storey Cluster House",
+    "address": "Jalan Ekoflora 1/11, Taman Ekoflora, 81100 Johor Bharu, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bharu",
+    "reservePrice": 1287000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1559",
+    "title": "Service Apartment",
+    "address": "Block 11A, Royal Strand, Persiaran Danga Perdana, Country Garden Danga Bay, 80200 Johor Bahru, Johor",
+    "postcode": "80200",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 540000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "248 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1560",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 11, Jalan Seri Temenggong 16, Taman Sri Temenggong, 84000 Muar, Johor",
+    "postcode": "84000",
+    "state": "Johor",
+    "area": "Muar",
+    "reservePrice": 380000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "956 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1561",
+    "title": "Flat",
+    "address": "Unit No. #02-09, Block Geharu A, Jalan Geharu 11, Taman Rinting, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 135000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "592 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1562",
+    "title": "Apartment",
+    "address": "Unit No. #05-05, Blok C5, Pangsapuri Larkin Idaman, Jalan Idaman Utama, Taman Larkin Idaman, 80350 Johor Bahru, Johor",
+    "postcode": "80350",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 210600,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "861 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1563",
+    "title": "Service Apartment",
+    "address": "Unit No. 12-06, Blok B, Pangsapuri Kempas Indah, Jalan Kempas Indah, Taman Kempas Indah, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 324000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "980 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1564",
+    "title": "2 Storey Terrace House",
+    "address": "No. 38, Jalan 5/4, Taman Sri Kluang, 86000 Kluang, Johor",
+    "postcode": "86000",
+    "state": "Johor",
+    "area": "Kluang",
+    "reservePrice": 121500,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "952 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1565",
+    "title": "Apartment",
+    "address": "Unit No. A2-03-02, Pangsapuri Seri Mengkuang 2, Persiaran Juragan, Desa Paya Mengkuang, 81560 Gelang Patah, Johor",
+    "postcode": "81560",
+    "state": "Johor",
+    "area": "Gelang Patah",
+    "reservePrice": 315000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "216 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1566",
+    "title": "Condominium",
+    "address": "Unit No. 04-02, Pangsapuri Sri Pahlawan B, Jalan Bendahara, Taman Bukit Saujana, 81100 Johor Bahru, Johor",
+    "postcode": "81100",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 280000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1567",
+    "title": "Apartment",
+    "address": "Blok Q, Jalan Cenderai 19, Bandar Baru Kota Puteri, 81750 Masai, Johor",
+    "postcode": "81750",
+    "state": "Johor",
+    "area": "Masai",
+    "reservePrice": 106288.2,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1568",
+    "title": "Service Apartment",
+    "address": "Blok A, Pangsapuri Larkin Idaman, Jalan Idaman 1, Taman Larkin Idaman, 80350 Johor Bahru, Johor",
+    "postcode": "80350",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 307800,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "055 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1569",
+    "title": "2 Storey Terrace Dwelling House",
+    "address": "Jalan Bestari 28/1, Taman Bestari Indah, 81800 Ulu Tiram, Johor",
+    "postcode": "81800",
+    "state": "Johor",
+    "area": "Ulu Tiram",
+    "reservePrice": 440000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "173 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1570",
+    "title": "3 Storey Semi Detached House",
+    "address": "No. 20, Jalan Kempas Utama 1/25, Taman Kempas Utama, 81300 Johor Bahru, Johor",
+    "postcode": "81300",
+    "state": "Johor",
+    "area": "Johor Bahru",
+    "reservePrice": 2000000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "432 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1571",
+    "title": "1 Storey Terrace House",
+    "address": "No. 185, Jalan Makmur 7, Taman Makmur, 81000 Kulai, Johor",
+    "postcode": "81000",
+    "state": "Johor",
+    "area": "Kulai",
+    "reservePrice": 330000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "188 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1572",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Lembing 23, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor",
+    "postcode": "81800",
+    "state": "Johor",
+    "area": "Ulu Tiram",
+    "reservePrice": 430000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1573",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 7, Jalan Ria 6/2, Taman Ria, 84000 Muar, Johor",
+    "postcode": "84000",
+    "state": "Johor",
+    "area": "Muar",
+    "reservePrice": 468000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "279 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1574",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 32, Jalan Putera 3, Taman Putera Bakri, 84000 Muar, Johor",
+    "postcode": "84000",
+    "state": "Johor",
+    "area": "Muar",
+    "reservePrice": 495000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "834 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1575",
+    "title": "2 Storey Terrace House",
+    "address": "No. 34, Jalan Permai 2, Taman Seri Permai, 84300 Bukit Pasir, Muar, Johor",
+    "postcode": "84300",
+    "state": "Johor",
+    "area": "Muar",
+    "reservePrice": 730000,
+    "auctionDate": "21 Oct 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "004 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
+    ]
+  },
+  {
+    "id": "1576",
+    "title": "2 Storey Terrace House",
+    "address": "No. 13F (Lot 3466), Lorong Desa Ilmu 22M1A, Taman Desa Ilmu, hanim binti sa'aidin, 94300 Samarahan, Sarawak",
+    "postcode": "94300",
+    "state": "Sarawak",
+    "area": "Samarahan",
+    "reservePrice": 440000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "588 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1577",
+    "title": "Shop",
+    "address": "No. 271-2-18, 1st Floor, Wisma Centre Point, Off Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak",
+    "postcode": "93100",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 53145,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "166 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1578",
+    "title": "Dwelling House",
+    "address": "Lot 1614, 2 1/2 Mile, Rock Road, Kuching, Sarawak",
+    "postcode": "",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 900000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "686 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1579",
+    "title": "3 Storey Terrace Shop House",
+    "address": "Lot 2235 (Sublot 12), Block 6, Sentah Segu, 17th Mile, Jalan Kuching/Serian, 94200 Siburan, Sarawak",
+    "postcode": "94200",
+    "state": "Sarawak",
+    "area": "Siburan",
+    "reservePrice": 972000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "259 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1580",
+    "title": "Apartment",
+    "address": "Parcel No. A1-12, (Type A-5), Level 4 (3rd Floor), Block A, HK Square Apartment, Jalan Stapok Utama, 93250 Kuching, Sarawak",
+    "postcode": "93250",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 442800,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "494 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1581",
+    "title": "1 Storey Terrace House",
+    "address": "No. 107 (Lot 9460), Lorong Ceria 4H, Borneo Samariang Garden, Jalan Ceria, Off Jalan Lingkaran Semariang, 93050 Kuching, Sarawak",
+    "postcode": "93050",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 259200,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "707 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1582",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 374 (Lot 10960), Lorong Uni-Central 6E, Jalan Uni-Central, Taman Uni-Central, Off Kuching-Samarahan Expressway, 94300 Samarahan, Sarawak",
+    "postcode": "10960",
+    "state": "Sarawak",
+    "area": "Samarahan",
+    "reservePrice": 590400,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "841 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1583",
+    "title": "Flat",
+    "address": "Parcel No. B6-02-13 (Unit No. 13), First Floor, Level 2, Block B6, RPR Matang Malihah II, Off Jalan Batu Kawa-Matang, 93050 Kuching, Sarawak",
+    "postcode": "93050",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 51840,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "428 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1584",
+    "title": "Apartment",
+    "address": "Parcel No. A6-9-2, Level 9, Block A6, PR1MA Residensi Bintawa Riverfront, Off Jalan Daya, 93450 Kuching, Sarawak",
+    "postcode": "93450",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 273600,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "038 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1585",
+    "title": "1 Storey Terrace Dwelling House",
+    "address": "Lot 4631, Lorong 4, Off Jalan Kuching Timur 2, Taman Tunku, Off Jalan Miri-Bintulu, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 320000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "834 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1586",
+    "title": "Apartment",
+    "address": "Parcel No. A14-11, Type C-5, Level 14, Block 4, Jazz Suites 4 Apartment, Jalan Wan Alwi, 93350 Kuching, Sarawak",
+    "postcode": "93350",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 600000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "846 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1587",
+    "title": "Terrace House",
+    "address": "Lot 3138, Lorong Indah 4A-2B, Desa Indah 3, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 324000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "960 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1588",
+    "title": "Semi Detached House",
+    "address": "Lot 4556, Lorong 2-5, Off Jalan Dato Permaisuri 2, RPR Permyjaya, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 360000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "906 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1589",
+    "title": "Semi Detached House",
+    "address": "Lot 2148, Jalan Kelinai 4, Pujut 7C, Off Jalan Pujut-Lutong, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 473850,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "416 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1590",
+    "title": "1 Storey Semi Detached Dwelling House",
+    "address": "Lot 4488, Lorong Desa Senadin 2C-1D-1, Desa Senadin, 98000, Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 450000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "487 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1591",
+    "title": "Land",
+    "address": "Lot 649, Block 5, Jalan Nudong, Ulu Salim, Sibu, Sarawak",
+    "postcode": "",
+    "state": "Sarawak",
+    "area": "Sibu",
+    "reservePrice": 162000,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1592",
+    "title": "Freehold Dwelling House",
+    "address": "Lot 939, Block 11, 13KM, Sibu Ulu Oya Road, Sibu, Sarawak",
+    "postcode": "",
+    "state": "Sarawak",
+    "area": "Sibu",
+    "reservePrice": 270000,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "371 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1593",
+    "title": "Retail Unit",
+    "address": "Parcel No. 90-4-1, Storey No. 4 (3rd Floor), Wisma Saberkas, Jalan Tun Haji Openg/Jalan Green, 93000 Kuching, Sarawak",
+    "postcode": "93000",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 200000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "574 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1594",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Samarindah 21A2, Taman Samarindah, Off Jalan Datuk Mohd. Musa, 94300 Kota Samarahan, Sarawak",
+    "postcode": "94300",
+    "state": "Sarawak",
+    "area": "Kota Samarahan",
+    "reservePrice": 380000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "682 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1595",
+    "title": "Dwelling House",
+    "address": "Lot 1114, Block 4, Jalan Tumuk, Off 8 1/4 Mile, Jalan Matang, Kuching, Sarawak",
+    "postcode": "",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 230000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "574 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1596",
+    "title": "2 Storey Terrace House",
+    "address": "No. 7574-19, Block 9 (Salang), Lorong 4-8, Off Jalan Dato Permaisuri 3, Taman Ceria, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 210000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "004 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1597",
+    "title": "1 Storey Terrace House",
+    "address": "Lot 1745, Lorong Desa Senadin 1D, Desa Senadin, Off Jalan Lutong-Kuala Baram, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 300000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "725 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1598",
+    "title": "2 Storey Terrace House",
+    "address": "No. 190, Lorong 6, Jalan Kiong Soon, 96100 Sarikei, Sarawak",
+    "postcode": "96100",
+    "state": "Sarawak",
+    "area": "Sarikei",
+    "reservePrice": 504000,
+    "auctionDate": "17 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "733 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1599",
+    "title": "2 Storey Terrace House",
+    "address": "House No. 230 (Lot 3419), Lorong Desa Ilmu 9, Taman Desa Ilmu, Off Jalan Datuk Mohd Musa, 94300 Kota Samarahan, Sarawak",
+    "postcode": "94300",
+    "state": "Sarawak",
+    "area": "Kota Samarahan",
+    "reservePrice": 260000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "793 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1600",
+    "title": "[Located within a commercial centre in Metro City] Apartment [Positioned in a high-growth corridor connecting Kuching city centre and Matang townships]",
+    "address": "Unit No. 8TF, Third Floor, Block N, Synergy Square, Off Jalan Matang, 93050 Kuching, Sarawak",
+    "postcode": "93050",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 93000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "244 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1601",
+    "title": "Semi Detached House",
+    "address": "Golden Villa Garden, Jalan Lutong-Kuala Baram, 98100 Miri, Sarawak",
+    "postcode": "98100",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 472392,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "507 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1602",
+    "title": "1 Storey Detached House",
+    "address": "Lot 1245, Jalan Biri 3, Pujut 1D, Off Jalan Pujut-Lutong, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 620000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "868 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1603",
+    "title": "1 Storey Terrace Dwelling House",
+    "address": "Lot 11355, Taman Jelita, Jalan Baleh, 98000 Miri, Sarawak",
+    "postcode": "11355",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 330000,
+    "auctionDate": "30 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "908 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1604",
+    "title": "2 Storey Semi Detached House",
+    "address": "Lot 2871, Lorong Ling Kai Cheng 6, Off Jalan Ling Kai Cheng, 96000 Sibu, Sarawak",
+    "postcode": "96000",
+    "state": "Sarawak",
+    "area": "Sibu",
+    "reservePrice": 453600,
+    "auctionDate": "31 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "603 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1605",
+    "title": "Semi Detached House",
+    "address": "Pakan Pasar, 96100 Pakan, Sarawak",
+    "postcode": "96100",
+    "state": "Sarawak",
+    "area": "Pakan",
+    "reservePrice": 540000,
+    "auctionDate": "31 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "336 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1606",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 8B, Lorong Gelama 4, Off Jalan Deshon, 96000 Sibu, Sarawak",
+    "postcode": "96000",
+    "state": "Sarawak",
+    "area": "Sibu",
+    "reservePrice": 242200,
+    "auctionDate": "31 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "510 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1607",
+    "title": "2 Storey Terrace House",
+    "address": "Lot 1492, Lorong Kiat Foh 2, Taman Kiat Foh, Off 8 1/2 Mile, Jalan Penrissen, 94300 Samarahan, Sarawak",
+    "postcode": "94300",
+    "state": "Sarawak",
+    "area": "Samarahan",
+    "reservePrice": 700000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "715 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1608",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Matang Jaya 6A1A, Batu 4, Jalan Matang, Taman Matang Jaya, 93050 Kuching, Sarawak",
+    "postcode": "93050",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 300000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1609",
+    "title": "1 Storey Terrace House",
+    "address": "Lot. 2618, Lorong Cahya Damai 8C, RPR Bandar Baru Semariang, Off Jalan Sultan Tengah, 93050 Kuching, Sarawak",
+    "postcode": "93050",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 210000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "976 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1610",
+    "title": "Terrace House",
+    "address": "Lorong 7C, Taman Duranda Emas, Off 18th Mile, Jalan Kuching-Serian, 94200 Serian, Sarawak",
+    "postcode": "94200",
+    "state": "Sarawak",
+    "area": "Serian",
+    "reservePrice": 260000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1611",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong 7A4, Taman Malihah, Off Jalan Matang-Batu Kawa, Kuching, Sarawak",
+    "postcode": "",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 240000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "602 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1612",
+    "title": "2 Storey Terrace Dwelling House",
+    "address": "Lot 7697, Lorong Desa Pujut 1F/5, Desa Pujut 2, 98000 Miri, Sarawak",
+    "postcode": "98000",
+    "state": "Sarawak",
+    "area": "Miri",
+    "reservePrice": 522000,
+    "auctionDate": "20 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "512 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1613",
+    "title": "1 Storey Terrace Dwelling House",
+    "address": "Lorong Indah 1A, 96000 Sibu, Sarawak",
+    "postcode": "96000",
+    "state": "Sarawak",
+    "area": "Sibu",
+    "reservePrice": 116640,
+    "auctionDate": "21 Aug 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "949 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1614",
+    "title": "Dwelling House",
+    "address": "Lot 2084, Jalan Engkalat, Block 5, Seduan Land District, Sibu, Sarawak",
+    "postcode": "",
+    "state": "Sarawak",
+    "area": "Sibu",
+    "reservePrice": 522000,
+    "auctionDate": "21 Aug 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "795 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1615",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong 3C, Taman Landeh, Off Jalan Landeh, 93250 Kuching, Sarawak",
+    "postcode": "93250",
+    "state": "Sarawak",
+    "area": "Kuching",
+    "reservePrice": 220000,
+    "auctionDate": "25 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+    ]
+  },
+  {
+    "id": "1616",
+    "title": "4 Storey Shop Office",
+    "address": "Unit No. A-25, Jalan Seri Damai Perdana 2, Batu 6, Jalan Gambang, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 720000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "065 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1617",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 19, Taman Sepakat Jaya, 26800 Kuala Rompin, Pahang",
+    "postcode": "26800",
+    "state": "Pahang",
+    "area": "Kuala Rompin",
+    "reservePrice": 297000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "713 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1618",
+    "title": "1 Storey Terrace House",
+    "address": "No. 32, Jalan Wijaya 2, Taman Wijaya, 28600 Karak, Pahang",
+    "postcode": "28600",
+    "state": "Pahang",
+    "area": "Karak",
+    "reservePrice": 260000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "140 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1619",
+    "title": "2 Storey Terrace House",
+    "address": "No. 18, Jalan TJ 9/7, Taman Temerloh Jaya, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 135000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1620",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 24, Lorong Gambang Jaya 1/29, Perumahan Makmur Gambang Jaya 1, 26300 Kuantan, Pahang",
+    "postcode": "26300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 144342,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "716 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1621",
+    "title": "2 Storey Terrace House",
+    "address": "No. 3, Jalan IM 2/3, Perumahan MBSB, Indera Mahkota 2, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 283500,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "668 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1622",
+    "title": "1 Storey Terrace House",
+    "address": "No. 38, Lorong Gambang Damai 1/8, Perumahan Gambang Damai 1, 26300 Kuantan, Pahang",
+    "postcode": "26300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 153000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "980 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1623",
+    "title": "1 Storey Terrace House",
+    "address": "No. 37, Lorong Seri Mahkota Maju 10, Residensi Prima @ Seri Mahkota Maju, 26070 Kuantan, Pahang",
+    "postcode": "26070",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 189000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "960 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1624",
+    "title": "1 Storey Terrace House",
+    "address": "No. 47, Lorong Pinggiran Putra 2/115, Perumahan Pinggiran Putra 2, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 225000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "268 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1625",
+    "title": "1 Storey Terrace House",
+    "address": "No. 111, Lorong IS 18, Perumahan Indera Sempurna, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 127575,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1626",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan KS 5/1, Kota Sultan Ahmad Shah, Kuantan, Pahang",
+    "postcode": "",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 340000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "634 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1627",
+    "title": "1 Storey Terrace House",
+    "address": "No. 23, Jalan Tas 28, Perumahan Tas, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 111537,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1628",
+    "title": "Factory",
+    "address": "No. 66, Jalan Industri 2/1, Temerloh Industri Park, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 426465,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "917 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1629",
+    "title": "Factory",
+    "address": "No. 56, 58 & 60, Jalan Industri 2/1, Temerloh Industrial Park, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 1167858,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "040 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1630",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 8, Lorong Balok Perdana 5/12, Perumahan Balok Perdana, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 267300,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "852 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1631",
+    "title": "1 Storey Terrace House",
+    "address": "No. 16, Jalan Mentakab Indah 9, Taman Mentakab Indah, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 180000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "432 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1632",
+    "title": "2 Storey Detached House",
+    "address": "No. 12, Lorong Kubang Buaya 69, Perumahan Kubang Buaya, 25250 Kuantan, Pahang",
+    "postcode": "25250",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 918540,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "638 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1633",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Seri Mahkota Aman, Taman Seri Mahkota Aman, Jalan Gambang, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 118098,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1634",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2, Lorong Bukit Setongkol Maju 45, Bukit Setongkol, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 218700,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "380 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1635",
+    "title": "1 Storey Terrace House",
+    "address": "No. T 377, Jalan Inderapura 18, Taman Inderapura, 27000 Jerantut, Pahang",
+    "postcode": "27000",
+    "state": "Pahang",
+    "area": "Jerantut",
+    "reservePrice": 220000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1636",
+    "title": "1 Storey Terrace House",
+    "address": "No. 17, Jalan Keladan Baiduri 4/1, Taman Keladan Baiduri, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 243000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1637",
+    "title": "2 Storey Terrace House",
+    "address": "No. 11, Lorong Saga 10, Taman Saga, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 109800,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "946 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1638",
+    "title": "1 Storey Terrace House",
+    "address": "No. 22, Lorong Pandan Damai 1/15, Taman Pandan Damai 1, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 234000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "711 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1639",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 17, Jalan Pamah Kasih Indah 1, Taman Pamah Kasih Indah, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 252000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "079 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1640",
+    "title": "1 Storey Terrace House",
+    "address": "No. 46, Lorong Kempadang Indah 9/27, Kempadang, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 234000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1641",
+    "title": "1 Storey Terrace House",
+    "address": "No. 25, Jalan Saga Indah 1/1, Taman Saga Indah, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 162000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "658 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1642",
+    "title": "1 Storey Terrace House",
+    "address": "No. 24, Lorong Seri Mahkota 26, Taman Putra (Seri Mahkota), 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 170000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1643",
+    "title": "1 Storey Terrace House",
+    "address": "No. 108, Lorong Seri Inderapura 17/1, Taman Seri Inderapura, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 162000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1644",
+    "title": "2 Storey Shop House",
+    "address": "No. 73, Bandar Raub Perdana, Jalan Lipis, 27600 Raub, Pahang",
+    "postcode": "27600",
+    "state": "Pahang",
+    "area": "Raub",
+    "reservePrice": 473850,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "600 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1645",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Jalan Tualang Indah 1, Taman Tualang Indah, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 145800,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "130 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1646",
+    "title": "1 Storey Terrace House",
+    "address": "No. 87, Jalan Tualang Indah 2/1, Taman Tualang Indah, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 194400,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "625 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1647",
+    "title": "1 Storey Terrace House",
+    "address": "No. 16, Jalan Chengal Lempong, Taman Balok Jaya 2, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 202500,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "380 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1648",
+    "title": "1 Storey Terrace House",
+    "address": "No. 9, Lorong Pandan Damai 1/11, Taman Pandan Damai 1, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 186300,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "140 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1649",
+    "title": "1 Storey Terrace House",
+    "address": "No. 3, Lorong Peramu Baru 23, Perumahan Taman Bayou, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 231000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "360 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1650",
+    "title": "2 Storey Terrace House",
+    "address": "No. 5, Lorong Batu Hitam 3, Taman Batu Hitam, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 320000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "480 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1651",
+    "title": "1.5 Storey Terrace House",
+    "address": "No. 19, Lorong BKP 64, Perumahan Bandar Kuantan Putri, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 240000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1652",
+    "title": "Office",
+    "address": "Unit No. B-56-2, Lorong Tun Ismail 6, Sri Dagangan, 25000 Kuantan, Pahang",
+    "postcode": "25000",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 126000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "130 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1653",
+    "title": "2 Storey Terrace House",
+    "address": "No. 60, Jalan Jati, Taman Rimba, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 360000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1654",
+    "title": "Terrace House",
+    "address": "No. 19, Jalan Tualang Indah 2, Taman Tualang Indah, 28400 Mentakab, Pahang",
+    "postcode": "28400",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 216000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1655",
+    "title": "1 Storey Terrace House",
+    "address": "No. 44, Lorong Gudang Rasau 4, Taman Rasau Permata, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 270000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "765 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1656",
+    "title": "2 Storey Terrace House",
+    "address": "No. 30, Jalan KS 1/6, Kota Sultan Ahmad Shah, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 350000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "798 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1657",
+    "title": "1 Storey Terrace House",
+    "address": "No. 12, Lorong IM 2/24, Indera Mahkota 2, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "324 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1658",
+    "title": "1 Storey Detached House",
+    "address": "No. 27, Lorong BDK 1/23, Bandar Damansara, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 432000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "018 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1659",
+    "title": "1 Storey Terrace House",
+    "address": "No. 43, Lorong SDS 16, Perumahan Seri Damai Sejahtera, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 210000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1660",
+    "title": "1 Storey Terrace House",
+    "address": "No. 11, Lorong Sri Mahkota Permai 5, Taman Tunas Mahkota, 26070 Kuantan, Pahang",
+    "postcode": "26070",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1661",
+    "title": "1 Storey Terrace House",
+    "address": "No. 28, Lorong Pandan Damai 1/20, Taman Pandan Damai 1, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 180000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1662",
+    "title": "1 Storey Terrace House",
+    "address": "No. 7, Jalan KS 2/9, Kota Sultan Ahmad Shah, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 387000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "294 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1663",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 3, Jalan Bahagia 34/3, Bahagia Residence, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 513000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "798 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1664",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Gemilang 1, Taman Gemilang 1, 27000 Jerantut, Pahang",
+    "postcode": "27000",
+    "state": "Pahang",
+    "area": "Jerantut",
+    "reservePrice": 177147,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "819 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1665",
+    "title": "2 Storey Terrace House",
+    "address": "No. 17, Lorong Sutera 2, Taman Sutera, 27600 Raub, Pahang",
+    "postcode": "27600",
+    "state": "Pahang",
+    "area": "Raub",
+    "reservePrice": 440000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1666",
+    "title": "2 Storey Detached House",
+    "address": "No. 29, Lorong IM 13/3, Indera Mahkota 13, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 607500,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "602 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1667",
+    "title": "3 Storey Semi Detached House",
+    "address": "No. 14, Jalan Indera Segara, Taman Karpaga, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 495000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "725 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1668",
+    "title": "2 Storey Terrace House",
+    "address": "No. 19, Jalan Cempaka Murni 2, Taman Cempaka Murni, 28200 Bandar Bera, Pahang",
+    "postcode": "28200",
+    "state": "Pahang",
+    "area": "Bandar Bera",
+    "reservePrice": 243000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1669",
+    "title": "Agricultural Land",
+    "address": "Lot 2971, Jalan Kuala Lipis-Merapoh-Sungai Koyan, Kechor Tui, 27200 Kuala Lipis, Pahang",
+    "postcode": "27200",
+    "state": "Pahang",
+    "area": "Kuala Lipis",
+    "reservePrice": 159709,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1670",
+    "title": "Agricultural Land",
+    "address": "Lot 2972, Jalan Kuala Lipis-Merapoh-Sungai Koyan, Kechor Tui, 27200 Kuala Lipis, Pahang",
+    "postcode": "27200",
+    "state": "Pahang",
+    "area": "Kuala Lipis",
+    "reservePrice": 162287,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1671",
+    "title": "1 Storey Terrace House",
+    "address": "No. 6, Lorong Seri Damai Perdana 17, Perumahan Seri Damai Perdana, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 127545.84,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "711 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1672",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1, Lorong Pinggiran Putra 4/41, Pinggiran Putra 4, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 396000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "412 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1673",
+    "title": "Terrace House",
+    "address": "No. 92, Lorong Pelindung 80, Jalan Beserah, Taman Pelindung, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 204120,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1674",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 30, Lorong Cherating Perdana 8, Perumahan Cherating Perdana, 26080 Kuantan, Pahang",
+    "postcode": "26080",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 230000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "429 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1675",
+    "title": "2 Storey Terrace House",
+    "address": "No. 40, Lorong Bukit Setongkol Jaya 29, Kampung Jawa, 25100 Kuantan, Pahang",
+    "postcode": "25100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 330674.4,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "464 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1676",
+    "title": "2 Storey Terrace House",
+    "address": "No. 83A, Lorong Unijaya 6, Taman Unijaya, 27600 Raub, Pahang",
+    "postcode": "27600",
+    "state": "Pahang",
+    "area": "Raub",
+    "reservePrice": 430000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "600 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1677",
+    "title": "1 Storey Detached House",
+    "address": "Lorong Sungai Isap Damai 36, Perumahan Sungai Isap Fasa III, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 198747.24,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "535 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1678",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Cendur Makmur 2/7, Perumahan Cendor Makmur, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 177147,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "342 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1679",
+    "title": "2 Storey Terrace House",
+    "address": "Lorong PSJ Damansara 4, Bandar Damansara, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 360000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1680",
+    "title": "Residential Land",
+    "address": "PT. 12100, Jalan Jelutong 1, Taman Rimba, 28400 Mentakab, Pahang",
+    "postcode": "12100",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 159432.3,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "902 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1681",
+    "title": "Residential Land",
+    "address": "PT 12101, Jalan Jelutong 1, Taman Rimba, 28400 Mentakab, Pahang",
+    "postcode": "12101",
+    "state": "Pahang",
+    "area": "Mentakab",
+    "reservePrice": 162384.75,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "171 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1682",
+    "title": "Office Lot",
+    "address": "Lot 2-B, Level 2, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 1012500,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "118 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1683",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Kampung Alor Ladang, Kampung Alor Ladang Beserah, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 230000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "091 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1684",
+    "title": "[5 min to Pantai Balok] Service Apartment [10 min to Balok town & local eateries]",
+    "address": "Unit No. TA-3A-7, Timurbay @ Balok, Jalan Kuantan-Kemaman, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 214000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "541 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1685",
+    "title": "1 Storey Terrace House",
+    "address": "No. 38, Jalan Pengkalan Damar, Perumahan Sungai Karang Damai, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 300000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "959 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1686",
+    "title": "1 Storey Terrace House",
+    "address": "No. B-2175, Lorong Seri Setali 106 Taman Tunas Jaya Fasa 3 Jalan Semambu, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 270000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1687",
+    "title": "Semi Detached House",
+    "address": "Lorong Seri Damai Indah 12/2, Perumahan Seri Damai Indah, 26070 Kuantan, Pahang",
+    "postcode": "26070",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 400000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "576 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1688",
+    "title": "Terrace House",
+    "address": "Lorong P.B.J 1/28, Perumahan Badak Jaya 1, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 280000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1689",
+    "title": "1 Storey Terrace House",
+    "address": "No. 11, Lorong BKP 26, Perumahan Bandar Kuantan Putri, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 210000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1690",
+    "title": "2 Storey Terrace House",
+    "address": "No. 26, Lorong Seri Setali 71, Perumahan Seri Setali, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 414000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "140 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1691",
+    "title": "Terrace House",
+    "address": "Lorong Chengal Lempung Baru, Taman Baluk Jaya 2, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 210000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "999 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1692",
+    "title": "1 Storey Terrace House",
+    "address": "No. T300, Jalan Inderapura 11, Taman Inderapura, 27000 Jerantut, Pahang",
+    "postcode": "27000",
+    "state": "Pahang",
+    "area": "Jerantut",
+    "reservePrice": 288000,
+    "auctionDate": "3 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "732 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1693",
+    "title": "Studio Apartment",
+    "address": "IM 9/2, Indera Mahkota 9, Valley Suite Apartment, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 211410,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "483 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1694",
+    "title": "2 Storey Terrace House",
+    "address": "No. 18, Jalan Wawasan Maju 6, Taman Wawasan 2, 26820 Tanjung Gemok, Pahang",
+    "postcode": "26820",
+    "state": "Pahang",
+    "area": "Tanjung Gemok",
+    "reservePrice": 80000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "700 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1695",
+    "title": "2 Storey Terrace House",
+    "address": "No. A-6074, Lorong Seri Kuantan 58, Perkampungan Seri Kuantan, 25250 Kuantan, Pahang",
+    "postcode": "25250",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 370000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "948 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1696",
+    "title": "2 Storey Shop Lot",
+    "address": "No. 34, Lorong Wawasan 1/2, Taman Wawasan, 27000 Jerantut, Pahang",
+    "postcode": "27000",
+    "state": "Pahang",
+    "area": "Jerantut",
+    "reservePrice": 540000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "603 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1697",
+    "title": "Semi Detached House",
+    "address": "Jalan Bahagia 34, Bahagia Residence, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 580000,
+    "auctionDate": "4 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "911 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1698",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Chengal 2, Taman Chengal, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 180000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1699",
+    "title": "Shop Office",
+    "address": "Unit No. A-61, Perumahan Rasau Aman, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 334700,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1700",
+    "title": "3 Storey Shop Office",
+    "address": "Jalan Chengal Baru 6, Pusat Perniagaan Chengal, 28000 Temerloh, Pahang",
+    "postcode": "28000",
+    "state": "Pahang",
+    "area": "Temerloh",
+    "reservePrice": 1260000,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "831 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1701",
+    "title": "2.5 Storey Detached House",
+    "address": "Lorong Pelindung 101, Off Jalan Beserah, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 797161.5,
+    "auctionDate": "6 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "243 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1702",
+    "title": "Industrial Land",
+    "address": "Lot 74379, Mukim Kuala Kuantan, Daerah Kuantan, 26300 Gambang, Pahang",
+    "postcode": "74379",
+    "state": "Pahang",
+    "area": "Gambang",
+    "reservePrice": 12000000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1703",
+    "title": "3 Storey Shop Office",
+    "address": "Jalan Bera Utama 3, Taman Bera Utama, 28300 Triang, Pahang",
+    "postcode": "28300",
+    "state": "Pahang",
+    "area": "Triang",
+    "reservePrice": 693000,
+    "auctionDate": "17 Aug 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "730 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1704",
+    "title": "Vacant Detached Residential Land",
+    "address": "Lot No. 732, Mukim of Tioman, District of Rompin, Pahang",
+    "postcode": "",
+    "state": "Pahang",
+    "area": "District of Rompin",
+    "reservePrice": 170000,
+    "auctionDate": "20 Aug 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "948 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1705",
+    "title": "1 Storey Detached House",
+    "address": "No. 5, Lorong Sungai Isap Damai 4, Perumahan Sungai Isap Fasa III, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 260000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "498 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1706",
+    "title": "1 Storey Terrace House",
+    "address": "No. 36, Lorong Seri Damai Maju 19, Perumahan Seri Damai Maju, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 320000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "571 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1707",
+    "title": "Terrace House",
+    "address": "Lorong Kampung Padang 24, Perumahan Kampung Padang, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 170000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "925 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1708",
+    "title": "Terrace House",
+    "address": "Lorong Cendur Darat 1/2, Perumahan Cendur Darat 1, 26080 Kuantan, Pahang",
+    "postcode": "26080",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 270000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "301 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1709",
+    "title": "2 Storey Terrace House",
+    "address": "Lorong Kurnia Jaya 3, Taman Dato Dr Md Taib, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 270000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "500 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1710",
+    "title": "1 Storey Terrace House",
+    "address": "No. 13, Lorong Permatang Badak Perdana 214, Perumahan, Permatang Badak Perdana, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 216000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "625 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1711",
+    "title": "2 Storey Terrace House",
+    "address": "No. 23, Lorong Seri Setali 13, Perumahan Seri Setali, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 477000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "386 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1712",
+    "title": "1 Storey Terrace House",
+    "address": "No. 39, Lorong Seri Damai Maju 19, Perumahan Seri Damai Maju, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 280000,
+    "auctionDate": "26 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "564 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1713",
+    "title": "Semi Detached House",
+    "address": "Lorong SSB 1/18, Perumahan Makmur Sungai Soi Jaya, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 270000,
+    "auctionDate": "9 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1714",
+    "title": "1 Storey Semi Detached House",
+    "address": "Lorong Seri Teruntum 99, Off Jalan Kampung Tengah, 25100 Kuantan, Pahang",
+    "postcode": "25100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 330000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "890 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1715",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Sungai Karang Jaya 10, Perumahan Sungai Karang Jaya, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 310000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1716",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Kampung Padang 5, Taman Kampung Padang, Jalan Sungai Lembing, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 140000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "022 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1717",
+    "title": "Terrace House",
+    "address": "Lorong Inderapura 38, Taman Inderapura, Kuantan, Pahang",
+    "postcode": "",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 160000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1718",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Lorong K.P 1/1, Perumahan Kempadang Perdana 1, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 280000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "474 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1719",
+    "title": "Semi Detached House",
+    "address": "Lorong IM 12/8, Indera Mahkota 12, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 360000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "612 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1720",
+    "title": "Detached House",
+    "address": "Lorong IM 5/16, Indera Mahkota, 25200 Kuantan, Pahang",
+    "postcode": "25200",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 1485000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "427 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1721",
+    "title": "Terrace House",
+    "address": "Lorong Seri Damai Makmur 3, Perumahan Seri Damai Makmur, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 207000,
+    "auctionDate": "30 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "099 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1722",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 42, Lorong Alor Ara Dahlia 2, Taman Alor Ara Dahlia, Pekan, Pahang",
+    "postcode": "",
+    "state": "Pahang",
+    "area": "Pekan",
+    "reservePrice": 355000,
+    "auctionDate": "1 Oct 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "444 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1723",
+    "title": "Apartment",
+    "address": "Jalan Kuantan - Kemaman, Timur Bay, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 460000,
+    "auctionDate": "28 Oct 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "538 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1724",
+    "title": "Terrace House",
+    "address": "Lorong Pandan Damai 1/36, Perumahan Pandan Damai, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 270000,
+    "auctionDate": "28 Oct 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "113 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1725",
+    "title": "Terrace House",
+    "address": "Jalan Balok Baru 1, Taman Balok Pelangi, 26100 Kuantan, Pahang",
+    "postcode": "26100",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 360000,
+    "auctionDate": "28 Oct 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "560 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1726",
+    "title": "Semi Detached House",
+    "address": "Lorong Melur 21, Taman Melur, Kampung Marhum, 26600 Pekan, Pahang",
+    "postcode": "26600",
+    "state": "Pahang",
+    "area": "Pekan",
+    "reservePrice": 150000,
+    "auctionDate": "5 Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "997 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1727",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 43, Lorong Gambang Jaya 2/6, Perumahan Makmur Gambang Jaya 2, 26300 Kuantan, Pahang",
+    "postcode": "26300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 240000,
+    "auctionDate": "25 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "798 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1728",
+    "title": "1 Storey Terrace House",
+    "address": "No. 3, Lorong Kempadang Damai 7, Taman Kempadang Damai, 26060 Kuantan, Pahang",
+    "postcode": "26060",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 260000,
+    "auctionDate": "25 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1729",
+    "title": "Terrace House",
+    "address": "Lorong Pandan Aman 1/21, Perumahan Pandan Aman, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 270000,
+    "auctionDate": "25 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "280 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1730",
+    "title": "Semi Detached House",
+    "address": "Jalan IM 10/7, Bukit Istana, Kuantan, Pahang",
+    "postcode": "",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 700000,
+    "auctionDate": "25 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "017 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1731",
+    "title": "Terrace House",
+    "address": "Lorong Seri Setali 13, Taman Cahaya Timur, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 279000,
+    "auctionDate": "25 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "313 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1732",
+    "title": "Terrace House",
+    "address": "Lorong Pelindung 100, Jalan Beserah, Taman Pelindung, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 261000,
+    "auctionDate": "25 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "353 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1733",
+    "title": "1 Storey Detached House",
+    "address": "Lorong Berjaya Permai 8, Sungai Soi, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 550000,
+    "auctionDate": "27 Jan 2027 (Wed)",
+    "landArea": "—",
+    "builtUp": "050 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1734",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Lorong Pelindung 98, Taman Seri Pelindung 1, Jalan Beserah, 25300 Kuantan, Pahang",
+    "postcode": "25300",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 180000,
+    "auctionDate": "27 Jan 2027 (Wed)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1735",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 26, Lorong IS 12, Perkampungan Indera Sempurna, Jalan Kuantan-Pekan, 25150 Kuantan, Pahang",
+    "postcode": "25150",
+    "state": "Pahang",
+    "area": "Kuantan",
+    "reservePrice": 402000,
+    "auctionDate": "27 Jan 2027 (Wed)",
+    "landArea": "—",
+    "builtUp": "534 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+    ]
+  },
+  {
+    "id": "1736",
+    "title": "Apartment",
+    "address": "Unit No. C-03-07, Pangsapuri Gadong Harmoni @ Ambience Residence, Jalan Pulau Gadong, 75200, Melaka",
+    "postcode": "75200",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 350000,
+    "auctionDate": "7 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "087 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1737",
+    "title": "2 Storey Terrace Shop Office",
+    "address": "Nos. GD 164 & 164-1, Jalan Seri Manggis Fasa 2 Utama, Taman Seri Manggis Fasa 2, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 360000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "239 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1738",
+    "title": "Apartment",
+    "address": "Unit No. C1-1, Rumah Pangsa Taman Kesidang, Seksyen 2, Jalan Kesidang 2/11, 75200 Kampung Lapan, Melaka",
+    "postcode": "75200",
+    "state": "Melaka",
+    "area": "Kampung Lapan",
+    "reservePrice": 102000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "840 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1739",
+    "title": "1 Storey Cluster House",
+    "address": "No. 51, Jalan Desa Bertam 29, Taman Desa Bertam, 76450, Melaka",
+    "postcode": "76450",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 453000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "206 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1740",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Anjung Sungai Petai 39, Taman Anjung Sungai Petai, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 340000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "100 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1741",
+    "title": "1 Storey Terrace House",
+    "address": "JD 1225, Jalan Mayang Lestari 11, Taman Mayang Lestari Fasa 3, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 280000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1742",
+    "title": "1 Storey Terrace House",
+    "address": "No. 56, Jalan KJ 47, Taman Krubong Jaya, 75260 Krubong, Melaka",
+    "postcode": "75260",
+    "state": "Melaka",
+    "area": "Krubong",
+    "reservePrice": 200000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "888 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1743",
+    "title": "1 Storey Terrace House",
+    "address": "GD 78, Jalan SM 3, Taman Seri Manggis, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 145800,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1744",
+    "title": "2 Storey Terrace House",
+    "address": "DT 2515, Jalan Bukit Tambun Perdana 34, Taman Bukit Tambun Perdana, 76100 Durian Tunggal, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Durian Tunggal",
+    "reservePrice": 400950,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "357 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1745",
+    "title": "1 Storey Terrace House",
+    "address": "No. JA 5554, Jalan Suria 3, Taman Seri Suria, 77400 Sungai Rambai, Melaka",
+    "postcode": "77400",
+    "state": "Melaka",
+    "area": "Sungai Rambai",
+    "reservePrice": 180000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1746",
+    "title": "1 Storey Terrace House",
+    "address": "SI 108, Jalan Seruling Jaya Utama, Taman Seruling Jaya, 78300 Masjid Tanah, Melaka",
+    "postcode": "78300",
+    "state": "Melaka",
+    "area": "Masjid Tanah",
+    "reservePrice": 180000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1747",
+    "title": "1 Storey Terrace House",
+    "address": "JB 9266, Lorong Serkam Ria 7/1, Taman Serkam Ria, 77300 Merlimau, Melaka",
+    "postcode": "77300",
+    "state": "Melaka",
+    "area": "Merlimau",
+    "reservePrice": 171000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1748",
+    "title": "2 Storey Terrace House",
+    "address": "No. 5, Jalan Harmoni 4, Taman Bukit Tambun Perdana 2, 76100 Durian Tunggal, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Durian Tunggal",
+    "reservePrice": 162000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "957 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1749",
+    "title": "2 Storey Terrace House",
+    "address": "No. DT 504, Jalan Nuri 30, Taman Nuri Fasa 3A2, 76100 Durian Tunggal, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Durian Tunggal",
+    "reservePrice": 380000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "442 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1750",
+    "title": "1 Storey Terrace House",
+    "address": "No. JC 2331, Taman Lipat Kajang Perdana, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 250000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "905 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1751",
+    "title": "1 Storey Terrace House",
+    "address": "No. JB 6307, Jalan Desa Kesang 6, Taman Desa Kesang, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 117000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1752",
+    "title": "2 Storey Terrace House",
+    "address": "No. 13, Jalan Gelam Ria 5A, Taman Seri Gelam, 76400 Tanjong Kling, Melaka",
+    "postcode": "76400",
+    "state": "Melaka",
+    "area": "Tanjong Kling",
+    "reservePrice": 270000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "711 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1753",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22, Jalan MJ 15, Taman Merdeka Jaya, 75350, Melaka",
+    "postcode": "75350",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 350000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1754",
+    "title": "Condominium",
+    "address": "Unit No. 01-04, Blok Cathy 1, Kondominium Ruby, 75200 Klebang, Melaka",
+    "postcode": "75200",
+    "state": "Melaka",
+    "area": "Klebang",
+    "reservePrice": 230000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1755",
+    "title": "1 Storey Terrace House",
+    "address": "SI 199, Jalan Seruling Jaya 6, Taman Seruling Jaya, 78200 Kuala Sungai Baru, Melaka",
+    "postcode": "78200",
+    "state": "Melaka",
+    "area": "Kuala Sungai Baru",
+    "reservePrice": 178200,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1756",
+    "title": "2 Storey Terrace House",
+    "address": "JD 2379, Jalan BSJ P1/12, Bandar Scientex Jasin, Presint 1 (Fasa 1B3), 77300 Merlimau, Melaka",
+    "postcode": "77300",
+    "state": "Melaka",
+    "area": "Merlimau",
+    "reservePrice": 162000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "957 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1757",
+    "title": "Terrace House",
+    "address": "No. 27, Jalan Kejora 3, Taman Tanjong Minyak Perdana, 75260, Melaka, Melaka",
+    "postcode": "75260",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 320000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "647 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1758",
+    "title": "1 Storey Terrace House",
+    "address": "No. 26, Jalan Seri Duta 4, Taman Muzafar Syah, 75450, Air Keroh, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Air Keroh",
+    "reservePrice": 250000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "432 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1759",
+    "title": "1 Storey Terrace House",
+    "address": "No. ST 1923, Jalan Bidara Permai 5, Taman Bidara Permai, 78300 Masjid Tanah, Melaka",
+    "postcode": "78300",
+    "state": "Melaka",
+    "area": "Masjid Tanah",
+    "reservePrice": 230000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1760",
+    "title": "2 Storey Terrace House",
+    "address": "No. 30, Jalan KJ 64, Taman Krubong Jaya, Krubong, 75250, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 190000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "880 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1761",
+    "title": "1 Storey Terrace House",
+    "address": "JA 7847, Jalan Seroja 6, Taman Maju, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 210000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "760 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1762",
+    "title": "Service Apartment",
+    "address": "Unit No. D-8-2, Block D, Puncak Muzaffar (also known as The Heights Residence), Ayer Keroh, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 320000,
+    "auctionDate": "9 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1763",
+    "title": "2 Storey Terrace House",
+    "address": "No. 4, Jalan BKI 6, Taman Bukit Katil Indah, 75450 Bukit Katil, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Bukit Katil",
+    "reservePrice": 350000,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1764",
+    "title": "2 Storey Terrace House",
+    "address": "No. 43, Jalan BKD 50, Taman Bukit Katil Damai 2, 75450 Bukit Katil, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Bukit Katil",
+    "reservePrice": 445500,
+    "auctionDate": "10 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1765",
+    "title": "Service Apartment",
+    "address": "Unit No. C-8-11, Tingkat 8, Pangsapuri Tun Perak @ Sungai Melaka, Jalan Tun Perak, 75300, Melaka",
+    "postcode": "75300",
+    "state": "Perak",
+    "area": "Melaka",
+    "reservePrice": 343400,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "087 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1766",
+    "title": "Studio Service Apartment",
+    "address": "Unit No. T1-12-12 (Room No. 12.009), The Shore, No. 193, Pinggiran @ Sungai Melaka, Jalan Persisiran Bunga Raya, 75100, Melaka",
+    "postcode": "75100",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 197000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "436 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1767",
+    "title": "2 Storey Terrace House",
+    "address": "DT 1996, Jalan Angkasa Nuri 23, Taman Angkasa Nuri, 76100 Durian Tunggal, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Durian Tunggal",
+    "reservePrice": 291600,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1768",
+    "title": "2 Storey Terrace House",
+    "address": "JD 847, Jalan BSJ P1/4, Bandar Scientex Jasin Presint 1 (Fasa 1A2), 77300 Merlimau, Melaka",
+    "postcode": "77300",
+    "state": "Melaka",
+    "area": "Merlimau",
+    "reservePrice": 310000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "380 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1769",
+    "title": "1 Storey Terrace House",
+    "address": "RM 1356, Jalan Rembia Perkasa 6, Taman Rembia Perkasa, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 490000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "555 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1770",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 54, Jalan TP 17A, Taman Terendak Permai, 76300 Sungai Udang, Melaka",
+    "postcode": "76300",
+    "state": "Melaka",
+    "area": "Sungai Udang",
+    "reservePrice": 375000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "067 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1771",
+    "title": "2 Storey Terrace House",
+    "address": "No. 7, Jalan SB 2, Taman Seri Bertam, 76450 Tanjong Minyak, Melaka",
+    "postcode": "76450",
+    "state": "Melaka",
+    "area": "Tanjong Minyak",
+    "reservePrice": 332100,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "668 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1772",
+    "title": "Apartment",
+    "address": "Unit No. 3-6, Block Mawar 3, Jalan Murni 2, Rumah Pangsa Taman Malim Jaya, 75250, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 100000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "054 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1773",
+    "title": "1 Storey Terrace House",
+    "address": "No. SI 339, Jalan Seruling Jaya 13, Taman Seruling Jaya, 78300 Masjid Tanah, Melaka",
+    "postcode": "78300",
+    "state": "Melaka",
+    "area": "Masjid Tanah",
+    "reservePrice": 153900,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1774",
+    "title": "2 Storey Terrace Shop House",
+    "address": "No. 29 & 29-1, Jalan KF 2, Kota Fesyen MITC, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 405000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1775",
+    "title": "2 Storey Terrace House",
+    "address": "No. MP 1359, Jalan Melaka Perdana 12, Taman Melaka Perdana, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 200000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1776",
+    "title": "2 Storey Terrace House",
+    "address": "No. 27, Jalan Sejahtera 9, Taman Bukit Tambun Perdana 2, 76100 Durian Tunggal, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Durian Tunggal",
+    "reservePrice": 244800,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "432 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1777",
+    "title": "Terrace House",
+    "address": "SI 278, Jalan Seruling Jaya Utama, Taman Seruling Jaya, 78300 Masjid Tanah, Melaka",
+    "postcode": "78300",
+    "state": "Melaka",
+    "area": "Masjid Tanah",
+    "reservePrice": 153900,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1778",
+    "title": "Condominium",
+    "address": "Unit No. 4-8, 4th Floor, Kondominium Pasir Mutiara, Jalan Ujong Pasir, 75050, Melaka",
+    "postcode": "75050",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 270000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "141 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1779",
+    "title": "1 Storey Terrace House",
+    "address": "Taman Cenderawasih, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 130000,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "800 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1780",
+    "title": "1 Storey Terrace House",
+    "address": "RM 798, Jalan Rembia Setia Utama, Taman Rembia Setia, Rembia, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 135000,
+    "auctionDate": "17 Jul 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "720 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1781",
+    "title": "Service Apartment",
+    "address": "Unit No. 23-15, Level 23, Pangsapuri Ambercove Impression City @ Kota Syahbandar, Jalan KSB-Impression 3, 75200,Melaka",
+    "postcode": "75200",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 340000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "732 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1782",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Jalan M41, Taman Merdeka, 75350 Hang Tuah Jaya, Melaka",
+    "postcode": "75350",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 297000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "421 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1783",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22, Jalan Jasa Merdeka 7, Taman Dato Tamby Chik Karim, 75350 Hang Tuah Jaya, Melaka",
+    "postcode": "75350",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 250000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "408 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1784",
+    "title": "1 Storey Terrace House",
+    "address": "JA 2643, Rumah Awam Pondok Batang, 77100 Asahan, Melaka",
+    "postcode": "77100",
+    "state": "Melaka",
+    "area": "Asahan",
+    "reservePrice": 90000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1785",
+    "title": "2 Storey Terrace House",
+    "address": "No. 9, Jalan Bayan 3A, Taman Bukit Katil, 75450, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 230000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "344 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1786",
+    "title": "Service Apartment",
+    "address": "Unit No. T1-12-15 (Hotel Room T1-12-03), The Shore, Pinggiran @ Sungai Melaka, 75100, Melaka",
+    "postcode": "75100",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 255000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "463 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1787",
+    "title": "2 Storey Terrace House",
+    "address": "No. 79, Jalan Merak Mas 1, Taman Merak Mas, Bukit Baru, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 400000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "560 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1788",
+    "title": "Service Apartment",
+    "address": "Unit No. T1-36-03, Pinggiran @ Sungai Melaka, 75100, Melaka",
+    "postcode": "75100",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 220000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "463 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1789",
+    "title": "2 Storey Detached House",
+    "address": "No. 9, Jalan Anjung Akasia 2, Taman Anjung Gapam, Ayer Panas, 77200 Hang Tuah Jaya, Melaka",
+    "postcode": "77200",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 650000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "004 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1790",
+    "title": "1 Storey Terrace House",
+    "address": "No. 98, Jalan Tilapia 8, Taman Tiang Dua Bestari, 75460, Melaka",
+    "postcode": "75460",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 230000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "199 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1791",
+    "title": "1 Storey Terrace House",
+    "address": "No. JC 418, Taman Rim Baru, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 200000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "141 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1792",
+    "title": "1 Storey Terrace House",
+    "address": "No. 1, Jalan AMJ 2, Taman Ayer Molek, Bukit Lintang, 75460, Melaka",
+    "postcode": "75460",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 310000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "723 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1793",
+    "title": "Industrial Land",
+    "address": "SP 1627-A, Jalan Perindustrian Rembia 1, Kawasan Perindustrian Rembia (Taman Industri Zarina), 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 17600000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1794",
+    "title": "1 Storey Commercial lot with mezzanine floor, 5 storey Hotel",
+    "address": "Lot 19396-1, Jalan TTC 26, Taman Teknologi Cheng, 75250, Melaka",
+    "postcode": "19396",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 72000000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "771 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1795",
+    "title": "1 Storey Factory",
+    "address": "No. 19400-1, Jalan TTC 12, Taman Teknologi Cheng, 75250 Cheng, Melaka",
+    "postcode": "19400",
+    "state": "Melaka",
+    "area": "Cheng",
+    "reservePrice": 28500000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "365 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1796",
+    "title": "Agricultural Land",
+    "address": "Lot 1440, Kampung Parit Putat, 77400 Jasin, Melaka",
+    "postcode": "77400",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 216000,
+    "auctionDate": "22 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1797",
+    "title": "1 Storey Terrace House",
+    "address": "No. JB 2409, Taman Mesra Rim II, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 153000,
+    "auctionDate": "23 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "259 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1798",
+    "title": "Retail Lot",
+    "address": "Unit No. G-009A, Ground Floor, Hatten City, 75000, Melaka",
+    "postcode": "75000",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 279630,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "765 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1799",
+    "title": "Retail Lot",
+    "address": "Unit No. G-004, Ground Floor, Hatten City, 75000, Melaka",
+    "postcode": "75000",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 279628,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "572 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1800",
+    "title": "[ 6 min to Dataran Pahlawan Melaka Megamall & Jonker Walk] Commercial Retail-Lot [Near AEON Mall Bandaraya Melaka, A Famosa, Mahkota Medical Centre & Lotus's Peringgit Melaka ]",
+    "address": "Unit No. F5-032, Level 5, Imperio Mall @ Hatten City, Jalan Syed Abdul Aziz, Taman Melaka Raya, 75000, Melaka",
+    "postcode": "75000",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 165625,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "445 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1801",
+    "title": "Retail Lot",
+    "address": "Unit No. G-011, Ground Floor, Hatten City, 75000, Melaka",
+    "postcode": "75000",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 637729,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "087 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1802",
+    "title": "Retail Lot",
+    "address": "Unit No. G-E01, Ground Floor, Hatten City, 75000, Melaka",
+    "postcode": "75000",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 6010598,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "831 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1803",
+    "title": "[Close to Mahkota Parade & Melaka Raya] Service Apartment [7 min to Dataran Pahlawan Melaka Megamall & Jonker Street Night Market]",
+    "address": "Unit No. B-34-08, 34th Floor, Tower B, Pangsapuri Atlantis Kota Syahbandar, Jalan KSB 11A, Kota Syahbandar, 75200, Melaka",
+    "postcode": "75200",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 351000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "378 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1804",
+    "title": "[Prime location in the historical heart of Melaka] Service Apartment [4 min to Jonker Street Night Market]",
+    "address": "Unit No. D-11-12, The Apple, Jalan Bachee, 75100, Melaka",
+    "postcode": "75100",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 164000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "463 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1805",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Lesung Batu Impian 5, Taman Lesung Batu Impian, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 260000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1806",
+    "title": "2 Storey Terrace House",
+    "address": "No. JD 911, Jalan BSJ P1/4, Bandar Scientex Jasin Presint 1 (Fasa 1A2), 77300 Merlimau, Melaka",
+    "postcode": "77300",
+    "state": "Melaka",
+    "area": "Merlimau",
+    "reservePrice": 265000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "173 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1807",
+    "title": "1 Storey Terrace House",
+    "address": "ST 28, Jalan Bidara Emas 3, Taman Bidara Emas, 78300 Masjid Tanah, Melaka",
+    "postcode": "78300",
+    "state": "Melaka",
+    "area": "Masjid Tanah",
+    "reservePrice": 288000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "260 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1808",
+    "title": "2 Storey Terrace House",
+    "address": "No. 92, Jalan KJ 57, Taman Krubong Jaya, 75250 Krubong, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Krubong",
+    "reservePrice": 195000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "231 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1809",
+    "title": "1 Storey Terrace House",
+    "address": "No. 25, Jalan Impiana Delima 3, Taman Impiana Kesang, Kesang Pajak, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 243000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "680 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1810",
+    "title": "1.5 Storey Terrace House",
+    "address": "No. 104A, Jalan Seri Duta 4, Taman Muzaffar Shah, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 351000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1811",
+    "title": "2 Storey Detached House",
+    "address": "No. 1, Jalan C.P.1/21B, Taman Desa Cheng Perdana 1, 75250 Cheng, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Cheng",
+    "reservePrice": 900000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "632 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1812",
+    "title": "1 Storey Terrace House",
+    "address": "No. 15, Jalan KJ 2/2, Taman Kesang Jaya, Ayer Panas, 77000 Hang Tuah Jaya, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 250000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "550 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1813",
+    "title": "Service Suite",
+    "address": "No. 1342 (S1332), Hotel Hatten (also known as Hatten Square), Jalan Merdeka, 75000, Melaka",
+    "postcode": "75000",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 183000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "355 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1814",
+    "title": "1 Storey Terrace House",
+    "address": "SI 275, Jalan Seruling Utama, Taman Seruling Jaya, 78300 Masjid Tanah, Melaka",
+    "postcode": "78300",
+    "state": "Melaka",
+    "area": "Masjid Tanah",
+    "reservePrice": 220000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1815",
+    "title": "2 Storey Terrace House",
+    "address": "No. J 9645, Jalan Megah 1, Taman Megah, 77200 Bemban, Melaka",
+    "postcode": "77200",
+    "state": "Melaka",
+    "area": "Bemban",
+    "reservePrice": 360000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "996 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1816",
+    "title": "1 Storey Terrace House",
+    "address": "No. 13, Lorong 1, Jalan Seri Mangga 1/3, Taman Seri Mangga, 75250, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 400000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "752 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1817",
+    "title": "2 Storey Terrace House",
+    "address": "No. DT 1499, Jalan Buit Tambun Perdana 22, Taman Bukit Tambun Perdana, 76100 Durian Tunggal, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Durian Tunggal",
+    "reservePrice": 200000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "279 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1818",
+    "title": "2 Storey Terrace House",
+    "address": "No. 75, Jalan Angkasa Nuri 39, Taman Angkasa Nuri, Durian Tunggal, 76100 Hang Tuah Jaya, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 400000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "729 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1819",
+    "title": "1 Storey Terrace House",
+    "address": "JB 6377, Jalan Seri Indah 2, Taman Seri Indah, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 250000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "429 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1820",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Jalan Keris Emas 5, Taman Keris Emas, 76300 Sungai Udang, Melaka",
+    "postcode": "76300",
+    "state": "Melaka",
+    "area": "Sungai Udang",
+    "reservePrice": 270000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "153 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1821",
+    "title": "2 Storey Terrace House",
+    "address": "DT 984, Jalan Bukit Tambun Perdana 27, Taman Bukit Tambun Perdana, 76100 Durian Tunggal, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Durian Tunggal",
+    "reservePrice": 330000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "324 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1822",
+    "title": "2 Storey Terrace House",
+    "address": "No. 31, Jalan KJ 59, Taman Krubong Jaya, 75250 Krubong, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Krubong",
+    "reservePrice": 180000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1823",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 2C, Jalan Cenderawasih 3, Taman Cenderawasih, 75250 Bukit Rambai, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Bukit Rambai",
+    "reservePrice": 283500,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "000 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1824",
+    "title": "Flat",
+    "address": "Unit No. G-4-4, Block G (Melor), Jalan TU 61, Rumah Pangsa Taman Tasik Utama, Taman Tasik Utama, Ayer Keroh, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 72171,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1825",
+    "title": "Apartment",
+    "address": "Unit No. A-3-8 (Developer Parcel No. A4-4-B), Block A, Pangsapuri Bunga Raya, Bukit Beruang, 75450, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 135000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "883 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1826",
+    "title": "1 Storey Terrace House",
+    "address": "JA 6822, Jalan BB 1D, Taman Bemban Baru, Ayer Panas, 77200 Hang Tuah Jaya, Melaka",
+    "postcode": "77200",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 250000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1827",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 2, Jalan OR 9, Taman Ozana Residen, Bukit Katil, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 623700,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "542 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1828",
+    "title": "2 Storey Terrace House",
+    "address": "No. 104, Jalan Abadi 5, Taman Malim Jaya, 75250, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 121500,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "635 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1829",
+    "title": "Apartment",
+    "address": "Unit No. A-04-02, Tingkat 4, Block A, Pangsapuri Bukit Beruang Permai, Seksyen 1, Bukit Beruang, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 149850,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "882 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1830",
+    "title": "1 Storey Terrace House",
+    "address": "No. JB 7208, Jalan Kemboja JH, Taman Jasin Height, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 220000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1831",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Angkasa Nuri 20, Taman Angkasa Nuri, Durian Tunggal, 76100 Hang Tuah Jaya, Melaka",
+    "postcode": "76100",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 333000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1832",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Tilapia 8, Taman Tiang Dua Bestari, 75460, Melaka",
+    "postcode": "75460",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 189000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1833",
+    "title": "1 Storey Terrace House",
+    "address": "No. 4, Jalan SD 2/25, Taman Seri Duyong 2, 75460, Melaka",
+    "postcode": "75460",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 450000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "048 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1834",
+    "title": "1 Storey Terrace House",
+    "address": "No. 10, Jalan TPH 11, Taman Tambak Paya Harmoni, 75460, Melaka",
+    "postcode": "75460",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 225000,
+    "auctionDate": "5 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1835",
+    "title": "1 Storey Terrace House",
+    "address": "No. 5, Jalan BI 8, Taman Bertam Impian, Tanjong Minyak, 76450, Melaka",
+    "postcode": "76450",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 260000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1836",
+    "title": "Terrace House",
+    "address": "Jalan Idaman 1/D, Taman Kelubi Idaman, 77000 Jasin, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Jasin",
+    "reservePrice": 300000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1837",
+    "title": "Terrace House",
+    "address": "Jalan Anjung Tulip 6, Taman Anjung Gapam, 77200 Ayer Panas, Melaka",
+    "postcode": "77200",
+    "state": "Melaka",
+    "area": "Ayer Panas",
+    "reservePrice": 200000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1838",
+    "title": "Terrace House",
+    "address": "Jalan Anjung Sungai Petai 39, Taman Anjung Sungai Petai, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 310000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1839",
+    "title": "Flat",
+    "address": "3rd Floor, Block H, Rumah Pangsa, Taman Cheng Ria, 75250 Cheng, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Cheng",
+    "reservePrice": 81700,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "861 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1840",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan MP 7, Taman Merdeka Permai, 75350 Batu Berendam, Melaka",
+    "postcode": "75350",
+    "state": "Melaka",
+    "area": "Batu Berendam",
+    "reservePrice": 459300,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "820 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1841",
+    "title": "Apartment",
+    "address": "Unit No. D-G-9, Jalan PJ 19, Pangsapuri Pertam Jaya Idaman, 75050, Melaka",
+    "postcode": "75050",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 200000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "001 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1842",
+    "title": "Office Unit",
+    "address": "Unit No. 1-19, Jalan PM 14, Plaza Mahkota, 75000, Melaka",
+    "postcode": "75000",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 150000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1843",
+    "title": "Terrace House",
+    "address": "Jalan Seri Terendak 2, Taman Seri Terendak, 76300 Sungai Udang, Melaka",
+    "postcode": "76300",
+    "state": "Melaka",
+    "area": "Sungai Udang",
+    "reservePrice": 380000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1844",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Sebang Gemilang 10, Taman Sebang Gemilang, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 99000,
+    "auctionDate": "12 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "728 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1845",
+    "title": "Apartment",
+    "address": "Unit No. B4-05, Blok B, Pangsapuri Puteri Kesidang, Jalan Pandan, 75200, Melaka",
+    "postcode": "75200",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 126000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "163 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1846",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2, Jalan Rambai Jaya 23, Taman Rambai Jaya, 75260, Melaka",
+    "postcode": "75260",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 226000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "035 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1847",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan Desa Bertam 20, Taman Desa Bertam, 76450, Melaka",
+    "postcode": "76450",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 570000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1848",
+    "title": "Terrace House",
+    "address": "Jalan Impiana Delima 6, Taman Impiana Kesang, Ayer Panas, 77000 Hang Tuah Jaya, Melaka",
+    "postcode": "77000",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 110000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1849",
+    "title": "Terrace House",
+    "address": "Jalan BI 4, Taman Bertam Impian, Tanjong Minyak, 75250, Melaka",
+    "postcode": "75250",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 270000,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1850",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan OZ 20, Taman Ozana Impian Bukit Katil, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 472500,
+    "auctionDate": "19 Aug 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "294 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1851",
+    "title": "Semi Detached House",
+    "address": "Jalan RU 13, Taman Rambai Utama, 75300 Bukit Rambai, Melaka",
+    "postcode": "75300",
+    "state": "Melaka",
+    "area": "Bukit Rambai",
+    "reservePrice": 350000,
+    "auctionDate": "11 Sep 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "657 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1852",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 9, Jalan PJ 9, Taman Pengkalan Jaya, Ayer Molek, 75450, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 650000,
+    "auctionDate": "11 Sep 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "314 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1853",
+    "title": "1 Storey Terrace House",
+    "address": "SP 644, Jalan Seri Pelangi 6, Taman Seri Pelangi, Rembia, 78000 Alor Gajah, Melaka",
+    "postcode": "78000",
+    "state": "Melaka",
+    "area": "Alor Gajah",
+    "reservePrice": 230000,
+    "auctionDate": "18 Sep 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "770 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1854",
+    "title": "Terrace House",
+    "address": "Jalan BS 8, Taman Bertam Setia, Tanjong Minyak, 76450, Melaka",
+    "postcode": "76450",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 260000,
+    "auctionDate": "2 Oct 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "126 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1855",
+    "title": "2 Storey Terrace House",
+    "address": "No. 6, Jalan BP 15, Taman Bertam Perdana, 75200, Melaka",
+    "postcode": "75200",
+    "state": "Melaka",
+    "area": "Melaka",
+    "reservePrice": 400000,
+    "auctionDate": "23 Oct 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "582 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1856",
+    "title": "Apartment",
+    "address": "Unit No. 7-10, Pangsapuri Residence Merak Kayangan, 75450 Bukit Baru, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Bukit Baru",
+    "reservePrice": 372000,
+    "auctionDate": "30 Oct 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "904 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1857",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 4, Jalan BKD 55, Taman Bukit Katil Damai, Bukit Katil, 75450 Hang Tuah Jaya, Melaka",
+    "postcode": "75450",
+    "state": "Melaka",
+    "area": "Hang Tuah Jaya",
+    "reservePrice": 625000,
+    "auctionDate": "30 Oct 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "271 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1858",
+    "title": "Terrace House",
+    "address": "Taman Panglima Pak 1, 77300 Merlimau, Melaka",
+    "postcode": "77300",
+    "state": "Melaka",
+    "area": "Merlimau",
+    "reservePrice": 170000,
+    "auctionDate": "3 Dec 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "377 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+    ]
+  },
+  {
+    "id": "1859",
+    "title": "Agricultural Land",
+    "address": "Lot 5032, Kampung Nelayan Kandis, 16310 Bachok, Kelantan",
+    "postcode": "16310",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 495720,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1860",
+    "title": "Land erected with 1.5 Storey Semi Permanent House cum Shop, 2 Storey Shop Office building connected to 3 units of 1 Storey Shop House",
+    "address": "Lot 1618, Kampung Chetok, Kedai Piah, 16450 Ketereh, Kota Bharu, Kelantan",
+    "postcode": "16450",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 344088,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "643 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1861",
+    "title": "1 Storey Bungalow",
+    "address": "Lot 6706, Jalan Pasir Mas - Tanah Merah, Kampung Kolam Tok Uban, 17050 Pasir Mas, Kelantan",
+    "postcode": "17050",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 82668.6,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "089 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1862",
+    "title": "Land",
+    "address": "Lot 4418, Jalan Batu Karang, Kg. Gual Mesa, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 40500,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "629 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1863",
+    "title": "Land",
+    "address": "Lot 12095, Kampung Alor Pasir, 17500 Tanah Merah, Kelantan",
+    "postcode": "12095",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 54000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "071 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1864",
+    "title": "3.5 Storey Shop Office",
+    "address": "Lot 341, Jalan Padang Garong, 15000 Kota Bharu, Kelantan",
+    "postcode": "15000",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 1200000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "485 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1865",
+    "title": "Land",
+    "address": "Lot 815, Jalan Temangan, Kampung Pauh, 18400 Machang, Kelantan",
+    "postcode": "18400",
+    "state": "Machang",
+    "area": "Machang",
+    "reservePrice": 121500,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1866",
+    "title": "Bungalow",
+    "address": "Lot 12799, Mukim Pangkal Pisang, Jalan Padang Lengkuas, Taman Tok Fakih, 16400 Melor, Kelantan",
+    "postcode": "12799",
+    "state": "Melor",
+    "area": "Melor",
+    "reservePrice": 410000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "781 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1867",
+    "title": "3.5 Storey Shop Office",
+    "address": "Lot 425, Jalan Padang Garong, 15000 Kota Bharu, Kelantan",
+    "postcode": "15000",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 1300000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "485 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1868",
+    "title": "Land",
+    "address": "Lot 12096, Kampung Alor Pasir, 17500 Tanah Merah, Kelantan",
+    "postcode": "12096",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 63000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "837 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1869",
+    "title": "Land",
+    "address": "Lot 3625, Kampung Batu 6, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 31886.46,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "640 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1870",
+    "title": "2 Storey Shop Office",
+    "address": "PT 861, Bangunan Kedai 2/1, Taman Setia Kawan, 16450 Ketereh, Kelantan",
+    "postcode": "16450",
+    "state": "Ketereh",
+    "area": "Ketereh",
+    "reservePrice": 400000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "088 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1871",
+    "title": "Land",
+    "address": "Lot 4420, Jalan Batu Karang, Kampung Gual Mesa, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 38700,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "338 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1872",
+    "title": "Semi Detached House",
+    "address": "Lot 13694 (PT 954), Kampung Seterpa, Daerah Banggu, Mukim Seterpa, 16150 Kota Bharu, Kelantan",
+    "postcode": "13694",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 315000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "358 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1873",
+    "title": "Land",
+    "address": "Lot 4414, Jalan Batu Karang, Kampung Gual Mesa, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 34200,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "693 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1874",
+    "title": "Land",
+    "address": "Lot 4419, Jalan Batu Karang, Kampung Gual Mesa, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 39600,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "489 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1875",
+    "title": "Land",
+    "address": "Lot 3626, Kampung Batu 6, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 31886.46,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "715 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1876",
+    "title": "Land",
+    "address": "Lot 3624, Kampung Batu 6, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 31886.46,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "640 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1877",
+    "title": "1 Storey Semi Detached House",
+    "address": "Lot 2081, Taman Serdang Baru, Telong, 16310 Bachok, Kelantan",
+    "postcode": "16310",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 85030.56,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "102 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1878",
+    "title": "1 Storey Detached House",
+    "address": "PT 9528 (Lot 11624), Perumahan Lubok Agor, Kampung Bukit Batu, 17500 Tanah Merah, Kelantan",
+    "postcode": "11624",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 52301.7,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "010 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1879",
+    "title": "Vacant Residential Land",
+    "address": "Lot 1472, Kampung Pertok, 18500 Kuala Perak, Machang, Kelantan",
+    "postcode": "18500",
+    "state": "Perak",
+    "area": "Machang",
+    "reservePrice": 10980.93,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "402 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1880",
+    "title": "Vacant Residential Land",
+    "address": "Lot 1473, Kampung Pertok, 18500 Kuala Kerak, Machang, Kelantan",
+    "postcode": "18500",
+    "state": "Machang",
+    "area": "Machang",
+    "reservePrice": 10980.93,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "402 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1881",
+    "title": "Vacant Residential Land",
+    "address": "Lot 1475, Kampung Pertok, 18500 Machang, Kelantan",
+    "postcode": "18500",
+    "state": "Machang",
+    "area": "Machang",
+    "reservePrice": 10980.93,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "402 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1882",
+    "title": "1 Storey Terrace House",
+    "address": "PT 2106, Taman Puspa Jaya 1, Kampung Jelor, 16800 Pasir Puteh, Kelantan",
+    "postcode": "16800",
+    "state": "Pasir Puteh",
+    "area": "Pasir Puteh",
+    "reservePrice": 54238.9,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1883",
+    "title": "1 Storey Terrace House",
+    "address": "PT 4441, Taman Desa Utama, Ismail Petra, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 70858.8,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "320 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1884",
+    "title": "1 Storey Terrace House",
+    "address": "Lot 3696, Kampung Padang Selising, 18500 Machang, Kelantan",
+    "postcode": "18500",
+    "state": "Machang",
+    "area": "Machang",
+    "reservePrice": 100383.3,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "702 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1885",
+    "title": "1 Storey Detached House",
+    "address": "PT 7093, Kampung Tok Kederat, Kandis, 16310 Bachok, Kelantan",
+    "postcode": "16310",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 183051.9,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "553 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1886",
+    "title": "1 Storey Terrace House",
+    "address": "PT 3988, Taman Desa Asyraf, 17070 Pasir Mas, Kelantan",
+    "postcode": "17070",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 64953.9,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "880 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1887",
+    "title": "1 Storey Shop House",
+    "address": "PT 208, Taman Jintan, Jalan Sungai Keladi, Chetok, 17060 Pasir Mas, Kelantan",
+    "postcode": "17060",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 116917.02,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "120 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1888",
+    "title": "1 Storey Semi Permanent House",
+    "address": "Lot No. 1773, Lorong Kubur Maras, Kampung Langgar, 15200 Kota Bharu, Kelantan",
+    "postcode": "15200",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 159272.86,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "253 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1889",
+    "title": "2 Storey Detached House",
+    "address": "No. 6, Lorong Haji Mohd Yusof, Kampung Kubang Pak Amin, 17200 Pasir Mas, Kelantan",
+    "postcode": "17200",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 400950,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "714 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1890",
+    "title": "Apartment",
+    "address": "Unit No. 08-08, Level 8, Tijani Raja Dewa, Jalan Raja Dewa 4/20, 15150 Kota Bharu, Kelantan",
+    "postcode": "15150",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 456000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "933 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1891",
+    "title": "3 Storey Shop Office",
+    "address": "PT 2292, Jalan Pasir Puteh Sentral 1/2, Bandar Baru Pasir Puteh, 16800 Pasir Puteh, Kelantan",
+    "postcode": "16800",
+    "state": "Pasir Puteh",
+    "area": "Pasir Puteh",
+    "reservePrice": 675000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1892",
+    "title": "2 Storey Terrace House",
+    "address": "Lot 2988, Taman Maka Utama, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 279000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "776 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1893",
+    "title": "1 Storey Terrace House",
+    "address": "PT 1612 (Lot 2729), Taman Warta, Kampung Gual Tinggi, 17200 Rantau Panjang, Kelantan",
+    "postcode": "17200",
+    "state": "Rantau Panjang",
+    "area": "Rantau Panjang",
+    "reservePrice": 123930,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "516 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1894",
+    "title": "1 Storey Detached House",
+    "address": "PT 5271, Kampung Hutang Kuing, 18500 Machang, Kelantan",
+    "postcode": "18500",
+    "state": "Machang",
+    "area": "Machang",
+    "reservePrice": 226800,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "070 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1895",
+    "title": "1 Storey Residential Terrace Plot",
+    "address": "PT 2991, Jalan Merbau 9/A, Taman Merbau, 16810 Pasir Puteh, Kelantan",
+    "postcode": "16810",
+    "state": "Pasir Puteh",
+    "area": "Pasir Puteh",
+    "reservePrice": 162000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "078 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1896",
+    "title": "1 Storey Detached House",
+    "address": "PT. 921 (Lot 1615), Jalan Pantai Cahaya Bulan, Jalan Pulau Pasir, Kampung Badang, 15350 Kota Bharu, Kelantan",
+    "postcode": "15350",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 206672,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "619 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1897",
+    "title": "3 Storey Detached House",
+    "address": "Lots. 10435 & 10436, Lorong Puteri Saadong, Kampung Kota, 15100 Kota Bharu, Kelantan",
+    "postcode": "10435",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 502212,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "205 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1898",
+    "title": "1 Storey Semi Detached House",
+    "address": "PT. 1605, Kampung Padang Raja, 16400 Kota Bharu, Kelantan",
+    "postcode": "16400",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 243000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "079 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1899",
+    "title": "Land",
+    "address": "PT 6034, Jalan Kampung Gual Periok, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 45000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "178 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1900",
+    "title": "2 Storey Terrace House",
+    "address": "Lot 1774, Jalan Guchil Bayam, Kampung Padang Kechik, 15200 Kota Bharu, Kelantan",
+    "postcode": "15200",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 324000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1901",
+    "title": "Terrace House",
+    "address": "PT 2470, Jalan Merbau 5/B, Taman Merbau Utama, 16810 Pasir Puteh, Kelantan",
+    "postcode": "16810",
+    "state": "Pasir Puteh",
+    "area": "Pasir Puteh",
+    "reservePrice": 198000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1902",
+    "title": "Land",
+    "address": "PT 6035, Jalan Kampung Gual Periok, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 45000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "178 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1903",
+    "title": "Land",
+    "address": "PT 6036, Jalan Kampung Gual Periok, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 45000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "178 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1904",
+    "title": "Agricultural Land",
+    "address": "Lot 1674, Kampung Gual Batol, 17200 Rantau Panjang, Kelantan",
+    "postcode": "17200",
+    "state": "Rantau Panjang",
+    "area": "Rantau Panjang",
+    "reservePrice": 108000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1905",
+    "title": "Terrace House",
+    "address": "PT. 142, Taman Jaza Lubok Jambu, Kampung Lubuk Jambu, 16010 Kota Bharu, Kelantan",
+    "postcode": "16010",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 150000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1906",
+    "title": "Office Unit",
+    "address": "GRN 31050 (Lot 83), Al-Amin Tropicana School Kota Bharu, Jalan Telipot, 15150, Kota Bharu, Kelantan",
+    "postcode": "31050",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 2200000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "762 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1907",
+    "title": "2 Storey Detached House",
+    "address": "No. S20/5387-H (Lot 507), Jalan Raja Dewa 1/20, 15150 Kota Bahru, Kelantan",
+    "postcode": "15150",
+    "state": "Kota Bahru",
+    "area": "Kota Bahru",
+    "reservePrice": 700000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "948 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1908",
+    "title": "Terrace House",
+    "address": "PT 2955, Jalan Anggerik Putih 1, Taman Anggerik Putih, 18500 Machang, Kelantan",
+    "postcode": "18500",
+    "state": "Machang",
+    "area": "Machang",
+    "reservePrice": 295000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1909",
+    "title": "1 Storey Terrace House",
+    "address": "PT. 5258 (Lot 4316), Taman Sri Bahagia, Kuala Krai, 18000 Kuala Krai, Kelantan",
+    "postcode": "18000",
+    "state": "Kuala Krai",
+    "area": "Kuala Krai",
+    "reservePrice": 145800,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1910",
+    "title": "Duplex Penthouse",
+    "address": "Unit No. B-13-1, Level 18 & 19, Sky Riverfront Service Apartment, Lorong Minyak Gas, 15200 Kota Bharu, Kelantan",
+    "postcode": "15200",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 1368000,
+    "auctionDate": "8 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "132 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1911",
+    "title": "4 Storey Shop Office",
+    "address": "PT 302, Jalan Kota Darulnaim, 15150 Kota Bharu, Kelantan",
+    "postcode": "15150",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 1440000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "603 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1912",
+    "title": "Shop Office",
+    "address": "Lot 603 & 602 & 601, Pejabat Felcra Bukit Tandak, Rantau Panjang, 17200 Pasir Mas, Kelantan",
+    "postcode": "17200",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 3000000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1913",
+    "title": "3 Storey Shop Lot",
+    "address": "PT 332, Kompleks Kedai Baru, Kawasan Bebas Cukai, 17200 Rantau Panjang, Kelantan",
+    "postcode": "17200",
+    "state": "Rantau Panjang",
+    "area": "Rantau Panjang",
+    "reservePrice": 306110.07,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1914",
+    "title": "1 Storey Bungalow House",
+    "address": "Lot 4515, Lorong 4 Manal Satu, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 268672.95,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "368 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1915",
+    "title": "3 Storey Shop Office",
+    "address": "Jalan Tengku Petra Semerak, Section 9, 15000 Kota Bharu, Kelantan",
+    "postcode": "15000",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 442867.5,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "616 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1916",
+    "title": "2 Storey Terrace Shop Office",
+    "address": "PT 1090, Taman Bendahara, Jalan Pengkalan Chepa, 15400 Kota Bharu, Kelantan",
+    "postcode": "15400",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 400950,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1917",
+    "title": "2 Storey Detached House",
+    "address": "PT 463, Kampung Padang Kala, Jalan Pasir Puteh, 16400 Kota Bharu, Kelantan",
+    "postcode": "16400",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 439587,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "145 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1918",
+    "title": "1 Storey Terrace House",
+    "address": "Residensi Prima Lubok Jong, Jalan Pasir Mas-Rantau Panjang, 17070 Pasir Mas, Kelantan",
+    "postcode": "17070",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 135000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "072 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1919",
+    "title": "1 Storey Detached House",
+    "address": "No. 439, RPT Sungai Terah, 18300 Gua Musang, Kelantan",
+    "postcode": "18300",
+    "state": "Gua Musang",
+    "area": "Gua Musang",
+    "reservePrice": 230000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "423 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1920",
+    "title": "1 Storey Shop",
+    "address": "PT. 4183, Jalan Keranji 2, Bandar Utama Gua Musang, 18300 Gua Musang, Kelantan",
+    "postcode": "18300",
+    "state": "Gua Musang",
+    "area": "Gua Musang",
+    "reservePrice": 240000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1921",
+    "title": "1 Storey Bungalow",
+    "address": "PT 1995 (Lot 13963), Jalan Pengkalan Chepa, Kampung Baung, 16100 Kota Bharu, Kelantan",
+    "postcode": "13963",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 400000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "596 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1922",
+    "title": "Terrace House",
+    "address": "Lot 10023 (PT 760), Taman Redha, Kampung Merbau Chondong, 16600 Pulai Chondong, Kelantan",
+    "postcode": "10023",
+    "state": "Pulai Chondong",
+    "area": "Pulai Chondong",
+    "reservePrice": 135000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "162 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1923",
+    "title": "Terrace House",
+    "address": "Lot 3461 (PT 649), Taman Jintan, Jalan Sungai Keladi, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 63000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "044 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1924",
+    "title": "Terrace House",
+    "address": "Lot 11172 (PT 96), Kampung Tok Derpah, Tok Sangkot, 17070 Pasir Mas, Kelantan",
+    "postcode": "11172",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 153000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "615 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1925",
+    "title": "1 Storey Terrace House",
+    "address": "PT 1316 (PT 5125), Taman CT Jaya, Kampung Tempoyak, Jelawat, 16070 Bachok, Kelantan",
+    "postcode": "16070",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 153000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "755 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1926",
+    "title": "2 Storey Terrace House",
+    "address": "Lot 2442, Taman Selasih, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 210600,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "981 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1927",
+    "title": "2.5 Storey Bungalow House",
+    "address": "Lot No. 739, Lorong KP, Jalan Raja Perempuan Zainab II, Panji, 16150 Kota Bharu, Kelantan",
+    "postcode": "16150",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 1207000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "084 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1928",
+    "title": "2 Storey Terrace House",
+    "address": "No. S47/2247, Taman Rogayah, Jalan Long Yunus, 15400 Kota Bharu, Kelantan",
+    "postcode": "15400",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 297000,
+    "auctionDate": "14 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1929",
+    "title": "1 Storey Semi Detached House",
+    "address": "Lot 2759, Lorong Pasir Kota, Jalan Pintu Gang, Kampung Pintu Gang, 15100 Kota Bharu, Kelantan",
+    "postcode": "15100",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 252434.5,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "542 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1930",
+    "title": "2 Storey Detached House",
+    "address": "No. 1689-A, Jalan Pengkalan Chepa, Padang Garong, 16100 Kota Bharu, Kelantan",
+    "postcode": "16100",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 533205,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "822 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1931",
+    "title": "1 Storey Detached House",
+    "address": "Lot 238, Kampung Surau Baung Hilir, 16100 Kota Bharu, Kelantan",
+    "postcode": "16100",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 422820,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "723 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1932",
+    "title": "Terrace House",
+    "address": "PT 8674, Taman Sri Sutera, 16310 Bachok, Kelantan",
+    "postcode": "16310",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 148500,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "153 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1933",
+    "title": "Terrace House",
+    "address": "Lot 16607 (PT 5934), Taman Pondok Pengiring, Jalan Tok Bali, Kampung Kandis, 16300 Bachok, Kelantan",
+    "postcode": "16607",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 125000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "990 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1934",
+    "title": "1 Storey Terrace House",
+    "address": "PT 430 (Lot 759), Kampung Pulau Che Noh, Badang, 15350 Kota Bharu, Kelantan",
+    "postcode": "15350",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 148500,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1935",
+    "title": "Terrace House",
+    "address": "PT 8868, Taman Teguh Arif, Kampung Cawas, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 135000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "300 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1936",
+    "title": "Terrace House",
+    "address": "PT 2225 (Lot 1886), Taman Bukit Idaman, 16450 Kota Bharu, Kelantan",
+    "postcode": "16450",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 103500,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1937",
+    "title": "Terrace House",
+    "address": "PT 1499, Taman MJ Selaseh 2, Kampung Kubang Kual, Bukit Tandak, 17200 Rantau Panjang, Kelantan",
+    "postcode": "17200",
+    "state": "Rantau Panjang",
+    "area": "Rantau Panjang",
+    "reservePrice": 145000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "259 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1938",
+    "title": "2 Storey Terrace House",
+    "address": "PT 1949, Kota Seribong, 16010 Kota Bharu, Kelantan",
+    "postcode": "16010",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 720000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "486 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1939",
+    "title": "1.5 Storey Terrace House",
+    "address": "No. PT 316, Taman Kota Ville Indah, Jalan Kota Ville Indah 5, 16250 Pasir Pekan, Kelantan",
+    "postcode": "16250",
+    "state": "Pasir Pekan",
+    "area": "Pasir Pekan",
+    "reservePrice": 290000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1940",
+    "title": "1 Storey Terrace House",
+    "address": "Lot 3176, Jalan Chetok - Sungai Keladi, Taman Jintan, 16070 Pasir Mas, Kelantan",
+    "postcode": "16070",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 91125,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "184 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1941",
+    "title": "Terrace House",
+    "address": "PT. 415, Taman Kenanga Indah, Kampung Senak, 16300 Bachok, Kelantan",
+    "postcode": "16300",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 135000,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1942",
+    "title": "3.5 Storey Shop Office",
+    "address": "Lot No. 788 (PT 156), Seksyen 9, Jalan Che Su, 15000 Kota Bharu, Kelantan",
+    "postcode": "15000",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 344321.28,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1943",
+    "title": "1 Storey Terrace House",
+    "address": "PT 177, Taman Wira, Kampung Kedap, Lubok Gong, 17200 Rantau Panjang, Kelantan",
+    "postcode": "17200",
+    "state": "Rantau Panjang",
+    "area": "Rantau Panjang",
+    "reservePrice": 58160.89,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1944",
+    "title": "Shop Lot",
+    "address": "Lot PT 803, Block 6, Pusat Perniagaan Dataran Rakyat, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+    "postcode": "16010",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 35430,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "129 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1945",
+    "title": "Shop Lot",
+    "address": "Lot PT 921, Blok 6, Pusat Perniagaan Dataran Rakyat, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+    "postcode": "16010",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 35430,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "129 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1946",
+    "title": "Shop Lot",
+    "address": "Lot PT 920, Block 6, Pusat Perniagaan Dataran Rakyat, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+    "postcode": "16010",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 35430,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "129 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1947",
+    "title": "Shop Lot",
+    "address": "Lot PT 934, Block 6, Pusat Perniagaan Dataran Rakyat, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+    "postcode": "16010",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 44288,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "129 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1948",
+    "title": "2 Storey Bungalow House",
+    "address": "Lot. 1594, Kampung Bendang Ketok, 1Morak, Palekbang, 16250 Tumpat, Kelantan",
+    "postcode": "16250",
+    "state": "Tumpat",
+    "area": "Tumpat",
+    "reservePrice": 1183500,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "949 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1949",
+    "title": "Bungalow House",
+    "address": "PT. 6033, Mukim Jeli, Kampung Sungai Lancang, 17600 Jeli, Kelantan",
+    "postcode": "17600",
+    "state": "Jeli",
+    "area": "Jeli",
+    "reservePrice": 299700,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "334 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1950",
+    "title": "Land",
+    "address": "Lot 12748, Kampung Padang Raja, 16400 Kota Bharu, Kelantan",
+    "postcode": "12748",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 56700,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "969 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1951",
+    "title": "4 Storey Shop House",
+    "address": "Lot 197 (S22/5169-Q/1), Wisma Lagenda, Jalan Kuala Krai, Seksyen 22, 15050 Kota Bharu, Kelantan",
+    "postcode": "15050",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 1004400,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "550 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1952",
+    "title": "2 Storey Semi Detached Factory",
+    "address": "PT 1208, Jalan Kubang Kacang, Kampung Tiong, Kubang Kacang, 16010 Kota Bharu, Kelantan",
+    "postcode": "16010",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 1804275,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "060 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1953",
+    "title": "2 Storey Semi Detached House",
+    "address": "PT 4787 (Lot 18295), Kampung Limbat, Pasir Tumboh, 16150 Kota Bharu, Kelantan",
+    "postcode": "18295",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 360855,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "035 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1954",
+    "title": "1 Storey Detached House",
+    "address": "Lot 1058-A, Kampung Tanjong Chat, 15300 Kota Bharu, Kelantan",
+    "postcode": "15300",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 340200,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "339 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1955",
+    "title": "Detached House",
+    "address": "PT 652, Kampung Tok Ku, Sering, 16150 Kota Bharu, Kelantan",
+    "postcode": "16150",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 391500,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "178 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1956",
+    "title": "1 Storey Terrace House",
+    "address": "PT 2794, Jalan Permai 7, Taman Sri Bayu Tumpat, Jubakar Pantai, 16200 Tumpat, Kelantan",
+    "postcode": "16200",
+    "state": "Tumpat",
+    "area": "Tumpat",
+    "reservePrice": 104400,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "195 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1957",
+    "title": "1 Storey Bungalow",
+    "address": "Lot. 1210, Kampung Gong China, Tanjung, 16020 Bachok, Kelantan",
+    "postcode": "16020",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 395000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "808 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1958",
+    "title": "1 Storey Terrace House",
+    "address": "PT 178, Taman Wira, Kampung Kedap, Lubok Gong, 17200 Rantau Panjang, Kelantan",
+    "postcode": "17200",
+    "state": "Rantau Panjang",
+    "area": "Rantau Panjang",
+    "reservePrice": 55482.44,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "399 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1959",
+    "title": "Terrace House",
+    "address": "PT. 1483, Kampong Alor Pasir, Mukim Gual Nering, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 120000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1960",
+    "title": "2 Storey Bungalow",
+    "address": "Lot No. 469, Kampung Kubang Tuman, Jalan Pengkalan Chepa, 15400 Kota Bharu, Kelantan",
+    "postcode": "15400",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 426600,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "152 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1961",
+    "title": "Terrace House",
+    "address": "PT. 3211, Jalan Gemersik 15, Taman Sri Bayu, Jubakar Pantai, 16200 Tumpat, Kelantan",
+    "postcode": "16200",
+    "state": "Tumpat",
+    "area": "Tumpat",
+    "reservePrice": 145000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "098 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1962",
+    "title": "Residential Land",
+    "address": "PT. 5011, Mukim of Guntong, 16100 Bachok, Kelantan",
+    "postcode": "16100",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 92700,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "245 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1963",
+    "title": "Detached Plot",
+    "address": "PT 5004, Mukim of Guntong, Kampung Limbat, 16100 Bachok, Kelantan",
+    "postcode": "16100",
+    "state": "Bachok",
+    "area": "Bachok",
+    "reservePrice": 90000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "782 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1964",
+    "title": "Vacant Detached Plot",
+    "address": "PT. 5003, Kampung Limbat, Mukim Guntong, 16100 Kota Bharu, Kelantan",
+    "postcode": "16100",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 111600,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "773 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1965",
+    "title": "2 Storey Semi Detached House",
+    "address": "PT 1215, Jalan Kurnia Jaya 4, Taman Kurnia Jaya, Pengkalan Chepa, 16100 Kota Bharu, Kelantan",
+    "postcode": "16100",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 350000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "734 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1966",
+    "title": "Commercial Land",
+    "address": "GM 1968 (Lot 2471), Mukim Langgar, Kampung Langgar, 15200 Jajahan Kota Bharu, Kelantan",
+    "postcode": "15200",
+    "state": "Jajahan Kota Bharu",
+    "area": "Jajahan Kota Bharu",
+    "reservePrice": 297000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "296 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1967",
+    "title": "Detached Plot",
+    "address": "PT 5010, Mukim of Guntong, Kampung Limbat, 16150 Kota Bharu, Kelantan",
+    "postcode": "16150",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 83700,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "890 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1968",
+    "title": "Bungalow",
+    "address": "Lot PT 1097, Kampung Che Arus, Kok Lanas, 16450 Ketereh, Kelantan",
+    "postcode": "16450",
+    "state": "Ketereh",
+    "area": "Ketereh",
+    "reservePrice": 182250,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "328 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1969",
+    "title": "Vacant Residential Land",
+    "address": "PT. 5009, Mukim of Guntong, Kampung Limbat, 16150 Kota Bharu, Kelantan",
+    "postcode": "16150",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 83700,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "890 sq.ft",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1970",
+    "title": "Office Building",
+    "address": "Lot. 1234, Kampung Air Tawar, Terusan Semerak Tok Bali, 16700 Pasir Puteh, Kelantan",
+    "postcode": "16700",
+    "state": "Pasir Puteh",
+    "area": "Pasir Puteh",
+    "reservePrice": 1694578.4,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "132 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1971",
+    "title": "Terrace House",
+    "address": "PT. 870 & 882, Taman Sri Jaza, Jalan Kampung Hutan Pasir, 16450 Ketereh, Kelantan",
+    "postcode": "16450",
+    "state": "Ketereh",
+    "area": "Ketereh",
+    "reservePrice": 180000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "302 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1972",
+    "title": "1 Storey Terrace House",
+    "address": "PT 10326, Taman Desa Wira Jaya, 17070 Pasir Mas, Kelantan",
+    "postcode": "10326",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 200000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1973",
+    "title": "1 Storey Terrace House",
+    "address": "No. PT 4397, Kok Lanas, Taman Desa Wadi Iman, 16450 Ketereh, Kelantan",
+    "postcode": "16450",
+    "state": "Ketereh",
+    "area": "Ketereh",
+    "reservePrice": 145800,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "194 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1974",
+    "title": "4 Storey Shop House",
+    "address": "Jalan Sultan Yahya Petra, Seksyen 14, 15200 Kota Bharu, Kelantan",
+    "postcode": "15200",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 192300,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "600 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1975",
+    "title": "3 Storey Shop Office",
+    "address": "S26/PT 768, Kawasan Pasar Borong Wakaf Che Yeh, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan",
+    "postcode": "15050",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 416119,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "147 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1976",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Hospital, Taman Desa Kujid, 16100 Kota Bharu, Kelantan",
+    "postcode": "16100",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 416700,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "229 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1977",
+    "title": "2 Storey Terrace House",
+    "address": "Lot 503 (PT 345), Taman Hidayah Harmoni, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 284310,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "691 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1978",
+    "title": "2 Storey Shop Office",
+    "address": "PT. 285, Jalan Klinik, 17500 Tanah Merah, Kelantan",
+    "postcode": "17500",
+    "state": "Tanah Merah",
+    "area": "Tanah Merah",
+    "reservePrice": 324000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "400 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1979",
+    "title": "1 Storey Terrace House",
+    "address": "Lot 567, Jalan Alor Pasir, Taman Maka Utama, 17000 Pasir Mas, Kelantan",
+    "postcode": "17000",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 108000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "367 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1980",
+    "title": "3 Storey Shop House",
+    "address": "Lot 1710, Taman Kuala Krai, 18000 Kuala Krai, Kelantan",
+    "postcode": "18000",
+    "state": "Kuala Krai",
+    "area": "Kuala Krai",
+    "reservePrice": 700000,
+    "auctionDate": "28 Jul 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "604 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1981",
+    "title": "A Parcel of Ground and Mezzanine Floor of Kompleks Yakin",
+    "address": "Ground & Mezzanine Floor, Kompleks Yakin, Jalan Gajah Mati, 15000 Kota Bharu, Kelantan",
+    "postcode": "15000",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 474000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "350 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1982",
+    "title": "Shop Lot",
+    "address": "No. 44, 1st Floor, Kota Bharu City Point, 15000 Kota Bharu, Kelantan",
+    "postcode": "15000",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 138000,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "165 sq.ft",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1983",
+    "title": "2 Storey Terrace Shop Office",
+    "address": "PT 9319 (Lot 7363), Bandar Baru, 18300 Gua Musang, Kelantan",
+    "postcode": "18300",
+    "state": "Gua Musang",
+    "area": "Gua Musang",
+    "reservePrice": 233280,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "539 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1984",
+    "title": "3 Storey Shop Office",
+    "address": "PT 8109, Taman KK Height, 18000 Kuala Krai, Kelantan",
+    "postcode": "18000",
+    "state": "Kuala Krai",
+    "area": "Kuala Krai",
+    "reservePrice": 328050,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "200 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1985",
+    "title": "1 Storey Detached House",
+    "address": "Lot 538, Kampung Paloh, 17030 Pasir Mas, Kelantan",
+    "postcode": "17030",
+    "state": "Pasir Mas",
+    "area": "Pasir Mas",
+    "reservePrice": 123930,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "340 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1986",
+    "title": "3 Storey Shop Office",
+    "address": "Kawasan Pasar Borong Wakaf Che Yeh, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan",
+    "postcode": "15050",
+    "state": "Kota Bharu",
+    "area": "Kota Bharu",
+    "reservePrice": 685260,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "176 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1987",
+    "title": "Land",
+    "address": "Mukim Lubok Tembesu, Jajahan Bachok, Kelantan",
+    "postcode": "",
+    "state": "Jajahan Bachok",
+    "area": "Jajahan Bachok",
+    "reservePrice": 80750,
+    "auctionDate": "29 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+    ]
+  },
+  {
+    "id": "1988",
+    "title": "Vacant Land",
+    "address": "Lot 1303, Batu 15, Jalan Air Putih, Kampung Tebak, 24050 Kemaman, Terengganu",
+    "postcode": "24050",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 251900,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1989",
+    "title": "1 Storey Terrace House",
+    "address": "PT 3583, Lorong Semarak 2, Taman Semarak, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 162000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "356 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1990",
+    "title": "1 Storey Terrace House",
+    "address": "PT 3366, Taman Semarak, Binjai, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 140000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "907 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1991",
+    "title": "Semi Detached House",
+    "address": "Lot 8228, Paya Liok, Batu 6, 23000 Dungun, Terengganu",
+    "postcode": "23000",
+    "state": "Terengganu",
+    "area": "Dungun",
+    "reservePrice": 328100,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "951 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1992",
+    "title": "1 Storey Terrace House",
+    "address": "Lot 7374, Kampung Bukit Ara, Ajil, 21800 Hulu Terengganu, Terengganu",
+    "postcode": "21800",
+    "state": "Terengganu",
+    "area": "Hulu Terengganu",
+    "reservePrice": 170586,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "220 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1993",
+    "title": "Land",
+    "address": "Lot 7356, Bukit Gasing, Pulau Kerengga, 21600 Marang, Terengganu",
+    "postcode": "21600",
+    "state": "Terengganu",
+    "area": "Marang",
+    "reservePrice": 126000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1994",
+    "title": "Bungalow House",
+    "address": "Lot No. 52321 (PT 24422K), Taman Desa Baroh Tanjung Damai, Jalan Gong Badak, 21300 Kuala Nerus, Terengganu",
+    "postcode": "52321",
+    "state": "Terengganu",
+    "area": "Kuala Nerus",
+    "reservePrice": 269730,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "845 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1995",
+    "title": "1.5 Storey Terrace Factory",
+    "address": "No. T27, Jalan Miel 3, Kawasan Perindustrian MIEL Teluk Kalung, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 300000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "540 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1996",
+    "title": "Bungalow House",
+    "address": "Lot 91153, Bukit Payung, Kampung Tebakang, 21400 Marang, Terengganu",
+    "postcode": "91153",
+    "state": "Terengganu",
+    "area": "Marang",
+    "reservePrice": 262440,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "026 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1997",
+    "title": "1 Storey Terrace House",
+    "address": "Lot 9605 (No. 353), Jalan Jeram, Taman Sri Manir, Manir, 21200 Kuala Terengganu, Terengganu",
+    "postcode": "21200",
+    "state": "Terengganu",
+    "area": "Kuala Terengganu",
+    "reservePrice": 190000,
+    "auctionDate": "6 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "292 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1998",
+    "title": "3 Storey Shop Office",
+    "address": "Lot 51094 (Previously known as Lot 18489), Jalan Kubang Kurus, Taman Cukai Utama, 24000 Kemaman, Terengganu",
+    "postcode": "51094",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 531500,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "264 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "1999",
+    "title": "1 Storey Terrace House",
+    "address": "No. 6916, Taman Kuala Berang, 21700 Kuala Berang, Terengganu",
+    "postcode": "21700",
+    "state": "Terengganu",
+    "area": "Kuala Berang",
+    "reservePrice": 140000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "159 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2000",
+    "title": "2 Storey Shop House",
+    "address": "No. 817-K, Rumah Kedai Permint Jaya, Chandering, 21080 Kuala Terengganu, Terengganu",
+    "postcode": "21080",
+    "state": "Terengganu",
+    "area": "Kuala Terengganu",
+    "reservePrice": 450000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "603 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2001",
+    "title": "2 Storey Shop Office",
+    "address": "PT 10360, Batu 2, Jalan Air Putih, 24000 Kemaman, Terengganu",
+    "postcode": "10360",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 550000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "410 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2002",
+    "title": "1 Storey Detached House",
+    "address": "Lot 7367, Taman MP Indah, Pulau Kerengga, 21600 Marang, Terengganu",
+    "postcode": "21600",
+    "state": "Terengganu",
+    "area": "Marang",
+    "reservePrice": 226354.5,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "747 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2003",
+    "title": "Terrace House",
+    "address": "PT 10327, Perumahan Desa Al-azeem, Kampung Pak Mentosa, 22200, Tembila, Besut, Terengganu",
+    "postcode": "10327",
+    "state": "Terengganu",
+    "area": "Besut",
+    "reservePrice": 240000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "496 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2004",
+    "title": "Terrace House",
+    "address": "No. 2306-A, Kampung Dusun Tembakau, Manir, 21200 Kuala Terengganu, Terengganu",
+    "postcode": "21200",
+    "state": "Terengganu",
+    "area": "Kuala Terengganu",
+    "reservePrice": 113400,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "076 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2005",
+    "title": "Terrace House",
+    "address": "PT 894, Taman Pelangi, 22000 Besut, Terengganu",
+    "postcode": "22000",
+    "state": "Terengganu",
+    "area": "Besut",
+    "reservePrice": 144000,
+    "auctionDate": "13 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2006",
+    "title": "2 Storey Terrace House",
+    "address": "Lot 4979, Taman Permai, Kampung Bukit Gasing, Seberang Marang, 21600 Marang, Terengganu",
+    "postcode": "21600",
+    "state": "Terengganu",
+    "area": "Marang",
+    "reservePrice": 177210,
+    "auctionDate": "15 Jul 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "070 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2007",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan Jakar, Taman Bunga Tanjung, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 118098,
+    "auctionDate": "16 Jul 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "431 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2008",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 3217, Lorong Permai 13, Taman Desa Permai 2, Bukit Kuang, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 162000,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "791 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2009",
+    "title": "1.5 Storey Shop Office",
+    "address": "No. K-7887, Jalan Kemaman - Dungun, Kampung Bukit Kuang, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 524880,
+    "auctionDate": "20 Jul 2026 (Mon)",
+    "landArea": "—",
+    "builtUp": "585 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2010",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 1038-N, Taman Sri Pantai, Jalan Sultan Mahmud, 20400 Kuala Terengganu, Terengganu",
+    "postcode": "20400",
+    "state": "Terengganu",
+    "area": "Kuala Terengganu",
+    "reservePrice": 600000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "654 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2011",
+    "title": "2 Storey Semi Detached House",
+    "address": "Lot 1038M, Taman Sri Pantai, Jalan Sultan Mahmud, 20400 Kuala Terengganu, Terengganu",
+    "postcode": "20400",
+    "state": "Terengganu",
+    "area": "Kuala Terengganu",
+    "reservePrice": 500000,
+    "auctionDate": "11 Aug 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "820 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2012",
+    "title": "Detached House",
+    "address": "Kampung Gong Kuin, Jalan Tok Jembal, 21300 Kuala Terengganu, Terengganu",
+    "postcode": "21300",
+    "state": "Terengganu",
+    "area": "Kuala Terengganu",
+    "reservePrice": 600000,
+    "auctionDate": "23 Sep 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "627 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2013",
+    "title": "Terrace House",
+    "address": "Taman Desa Damai, Kampung Belukar Pak Ra, 21600 Marang, Terengganu",
+    "postcode": "21600",
+    "state": "Terengganu",
+    "area": "Marang",
+    "reservePrice": 260000,
+    "auctionDate": "4 Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "238 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2014",
+    "title": "Semi Detached House",
+    "address": "Jalan Rengas, Taman Bukit Kuang, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 390000,
+    "auctionDate": "24 Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "969 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2015",
+    "title": "Semi Detached House",
+    "address": "Jalan Rengas, Taman Bukit Kuang, 24000 Kemaman, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Kemaman",
+    "reservePrice": 330000,
+    "auctionDate": "24 Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "712 sq.ft",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+    ]
+  },
+  {
+    "id": "2016",
+    "title": "Detached House",
+    "address": "Jalan Mak Chili, Kampung Mak Chili Atas, 24000 Chukai, Terengganu",
+    "postcode": "24000",
+    "state": "Terengganu",
+    "area": "Chukai",
+    "reservePrice": 370000,
+    "auctionDate": "24 Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "734 sq.ft",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
     ]
   }
 ];
