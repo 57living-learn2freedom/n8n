@@ -35,7 +35,7 @@ export const PRICE_RANGES = [
  * AGENT_PHONE_NUMBER — Replace with your WhatsApp number (country code, no + or spaces).
  * Used for consultation form links: https://wa.me/[AGENT_PHONE_NUMBER]?text=[ENCODED_TEXT]
  */
-export const WHATSAPP_NUMBER = "60123456789";
+export const WHATSAPP_NUMBER = "60133346758";
 
 export const NAV_LINKS = [
   { label: "Home", href: "#home" },
