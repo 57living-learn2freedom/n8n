@@ -3,7 +3,7 @@ import { Building2, Percent, ShieldCheck, Users } from "lucide-react";
 const STATS = [
   {
     icon: Building2,
-    value: "500+",
+    value: "2000+",
     label: "Properties Listed",
   },
   {
