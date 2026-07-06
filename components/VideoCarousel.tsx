@@ -140,7 +140,7 @@ export default function VideoCarousel() {
         <div className="mb-8 flex items-center gap-2">
           <PlayCircle className="h-5 w-5 text-red-700" />
           <h2 className="text-xl font-bold text-zinc-900 sm:text-2xl">
-            Property Video Tours
+            Property Video
           </h2>
         </div>
 
