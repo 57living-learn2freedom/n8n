@@ -43,70 +43,14 @@ export const VIDEO_ITEMS: VideoItem[] = [
     id: "video-1",
     title: "Puchong Terrace Lelong Walkthrough",
     description:
-      "Full property tour of a 2-storey terrace with below-market reserve price in Bandar Bukit Puchong.",
+      "Cara Scammer menyamar sebagai ejen sewa rumah dibongkar! Tengok habis video ni dan jangan ditipu!",
     // VIDEO THUMBNAIL/IMAGE LINK HERE
     posterSrc:
       "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1280&q=80",
     // VIDEO SOURCE LINK HERE
     videoSrc:
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "https://youtu.be/dlD30BS_xFM",
     // DETAILS PAGE LINK HERE
-    detailsUrl: "/videos/puchong-terrace-lelong-walkthrough",
-  },
-  {
-    id: "video-2",
-    title: "PJ Service Apartment Auction Preview",
-    description:
-      "See the layout, facilities, and auction highlights for this Petaling Jaya condo unit.",
-    // VIDEO THUMBNAIL/IMAGE LINK HERE
-    posterSrc:
-      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1280&q=80",
-    // VIDEO SOURCE LINK HERE
-    videoSrc:
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-    // DETAILS PAGE LINK HERE
-    detailsUrl: "/videos/pj-service-apartment-auction-preview",
-  },
-  {
-    id: "video-3",
-    title: "How Bank Lelong Works in Malaysia",
-    description:
-      "A quick guide to deposits, bidding registration, and completing your purchase within 90 days.",
-    // VIDEO THUMBNAIL/IMAGE LINK HERE
-    posterSrc:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1280&q=80",
-    // VIDEO SOURCE LINK HERE
-    videoSrc:
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-    // DETAILS PAGE LINK HERE
-    detailsUrl: "/videos/how-bank-lelong-works-malaysia",
-  },
-  {
-    id: "video-4",
-    title: "Kajang Semi-D Investment Opportunity",
-    description:
-      "Explore land size, built-up area, and estimated ROI for this freehold semi-detached listing.",
-    // VIDEO THUMBNAIL/IMAGE LINK HERE
-    posterSrc:
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1280&q=80",
-    // VIDEO SOURCE LINK HERE
-    videoSrc:
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    // DETAILS PAGE LINK HERE
-    detailsUrl: "/videos/kajang-semi-d-investment-opportunity",
-  },
-  {
-    id: "video-5",
-    title: "Ipoh Commercial Shop Lot Tour",
-    description:
-      "Ground-floor shop lot near Ipoh city centre — ideal for retail or F&B businesses.",
-    // VIDEO THUMBNAIL/IMAGE LINK HERE
-    posterSrc:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1280&q=80",
-    // VIDEO SOURCE LINK HERE
-    videoSrc:
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-    // DETAILS PAGE LINK HERE
-    detailsUrl: "/videos/ipoh-commercial-shop-lot-tour",
-  },
+    detailsUrl: "https://youtu.be/dlD30BS_xFM",
+  }
 ];
