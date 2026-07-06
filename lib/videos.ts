@@ -41,7 +41,7 @@ export interface VideoItem {
 export const VIDEO_ITEMS: VideoItem[] = [
   {
     id: "video-1",
-    title: "Puchong Terrace Lelong Walkthrough",
+    title: "Cara Scammer menyamar",
     description:
       "Cara Scammer menyamar sebagai ejen sewa rumah dibongkar! Tengok habis video ni dan jangan ditipu!",
     // VIDEO THUMBNAIL/IMAGE LINK HERE
