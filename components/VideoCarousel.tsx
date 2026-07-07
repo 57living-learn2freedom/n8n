@@ -28,13 +28,11 @@ function chunkItems<T>(items: T[], size: number): T[][] {
 /**
  * VideoCarousel
  *
- * • Desktop (lg+): 3 cards per page (grid-cols-3)
- * • Tablet (md):   2 cards per page (grid-cols-2)
- * • Mobile:        1 card per page  (grid-cols-1)
+ * • Desktop (lg+): 3 cards per page
+ * • Tablet (md):   2 cards per page
+ * • Mobile:        1 card per page
  *
- * Playback: video index 0 autoplays on load; hover switches playback;
- * mouse-leave on the carousel resets to index 0.
- *
+ * Playback: hover a card to play; mouse leave pauses that card.
  * Slide media/links configured in lib/videos.ts.
  */
 export default function VideoCarousel() {
@@ -67,19 +65,12 @@ export default function VideoCarousel() {
     });
   }, []);
 
-  const resetToDefaultPlayback = useCallback(() => {
-    videoRefs.current.forEach((el, i) => {
-      if (!el) return;
-      if (i === 0) {
-        void el.play().catch(() => {});
-      } else {
-        el.pause();
-        el.currentTime = 0;
-      }
-    });
+  const pauseCard = useCallback((index: number) => {
+    const el = videoRefs.current[index];
+    if (!el) return;
+    el.pause();
   }, []);
 
-  /* Responsive cards-per-page */
   useEffect(() => {
     function handleResize() {
       const next = getCardsPerPage(window.innerWidth);
@@ -94,18 +85,11 @@ export default function VideoCarousel() {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  /* Clamp active page when page count changes */
   useEffect(() => {
     if (activePage >= totalPages && totalPages > 0) {
       setActivePage(totalPages - 1);
     }
   }, [activePage, totalPages]);
-
-  /* Default autoplay: first video (index 0) on mount */
-  useEffect(() => {
-    const timer = setTimeout(() => resetToDefaultPlayback(), 100);
-    return () => clearTimeout(timer);
-  }, [resetToDefaultPlayback]);
 
   const goToPage = useCallback(
     (page: number) => {
@@ -123,8 +107,8 @@ export default function VideoCarousel() {
     playOnly(index);
   }
 
-  function handleCarouselMouseLeave() {
-    resetToDefaultPlayback();
+  function handleCardLeave(index: number) {
+    pauseCard(index);
   }
 
   if (VIDEO_ITEMS.length === 0) return null;
@@ -134,7 +118,6 @@ export default function VideoCarousel() {
       id="video-carousel"
       className="bg-zinc-50 py-12 sm:py-16"
       aria-label="Property video carousel"
-      onMouseLeave={handleCarouselMouseLeave}
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-8 flex items-center gap-2">
@@ -184,6 +167,7 @@ export default function VideoCarousel() {
                         index={globalIndex}
                         videoRef={setVideoRef(globalIndex)}
                         onMouseEnterCard={handleCardHover}
+                        onMouseLeaveCard={handleCardLeave}
                       />
                     );
                   })}
@@ -193,7 +177,6 @@ export default function VideoCarousel() {
           </div>
         </div>
 
-        {/* Dot pagination — one dot per page */}
         <div
           className="mt-6 flex items-center justify-center gap-2.5"
           role="tablist"
