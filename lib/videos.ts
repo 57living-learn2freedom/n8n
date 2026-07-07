@@ -20,8 +20,6 @@ export interface VideoItem {
 
   /**
    * VIDEO SOURCE LINK HERE
-   * Can be a direct .mp4 URL OR a Google Drive Preview link.
-   * NOTE: If using Google Drive Preview, your frontend component MUST use an <iframe> to play it.
    */
   videoSrc: string;
 
@@ -42,7 +40,7 @@ export const VIDEO_ITEMS: VideoItem[] = [
     title: "Cara Scammer menyamar",
     description: "Cara Scammer menyamar sebagai ejen sewa rumah dibongkar! Tengok habis video ni dan jangan ditipu!",
     posterSrc: "https://drive.google.com/thumbnail?id=19SpBSRr4-JPVVkGTDkuFqGYCNhImkETK&sz=w1200",
-    videoSrc: "https://drive.google.com/file/d/1dMT31RRuHYSk8HpVo6RM0dZGvC3GFsxt/preview",
+    videoSrc: "https://drive.google.com/uc?export=download&id=1dMT31RRuHYSk8HpVo6RM0dZGvC3GFsxt",
     detailsUrl: "https://youtu.be/dlD30BS_xFM",
   }
 ];
