@@ -35,7 +35,7 @@ export default function PropertyCard({
       aria-label={`View details for ${property.title}`}
       className="group flex cursor-pointer flex-col overflow-hidden rounded-2xl border border-zinc-200 bg-white shadow-sm transition-all hover:border-red-200 hover:shadow-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600"
     >
-      <div className="relative aspect-[4/3] overflow-hidden bg-zinc-100">
+      <div className="relative aspect-[2/1] overflow-hidden bg-zinc-100">
         <Image
           src={property.images[0] ?? "/placeholder.jpg"}
           alt={property.title}
