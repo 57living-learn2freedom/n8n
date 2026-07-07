@@ -111,7 +111,7 @@ export default function PropertyDetailModal({
       <div className="relative flex max-h-[95vh] w-full max-w-2xl flex-col overflow-hidden rounded-t-2xl bg-white shadow-2xl sm:max-h-[92vh] sm:rounded-2xl">
         <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain">
           <div
-            className="relative aspect-[16/9] touch-pan-y bg-zinc-100"
+            className="relative aspect-[2/1] touch-pan-y bg-zinc-100"
             onTouchStart={handleTouchStart}
             onTouchEnd={handleTouchEnd}
           >
