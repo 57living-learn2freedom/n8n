@@ -41,6 +41,6 @@ export const VIDEO_ITEMS: VideoItem[] = [
     description: "Cara Scammer menyamar sebagai ejen sewa rumah dibongkar! Tengok habis video ni dan jangan ditipu!",
     posterSrc: "https://drive.google.com/thumbnail?id=19SpBSRr4-JPVVkGTDkuFqGYCNhImkETK&sz=w1200",
     videoSrc: "https://drive.google.com/uc?export=download&id=1dMT31RRuHYSk8HpVo6RM0dZGvC3GFsxt",
-    detailsUrl: "https://youtu.be/dlD30BS_xFM",
+    detailsUrl: "https://drive.google.com/file/d/1dMT31RRuHYSk8HpVo6RM0dZGvC3GFsxt/view?usp=sharing",
   }
 ];
