@@ -75,7 +75,7 @@ export default function VideoCard({
        * VIDEO SOURCE LINK HERE — `video.videoSrc` → <source src="...">
        * VIDEO THUMBNAIL/IMAGE LINK HERE — `video.posterSrc` → poster attribute
        */}
-      <iframe
+      <video
         ref={assignRef}
         data-video-index={index}
         className="h-full w-full object-cover"
@@ -86,7 +86,7 @@ export default function VideoCard({
         preload="metadata"
       >
         <source src={video.videoSrc} type="video/mp4" />
-      </iframe>
+      </video>
 
       {/* Hover mask — half-height gradient, fades in on group-hover */}
       <div className="pointer-events-none absolute inset-x-0 bottom-0 flex h-1/2 flex-col justify-end bg-gradient-to-t from-black/90 to-transparent p-4 opacity-0 transition-opacity duration-300 group-hover:opacity-100 sm:p-5">
