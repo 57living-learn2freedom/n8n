@@ -14,22 +14,20 @@ export interface VideoItem {
 
   /**
    * VIDEO THUMBNAIL / POSTER IMAGE LINK HERE
-   * Shown before the video loads and as the <video poster="..."> attribute.
-   * Replace with your own hosted image URL.
+   * Shown before the video loads.
    */
   posterSrc: string;
 
   /**
    * VIDEO SOURCE LINK HERE
-   * Direct .mp4 (or .webm) URL used inside the <video><source> tag.
-   * Leave empty string if you only want a poster image with no playback.
+   * Can be a direct .mp4 URL OR a Google Drive Preview link.
+   * NOTE: If using Google Drive Preview, your frontend component MUST use an <iframe> to play it.
    */
   videoSrc: string;
 
   /**
    * DETAILS PAGE LINK HERE
    * Where the user is sent when they click the video card.
-   * Use a full path (e.g. "/videos/puchong-lelong-tour") or external URL.
    */
   detailsUrl: string;
 }
@@ -42,15 +40,9 @@ export const VIDEO_ITEMS: VideoItem[] = [
   {
     id: "video-1",
     title: "Cara Scammer menyamar",
-    description:
-      "Cara Scammer menyamar sebagai ejen sewa rumah dibongkar! Tengok habis video ni dan jangan ditipu!",
-    // VIDEO THUMBNAIL/IMAGE LINK HERE
-    posterSrc:
-      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1280&q=80",
-    // VIDEO SOURCE LINK HERE
-    videoSrc:
-      "https://youtu.be/dlD30BS_xFM",
-    // DETAILS PAGE LINK HERE
+    description: "Cara Scammer menyamar sebagai ejen sewa rumah dibongkar! Tengok habis video ni dan jangan ditipu!",
+    posterSrc: "https://drive.google.com/thumbnail?id=19SpBSRr4-JPVVkGTDkuFqGYCNhImkETK&sz=w1200",
+    videoSrc: "https://drive.google.com/file/d/1dMT31RRuHYSk8HpVo6RM0dZGvC3GFsxt/preview",
     detailsUrl: "https://youtu.be/dlD30BS_xFM",
   }
 ];
