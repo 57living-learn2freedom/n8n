@@ -2,37 +2,22 @@
  * =============================================================================
  * VIDEO CAROUSEL — DATA CONFIGURATION
  * =============================================================================
- * Edit this file to add, remove, or update carousel slides.
- * Each entry maps directly to one video card in the carousel.
+ * Populated from Google Sheet via n8n.
  * =============================================================================
  */
+
+export function hasDetailsUrl(detailsUrl: string): boolean {
+  return detailsUrl.trim().length > 0;
+}
 
 export interface VideoItem {
   id: string;
   title: string;
   description: string;
-
-  /**
-   * VIDEO THUMBNAIL / POSTER IMAGE LINK HERE
-   * Shown before the video loads.
-   */
   posterSrc: string;
-
-  /**
-   * VIDEO SOURCE LINK HERE
-   */
   videoSrc: string;
-
-  /**
-   * DETAILS PAGE LINK HERE
-   * Where the user is sent when they click the video card.
-   */
   detailsUrl: string;
 }
-
-// =============================================================================
-// CAROUSEL SLIDES — update posterSrc, videoSrc, and detailsUrl per slide below
-// =============================================================================
 
 export const VIDEO_ITEMS: VideoItem[] = [
   {
