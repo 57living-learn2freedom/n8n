@@ -72,7 +72,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "948 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=134mMPrbyZo25aQ0_JxK4YXGnxS6aX53n&sz=w800",
       "https://drive.google.com/thumbnail?id=1fYmuO2QgxvHmn-YJgILe3Jkrdf0H9wo0&sz=w800",
@@ -211,7 +211,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "693 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Kq8yLw0yDQnkjFH162NDAHgTqXDNy7-X&sz=w800"
     ]
@@ -245,7 +245,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "412 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1slWWDO7xAgSm30847tof26vBNb-B2yaB&sz=w800"
     ]
@@ -506,7 +506,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "959 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Qj1YGJw1GDvm3OdTVpnqUjiTGfCAEtbZ&sz=w800"
     ]
@@ -625,7 +625,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "035 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1fhg19QFMQODSkPM4ITAnzlOLlI2mI88e&sz=w800"
     ]
@@ -865,7 +865,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "020 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1IX3bxobijt9d4g7ivbyo_2VBUwf2ce6e&sz=w800"
     ]
@@ -901,7 +901,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "176 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1XbZwTarx1ypg2hC0GxdrMeehnj8gESBe&sz=w800"
     ]
@@ -969,7 +969,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "252 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Y2CRGTgnP5B_Xgdvl9N3gvpDdDRqYrR1&sz=w800"
     ]
@@ -986,7 +986,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "647 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Pt5pmSYSxHduHrFIV3CRvYIuM7RIP0IY&sz=w800"
     ]
@@ -1411,7 +1411,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "004 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1J58iL_Y1YlW1IST5gGOxggsg0A7NiHQM&sz=w800"
     ]
@@ -1547,7 +1547,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "714 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1qz1Usd1HG0dyWMRoWxfsabWtwZk7D8SL&sz=w800",
       "https://drive.google.com/thumbnail?id=1tvIDFgs4yaCRdd5zdDL1kNnehbksoBqi&sz=w800",
@@ -1566,7 +1566,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "711 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=18npMBm6xb4YOcexL1WgV3Xsuyomf37Cz&sz=w800"
     ]
@@ -1639,7 +1639,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "070 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1ovP1wv1NGP5-Es_JVMgobI4WWbl0Mlnk&sz=w800"
     ]
@@ -1709,7 +1709,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "727 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1VhA-cbsUN_0IyQSEtXSW_H8P3rlMKGrR&sz=w800"
     ]
@@ -1908,8 +1908,7 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1VhpnBUsyhSnxAj9mSXO8kcsl5vCN06wV&sz=w800",
-      "https://drive.google.com/thumbnail?id=12kaJdax-pzuP9KJbDXsyVu80pU6fiYZB&sz=w800",
-      "https://drive.google.com/thumbnail?id=1-Cza5u1ZFG0JXHR_yODX00dHAJFR1j-J&sz=w800"
+      "https://drive.google.com/thumbnail?id=12kaJdax-pzuP9KJbDXsyVu80pU6fiYZB&sz=w800"
     ]
   },
   {
@@ -1924,7 +1923,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "300 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1COapnoakavW6bb77QzU2h-UYaySpdb2L&sz=w800"
     ]
@@ -1978,7 +1977,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "650 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=12vnS5HKp-1d1dSkq8CxPe7w0YOxaf9nu&sz=w800"
     ]
@@ -2200,7 +2199,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "500 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1K5ChVAFdhVZ0pZIXQKmobxz_AI6iXocg&sz=w800"
     ]
@@ -2375,7 +2374,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "466 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1QZw3CSaDSsOEyCBeYXhIoEdt7wpEMJKY&sz=w800",
       "https://drive.google.com/thumbnail?id=1nKY0G0GwFNISr11ujYIrNQJq35ktBM5T&sz=w800",
@@ -2445,7 +2444,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "973 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1GyURExX9hcEwNG84xMvFAmSf-bmgvGSy&sz=w800"
     ]
@@ -2637,7 +2636,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "723 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1JA_xNqkYp7s1FAR87pIW8y1E2YnPKDfj&sz=w800"
     ]
@@ -2741,7 +2740,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "140 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xSzcv6dLwDLyx1tbgMPusGfjrYfTTfU7&sz=w800"
     ]
@@ -2795,7 +2794,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "595 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Wydo3NbRxKt4wjYIRencX8M0mKaz2fEf&sz=w800"
     ]
@@ -2982,7 +2981,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "740 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1d4TqkhQT0jqIdTsrgFBl_Y2r2rj6zRel&sz=w800",
       "https://drive.google.com/thumbnail?id=1M12_PhPVEVoHF0ZhDitMIFF5KNMh75CQ&sz=w800",
@@ -3071,7 +3070,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "004 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1YwYt-GaLdUyNg3MM6fk34umwpTQM1LBU&sz=w800"
     ]
@@ -3209,7 +3208,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "768 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=106vlM-eqBtTwhcaO6Ii01OFCkVdyYy98&sz=w800",
       "https://drive.google.com/thumbnail?id=1xuSMv8JjR_Nq_CLmhD6o98RKt2ELpKJZ&sz=w800"
@@ -3468,7 +3467,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1TkLmOb2XSqNglXYDC0iox-D1hyaZ1pvF&sz=w800"
     ]
@@ -3519,7 +3518,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "126 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1XaEfFrOgJbf0rM3BcZ87PiaWmwamzGuN&sz=w800"
     ]
@@ -3570,7 +3569,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1PBpuJnNw80IzoaqTQhrDlGwpyHkTDbLF&sz=w800"
     ]
@@ -3672,7 +3671,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "400 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1wsF_6_CXR0UpTAjqwXa8emFD_cJ99_8X&sz=w800"
     ]
@@ -4189,7 +4188,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "660 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1IQ1UeXMqzHajj30hNoZbYwETqMCwHKld&sz=w800"
     ]
@@ -4206,7 +4205,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "798 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1NiI99xZcJIF5sModT8zW9C1h383nxvVP&sz=w800"
     ]
@@ -4411,7 +4410,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "993 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1snZS_DBmFi0oS7r0BGK894v1AfQP1Ryb&sz=w800"
     ]
@@ -4428,7 +4427,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "993 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1snZS_DBmFi0oS7r0BGK894v1AfQP1Ryb&sz=w800"
     ]
@@ -4496,7 +4495,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "475 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1ovP1wv1NGP5-Es_JVMgobI4WWbl0Mlnk&sz=w800"
     ]
@@ -4547,7 +4546,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "556 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1NiI99xZcJIF5sModT8zW9C1h383nxvVP&sz=w800"
     ]
@@ -4806,7 +4805,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "402 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1BUk0Mg2yPVA7aYrexgiDzqhwg6jr_fnQ&sz=w800"
     ]
@@ -4928,7 +4927,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "402 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1BUk0Mg2yPVA7aYrexgiDzqhwg6jr_fnQ&sz=w800"
     ]
@@ -5387,7 +5386,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "240 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1bzG4NYOyKNgTP9D1rFsjHpYp3sooV4xS&sz=w800"
     ]
@@ -5854,7 +5853,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "177 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1qr5l97spmH_l0BIFX0k4lz00Qjl22pnI&sz=w800",
       "https://drive.google.com/thumbnail?id=1oxwM9fJvRgK-jrNHVi-ar5Rqe9H5kcuw&sz=w800",
@@ -6011,7 +6010,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "539 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1DNQMThjOiEKMC8HP9j22d51OZ1CEAg8R&sz=w800",
       "https://drive.google.com/thumbnail?id=14FK94ghsXbUN7PXDpDuTkdnl1vQGrIQn&sz=w800",
@@ -6030,7 +6029,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "084 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1-mkufQCRvywDU-5olZgg7Mdc7aHKdWGm&sz=w800"
     ]
@@ -6115,7 +6114,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "046 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1fvRyyVh2sjmAarpN6newXit9PeS1_W-G&sz=w800"
     ]
@@ -6183,7 +6182,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "650 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1uCksB2OIILebZdUxV5eXPXdMUd2w4zuK&sz=w800"
     ]
@@ -6440,7 +6439,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "799 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=106vlM-eqBtTwhcaO6Ii01OFCkVdyYy98&sz=w800",
       "https://drive.google.com/thumbnail?id=1xuSMv8JjR_Nq_CLmhD6o98RKt2ELpKJZ&sz=w800"
@@ -6562,7 +6561,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "167 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1WcjwfPNYir9zZO5doygousWdecQvlIH1&sz=w800"
     ]
@@ -6925,7 +6924,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1U-iZpFS3Vm_3Fffh5ZedmgY00wHNjxWF&sz=w800"
     ]
@@ -6979,10 +6978,7 @@ export const PROPERTIES: Property[] = [
     "type": "Condo/Apartment",
     "images": [
       "https://drive.google.com/thumbnail?id=1vd7b7839Hyk3tUoAUvfUydUT46YuxeAo&sz=w800",
-      "https://drive.google.com/thumbnail?id=1EQtaPnxkHkftffkV3rybwIib4zMyzrRw&sz=w800",
-      "https://drive.google.com/thumbnail?id=10ggVMjkHd-LBo1gSjedSQ8ByisDXXVnb&sz=w800",
-      "https://drive.google.com/thumbnail?id=1lnTnBvAUHJAEMOw3EXAJJEZL9wLuiFgj&sz=w800",
-      "https://drive.google.com/thumbnail?id=1hiGQN5isULoRImionWs-vU3K5M9j6wyh&sz=w800"
+      "https://drive.google.com/thumbnail?id=1EQtaPnxkHkftffkV3rybwIib4zMyzrRw&sz=w800"
     ]
   },
   {
@@ -7053,7 +7049,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "049 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=15-BDIEoQ2HFePLCE4eDfz-7ht7X3NB7C&sz=w800"
     ]
@@ -7192,7 +7188,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "486 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1PzJ0mhjdcJKtjNjFFf1GbVJSGDEjDZfX&sz=w800"
     ]
@@ -7278,7 +7274,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "100 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Qj1YGJw1GDvm3OdTVpnqUjiTGfCAEtbZ&sz=w800"
     ]
@@ -7329,7 +7325,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "054 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1WpiRnw2jfxTHhCCAOeS8bZFjPzqiTiXB&sz=w800"
     ]
@@ -7346,7 +7342,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "753 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=12vnS5HKp-1d1dSkq8CxPe7w0YOxaf9nu&sz=w800"
     ]
@@ -7363,7 +7359,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "627 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1hCdWMT0NdfOHZPioa1mo71K9-P1StvSb&sz=w800"
     ]
@@ -7536,7 +7532,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "326 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1erqZd0eIjAkF0VHLIZ9KkfWlAwJN728_&sz=w800",
       "https://drive.google.com/thumbnail?id=1Khpto5MbOc5k4Wb5PPJvrMntqo_zz7mC&sz=w800",
@@ -7573,7 +7569,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "168 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HlsWgkJNaqe9VIqtrEBik0Q8GUP73WM0&sz=w800"
     ]
@@ -8392,7 +8388,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "982 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=12vnS5HKp-1d1dSkq8CxPe7w0YOxaf9nu&sz=w800"
     ]
@@ -8545,7 +8541,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "874 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1FkBVCL7dGH1_oIHbA-Snjw0NWEOi2bNX&sz=w800"
     ]
@@ -8632,7 +8628,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1OWixzGn3HCGckVEzLICJDmZ9m1F-MAbj&sz=w800"
     ]
@@ -8667,7 +8663,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "916 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1FsUFNVL7dlIWWNviS6YbrDuRXD-KsPME&sz=w800"
     ]
@@ -8855,7 +8851,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "798 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1NiI99xZcJIF5sModT8zW9C1h383nxvVP&sz=w800"
     ]
@@ -9025,7 +9021,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "691 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1WXPekyRyR-8VJMp1V9ZcSTUuW8gKZ4aC&sz=w800"
     ]
@@ -9182,7 +9178,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "294 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1mnFaGggXQaMUyWPoNQWP_SVgzGIzV5kr&sz=w800"
     ]
@@ -9345,7 +9341,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "084 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1wsF_6_CXR0UpTAjqwXa8emFD_cJ99_8X&sz=w800"
     ]
@@ -9811,7 +9807,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "692 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1gVd79WuwQE7h-1ZLAbbX-2pMuceoZkYH&sz=w800"
     ]
@@ -10534,7 +10530,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "144 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=12FRmAacUHYX62NcP-_3tUbiZEPZCdKpy&sz=w800"
     ]
@@ -11000,7 +10996,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "—",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1mnFaGggXQaMUyWPoNQWP_SVgzGIzV5kr&sz=w800"
     ]
@@ -11052,7 +11048,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "004 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1ArWjVwEhxeLZmWj7TDUapJRQMNh3KrfX&sz=w800"
     ]
@@ -11175,7 +11171,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "328 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1Be1F12DmJXoiIfQq52z_6GiHBFHhw7kN&sz=w800"
     ]
@@ -11460,7 +11456,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "499 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1tF5qr0lfBePPAIwqzKX-l6u23D6HCDa9&sz=w800"
     ]
@@ -11512,7 +11508,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "518 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1NGCAh9UCLrvFqddu87U8kmmlVhcGufE-&sz=w800"
     ]
@@ -11618,7 +11614,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "155 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
     ]
@@ -11670,7 +11666,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "004 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
     ]
@@ -11704,7 +11700,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "324 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1W0VHRZZQ0ytvLojoAEFhStN5lxfHu4Dv&sz=w800"
     ]
@@ -11880,7 +11876,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1_-bujcEFmspPni31Nhm9CDD9NdiNF0a6&sz=w800"
     ]
@@ -11969,7 +11965,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "499 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1kZv29DthQRe4BUjXdxzICN1lMGumEs0E&sz=w800",
       "https://drive.google.com/thumbnail?id=1yYW_v03nncFf9JgzSwZkWbYANWmuckgo&sz=w800",
@@ -12111,7 +12107,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "400 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1N-OUPP1LKyH9s6pB0cMSh0HrlUrZBwl8&sz=w800"
     ]
@@ -12254,7 +12250,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "802 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1vXJyfqD8IjX5ANnZ69Gt55yUFId59rBe&sz=w800"
     ]
@@ -12306,7 +12302,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "004 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
     ]
@@ -12606,7 +12602,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "718 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1sOR4EDqXMtQzVz7EeBOxOmiu3h5EjIey&sz=w800",
       "https://drive.google.com/thumbnail?id=1R7TfEVn0i7yrfBXNuotCNlIRrLltLLkA&sz=w800"
@@ -12744,7 +12740,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "099 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1qgas9ZCxAt9sz65vkJNZSKExHQt-RFd9&sz=w800"
     ]
@@ -12937,7 +12933,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "251 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
     ]
@@ -13202,7 +13198,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "876 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1oob7lX4ZxA2lg78ibHdAHQ-JmR_2IsT0&sz=w800"
     ]
@@ -13310,7 +13306,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "056 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1PzBfuOkXaVpxpb0CB2roo7GR5BZ8osO7&sz=w800"
     ]
@@ -13327,7 +13323,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "539 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1PzBfuOkXaVpxpb0CB2roo7GR5BZ8osO7&sz=w800"
     ]
@@ -13570,7 +13566,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "004 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
     ]
@@ -13658,7 +13654,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "823 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1owzwKvwzLNvAEFNSHril1YcvaCsuz6ml&sz=w800",
       "https://drive.google.com/thumbnail?id=1Cuk-QId0ZyR5EfUYigCAdPnnKuxYEq5A&sz=w800",
@@ -13786,7 +13782,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "—",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1smxQpEijUvJ7pi8StlV-a8RrKvoGZkn_&sz=w800"
     ]
@@ -13966,7 +13962,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "402 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1kdnygEQgCJWQARlBepHpxWQTuAitUJ_g&sz=w800"
     ]
@@ -14000,7 +13996,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "423 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1exzRKIsYcnaADRGSwN62JHso9lQaNxiR&sz=w800"
     ]
@@ -14074,7 +14070,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "900 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1exzRKIsYcnaADRGSwN62JHso9lQaNxiR&sz=w800"
     ]
@@ -14305,7 +14301,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "809 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1gYPM59kK9_sx4ISuC21TNodle7HfoKby&sz=w800"
     ]
@@ -14356,7 +14352,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1rQeJvRhC0kp-Iry4PlvbqwNoedZLnS0V&sz=w800"
     ]
@@ -14662,7 +14658,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "391 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1MkhwHiOZJAhTeRLLDYSNQBef24HO-pFZ&sz=w800"
     ]
@@ -14768,7 +14764,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "280 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
       "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800"
@@ -15016,7 +15012,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1ouRv_MO_Lo_kNhPfWEAXG1Dq7mC01WHJ&sz=w800"
     ]
@@ -15384,7 +15380,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "203 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15401,7 +15397,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "755 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15554,7 +15550,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "177 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15571,7 +15567,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "536 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15605,7 +15601,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "816 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15622,7 +15618,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "601 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15656,7 +15652,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "637 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15673,7 +15669,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "265 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15690,7 +15686,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15758,7 +15754,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "294 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15809,7 +15805,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "637 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -15894,7 +15890,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "319 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1EF3byxnU35qfWDZUKazR-Ryk5U7Rq6o_&sz=w800"
     ]
@@ -16132,7 +16128,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "154 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1FAKHZsmUn4BLAXC6N2hORIo082uHW_hP&sz=w800"
     ]
@@ -16421,7 +16417,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "553 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -16455,7 +16451,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "637 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -16540,7 +16536,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "682 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -16557,7 +16553,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "938 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -16744,7 +16740,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "798 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -16965,7 +16961,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "099 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17033,7 +17029,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "595 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17084,7 +17080,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17152,7 +17148,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "437 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1o5mPVv7RjefK9vh3SFj46AlwxiDQEwen&sz=w800"
     ]
@@ -17339,7 +17335,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "637 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1ejRh4oo1wln7eOIbrkqbt5dqW-F8DzHy&sz=w800"
     ]
@@ -17407,7 +17403,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "948 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17424,7 +17420,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "817 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17543,7 +17539,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "062 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17611,7 +17607,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "296 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17628,7 +17624,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "874 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17730,7 +17726,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "393 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17781,7 +17777,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -17934,7 +17930,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "206 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18036,7 +18032,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "562 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18087,7 +18083,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "694 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18104,7 +18100,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "960 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18512,7 +18508,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "682 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18580,7 +18576,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "736 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18631,7 +18627,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "637 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18665,7 +18661,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18920,7 +18916,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -18954,7 +18950,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "730 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19005,7 +19001,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "400 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19107,7 +19103,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "228 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19345,7 +19341,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "585 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19447,7 +19443,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "626 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19481,7 +19477,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "256 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19566,7 +19562,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "980 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19600,7 +19596,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "059 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Land",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19617,7 +19613,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "015 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19685,7 +19681,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19736,7 +19732,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "081 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -19974,7 +19970,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "765 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20059,7 +20055,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20212,7 +20208,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "400 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20399,7 +20395,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "035 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20416,7 +20412,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "239 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20433,7 +20429,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "748 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20807,7 +20803,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "591 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20977,7 +20973,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "959 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -20994,7 +20990,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "194 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21096,7 +21092,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "644 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21317,7 +21313,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "605 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21351,7 +21347,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "293 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21368,7 +21364,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "971 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21436,7 +21432,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "—",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21521,7 +21517,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "464 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21538,7 +21534,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "885 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21657,7 +21653,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "647 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21691,7 +21687,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "—",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21725,7 +21721,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "885 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21742,7 +21738,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "017 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21759,7 +21755,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21861,7 +21857,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "595 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21878,7 +21874,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "790 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -21929,7 +21925,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "256 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -22014,7 +22010,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "370 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
     ]
@@ -22150,7 +22146,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "026 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -22286,7 +22282,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "468 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -22371,7 +22367,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "004 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -22405,7 +22401,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "326 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -22490,7 +22486,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "432 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -23782,7 +23778,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "581 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -24258,7 +24254,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "370 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -24275,7 +24271,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "679 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -24411,7 +24407,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -24955,7 +24951,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -24989,7 +24985,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "279 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -25006,7 +25002,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "834 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1HGvdmFmI1ZI-vfhtPfAN6BBC9Jxw-xOg&sz=w800"
     ]
@@ -26026,7 +26022,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "126 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
     ]
@@ -26315,7 +26311,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "204 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
     ]
@@ -26468,7 +26464,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26502,7 +26498,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "447 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26570,7 +26566,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "603 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26604,7 +26600,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "867 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26638,7 +26634,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "604 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26655,7 +26651,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "595 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26723,7 +26719,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26740,7 +26736,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "948 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26757,7 +26753,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "186 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26774,7 +26770,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "831 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26808,7 +26804,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "745 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26825,7 +26821,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "437 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26910,7 +26906,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "240 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -26944,7 +26940,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "952 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27063,7 +27059,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27097,7 +27093,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "466 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27114,7 +27110,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "730 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27199,7 +27195,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "906 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27216,7 +27212,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "219 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27386,7 +27382,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "302 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27403,7 +27399,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "197 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27556,7 +27552,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "890 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27692,7 +27688,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "444 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27777,7 +27773,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "798 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -27930,7 +27926,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "534 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
     ]
@@ -28287,7 +28283,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "000 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1Lc0LQlikO3ZKeZXDM4LY23vSa9yu8f5l&sz=w800"
     ]
@@ -28355,7 +28351,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "542 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1_cu6I8viB2uSzXRhoA4lM-GtBy5e06cg&sz=w800"
     ]
@@ -28474,7 +28470,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "860 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1aCq97_rTNCjEbt0kmEQI4z0nfcWbnHhJ&sz=w800"
     ]
@@ -28865,7 +28861,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "185 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1cxEhcUmOApQgR-8b7F-r0oXBLR5CrB4x&sz=w800"
     ]
@@ -28899,7 +28895,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "623 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
     ]
@@ -28916,7 +28912,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "698 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
     ]
@@ -28967,7 +28963,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "789 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
     ]
@@ -29069,7 +29065,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "964 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1rjXKFVJxtb8GmbBJbF2Rr6tWlAvo91ps&sz=w800"
     ]
@@ -29137,7 +29133,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "324 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1eUXMVoLWkidcbhg-D4NL1I8bmEeQpmJP&sz=w800"
     ]
@@ -29222,7 +29218,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "659 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1_cu6I8viB2uSzXRhoA4lM-GtBy5e06cg&sz=w800"
     ]
@@ -29426,7 +29422,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "314 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=16AtV4340Vb64VDAGJrgT8eaWeKcyUubO&sz=w800"
     ]
@@ -29528,7 +29524,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "271 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1AZwZz_Ed8j2yG7EIKO7oKh3jeJElawct&sz=w800"
     ]
@@ -29647,7 +29643,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "702 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29681,7 +29677,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "134 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29698,7 +29694,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "399 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29766,7 +29762,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "604 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29783,7 +29779,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "604 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29851,7 +29847,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "400 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29868,7 +29864,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "285 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29919,7 +29915,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29953,7 +29949,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "893 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -29970,7 +29966,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "026 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -30004,7 +30000,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "714 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -30021,7 +30017,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "400 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -30038,7 +30034,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "200 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Commercial",
     "images": [
       "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
     ]
@@ -30089,7 +30085,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "647 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
     ]
@@ -30140,7 +30136,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "136 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
     ]
@@ -30174,7 +30170,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "422 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
     ]
@@ -30259,7 +30255,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "654 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
     ]
@@ -30276,7 +30272,7 @@ export const PROPERTIES: Property[] = [
     "landArea": "—",
     "builtUp": "820 sq.ft",
     "tenure": "Freehold",
-    "type": "Terrace",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
     ]
