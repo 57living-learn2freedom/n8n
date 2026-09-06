@@ -1,5 +1,5 @@
 export const CHATBOT_GREETING =
-  "Hello! Welcome to 57Lelong. How can I assist you today? 🤖";
+  "Hello! Welcome to JomLelong. How can I assist you today? 🤖";
 
 export const CHATBOT_FALLBACK_RESPONSE =
   "I'm sorry, I couldn't quite catch that. Could you try rephrasing? Alternatively, you can fill out the consultation form to speak directly with our human Lelong specialist!";

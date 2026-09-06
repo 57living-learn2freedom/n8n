@@ -92,7 +92,7 @@ export default function PropertyDetailModal({
     touchStartX.current = null;
   }
 
-  const whatsappMessage = `Hi 57Lelong, I'm interested in this property:\n\n${property.title}\n${property.address}, ${property.postcode} ${property.state}\nReserve Price: ${formatPrice(property.reservePrice)}\nAuction Date: ${property.auctionDate}`;
+  const whatsappMessage = `Hi JomLelong, I'm interested in this property:\n\n${property.title}\n${property.address}, ${property.postcode} ${property.state}\nReserve Price: ${formatPrice(property.reservePrice)}\nAuction Date: ${property.auctionDate}`;
 
   return (
     <div

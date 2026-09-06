@@ -60,7 +60,7 @@ export default function Footer() {
               without prior notice. Prospective buyers are advised to conduct
               their own due diligence and verify all information with the
               respective financial institutions and appointed auctioneers before
-              participating in any auction. 57Lelong is a registered real estate
+              participating in any auction. JomLelong is a registered real estate
               negotiator (REN) operating under a licensed real estate agency in
               Malaysia. We do not guarantee the accuracy, completeness, or
               availability of any listing displayed on this platform.
@@ -70,7 +70,7 @@ export default function Footer() {
 
         <div className="mt-10 border-t border-zinc-800 pt-8 text-center text-xs">
           <p>
-            &copy; {currentYear} 57Lelong (Malaysia Lelong Hub). All rights
+            &copy; {currentYear} JomLelong (Malaysia Lelong Hub). All rights
             reserved.
           </p>
         </div>
