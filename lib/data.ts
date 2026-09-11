@@ -17844,7 +17844,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=137LCalCms7C1qI0UKMu9eeCDYoh1306M&sz=w800"
     ]
   },
   {
@@ -17861,7 +17861,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17mciaSMo864PuRAnEkNQnrHPjikxukI9&sz=w800"
     ]
   },
   {
@@ -17878,7 +17878,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yY5S3ypR4Z_AMugBpRs8HcFVT9R1KFRf&sz=w800"
     ]
   },
   {
@@ -17895,7 +17895,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PWnQfEB2iVXBeOhJqM5FFCFa09t8ULZE&sz=w800"
     ]
   },
   {
@@ -17929,7 +17929,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1GUCHc0BKH6Tjc5vhEuhO3gaGACCeYdre&sz=w800"
     ]
   },
   {
@@ -17946,7 +17946,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=196rWCrOZh3K6yq9MVJ839kbrWDU8MHgd&sz=w800"
     ]
   },
   {
@@ -17963,7 +17963,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1HOIhRKBby9f15wKIc5Xtfv6GX1GcHJGz&sz=w800"
     ]
   },
   {
@@ -17997,7 +17997,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-QP3xdb8yqyW8yoyF3zfbXDU1t_XddZb&sz=w800"
     ]
   },
   {
@@ -18014,7 +18014,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=115sBRKliEkSBXbDDA_6mPy9V0mqOvUxf&sz=w800"
     ]
   },
   {
@@ -18031,7 +18031,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1juXjJrD7xxY9Nkkrq7tF2om4gCimVBYB&sz=w800"
     ]
   },
   {
@@ -18048,7 +18048,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_9cLYpVYxevrQdTbJHYiTZjNur6O23we&sz=w800"
     ]
   },
   {
@@ -18082,7 +18082,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1U9pKy0iLi2tPPMaarnQ_xhxieFHCOGHM&sz=w800"
     ]
   },
   {
@@ -18099,7 +18099,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BSPjMSBU-tRNiIw7Mcvka5BQs_I4stZ6&sz=w800"
     ]
   },
   {
@@ -18116,7 +18116,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1liygZmVP2rwTXt2IMCXP0u1st0bBdPRg&sz=w800"
     ]
   },
   {
@@ -18133,7 +18133,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cO1MARlM-u9RFZgMLQCB4bfHZJCfwtg5&sz=w800"
     ]
   },
   {
@@ -18150,7 +18150,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eTi0QRlmNZye4t38LUDfWnlGt9Q1nJQQ&sz=w800"
     ]
   },
   {
@@ -18184,7 +18184,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1noALz4UlYgIGwLFczlc6hw2YBT5ad5wp&sz=w800"
     ]
   },
   {
@@ -18201,7 +18201,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nZ8d2H7gt79rxMpyZS15DHOCmnIQpdEo&sz=w800"
     ]
   },
   {
@@ -18218,7 +18218,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eU1PXdxfAP5IHGqDDcFIG9jme6i7AwhY&sz=w800"
     ]
   },
   {
@@ -18235,7 +18235,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1erd6KBPqALooFx2FsKnbX4xaL3nyq3u0&sz=w800"
     ]
   },
   {
@@ -18252,7 +18252,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MEFX8l5vU_tyjwMtyUtrspufEa4TkoTU&sz=w800"
     ]
   },
   {
@@ -18269,7 +18269,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IA7JE1ky3S2WITeNQayXKrt6TzaM2LuG&sz=w800"
     ]
   },
   {
@@ -18286,7 +18286,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13bpvufUAebTSEeF3c2ZGoWyFCdZSjk0x&sz=w800"
     ]
   },
   {
@@ -18303,7 +18303,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -18320,7 +18320,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1uqjXixW-Rgb9I5N_peq6Nv3YU2nZpdVk&sz=w800"
     ]
   },
   {
@@ -18337,7 +18337,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1aXBcHmp6EWPUhTSDgIJwz-1xDkp8VUHy&sz=w800"
     ]
   },
   {
@@ -18354,7 +18354,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=18rbgcADje3CEugisgJiOCPmbwqRuld2M&sz=w800"
     ]
   },
   {
@@ -18371,7 +18371,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14d07R1I5PlMsQqU527dodFvzDFTtuDmt&sz=w800"
     ]
   },
   {
@@ -18388,7 +18388,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16OWKpXnLq8Gs3rxTo-p_grHPGEHVrUKg&sz=w800"
     ]
   },
   {
@@ -18405,7 +18405,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -18422,7 +18422,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hxihH1ZN5J_cZeEGwfgv4trg0ldRV6qv&sz=w800"
     ]
   },
   {
@@ -18439,7 +18439,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17yLz7GLR3Z8UQguOhdVMimmMo-2979sT&sz=w800"
     ]
   },
   {
@@ -18456,7 +18456,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -18473,7 +18473,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=19-U1MBN494vS5kLwRoeAWQYIh9Had4Qw&sz=w800"
     ]
   },
   {
@@ -18490,7 +18490,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qC-5EWCWe3PRNS4KtFPLWjc_VdHU_TUD&sz=w800"
     ]
   },
   {
@@ -18507,7 +18507,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tNdGSvB2gnaNbGOpVs8HaHZ81yPCgKKm&sz=w800"
     ]
   },
   {
@@ -18524,7 +18524,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=10QRy1J7nm5PjvBVzt6zN4yGm1qk89hyI&sz=w800"
     ]
   },
   {
@@ -18541,7 +18541,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AzYAk_IL7z21QDG8fya57qAjfaRbA1z_&sz=w800"
     ]
   },
   {
@@ -18558,7 +18558,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -18575,7 +18575,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sVgePmFMfE_iwyJrgqLltPL6nhgDuX21&sz=w800"
     ]
   },
   {
@@ -18592,7 +18592,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -18609,7 +18609,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -18626,7 +18626,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sVgePmFMfE_iwyJrgqLltPL6nhgDuX21&sz=w800"
     ]
   },
   {
@@ -18643,7 +18643,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sVgePmFMfE_iwyJrgqLltPL6nhgDuX21&sz=w800"
     ]
   },
   {
@@ -18660,7 +18660,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XeAun_3VAcbYqUIsrtCd5A_6gI7DS7oM&sz=w800"
     ]
   },
   {
@@ -18677,7 +18677,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=12Lp21zjiq0q4LpbwzCbkVRkO1d8qGMz1&sz=w800"
     ]
   },
   {
@@ -18694,7 +18694,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -18711,7 +18711,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=15U1D71mnJDhRB0Tq6CX7dJbpgzDm9kcp&sz=w800"
     ]
   },
   {
@@ -18728,7 +18728,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=18MkZeDVwu7uEpRw5nYQCVh5_npnza8Zn&sz=w800"
     ]
   },
   {
@@ -18762,7 +18762,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Pg7iovYUQAPV1pc762t9pHXK1zGGk_GH&sz=w800"
     ]
   },
   {
@@ -18779,7 +18779,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FT3qdfRTrE0D5VRpF4nu-4WpREDKvVKR&sz=w800"
     ]
   },
   {
@@ -18796,7 +18796,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cfWkz2zJgWlTF31RTKWitDTay6YScMJq&sz=w800"
     ]
   },
   {
@@ -18813,7 +18813,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NBOZ1UXw3-3XMs1RQl64-xJelDIvZjzp&sz=w800"
     ]
   },
   {
@@ -18830,7 +18830,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16l7NVTjFZWY8idMo-0pEs9xFk7GPUExB&sz=w800"
     ]
   },
   {
@@ -18864,7 +18864,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1l76-kQc8GgfcZQrmYs-hGT8EMUCSG8-L&sz=w800"
     ]
   },
   {
@@ -18898,7 +18898,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1GPkRbo9UGA8wBegYpvXg_8FhjZ5E0yKj&sz=w800"
     ]
   },
   {
@@ -18949,7 +18949,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KdScR3ioqWskKKc01jSCRkYaDuozWSdB&sz=w800"
     ]
   },
   {
@@ -18983,7 +18983,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZMPHIlJTIaKKaBaOxFPX4lq-dyO9Xdol&sz=w800"
     ]
   },
   {
@@ -19000,7 +19000,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FlfbWfj8D8Ww3QWX3s3zcVdn280BKM-f&sz=w800"
     ]
   },
   {
@@ -19051,7 +19051,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sxCzVdt9xItxc0mUuAXPVtXiBUG3g5oB&sz=w800"
     ]
   },
   {
@@ -19068,7 +19068,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mWYQhQ1iJfQySH7ytDqB449Y1ni9v4r1&sz=w800"
     ]
   },
   {
@@ -19085,7 +19085,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -19102,7 +19102,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yxnCb45BMR-4aVNVRbeGn8CGv_GzTC8B&sz=w800"
     ]
   },
   {
@@ -19119,7 +19119,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13nDDRGrqBsk5yDLToukyC9CxQkBFMuP9&sz=w800"
     ]
   },
   {
@@ -19136,7 +19136,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1riisujnwSpI818GupX85X_Fno2Ryyauw&sz=w800"
     ]
   },
   {
@@ -19153,7 +19153,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UYvHRiYHp5hEwoY5FQsxtN_XSCkFqwwr&sz=w800"
     ]
   },
   {
@@ -19170,7 +19170,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lxpI-L9HMmsHcvati-iJSLdmlQkI71a4&sz=w800"
     ]
   },
   {
@@ -19187,7 +19187,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1WAg7txJoA1ztN7f7grmDES3V3yedX3xH&sz=w800"
     ]
   },
   {
@@ -19204,7 +19204,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IXrGRKIyeMJzRoVNSSIXssRF6eO1rrxX&sz=w800"
     ]
   },
   {
@@ -19221,7 +19221,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XaFtX7Ar4sX_wXahtuTi_gGNXzWyx1cx&sz=w800"
     ]
   },
   {
@@ -19238,7 +19238,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NFTUsgHj4jxc1X_VkIqkkNDA5In00_RS&sz=w800"
     ]
   },
   {
@@ -19255,7 +19255,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -19272,7 +19272,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eK4FptVFKE56b64ist_KGU5KC9RlIbV-&sz=w800"
     ]
   },
   {
@@ -19289,7 +19289,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1p1k0NG-V3QFQnMdnTzBGSiJmjV_hNJwB&sz=w800"
     ]
   },
   {
@@ -19306,7 +19306,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=15vDeJYXm026XGLGrlOfSZeHbsq61LNIv&sz=w800"
     ]
   },
   {
@@ -19323,7 +19323,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -19340,7 +19340,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1E-p8n62xhsstANC-E-fA7BU6FyLfuxSu&sz=w800"
     ]
   },
   {
@@ -19357,7 +19357,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FIM9irGrE3a3sMmZz3-0YeIxVJCpHERx&sz=w800"
     ]
   },
   {
@@ -19374,7 +19374,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IXrGRKIyeMJzRoVNSSIXssRF6eO1rrxX&sz=w800"
     ]
   },
   {
@@ -19391,7 +19391,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1aXBcHmp6EWPUhTSDgIJwz-1xDkp8VUHy&sz=w800"
     ]
   },
   {
@@ -19408,7 +19408,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pZXGdF0o8TFlBAAlki0QiSQlSn_Rrq-C&sz=w800"
     ]
   },
   {
@@ -19425,7 +19425,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nZjYuemufuRQ-WrI1YP63QYo1Rc791p9&sz=w800"
     ]
   },
   {
@@ -19442,7 +19442,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OJESubg4CVgMBQVKuxJmmqvn-nNGl1sZ&sz=w800"
     ]
   },
   {
@@ -19459,7 +19459,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eDrAO_jwPOSUKf_ayHPQbuG03x3eCYOI&sz=w800"
     ]
   },
   {
@@ -19476,7 +19476,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17yLz7GLR3Z8UQguOhdVMimmMo-2979sT&sz=w800"
     ]
   },
   {
@@ -19493,7 +19493,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -19510,7 +19510,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -19527,7 +19527,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -19544,7 +19544,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1I-LzomgZWVCKCJs2LT0yaACfTln9p1Ri&sz=w800"
     ]
   },
   {
@@ -19561,7 +19561,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17yLz7GLR3Z8UQguOhdVMimmMo-2979sT&sz=w800"
     ]
   },
   {
@@ -19578,7 +19578,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1S2kMP6W8xmFYbHzS0HSFuugU3ZGqtphw&sz=w800"
     ]
   },
   {
@@ -19595,7 +19595,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -19612,7 +19612,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nHImSGo_W4_zyUNSUYhdPjqdTyVxlDv1&sz=w800"
     ]
   },
   {
@@ -19629,7 +19629,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1c5GSxfWS1Ft1wK14Qyf2rERV1Wo28RlH&sz=w800"
     ]
   },
   {
@@ -19646,7 +19646,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FIM9irGrE3a3sMmZz3-0YeIxVJCpHERx&sz=w800"
     ]
   },
   {
@@ -19663,7 +19663,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -19680,7 +19680,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=113sFcb3gFtS0o08enXYVEUmseljWt3mB&sz=w800"
     ]
   },
   {
@@ -19697,7 +19697,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17yLz7GLR3Z8UQguOhdVMimmMo-2979sT&sz=w800"
     ]
   },
   {
@@ -19714,7 +19714,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -19731,7 +19731,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1T84s0yF6NKZi7qcIEEs85M3dtsROHtkJ&sz=w800"
     ]
   },
   {
@@ -19748,7 +19748,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -19765,7 +19765,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AxtkYUWMrOqZlOPL-uri1pIo-Zmq8VQr&sz=w800"
     ]
   },
   {
@@ -19782,7 +19782,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qtE2qFp8xQ3JkJWZbWyRHSCRCtv4qMnC&sz=w800"
     ]
   },
   {
@@ -19799,7 +19799,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1riisujnwSpI818GupX85X_Fno2Ryyauw&sz=w800"
     ]
   },
   {
@@ -19816,7 +19816,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17yLz7GLR3Z8UQguOhdVMimmMo-2979sT&sz=w800"
     ]
   },
   {
@@ -19833,7 +19833,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Vu7PqfmNPIbbDi7aVFtOMZeVtCk8OT_p&sz=w800"
     ]
   },
   {
@@ -19850,7 +19850,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1HUo98Wn6eViNpA2gp4kUYWoPduE_OSao&sz=w800"
     ]
   },
   {
@@ -19867,7 +19867,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -19884,7 +19884,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -19901,7 +19901,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -19918,7 +19918,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1unatlNtBduippROM5kQ_477bvfs2wpvY&sz=w800"
     ]
   },
   {
@@ -19935,7 +19935,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Q7AboIApTWi1lDujYYcRj5S-XWzZ1jel&sz=w800"
     ]
   },
   {
@@ -19952,7 +19952,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1uHm36UTgD9k50N3IZOWvU8kj4-L_cYju&sz=w800"
     ]
   },
   {
@@ -19969,7 +19969,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17y-CH96nv_wp0SVP7hfqcgerhA6FelzE&sz=w800"
     ]
   },
   {
@@ -20003,7 +20003,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1D3YtiBO4jeNqeQOCSmjecv-KnuSR1t5q&sz=w800"
     ]
   },
   {
@@ -20020,7 +20020,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1D4x3-cupd2_4bC9QugSN5-e0ogwlsM9r&sz=w800"
     ]
   },
   {
@@ -20054,7 +20054,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xDSJBp4WyCZjZH49BM5I0qr0d-QXf7xP&sz=w800"
     ]
   },
   {
@@ -20071,7 +20071,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CmrzL9xJ4JQh5d5OYFd-Jmb74ECwpxmm&sz=w800"
     ]
   },
   {
@@ -20088,7 +20088,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=12pKcDCV6ulkWIW2q7RYxPLtf5Na_RRxp&sz=w800"
     ]
   },
   {
@@ -20105,7 +20105,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yutCSETKb8CrUZZ69mKi_2YgvH1ags3i&sz=w800"
     ]
   },
   {
@@ -20122,7 +20122,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A8c0a1Hpxw2uHpDYbSQEfmmJUuW0Ily5&sz=w800"
     ]
   },
   {
@@ -20139,7 +20139,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yy-Q1qiqlXklHZa3aUJfGeHf-n7RZDRD&sz=w800"
     ]
   },
   {
@@ -20156,7 +20156,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1POHNLGp7LDgfSwuBXLv0_Hwn2H5qCDG5&sz=w800"
     ]
   },
   {
@@ -20173,7 +20173,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -20190,7 +20190,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A8c0a1Hpxw2uHpDYbSQEfmmJUuW0Ily5&sz=w800"
     ]
   },
   {
@@ -20207,7 +20207,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1d3vY9Zl0AH5L9kstSC8-Awcutb43QrP1&sz=w800"
     ]
   },
   {
@@ -20224,7 +20224,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ui8EjsAaM6sF1WZC9K2fNAf8m-KXJ5Ow&sz=w800"
     ]
   },
   {
@@ -20241,7 +20241,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Vbi-RXhe9MQvHmHVPvdWBeQTzoUXuVsJ&sz=w800"
     ]
   },
   {
@@ -20258,7 +20258,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xjN1DD9WZNiUFjpCjMXBRnXQlpW0PDUN&sz=w800"
     ]
   },
   {
@@ -20275,7 +20275,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OJLn0OTj8UNffz0oNxVqrD4Ponsgvihw&sz=w800"
     ]
   },
   {
@@ -20292,7 +20292,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -20309,7 +20309,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KA8TX7GMK_qjMHTw74bANVht5V_I4fhw&sz=w800"
     ]
   },
   {
@@ -20326,7 +20326,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_rm5C9TUbItqZjXEefDAXfNJw6OljOi3&sz=w800"
     ]
   },
   {
@@ -20343,7 +20343,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -20360,7 +20360,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -20377,7 +20377,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -20394,7 +20394,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=113FlEHBpdoL6qVyxDr3N5g7o7WpBWOT5&sz=w800"
     ]
   },
   {
@@ -20411,7 +20411,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VJHo_GAcDIWyqcWTk5511xylVG59acqh&sz=w800"
     ]
   },
   {
@@ -20428,7 +20428,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1o6uLQbH5RgtFjc0O7QL_ijJYfSbCMavB&sz=w800"
     ]
   },
   {
@@ -20445,7 +20445,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mdPSv2jyzWtLepttLY2uxrte4wqrg2zX&sz=w800"
     ]
   },
   {
@@ -20462,7 +20462,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -20479,7 +20479,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1p3QjicBomvoWCX0Eit8fthLQwvdKj2E9&sz=w800"
     ]
   },
   {
@@ -20496,7 +20496,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1z6t07RIHB4KVtF21JDTqSdFuRKDECo1I&sz=w800"
     ]
   },
   {
@@ -20513,7 +20513,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=132qreqmT0iUz1_dgYySGlJe0uxnOUzf4&sz=w800"
     ]
   },
   {
@@ -20530,7 +20530,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1inff0hhpcFJUz8Ei2uoMxYwELCSMVdWC&sz=w800"
     ]
   },
   {
@@ -20547,7 +20547,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1p_4aMp8wAKYPn_S4YkqB4FQecj5ooRBA&sz=w800"
     ]
   },
   {
@@ -20564,7 +20564,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZYzt1mRPv7orFv5N9bshHZgM-VwVjuyb&sz=w800"
     ]
   },
   {
@@ -20581,7 +20581,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ilUX46t2OelC5jQCG5cGisJXCr-74AVo&sz=w800"
     ]
   },
   {
@@ -20598,7 +20598,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ctQJyBZLzIXy-rVZ330kFt28k49z0PVv&sz=w800"
     ]
   },
   {
@@ -20615,7 +20615,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yp8GFCmK5v0BkUVUBxvPrwKMi4tD6rRd&sz=w800"
     ]
   },
   {
@@ -20632,7 +20632,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_RgQcUS9ZRVPIUD-2npA_JPwpmRUxlzg&sz=w800"
     ]
   },
   {
@@ -20649,7 +20649,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_vB47xHFMSwx6355AX3AC5E9Eyd9AYTw&sz=w800"
     ]
   },
   {
@@ -20666,7 +20666,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=12JBee0hDypUo0wU2fwPuITqzt5jm8ctl&sz=w800"
     ]
   },
   {
@@ -20683,7 +20683,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OGSQ5z2KgkItFd_n6CxennVlkVLO_VKW&sz=w800"
     ]
   },
   {
@@ -20700,7 +20700,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -20717,7 +20717,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1N-6GpJyTshWEe_r_MOHxxdmeGKM_RCbh&sz=w800"
     ]
   },
   {
@@ -20734,7 +20734,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Froy52lZn6io2hPvvZZSBSQp6qsCHDDU&sz=w800"
     ]
   },
   {
@@ -20751,7 +20751,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=107SNe4-UhWddI_K2LBrVyc2jmh44754j&sz=w800"
     ]
   },
   {
@@ -20768,7 +20768,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=12XKLZjHUR-3j7CHPJPN7XT4bjX_tsecY&sz=w800"
     ]
   },
   {
@@ -20785,7 +20785,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_Y7IQ5eGFoWEp2gy1Km6vK2opzYapXyv&sz=w800"
     ]
   },
   {
@@ -20802,7 +20802,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1btj55SXn8kgQcrRscwtxLZ4UFOydaAEe&sz=w800"
     ]
   },
   {
@@ -20819,7 +20819,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ensIWVDajK3MMJfzfMeLgYP7gH7sDejw&sz=w800"
     ]
   },
   {
@@ -20836,7 +20836,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -20853,7 +20853,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16afcycZfQrByvMrlI4BVwyQyNplhCQ4d&sz=w800"
     ]
   },
   {
@@ -20870,7 +20870,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1enmzt-_WKiRIwgaMcyP43tmsZjFhj6Ss&sz=w800"
     ]
   },
   {
@@ -20887,7 +20887,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13C4uGQ3S59tD8jEECVjzB_mGBSGmtR8U&sz=w800"
     ]
   },
   {
@@ -20904,7 +20904,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -20921,7 +20921,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -20938,7 +20938,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lP6FGMMplwTpYJfJniZuXsz1L2EdI4et&sz=w800"
     ]
   },
   {
@@ -20955,7 +20955,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oV2H6l42tylvgWCW1kl8YeJ5HpcVupSi&sz=w800"
     ]
   },
   {
@@ -20972,7 +20972,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FIM9irGrE3a3sMmZz3-0YeIxVJCpHERx&sz=w800"
     ]
   },
   {
@@ -20989,7 +20989,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OXHNsmXtpAmkYfVQvQYUHDy5izMiXIoW&sz=w800"
     ]
   },
   {
@@ -21006,7 +21006,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KncM6pOrqfO1AVPHB9wn9_iB8UpBiGl5&sz=w800"
     ]
   },
   {
@@ -21023,7 +21023,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Vzl8YdW-blKZOCoftgbyIj5LRTZgRnbb&sz=w800"
     ]
   },
   {
@@ -21040,7 +21040,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Froy52lZn6io2hPvvZZSBSQp6qsCHDDU&sz=w800"
     ]
   },
   {
@@ -21057,7 +21057,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1d9ePMD7AoDxo0X0Opabr-9tzYSHSDyay&sz=w800"
     ]
   },
   {
@@ -21074,7 +21074,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1V8kAuJq_lkSIQhGXIURbI_U80-1TWtXm&sz=w800"
     ]
   },
   {
@@ -21091,7 +21091,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bNLaOwBUg2NAz0SUl2kZ0RDqdG6PBgPl&sz=w800"
     ]
   },
   {
@@ -21108,7 +21108,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YTiFwpzNibbs_7s-fTIv05bKW-2riQbU&sz=w800"
     ]
   },
   {
@@ -21125,7 +21125,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oW7GV5Fi3ZOVUKLHJF262aPo1Pfx1vXG&sz=w800"
     ]
   },
   {
@@ -21142,7 +21142,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PBmdTfIk_rGmYeh5wPS7Q_jMKFLum5ui&sz=w800"
     ]
   },
   {
@@ -21159,7 +21159,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=122Pvfy_va3iz8HXBCTRtdeLYixmgD5K_&sz=w800"
     ]
   },
   {
@@ -21176,7 +21176,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1M--1vHk_FtPTfhHSPRVs4JoRCkY6mfz5&sz=w800"
     ]
   },
   {
@@ -21193,7 +21193,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=11mJfcOiSWCW6oNcvxgDftGBhxIQnA_E4&sz=w800"
     ]
   },
   {
@@ -21210,7 +21210,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1n3O9tdGZRO4WdEwTR9fDyjzyBM_4bAQl&sz=w800"
     ]
   },
   {
@@ -21227,7 +21227,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=10H7-F-34MiWLyidAS1oeXVN7BnwsD5Ep&sz=w800"
     ]
   },
   {
@@ -21244,7 +21244,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IomLR_IorDcuoaYOUiDTG2hj7IBlwwa6&sz=w800"
     ]
   },
   {
@@ -21261,7 +21261,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1RMAiR5DnKotEYtQlsOP8BZji8ASjkDWw&sz=w800"
     ]
   },
   {
@@ -21278,7 +21278,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sonIlSh2YXLX16Zk-O894oCEpvFjMlYF&sz=w800"
     ]
   },
   {
@@ -21295,7 +21295,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_97cmNoJ3ifH_Pqx8vusdhWUC_JlL1O5&sz=w800"
     ]
   },
   {
@@ -21312,7 +21312,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iMD5xz6za1Vifwg_n7AqU_fDrh8Stf84&sz=w800"
     ]
   },
   {
@@ -21329,7 +21329,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1HZ7L6HwFcZOisLEzNGoF0xuKM_D1id6S&sz=w800"
     ]
   },
   {
@@ -21346,7 +21346,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nBAJGPpW54ZlJRsgYnRQb9WHwuIPXQZ1&sz=w800"
     ]
   },
   {
@@ -21363,7 +21363,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XvbHBpv20SsZ4vga13ky7Bw5aVF_fs2t&sz=w800"
     ]
   },
   {
@@ -21380,7 +21380,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1HyDdSDcSCMsTkw4OA_CD5WojeUYXUn0v&sz=w800"
     ]
   },
   {
@@ -21397,7 +21397,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PBmdTfIk_rGmYeh5wPS7Q_jMKFLum5ui&sz=w800"
     ]
   },
   {
@@ -21414,7 +21414,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XWViMkY0krWNL2vZJwhvkm88SiJwncC_&sz=w800"
     ]
   },
   {
@@ -21431,7 +21431,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YMHzriZCBIzEBDFqxBuvD9L-mh0EwzUt&sz=w800"
     ]
   },
   {
@@ -21448,7 +21448,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nBAJGPpW54ZlJRsgYnRQb9WHwuIPXQZ1&sz=w800"
     ]
   },
   {
@@ -21465,7 +21465,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XvbHBpv20SsZ4vga13ky7Bw5aVF_fs2t&sz=w800"
     ]
   },
   {
@@ -21482,7 +21482,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XIW_puLczDGXfTKJIZexC5MQkmRkJMyu&sz=w800"
     ]
   },
   {
@@ -21499,7 +21499,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XvbHBpv20SsZ4vga13ky7Bw5aVF_fs2t&sz=w800"
     ]
   },
   {
@@ -21516,7 +21516,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MBwdQhtO2vma_Z7013hgSxdlviIeX_Ni&sz=w800"
     ]
   },
   {
@@ -21533,7 +21533,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IzKX1txNgKncATxfOF5CA8zlhoWlmZo3&sz=w800"
     ]
   },
   {
@@ -21550,7 +21550,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YUvj-OerXamZF2ad_0cGs2xQ4Uq7tNCo&sz=w800"
     ]
   },
   {
@@ -21567,7 +21567,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1V8kAuJq_lkSIQhGXIURbI_U80-1TWtXm&sz=w800"
     ]
   },
   {
@@ -21584,7 +21584,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1on7kPfJKbjCIl2S-YHjfayDcQLFkH6wR&sz=w800"
     ]
   },
   {
@@ -21601,7 +21601,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PBmdTfIk_rGmYeh5wPS7Q_jMKFLum5ui&sz=w800"
     ]
   },
   {
@@ -21618,7 +21618,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17qx9UMBKPakd9wfEl35YAP_JsJZjyElK&sz=w800"
     ]
   },
   {
@@ -21635,7 +21635,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YUvj-OerXamZF2ad_0cGs2xQ4Uq7tNCo&sz=w800"
     ]
   },
   {
@@ -21652,7 +21652,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xA9WzK37086G8Rq162BTXq3BGlvQzK4Z&sz=w800"
     ]
   },
   {
@@ -21669,7 +21669,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Yw7ZfaKXgj50J6GVWI2wvIRhfZcZRXFa&sz=w800"
     ]
   },
   {
@@ -21686,7 +21686,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yY5S3ypR4Z_AMugBpRs8HcFVT9R1KFRf&sz=w800"
     ]
   },
   {
@@ -21703,7 +21703,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=115sBRKliEkSBXbDDA_6mPy9V0mqOvUxf&sz=w800"
     ]
   },
   {
@@ -21737,7 +21737,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wtDgE3j63oyJh9Bsp_mqhG1zdLeBihoF&sz=w800"
     ]
   },
   {
@@ -21754,7 +21754,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1O93tyoYUAI5Uva9mGIRynEcGTl8eiuht&sz=w800"
     ]
   },
   {
@@ -21771,7 +21771,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -21788,7 +21788,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JPaVc9pxMMusQQz1jIOv4JI9H5kanMf6&sz=w800"
     ]
   },
   {
@@ -21805,7 +21805,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -21822,7 +21822,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Xcu1oXyWTeTEzhR5hJeZeD1s8vRGx_VO&sz=w800"
     ]
   },
   {
@@ -21839,7 +21839,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Zycz2nIIdjHLb02Et57wVAJEg_-pG7_c&sz=w800"
     ]
   },
   {
@@ -21856,7 +21856,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1aSCcvQ8vR5ZCcHxH9z5vr3pNvnwndY7i&sz=w800"
     ]
   },
   {
@@ -21873,7 +21873,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AxElTrbABJZ7Onw9lul_BhDz7kIHVmCT&sz=w800"
     ]
   },
   {
@@ -21890,7 +21890,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rAm0NVAf1iMSvc3owLE0KyYwUYoP9sGB&sz=w800"
     ]
   },
   {
@@ -21907,7 +21907,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ovyaOxKLIdv-v0XuxkVaBZtuDqGR9R0&sz=w800"
     ]
   },
   {
@@ -21924,7 +21924,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lP6FGMMplwTpYJfJniZuXsz1L2EdI4et&sz=w800"
     ]
   },
   {
@@ -21941,7 +21941,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1D_znORTZJXAehz9e60gOsbWQPVZTkRFX&sz=w800"
     ]
   },
   {
@@ -21958,7 +21958,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yxnCb45BMR-4aVNVRbeGn8CGv_GzTC8B&sz=w800"
     ]
   },
   {
@@ -21975,7 +21975,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rAm0NVAf1iMSvc3owLE0KyYwUYoP9sGB&sz=w800"
     ]
   },
   {
@@ -21992,7 +21992,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yUX9o3cO_-ADY7IMy9xDfy8_1oRcpxjH&sz=w800"
     ]
   },
   {
@@ -22009,7 +22009,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Im0k9_GmrLlXDf33qgDbZuOM40ltpju7&sz=w800"
     ]
   },
   {
@@ -22026,7 +22026,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MDpufqwZVBFy2JUhFfl_so9vIzwkqZX6&sz=w800"
     ]
   },
   {
@@ -22043,7 +22043,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A3WyyPYzbxLVC0zMIVOPm_s5GNgPqusZ&sz=w800"
     ]
   },
   {
@@ -22060,7 +22060,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Sxilcoj3OYDotsuhb719RAd656_ZdAPr&sz=w800"
     ]
   },
   {
@@ -22077,7 +22077,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CVGM0hWZMFqwxz64FajrDzajaMsHXX7j&sz=w800"
     ]
   },
   {
@@ -22094,7 +22094,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=15A7-1kneTlHeHsBQKYWWC0v0ulbCEph0&sz=w800"
     ]
   },
   {
@@ -22111,7 +22111,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rWvgARQa8GAMIjIQ8ycs0Y485VQwqN77&sz=w800"
     ]
   },
   {
@@ -22128,7 +22128,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1I-LzomgZWVCKCJs2LT0yaACfTln9p1Ri&sz=w800"
     ]
   },
   {
@@ -22145,7 +22145,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qC-5EWCWe3PRNS4KtFPLWjc_VdHU_TUD&sz=w800"
     ]
   },
   {
@@ -22162,7 +22162,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Xdo-Yx9ofuxH_N0fQ30QpCGph4sFCzuE&sz=w800"
     ]
   },
   {
@@ -22179,7 +22179,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -22196,7 +22196,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1QCxZRcINhnu6dx51_bZx6HS40c_uOEA7&sz=w800"
     ]
   },
   {
@@ -22213,7 +22213,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Uwm_AodOAacuvMrCxWndiOt2OYonmAIB&sz=w800"
     ]
   },
   {
@@ -22230,7 +22230,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1T84s0yF6NKZi7qcIEEs85M3dtsROHtkJ&sz=w800"
     ]
   },
   {
@@ -22247,7 +22247,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -22264,7 +22264,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -22281,7 +22281,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VU4CcJ96XGvGG7Ds6bL2SLfxzzmErHqf&sz=w800"
     ]
   },
   {
@@ -22298,7 +22298,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oRmAjGzhEdnmQOxENEyXB4raG6fhpDlH&sz=w800"
     ]
   },
   {
@@ -22315,7 +22315,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1dhIkbSa1-FDjwjkSTvzVfaPiLf5TUiVj&sz=w800"
     ]
   },
   {
@@ -22349,7 +22349,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TL6DB1TvdPfzyhEeMJ8iA-5N4zD8GxnT&sz=w800"
     ]
   },
   {
@@ -22366,7 +22366,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=146w56ZHMkQapo9tVZTLZhwlDuAZQxlVn&sz=w800"
     ]
   },
   {
@@ -22383,7 +22383,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zf5Q5uBkaj9snPGL5djYUYL_56YXjP67&sz=w800"
     ]
   },
   {
@@ -22400,7 +22400,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=18T_t2556A1776BNI00jZAJeV2_8qbxvZ&sz=w800"
     ]
   },
   {
@@ -22434,7 +22434,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JZMwBhpFWit2NoOjRLOlH-VjyovbLF2-&sz=w800"
     ]
   },
   {
@@ -22451,7 +22451,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ykANT8bmQRGeys_sR_-WWhVQBxVZCrxP&sz=w800"
     ]
   },
   {
@@ -22468,7 +22468,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cOXnRmQ6Ylk819BHRDiQP---QcPtPvB4&sz=w800"
     ]
   },
   {
@@ -22485,7 +22485,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yKGfqBmbvpzMDEoXCTBeI_POxrdFKr_D&sz=w800"
     ]
   },
   {
@@ -22502,7 +22502,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qeduQQJb0hEbiTP_1VVj_1-vvYW-gbsV&sz=w800"
     ]
   },
   {
@@ -22519,7 +22519,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Froy52lZn6io2hPvvZZSBSQp6qsCHDDU&sz=w800"
     ]
   },
   {
@@ -22536,7 +22536,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1X9dtmSNzyw_9hIWvZNR-ZpkcxzAOVLjo&sz=w800"
     ]
   },
   {
@@ -22553,7 +22553,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pokdZLq_uOVxWOt-GdIJKuc1NyVVHzgd&sz=w800"
     ]
   },
   {
@@ -22570,7 +22570,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1apwSTITq9zKqnzn_tyQ4OuTkipF8pXTL&sz=w800"
     ]
   },
   {
@@ -22587,7 +22587,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1O0MO5OplXPpGIZmxqDGj3MjScFJEJHEO&sz=w800"
     ]
   },
   {
@@ -22604,7 +22604,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1l8V0tF5o43AN4yS2jDVtYJaKAslLIq3Q&sz=w800"
     ]
   },
   {
@@ -22638,7 +22638,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=18i7nzeI9XbyUdMZYhAZQDbi7p9ramZZt&sz=w800"
     ]
   },
   {
@@ -22655,7 +22655,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -22672,7 +22672,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Zycz2nIIdjHLb02Et57wVAJEg_-pG7_c&sz=w800"
     ]
   },
   {
@@ -22689,7 +22689,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cFfdJUmudXLGP3by22QIUqgG-JRbFPkW&sz=w800"
     ]
   },
   {
@@ -22706,7 +22706,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13HLw0et6x-fmfect_OK33p50u75CgCrW&sz=w800"
     ]
   },
   {
@@ -22723,7 +22723,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MZ0HwFyo4Oc3W39VK_noXVAB1mqApJ4s&sz=w800"
     ]
   },
   {
@@ -22740,7 +22740,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cRm0E-k9sFz65WPLgLm6GVMEelksppss&sz=w800"
     ]
   },
   {
@@ -22757,7 +22757,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qac1ezw9OE_gWGbPwiCDQXZ_edy1Bttk&sz=w800"
     ]
   },
   {
@@ -22774,7 +22774,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YEJz2Y5M56K2gwo3iJ6nWdrZjrZSqDSC&sz=w800"
     ]
   },
   {
@@ -22791,7 +22791,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1y8iq0HSqvHyKaM2Q0RUXtGKryKshRRoo&sz=w800"
     ]
   },
   {
@@ -22808,7 +22808,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=11qyt3Q5nCCy45dWsVGvcNVypO-EwNuDC&sz=w800"
     ]
   },
   {
@@ -22825,7 +22825,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Z87fiuXOI5gp2CKLD140G_SNFiZSvpJP&sz=w800"
     ]
   },
   {
@@ -22842,7 +22842,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yxnCb45BMR-4aVNVRbeGn8CGv_GzTC8B&sz=w800"
     ]
   },
   {
@@ -22859,7 +22859,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -22876,7 +22876,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oV2z34Q_nVBN8vsvqsYaiqOii1kZ6dRL&sz=w800"
     ]
   },
   {
@@ -22893,7 +22893,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BlVsQ3LBADKZIy5O-L6w51EC-rdlkdgT&sz=w800"
     ]
   },
   {
@@ -22910,7 +22910,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ECeWfbBYZdtKrjbrEmgz_c8HXIFqtuCH&sz=w800"
     ]
   },
   {
@@ -22927,7 +22927,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Rhdgp-meeB0rDsUVNm2afe1zQw5oUmKh&sz=w800"
     ]
   },
   {
@@ -22944,7 +22944,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -22961,7 +22961,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -22978,7 +22978,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1T84s0yF6NKZi7qcIEEs85M3dtsROHtkJ&sz=w800"
     ]
   },
   {
@@ -22995,7 +22995,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ui8EjsAaM6sF1WZC9K2fNAf8m-KXJ5Ow&sz=w800"
     ]
   },
   {
@@ -23012,7 +23012,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lP6FGMMplwTpYJfJniZuXsz1L2EdI4et&sz=w800"
     ]
   },
   {
@@ -23029,7 +23029,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -23046,7 +23046,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -23063,7 +23063,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AcGoauNu87TXL-dufx_vZxeK4QSvBC7r&sz=w800"
     ]
   },
   {
@@ -23080,7 +23080,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17yLz7GLR3Z8UQguOhdVMimmMo-2979sT&sz=w800"
     ]
   },
   {
@@ -23097,7 +23097,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kRKL7LzdMI7Y4deU8Yr-KUgIEvpEi_fd&sz=w800"
     ]
   },
   {
@@ -23114,7 +23114,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1gOObBb5gx8rxlLau5xADh1nOTgQl-DIA&sz=w800"
     ]
   },
   {
@@ -23131,7 +23131,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1li-YmFyZ7xS35_AT7SBk3FjvXrTz4CZZ&sz=w800"
     ]
   },
   {
@@ -23148,7 +23148,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1gOObBb5gx8rxlLau5xADh1nOTgQl-DIA&sz=w800"
     ]
   },
   {
@@ -23165,7 +23165,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oW7GV5Fi3ZOVUKLHJF262aPo1Pfx1vXG&sz=w800"
     ]
   },
   {
@@ -23182,7 +23182,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZM-vvxGznpq6MD_DlIWb4HPAybTwVFj7&sz=w800"
     ]
   },
   {
@@ -23199,7 +23199,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VZRlDjs3TGPEot8-hKADZLr4aSdlB5L7&sz=w800"
     ]
   },
   {
@@ -23216,7 +23216,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1x5Gu9vN0hm9c2IETUnUjc5PcLyCLVktQ&sz=w800"
     ]
   },
   {
@@ -23233,7 +23233,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BSPjMSBU-tRNiIw7Mcvka5BQs_I4stZ6&sz=w800"
     ]
   },
   {
@@ -23250,7 +23250,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1RGMzOOLYbCEMd_IvGhcoFchIn0O1m68R&sz=w800"
     ]
   },
   {
@@ -23267,7 +23267,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_ZsOgmUGwNAvxo9Gw_Wb5xQ8UvFsTzvQ&sz=w800"
     ]
   },
   {
@@ -23284,7 +23284,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MZ0HwFyo4Oc3W39VK_noXVAB1mqApJ4s&sz=w800"
     ]
   },
   {
@@ -23301,7 +23301,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1QkbKgMv2JieeX97JmvIy7GIXoAK-ReEn&sz=w800"
     ]
   },
   {
@@ -23318,7 +23318,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Zycz2nIIdjHLb02Et57wVAJEg_-pG7_c&sz=w800"
     ]
   },
   {
@@ -23335,7 +23335,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16nDVuNN9jTxWv4GtcQr8PwsrIlttY5cF&sz=w800"
     ]
   },
   {
@@ -23352,7 +23352,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -23369,7 +23369,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=180OUXQod85Hqymaeulb_V-0Hp_NVsZZ1&sz=w800"
     ]
   },
   {
@@ -23386,7 +23386,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14d07R1I5PlMsQqU527dodFvzDFTtuDmt&sz=w800"
     ]
   },
   {
@@ -23403,7 +23403,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1enmzt-_WKiRIwgaMcyP43tmsZjFhj6Ss&sz=w800"
     ]
   },
   {
@@ -23420,7 +23420,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1clq6OcykSJA4tYgB0a3520ICJME2MopQ&sz=w800"
     ]
   },
   {
@@ -23437,7 +23437,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iALoDvf2HfVtjOPgbmaeIqTjd2eFCwqE&sz=w800"
     ]
   },
   {
@@ -23454,7 +23454,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=18Bb4JUOukQhErN_0ng15VsWYZ01KJtlG&sz=w800"
     ]
   },
   {
@@ -23471,7 +23471,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PBmdTfIk_rGmYeh5wPS7Q_jMKFLum5ui&sz=w800"
     ]
   },
   {
@@ -23488,7 +23488,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_-4cC-H-K-64vFbs7cjwn35KH07MmiPJ&sz=w800"
     ]
   },
   {
@@ -23505,7 +23505,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qejX8TQhn24tgiuWQqiwTFAJ1AIcB6bD&sz=w800"
     ]
   },
   {
@@ -23522,7 +23522,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZZFFZig56pxR9mTqQ_X7bIYGJ0RxR5m6&sz=w800"
     ]
   },
   {
@@ -23539,7 +23539,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PWnQfEB2iVXBeOhJqM5FFCFa09t8ULZE&sz=w800"
     ]
   },
   {
@@ -23573,7 +23573,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eKwtiLUFCWRg5jDqrtvef93d4syji2Yp&sz=w800"
     ]
   },
   {
@@ -23590,7 +23590,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16SsfItDPDTr6iKP2TYw2dkY-xzo2qG5n&sz=w800"
     ]
   },
   {
@@ -23607,7 +23607,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=10UgaInkWMGUBXqzeIycILjRCutUyH8LL&sz=w800"
     ]
   },
   {
@@ -23624,7 +23624,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pVptynJgLfx1ZOWpmOQF5i8Nzad1j_h4&sz=w800"
     ]
   },
   {
@@ -23641,7 +23641,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1S9-Q0bd2zOGaSp95cOvAg1u_aqlHXrbn&sz=w800"
     ]
   },
   {
@@ -23658,7 +23658,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13ZmGRWhMHWNijoO6aFZZfOfUpjmrb2ND&sz=w800"
     ]
   },
   {
@@ -23692,7 +23692,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Knij0zDKqlo-0r7AjcP7dBLSNc9itDcW&sz=w800"
     ]
   },
   {
@@ -23709,7 +23709,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Z9hUcWiYsQzS4hEHK64AWi9TbJDZ2SFM&sz=w800"
     ]
   },
   {
@@ -23726,7 +23726,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1deCI_4ku9k4nP32NvPrOhMR7rxavbAje&sz=w800"
     ]
   },
   {
@@ -23743,7 +23743,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14xCM97J0fgAeh_86mDEiv7PhtG7MZSba&sz=w800"
     ]
   },
   {
@@ -23760,7 +23760,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Kd2rPiT0Utv0ZIuas90b6r0OF01EEphp&sz=w800"
     ]
   },
   {
@@ -23777,7 +23777,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AKksC8g6oy6FwBDYxNdsO2TTuG3Tofke&sz=w800"
     ]
   },
   {
@@ -23794,7 +23794,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -23811,7 +23811,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FIFWyNofh4H24hAPIeQW2CllteZG28oq&sz=w800"
     ]
   },
   {
@@ -23828,7 +23828,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=107SNe4-UhWddI_K2LBrVyc2jmh44754j&sz=w800"
     ]
   },
   {
@@ -23845,7 +23845,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JPNsQKOFsvsiQ9ddWnQ_8IcD5qFglHKu&sz=w800"
     ]
   },
   {
@@ -23862,7 +23862,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CVGM0hWZMFqwxz64FajrDzajaMsHXX7j&sz=w800"
     ]
   },
   {
@@ -23879,7 +23879,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Ml_hDjDOolXnKUk6fzXgud_tWbkeDeWX&sz=w800"
     ]
   },
   {
@@ -23896,7 +23896,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ijPRGuZeYliFi0nMudsYkaxc2Vv72LT&sz=w800"
     ]
   },
   {
@@ -23913,7 +23913,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mfEb70n6C1ck4LWshYpQ3XI4YQoytgZ-&sz=w800"
     ]
   },
   {
@@ -23930,7 +23930,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=15zGh2qepbRDpT-u-XR7EmI_lQDDhdvCz&sz=w800"
     ]
   },
   {
@@ -23947,7 +23947,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ui8EjsAaM6sF1WZC9K2fNAf8m-KXJ5Ow&sz=w800"
     ]
   },
   {
@@ -23964,7 +23964,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -23981,7 +23981,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Xcu1oXyWTeTEzhR5hJeZeD1s8vRGx_VO&sz=w800"
     ]
   },
   {
@@ -23998,7 +23998,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OJESubg4CVgMBQVKuxJmmqvn-nNGl1sZ&sz=w800"
     ]
   },
   {
@@ -24015,7 +24015,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16Uxp3Y6OiaoadLTXt-o2tU-9i9CiEV5g&sz=w800"
     ]
   },
   {
@@ -24032,7 +24032,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=113sFcb3gFtS0o08enXYVEUmseljWt3mB&sz=w800"
     ]
   },
   {
@@ -24049,7 +24049,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kRKL7LzdMI7Y4deU8Yr-KUgIEvpEi_fd&sz=w800"
     ]
   },
   {
@@ -24066,7 +24066,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -24083,7 +24083,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1QCxZRcINhnu6dx51_bZx6HS40c_uOEA7&sz=w800"
     ]
   },
   {
@@ -24100,7 +24100,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YHvBgmTdl51egH514Sg4cQqttT9ZuRhs&sz=w800"
     ]
   },
   {
@@ -24117,7 +24117,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1DvT5tOUO_ztSPlnUmR0qP8IMachmF0_T&sz=w800"
     ]
   },
   {
@@ -24134,7 +24134,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bNLaOwBUg2NAz0SUl2kZ0RDqdG6PBgPl&sz=w800"
     ]
   },
   {
@@ -24151,7 +24151,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_97cmNoJ3ifH_Pqx8vusdhWUC_JlL1O5&sz=w800"
     ]
   },
   {
@@ -24168,7 +24168,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1HZ7L6HwFcZOisLEzNGoF0xuKM_D1id6S&sz=w800"
     ]
   },
   {
@@ -24185,7 +24185,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17oIUBZ7o1gZMGoCOSvKgYOmxi6LVeUE1&sz=w800"
     ]
   },
   {
@@ -24202,7 +24202,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Y2jAN_IsXZefFf4B437kUmhbRMRJc-iO&sz=w800"
     ]
   },
   {
@@ -24219,7 +24219,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1M--1vHk_FtPTfhHSPRVs4JoRCkY6mfz5&sz=w800"
     ]
   },
   {
@@ -24236,7 +24236,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AEdZapIprBnHOrji69ZBbo0z4iSJ2PB_&sz=w800"
     ]
   },
   {
@@ -24253,7 +24253,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17qx9UMBKPakd9wfEl35YAP_JsJZjyElK&sz=w800"
     ]
   },
   {
@@ -24270,7 +24270,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1c0LJioy07yqDmp8ue-mWwPuzmUkCR9v-&sz=w800"
     ]
   },
   {
@@ -24287,7 +24287,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16NDCVFNbh-dtrp7UCfokzvet90syBIQ5&sz=w800"
     ]
   },
   {
@@ -24304,7 +24304,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sOCEnceofgrxpBqmSks3Npg7-7mV3cxU&sz=w800"
     ]
   },
   {
@@ -24321,7 +24321,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-78JvXMCr2tbfIwBpgZj5mBY-xF-w25o&sz=w800"
     ]
   },
   {
@@ -24338,7 +24338,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1r0CQ_t2Av8F57aSgPh5ghGCNh4rQeC9g&sz=w800"
     ]
   },
   {
@@ -24355,7 +24355,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1niRA6Q7eR0iu09mmwgvbd6xjVwPP5pzS&sz=w800"
     ]
   },
   {
@@ -24372,7 +24372,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1S2YGt4MEzMua4-GO_qCPKKwpmemPgHTO&sz=w800"
     ]
   },
   {
@@ -24389,7 +24389,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ezaknZRhFhHmTS9rYyNt-b-LfUNUxox8&sz=w800"
     ]
   },
   {
@@ -24406,7 +24406,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17mciaSMo864PuRAnEkNQnrHPjikxukI9&sz=w800"
     ]
   },
   {
@@ -24457,7 +24457,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ke0gA1EE__h93gtI1a55Fkd-_j1ZGoHy&sz=w800"
     ]
   },
   {
@@ -24491,7 +24491,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -24508,7 +24508,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ORGU8Tphz0m3VaUz4RX5WPMxkxt-Iwq&sz=w800"
     ]
   },
   {
@@ -24525,7 +24525,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -24542,7 +24542,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=11aCGu8pawCwPIbD6JbGVOSz90EJuxk3B&sz=w800"
     ]
   },
   {
@@ -24559,7 +24559,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IHHR-G-GImcpUtSmfTjDsU3JSPEVj9R6&sz=w800"
     ]
   },
   {
@@ -24576,7 +24576,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SS0uJV5pLESgWRLuKT2Xp6bSOa6v_jCY&sz=w800"
     ]
   },
   {
@@ -24593,7 +24593,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17T_hJR-NJzP-ymdZCoFtR11Ci6CxcKi5&sz=w800"
     ]
   },
   {
@@ -24610,7 +24610,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ccaVVgxripsqzOfiTPNbrFFcTHB5iUTA&sz=w800"
     ]
   },
   {
@@ -24627,7 +24627,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A-HGi6beaqWEKXWGmBGCrJHtjLHUefI3&sz=w800"
     ]
   },
   {
@@ -24644,7 +24644,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -24661,7 +24661,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qeduQQJb0hEbiTP_1VVj_1-vvYW-gbsV&sz=w800"
     ]
   },
   {
@@ -24678,7 +24678,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -24695,7 +24695,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PYepiSIBrCoV1b3EZzSlxGju6M6jS_ym&sz=w800"
     ]
   },
   {
@@ -24712,7 +24712,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VzdBpXCls3LenAi7W9UI61rDvXzg7v1Q&sz=w800"
     ]
   },
   {
@@ -24729,7 +24729,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1D3KnGBy4hv03Kt4gy41xJggY6ctAIOig&sz=w800"
     ]
   },
   {
@@ -24746,7 +24746,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lfHO6Dg46s95X3uhqgXzuphahoTWbJbT&sz=w800"
     ]
   },
   {
@@ -24763,7 +24763,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NCW_b02wWHtR9WfJpuTjdpYvBm-j5JkX&sz=w800"
     ]
   },
   {
@@ -24780,7 +24780,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mSdB5rS-gtL2m0Wy7QN2MbOOX_I0dmE4&sz=w800"
     ]
   },
   {
@@ -24797,7 +24797,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zuF6dnboHR5YyRlkjpy5yR8vE2kYzJd1&sz=w800"
     ]
   },
   {
@@ -24814,7 +24814,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1R2TZtC7vFh7GbpW9qafm_BeNLbH_GbrO&sz=w800"
     ]
   },
   {
@@ -24831,7 +24831,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vH079HrUKe3aMp-fc202ZXq4Cs8EM_5h&sz=w800"
     ]
   },
   {
@@ -24848,7 +24848,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Y7xLG6_UxBDPcidVue6igFbMlld6iN5K&sz=w800"
     ]
   },
   {
@@ -24865,7 +24865,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vH079HrUKe3aMp-fc202ZXq4Cs8EM_5h&sz=w800"
     ]
   },
   {
@@ -24882,7 +24882,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1__2gqFbY1SeORqjB4YJR1ugZKdE9Fjia&sz=w800"
     ]
   },
   {
@@ -24899,7 +24899,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=15M1gYzUdhpFWnGbm4vknC13AuTCHOubW&sz=w800"
     ]
   },
   {
@@ -24916,7 +24916,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1abGS3ebBFQSJwUBt7n3ssUsEesT_cE98&sz=w800"
     ]
   },
   {
@@ -24933,7 +24933,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1k0HBdrK4P9YchOUHvcwyGyCa62QUT7r0&sz=w800"
     ]
   },
   {
@@ -24950,7 +24950,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UYvHRiYHp5hEwoY5FQsxtN_XSCkFqwwr&sz=w800"
     ]
   },
   {
@@ -24967,7 +24967,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ijPRGuZeYliFi0nMudsYkaxc2Vv72LT&sz=w800"
     ]
   },
   {
@@ -24984,7 +24984,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -25001,7 +25001,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -25018,7 +25018,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16ZLkIFvNVThgOyLv6w3ySRKdd9_9691K&sz=w800"
     ]
   },
   {
@@ -25035,7 +25035,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lUlEwTNo_zXujRZoJC4rjp8b0ksqjuEq&sz=w800"
     ]
   },
   {
@@ -25052,7 +25052,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1V8kAuJq_lkSIQhGXIURbI_U80-1TWtXm&sz=w800"
     ]
   },
   {
@@ -25069,7 +25069,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MJ74IVNQ7aB75-QE-fe8FyhjTtXq-mEq&sz=w800"
     ]
   },
   {
@@ -25086,7 +25086,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1V8kAuJq_lkSIQhGXIURbI_U80-1TWtXm&sz=w800"
     ]
   },
   {
@@ -25103,7 +25103,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XBOE6pktruQZIO3g4kqzxeGUXUP1aT8w&sz=w800"
     ]
   },
   {
@@ -25120,7 +25120,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MJ74IVNQ7aB75-QE-fe8FyhjTtXq-mEq&sz=w800"
     ]
   },
   {
@@ -25137,7 +25137,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=11mJfcOiSWCW6oNcvxgDftGBhxIQnA_E4&sz=w800"
     ]
   },
   {
@@ -25154,7 +25154,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iMD5xz6za1Vifwg_n7AqU_fDrh8Stf84&sz=w800"
     ]
   },
   {
@@ -25171,7 +25171,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MJ74IVNQ7aB75-QE-fe8FyhjTtXq-mEq&sz=w800"
     ]
   },
   {
@@ -25188,7 +25188,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MJ74IVNQ7aB75-QE-fe8FyhjTtXq-mEq&sz=w800"
     ]
   },
   {
@@ -25205,7 +25205,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1b2SndUlf9aOG6uw8gWCgrBdkcSqflCba&sz=w800"
     ]
   },
   {
@@ -25222,7 +25222,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1DvT5tOUO_ztSPlnUmR0qP8IMachmF0_T&sz=w800"
     ]
   },
   {
@@ -25239,7 +25239,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1phQSlMr4fawHWuaRJ7UG1_t_TFPB9iQy&sz=w800"
     ]
   },
   {
@@ -25273,7 +25273,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tP3FISRwinrwXUP8I8rhdNNkjpYQClb1&sz=w800"
     ]
   },
   {
@@ -25290,7 +25290,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YA4b1H5OCcd7oYgNVo3pyCi3L9u0unke&sz=w800"
     ]
   },
   {
@@ -25307,7 +25307,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Po9w333AoOzeeazMZeFOAKGXaEywGL41&sz=w800"
     ]
   },
   {
@@ -25324,7 +25324,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_olh5o_LTPG7egffUamy3f1TSc3TLPpV&sz=w800"
     ]
   },
   {
@@ -25341,7 +25341,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NCW_b02wWHtR9WfJpuTjdpYvBm-j5JkX&sz=w800"
     ]
   },
   {
@@ -25358,7 +25358,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yYvLc9Ml6CYxAyKAzfgVFC_NG7DO3Yj8&sz=w800"
     ]
   },
   {
@@ -25375,7 +25375,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kbwpdNYkbwm6k_1T9byGE5fPePodPtc0&sz=w800"
     ]
   },
   {
@@ -25409,7 +25409,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13PzzkpVL7N2pzjdtqHBBR9vU_HrR3qJk&sz=w800"
     ]
   },
   {
@@ -25426,7 +25426,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Knij0zDKqlo-0r7AjcP7dBLSNc9itDcW&sz=w800"
     ]
   },
   {
@@ -25443,7 +25443,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cCACPxks_El0BTCxbt63WAr08o8liNFW&sz=w800"
     ]
   },
   {
@@ -25477,7 +25477,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=19nx_UbIakPkGOZOSG3iF1BgSWyFq3440&sz=w800"
     ]
   },
   {
@@ -25494,7 +25494,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kNqfOYEd57MujEUoDPVYUltOcVgw6nYA&sz=w800"
     ]
   },
   {
@@ -25511,7 +25511,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17aabkSon_1v6O3qBW2CY7rm2cEQV9_4W&sz=w800"
     ]
   },
   {
@@ -25528,7 +25528,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MSwh5J-xAYr3Kie_04eqX67IktY6gy5T&sz=w800"
     ]
   },
   {
@@ -25545,7 +25545,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1abGS3ebBFQSJwUBt7n3ssUsEesT_cE98&sz=w800"
     ]
   },
   {
@@ -25562,7 +25562,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Q7AboIApTWi1lDujYYcRj5S-XWzZ1jel&sz=w800"
     ]
   },
   {
@@ -25579,7 +25579,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1erd6KBPqALooFx2FsKnbX4xaL3nyq3u0&sz=w800"
     ]
   },
   {
@@ -25596,7 +25596,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wEOPhkgVIGFkkL6LpVbDReopeQCH5UI_&sz=w800"
     ]
   },
   {
@@ -25630,7 +25630,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1l8ABy4ZGLqw8c3xx_u4vbdA5JJWBote6&sz=w800"
     ]
   },
   {
@@ -25647,7 +25647,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zzV1MCebzacq3FSMaiVv8rOtRepfliQm&sz=w800"
     ]
   },
   {
@@ -25664,7 +25664,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=19v5tH_R9jvUh4aMO2_Jf_7NGjHsv4R90&sz=w800"
     ]
   },
   {
@@ -25681,7 +25681,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wD06ryBxFUIp5jLVVwu5H_1XmkOr6iEn&sz=w800"
     ]
   },
   {
@@ -25698,7 +25698,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZMPHIlJTIaKKaBaOxFPX4lq-dyO9Xdol&sz=w800"
     ]
   },
   {
@@ -25715,7 +25715,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yDzxGDFtU7s-1qv4scE9SntPbXGHXx3t&sz=w800"
     ]
   },
   {
@@ -25749,7 +25749,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Pg7iovYUQAPV1pc762t9pHXK1zGGk_GH&sz=w800"
     ]
   },
   {
@@ -25766,7 +25766,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zuF6dnboHR5YyRlkjpy5yR8vE2kYzJd1&sz=w800"
     ]
   },
   {
@@ -25783,7 +25783,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1g64bxa8lY4eaYFCmQGwzs7faRDre1og0&sz=w800"
     ]
   },
   {
@@ -25800,7 +25800,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IomLR_IorDcuoaYOUiDTG2hj7IBlwwa6&sz=w800"
     ]
   },
   {
@@ -25817,7 +25817,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1HyDdSDcSCMsTkw4OA_CD5WojeUYXUn0v&sz=w800"
     ]
   },
   {
@@ -25834,7 +25834,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1LFhc-Zk9WSMdCrxpsR-jD0y0evlL9MVi&sz=w800"
     ]
   },
   {
@@ -25851,7 +25851,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bHQ1neXVE7iKe7BCMeMyABPUpUwTqjQY&sz=w800"
     ]
   },
   {
@@ -25868,7 +25868,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bOcnMwzcp8gFA4Ih9khqZ-Yi2rfAwbt0&sz=w800"
     ]
   },
   {
@@ -25885,7 +25885,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1on7kPfJKbjCIl2S-YHjfayDcQLFkH6wR&sz=w800"
     ]
   },
   {
@@ -25902,7 +25902,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KLi8Q9BQVotYY4mR29m62b16e07CYSl8&sz=w800"
     ]
   },
   {
@@ -25919,7 +25919,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bHQ1neXVE7iKe7BCMeMyABPUpUwTqjQY&sz=w800"
     ]
   },
   {
@@ -25936,7 +25936,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mdSYUuLrQNzv1sg429K9rY8XDSg0F-em&sz=w800"
     ]
   },
   {
@@ -25953,7 +25953,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YHvBgmTdl51egH514Sg4cQqttT9ZuRhs&sz=w800"
     ]
   },
   {
@@ -25970,7 +25970,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-9lCLbLYhcD4fWYIg_c1-VRzcSBmrdby&sz=w800"
     ]
   },
   {
@@ -25987,7 +25987,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_vB47xHFMSwx6355AX3AC5E9Eyd9AYTw&sz=w800"
     ]
   },
   {
@@ -26004,7 +26004,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -26021,7 +26021,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SaQyVsc01noCnx1pX5qccayobQehaYmW&sz=w800"
     ]
   },
   {
@@ -26038,7 +26038,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UYvHRiYHp5hEwoY5FQsxtN_XSCkFqwwr&sz=w800"
     ]
   },
   {
@@ -26055,7 +26055,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eU1PXdxfAP5IHGqDDcFIG9jme6i7AwhY&sz=w800"
     ]
   },
   {
@@ -26072,7 +26072,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VRlA3t3BLXansl1Vr8XeZTtAshc-d4jr&sz=w800"
     ]
   },
   {
@@ -26089,7 +26089,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -26106,7 +26106,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mASP8Mb7kFRJ52chkfl006u8jgWuFI53&sz=w800"
     ]
   },
   {
@@ -26123,7 +26123,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SlSi7hhi2JCUAfNeE3KTvyEfQK6_oF2X&sz=w800"
     ]
   },
   {
@@ -26140,7 +26140,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13bpvufUAebTSEeF3c2ZGoWyFCdZSjk0x&sz=w800"
     ]
   },
   {
@@ -26157,7 +26157,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yUX9o3cO_-ADY7IMy9xDfy8_1oRcpxjH&sz=w800"
     ]
   },
   {
@@ -26174,7 +26174,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1E29O1ESq01iE-dtsIrY9-vsU9M6GQGgI&sz=w800"
     ]
   },
   {
@@ -26191,7 +26191,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -26208,7 +26208,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -26225,7 +26225,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XmlK9AGqqNQnTtzDCUn_3ciqzg8YXzH1&sz=w800"
     ]
   },
   {
@@ -26242,7 +26242,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -26259,7 +26259,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1EB9IRYPXx7HX_kkTi3Ye9sb_sonHT6WE&sz=w800"
     ]
   },
   {
@@ -26276,7 +26276,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ilVshxKgU3NLGgTQEllPYEd1oQJA47Sj&sz=w800"
     ]
   },
   {
@@ -26293,7 +26293,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IomLR_IorDcuoaYOUiDTG2hj7IBlwwa6&sz=w800"
     ]
   },
   {
@@ -26310,7 +26310,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AEdZapIprBnHOrji69ZBbo0z4iSJ2PB_&sz=w800"
     ]
   },
   {
@@ -26327,7 +26327,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OXO4mWqKqZ4QVWmfNZgNf5jAAxUiyIBX&sz=w800"
     ]
   },
   {
@@ -26344,7 +26344,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lJoFQJmfsWVnzBBhgFW6pIPySAr-QtH2&sz=w800"
     ]
   },
   {
@@ -26361,7 +26361,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NBOZ1UXw3-3XMs1RQl64-xJelDIvZjzp&sz=w800"
     ]
   },
   {
@@ -26395,7 +26395,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=18YPbvotcZj2AWqh3lNhtkFH7v4JpTTSG&sz=w800"
     ]
   },
   {
@@ -26412,7 +26412,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eE9Kw08s_wIpH_K8GiCOd7PIXSNe0PmN&sz=w800"
     ]
   },
   {
@@ -26429,7 +26429,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ijPRGuZeYliFi0nMudsYkaxc2Vv72LT&sz=w800"
     ]
   },
   {
@@ -26446,7 +26446,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vybFGPwx_BltiCT0gUJpyF-ZKk717FcH&sz=w800"
     ]
   },
   {
@@ -26463,7 +26463,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17p3Pp0adqQqEcekNxEQ_mq4An9H_vumT&sz=w800"
     ]
   },
   {
@@ -26480,7 +26480,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Xdo-Yx9ofuxH_N0fQ30QpCGph4sFCzuE&sz=w800"
     ]
   },
   {
@@ -26497,7 +26497,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -26514,7 +26514,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=19QI-SnfecV206TG6D9y17aKD9IdrQX9P&sz=w800"
     ]
   },
   {
@@ -26531,7 +26531,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jQDqnZbl37_-9WgtxUy-Ys1Zt3n4DJXS&sz=w800"
     ]
   },
   {
@@ -26548,7 +26548,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=147qIIGgrH45oOG76NYKY8xgK3dZG1C25&sz=w800"
     ]
   },
   {
@@ -26565,7 +26565,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rbR0Du1yuBULJtyKeFLlFOlUHWtk-RPg&sz=w800"
     ]
   },
   {
@@ -26582,7 +26582,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -26599,7 +26599,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ijPRGuZeYliFi0nMudsYkaxc2Vv72LT&sz=w800"
     ]
   },
   {
@@ -26616,7 +26616,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JXQltis_ikgf_LrpM1ZpLHBJQNo1wayx&sz=w800"
     ]
   },
   {
@@ -26633,7 +26633,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -26650,7 +26650,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Im0k9_GmrLlXDf33qgDbZuOM40ltpju7&sz=w800"
     ]
   },
   {
@@ -26667,7 +26667,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SiXUIwtbEqgFu8uZZudp-onH7zHi7Qnb&sz=w800"
     ]
   },
   {
@@ -26684,7 +26684,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=12IT6dxBGqR6Hv4vkdvQakPdYixPXEvx-&sz=w800"
     ]
   },
   {
@@ -26701,7 +26701,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -26718,7 +26718,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -26735,7 +26735,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1T84s0yF6NKZi7qcIEEs85M3dtsROHtkJ&sz=w800"
     ]
   },
   {
@@ -26752,7 +26752,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-xV-ZwbC626Ql5AASQQL8dESMbjfld8g&sz=w800"
     ]
   },
   {
@@ -26769,7 +26769,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KLi8Q9BQVotYY4mR29m62b16e07CYSl8&sz=w800"
     ]
   },
   {
@@ -26786,7 +26786,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PBmdTfIk_rGmYeh5wPS7Q_jMKFLum5ui&sz=w800"
     ]
   },
   {
@@ -26803,7 +26803,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AEdZapIprBnHOrji69ZBbo0z4iSJ2PB_&sz=w800"
     ]
   },
   {
@@ -26820,7 +26820,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nkxXmqgY6uSlz_FXv6ODDu7xmqAk7Lst&sz=w800"
     ]
   },
   {
@@ -26837,7 +26837,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XvbHBpv20SsZ4vga13ky7Bw5aVF_fs2t&sz=w800"
     ]
   },
   {
@@ -26854,7 +26854,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1g64bxa8lY4eaYFCmQGwzs7faRDre1og0&sz=w800"
     ]
   },
   {
@@ -26871,7 +26871,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BLeHd3NmkJliCBS3Wbe1nglC4WalH8ov&sz=w800"
     ]
   },
   {
@@ -26888,7 +26888,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_9cLYpVYxevrQdTbJHYiTZjNur6O23we&sz=w800"
     ]
   },
   {
@@ -26905,7 +26905,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1B0asHw9btM4eSkk8rNHSaoIGpQ7H4o7Q&sz=w800"
     ]
   },
   {
@@ -26922,7 +26922,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mNKQtDaQqmn9zDynuwMGBt2h8fF1NDhq&sz=w800"
     ]
   },
   {
@@ -26939,7 +26939,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Abqdm02bainqmVcmh1A14D1jzlf2_8B5&sz=w800"
     ]
   },
   {
@@ -26990,7 +26990,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_vB47xHFMSwx6355AX3AC5E9Eyd9AYTw&sz=w800"
     ]
   },
   {
@@ -27007,7 +27007,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1N7u9B4DPieuE47dKu44nyJJ-bFSsjb_V&sz=w800"
     ]
   },
   {
@@ -27024,7 +27024,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16ZLkIFvNVThgOyLv6w3ySRKdd9_9691K&sz=w800"
     ]
   },
   {
@@ -27041,7 +27041,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1w26LBmU_trsWWGjBowupIQWmMt8vzIgs&sz=w800"
     ]
   },
   {
@@ -27058,7 +27058,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kNqfOYEd57MujEUoDPVYUltOcVgw6nYA&sz=w800"
     ]
   },
   {
@@ -27075,7 +27075,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wxZUefNlBVTSBPneVxcjbbTH7d3SMcCO&sz=w800"
     ]
   },
   {
@@ -27092,7 +27092,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -27109,7 +27109,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1uazmVHjsYVmO42WV98K57TLpzEOmFrW_&sz=w800"
     ]
   },
   {
@@ -27126,7 +27126,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PLsJ3rlYX1myLlIPdkribQhNH-doqT76&sz=w800"
     ]
   },
   {
@@ -27143,7 +27143,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=19SSLexPnBAK5qEHp3pcFYlTjP3WWjLkj&sz=w800"
     ]
   },
   {
@@ -27160,7 +27160,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A8JGICbWXfj1c108_UOeXdOuHHJ90mOD&sz=w800"
     ]
   },
   {
@@ -27177,7 +27177,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qtE2qFp8xQ3JkJWZbWyRHSCRCtv4qMnC&sz=w800"
     ]
   },
   {
@@ -27194,7 +27194,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sjCCO4elAmEhtOsBxpI-wTa6nZAH2wTX&sz=w800"
     ]
   },
   {
@@ -27211,7 +27211,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Gsc8yxBhu3A7HBV6gJTvK3atGRLGT85M&sz=w800"
     ]
   },
   {
@@ -27228,7 +27228,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nvTIfLdP8RJiMXg_vRGpIKktCzmjlAn_&sz=w800"
     ]
   },
   {
@@ -27245,7 +27245,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_KTpBu2oJQDJoskW57u987aJYYU1pUXi&sz=w800"
     ]
   },
   {
@@ -27262,7 +27262,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1p7Qa0gT3eoAtcNUQpMd35ft5O4c7t4Jk&sz=w800"
     ]
   },
   {
@@ -27296,7 +27296,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ijPRGuZeYliFi0nMudsYkaxc2Vv72LT&sz=w800"
     ]
   },
   {
@@ -27313,7 +27313,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1r4xqdrOXqKmwV-LYg5jHJp07xDQki3rs&sz=w800"
     ]
   },
   {
@@ -27330,7 +27330,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MZ0HwFyo4Oc3W39VK_noXVAB1mqApJ4s&sz=w800"
     ]
   },
   {
@@ -27347,7 +27347,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1GQvHhTO0r6NDBOGOoaDfAxwguoge3yfS&sz=w800"
     ]
   },
   {
@@ -27364,7 +27364,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=10Cw2isNgE1q6JD-AKf8Vb6s4BWIxlr6-&sz=w800"
     ]
   },
   {
@@ -27381,7 +27381,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xBIDsnOSNTGa0fx5m15sc8VRW68jceF2&sz=w800"
     ]
   },
   {
@@ -27398,7 +27398,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -27415,7 +27415,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ctQJyBZLzIXy-rVZ330kFt28k49z0PVv&sz=w800"
     ]
   },
   {
@@ -27432,7 +27432,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-kk9zM_hXxAkHSJBD7nJ2ecPWLuRsPeG&sz=w800"
     ]
   },
   {
@@ -27449,7 +27449,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SjOCJBkoVIIeaI456d_gUAbpQRWIdQyy&sz=w800"
     ]
   },
   {
@@ -27466,7 +27466,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_US3p83vEwDu9OzZhzjuP6C3txYt4zaj&sz=w800"
     ]
   },
   {
@@ -27483,7 +27483,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1EsrYqHrNsw2MpbTBtSirpaq5lO4DAE6X&sz=w800"
     ]
   },
   {
@@ -27500,7 +27500,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_vB47xHFMSwx6355AX3AC5E9Eyd9AYTw&sz=w800"
     ]
   },
   {
@@ -27517,7 +27517,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Pg7iovYUQAPV1pc762t9pHXK1zGGk_GH&sz=w800"
     ]
   },
   {
@@ -27534,7 +27534,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tZCAQg_q4IsA92xxRqoCUmR-KCeXUHh3&sz=w800"
     ]
   },
   {
@@ -27551,7 +27551,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jp1MVgR-o4kld1CH_cBjrvjKCupQKYo8&sz=w800"
     ]
   },
   {
@@ -27568,7 +27568,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ccaVVgxripsqzOfiTPNbrFFcTHB5iUTA&sz=w800"
     ]
   },
   {
@@ -27585,7 +27585,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AEdZapIprBnHOrji69ZBbo0z4iSJ2PB_&sz=w800"
     ]
   },
   {
@@ -27602,7 +27602,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Fx-P9ILUWKz1fnCLEY2nn8XWKpccriB4&sz=w800"
     ]
   },
   {
@@ -27619,7 +27619,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1D3KnGBy4hv03Kt4gy41xJggY6ctAIOig&sz=w800"
     ]
   },
   {
@@ -27636,7 +27636,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=19R8xnD4hiEjxYbBHS-bhq0ulQRvtbSNn&sz=w800"
     ]
   },
   {
@@ -27653,7 +27653,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nMlZYUi-Eo-TfaVJv0hzyJUUNIXxULqv&sz=w800"
     ]
   },
   {
@@ -27670,7 +27670,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nkxXmqgY6uSlz_FXv6ODDu7xmqAk7Lst&sz=w800"
     ]
   },
   {
@@ -27687,7 +27687,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UdfFz7Kq79v7j-bcv0fcxbPzEQ6twBpx&sz=w800"
     ]
   },
   {
@@ -27704,7 +27704,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Wo-otPkxJo6lQjGd3YbOw3Lb15HJZFSh&sz=w800"
     ]
   },
   {
@@ -27721,7 +27721,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wOzgMWw3VBiCFHzf5YNtuMtlub_1U6V4&sz=w800"
     ]
   },
   {
@@ -27738,7 +27738,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1WGZULilFz_eLoKmmm9u0JWQeGV5LSgkt&sz=w800"
     ]
   },
   {
@@ -27755,7 +27755,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1m6TMDdM-FakASr1fQfksR-S7tkqaVNoR&sz=w800"
     ]
   },
   {
@@ -27772,7 +27772,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hYQMu1tQ6AAXAhQEy9TPg3_5JrgJMOmn&sz=w800"
     ]
   },
   {
@@ -27789,7 +27789,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -27806,7 +27806,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JhpgitnnvDJG4jWr3UHNcACBqJYEfUA5&sz=w800"
     ]
   },
   {
@@ -27823,7 +27823,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1aRL7Kk4dYjAUE_V_2SzV7XEU-lA3s_Cf&sz=w800"
     ]
   },
   {
@@ -27840,7 +27840,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lr-FkTPoWhHUGgJgysprIePWGKzoMPDS&sz=w800"
     ]
   },
   {
@@ -27857,7 +27857,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -27874,7 +27874,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pPap9MGmASidyEk1Oe0Io__EoYlvIYse&sz=w800"
     ]
   },
   {
@@ -27891,7 +27891,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OGHO1CzvEyfMG0z2gD1BcuJImkjJah9Y&sz=w800"
     ]
   },
   {
@@ -27908,7 +27908,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13HLw0et6x-fmfect_OK33p50u75CgCrW&sz=w800"
     ]
   },
   {
@@ -27925,7 +27925,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -27942,7 +27942,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1y8-WjTKQEUvzxynhDUFBzATNpn2e2CNi&sz=w800"
     ]
   },
   {
@@ -27959,7 +27959,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=10woY_1bbTtb95U-FqdnNGXQMMOth_nyj&sz=w800"
     ]
   },
   {
@@ -27976,7 +27976,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IHHR-G-GImcpUtSmfTjDsU3JSPEVj9R6&sz=w800"
     ]
   },
   {
@@ -27993,7 +27993,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=19-U1MBN494vS5kLwRoeAWQYIh9Had4Qw&sz=w800"
     ]
   },
   {
@@ -28010,7 +28010,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CTAronpODeLru_DhU-GUu_-dwq5oULvj&sz=w800"
     ]
   },
   {
@@ -28027,7 +28027,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Nu8dvH8tB4-MqSeQuElpRX0-8MI6fBir&sz=w800"
     ]
   },
   {
@@ -28044,7 +28044,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tN3IEvx3oNrYJcGuDk1AwzSAs1-PMlyX&sz=w800"
     ]
   },
   {
@@ -28061,7 +28061,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qC-5EWCWe3PRNS4KtFPLWjc_VdHU_TUD&sz=w800"
     ]
   },
   {
@@ -28078,7 +28078,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-yd-JZ__nvdY1j7x_el5Svfk7LFiSBOf&sz=w800"
     ]
   },
   {
@@ -28095,7 +28095,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -28112,7 +28112,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FIM9irGrE3a3sMmZz3-0YeIxVJCpHERx&sz=w800"
     ]
   },
   {
@@ -28129,7 +28129,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vmaINB2Rrj0V9jRj8ElAf8_EIvY1d_f4&sz=w800"
     ]
   },
   {
@@ -28146,7 +28146,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=10woY_1bbTtb95U-FqdnNGXQMMOth_nyj&sz=w800"
     ]
   },
   {
@@ -28163,7 +28163,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1eu4dGfShjx-3be3u10fxCj5ha2iUs6Q9&sz=w800"
     ]
   },
   {
@@ -28180,7 +28180,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XvbHBpv20SsZ4vga13ky7Bw5aVF_fs2t&sz=w800"
     ]
   },
   {
@@ -28197,7 +28197,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1w_Y2zFtUVbDMjLVCtE8o4bCnxPApVzdQ&sz=w800"
     ]
   },
   {
@@ -28214,7 +28214,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-m1OjytrJDqBiphiFUg0xMrV7gdxhD4Z&sz=w800"
     ]
   },
   {
@@ -28231,7 +28231,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oVpTSjBX1-2vOQtuz-FLo58DkXmLqW89&sz=w800"
     ]
   },
   {
@@ -28248,7 +28248,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=14b7HY2_6UO1HrHSrJuwfuZ2LJsafbnU8&sz=w800"
     ]
   },
   {
@@ -28265,7 +28265,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=147qIIGgrH45oOG76NYKY8xgK3dZG1C25&sz=w800"
     ]
   },
   {
@@ -28282,7 +28282,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1n3m2ImQ9IfXk2yoDHzUhklsNTr7VY4oS&sz=w800"
     ]
   },
   {
@@ -28299,7 +28299,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1QEM80ex3IKyLQlSweiCLA7V-ioIm67B9&sz=w800"
     ]
   },
   {
@@ -28316,7 +28316,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1LTtRiPuJbgYOS5Vlj3Kax7xhs9EC1XoK&sz=w800"
     ]
   },
   {
@@ -28350,7 +28350,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1B5jLgNzykSoQxIu1-D4X0LRW9S98HPy-&sz=w800"
     ]
   },
   {
@@ -28367,7 +28367,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IozIylvLBdpxOe5dVeC-R78SKa8SwXRM&sz=w800"
     ]
   },
   {
@@ -28384,7 +28384,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IrOmA5pHtJjPZRIbjomxe4joHIGq8UgL&sz=w800"
     ]
   },
   {
@@ -28401,7 +28401,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1y5t478OCd_7fg9s1VUEtJXOeAK2McvvV&sz=w800"
     ]
   },
   {
@@ -28418,7 +28418,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PaIys40jvqQZt6ofQQTA-MW6Erh7EXAQ&sz=w800"
     ]
   },
   {
@@ -28435,7 +28435,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Kd2rPiT0Utv0ZIuas90b6r0OF01EEphp&sz=w800"
     ]
   },
   {
@@ -28452,7 +28452,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZEtOBaBzKt8ApCZOh5mmsyuKHSQLm3WM&sz=w800"
     ]
   },
   {
@@ -28469,7 +28469,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=15DXWUC_9xI5CEUlpGpzQAB_X1Odf80R5&sz=w800"
     ]
   },
   {
@@ -28486,7 +28486,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qEEXGdi7XbVxWBo1JeGu6Cz8vVzSei4J&sz=w800"
     ]
   },
   {
@@ -28503,7 +28503,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Hb2wrCVDPNXsWHLZQMaSh8-m4cmD-eFA&sz=w800"
     ]
   },
   {
@@ -28520,7 +28520,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17yLz7GLR3Z8UQguOhdVMimmMo-2979sT&sz=w800"
     ]
   },
   {
@@ -28537,7 +28537,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oL_ZpRobnR8UuJjwPBHYvolp5ZSRKvs7&sz=w800"
     ]
   },
   {
@@ -28554,7 +28554,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1gq0_9yZy6g05FxmT2X1OMlgEhQikBtZR&sz=w800"
     ]
   },
   {
@@ -28571,7 +28571,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fTqb7DLjBIDice8MMZTIg0a_KiJzgleU&sz=w800"
     ]
   },
   {
@@ -28605,7 +28605,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mGru7BRpstWhKS4_oJ57YJ0PFl9oh2z_&sz=w800"
     ]
   },
   {
@@ -28622,7 +28622,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=15_lb1c82EgnQ6mUUc8H09Sg-omJYmMMQ&sz=w800"
     ]
   },
   {
@@ -28639,7 +28639,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zFXz4Sva7pS4XI7cCpJC9ekZNOOBcA4U&sz=w800"
     ]
   },
   {
@@ -28656,7 +28656,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Pg7iovYUQAPV1pc762t9pHXK1zGGk_GH&sz=w800"
     ]
   },
   {
@@ -28673,7 +28673,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=196rWCrOZh3K6yq9MVJ839kbrWDU8MHgd&sz=w800"
     ]
   },
   {
@@ -28690,7 +28690,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1dpOP7BbZimCiPqJMWzWKrwAAwiPSM5rC&sz=w800"
     ]
   },
   {
@@ -28707,7 +28707,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UYvHRiYHp5hEwoY5FQsxtN_XSCkFqwwr&sz=w800"
     ]
   },
   {
@@ -28724,7 +28724,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1RJyBKdOVPyucUzMIgCAH83LQhkRXH5HR&sz=w800"
     ]
   },
   {
@@ -28741,7 +28741,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZkCJOAus6Tydp2kihXGas-DNutbu75Aa&sz=w800"
     ]
   },
   {
@@ -28758,7 +28758,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pTF2A4QKaTMeZbTXuJ7YIperZjHf8Hmq&sz=w800"
     ]
   },
   {
@@ -28775,7 +28775,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xvxPeJWYgFncRM7VdBSBvRj8oFThflJc&sz=w800"
     ]
   },
   {
@@ -28792,7 +28792,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KrMS87QyTS8T1_iNGS30sEFBcQtscybA&sz=w800"
     ]
   },
   {
@@ -28809,7 +28809,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=13HLw0et6x-fmfect_OK33p50u75CgCrW&sz=w800"
     ]
   },
   {
@@ -28826,7 +28826,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JPaVc9pxMMusQQz1jIOv4JI9H5kanMf6&sz=w800"
     ]
   },
   {
@@ -28843,7 +28843,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_qKzfWtWvyaQmxAZlMjEn4vriw-P2PYf&sz=w800"
     ]
   },
   {
@@ -28860,7 +28860,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pQcuESUkRiHBIB361ayWS02Y_KseSKce&sz=w800"
     ]
   },
   {
@@ -28877,7 +28877,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Zycz2nIIdjHLb02Et57wVAJEg_-pG7_c&sz=w800"
     ]
   },
   {
@@ -28894,7 +28894,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1riisujnwSpI818GupX85X_Fno2Ryyauw&sz=w800"
     ]
   },
   {
@@ -28911,7 +28911,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -28928,7 +28928,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Kd2rPiT0Utv0ZIuas90b6r0OF01EEphp&sz=w800"
     ]
   },
   {
@@ -28945,7 +28945,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jzZTMDbmfTgh6jFH_xfA2aeBZi1AkRwB&sz=w800"
     ]
   },
   {
@@ -28962,7 +28962,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=137LCalCms7C1qI0UKMu9eeCDYoh1306M&sz=w800"
     ]
   },
   {
@@ -28979,7 +28979,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yuwYuA1sDmqRWYTPTMnvFVnCGyqU-bxT&sz=w800"
     ]
   },
   {
@@ -28996,7 +28996,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1l7tLdnEcb12_xIPS2EKDK-dPfp20xo6l&sz=w800"
     ]
   },
   {
@@ -29013,7 +29013,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PYepiSIBrCoV1b3EZzSlxGju6M6jS_ym&sz=w800"
     ]
   },
   {
@@ -29030,7 +29030,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OXHNsmXtpAmkYfVQvQYUHDy5izMiXIoW&sz=w800"
     ]
   },
   {
@@ -29047,7 +29047,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1WXqDxaM4vxkF-VFm04sP5sP-IsOyDVws&sz=w800"
     ]
   },
   {
@@ -29064,7 +29064,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FIM9irGrE3a3sMmZz3-0YeIxVJCpHERx&sz=w800"
     ]
   },
   {
@@ -29081,7 +29081,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A-gH54uDnaVR0NuylAK8_sf-wi44Hy3L&sz=w800"
     ]
   },
   {
@@ -29098,7 +29098,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1c9xIMat5FmDm5TjFDuY9gBeYyzeb60p0&sz=w800"
     ]
   },
   {
@@ -29115,7 +29115,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OeEEHeLnbctdXPrMAf-0sO_5wvzYR7ki&sz=w800"
     ]
   },
   {
@@ -29132,7 +29132,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1l7tLdnEcb12_xIPS2EKDK-dPfp20xo6l&sz=w800"
     ]
   },
   {
@@ -29149,7 +29149,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ImTbV-GWibpn7MxFyXSCA8XXyoNHM-d9&sz=w800"
     ]
   },
   {
@@ -29166,7 +29166,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PI4g-AomTnkff5reAgQovdsQ9PeJtrfC&sz=w800"
     ]
   },
   {
@@ -29183,7 +29183,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1A9BykhXNZdzg8qZsZveSK0FC7ml3_GLH&sz=w800"
     ]
   },
   {
@@ -29200,7 +29200,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oQJH027iDKrFBCC7WwOzDNomxumgXJiz&sz=w800"
     ]
   },
   {
@@ -29217,7 +29217,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BTAiaVOY8H8A5Siau0_zDB3Rv7XE3oVI&sz=w800"
     ]
   },
   {
@@ -29234,7 +29234,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vrCT9uILDwVEKM09mSogXQAmN7TGcpdk&sz=w800"
     ]
   },
   {
@@ -29251,7 +29251,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=173T4ygmnIOY9DsdPi74HwmNPkWpeHQIp&sz=w800"
     ]
   },
   {
@@ -29268,7 +29268,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xumsIAVat81Dhd_HmDJkElBIODBoAK9W&sz=w800"
     ]
   },
   {
@@ -29285,7 +29285,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hh4ehvuF1VcY1Rgc9wdkzq42DUrsS1W6&sz=w800"
     ]
   },
   {
@@ -29302,7 +29302,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Xcu1oXyWTeTEzhR5hJeZeD1s8vRGx_VO&sz=w800"
     ]
   },
   {
@@ -29319,7 +29319,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FVOBmvykE-MHdRh0Yq1ZfGcYcZONpzZR&sz=w800"
     ]
   },
   {
@@ -29336,7 +29336,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1QqbmSY4kKaLi_UbH_rFZKiV3zgUPpVzN&sz=w800"
     ]
   },
   {
@@ -29353,7 +29353,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FIM9irGrE3a3sMmZz3-0YeIxVJCpHERx&sz=w800"
     ]
   },
   {
@@ -29370,7 +29370,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tvF01gADcDpxmz5fKRpRZlWJnq9HK5uU&sz=w800"
     ]
   },
   {
@@ -29387,7 +29387,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bzChPNLHOzgXS08lhKBJQXGc8N7GHfqS&sz=w800"
     ]
   },
   {
@@ -29404,7 +29404,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MZ0HwFyo4Oc3W39VK_noXVAB1mqApJ4s&sz=w800"
     ]
   },
   {
@@ -29421,7 +29421,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MJPnLryX_QedUfFoPa_ezbzOL6VCX72z&sz=w800"
     ]
   },
   {
@@ -29438,7 +29438,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1p3QjicBomvoWCX0Eit8fthLQwvdKj2E9&sz=w800"
     ]
   },
   {
@@ -29455,7 +29455,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=17lhJNVRmkhcaQkMkpu0l1KT02bGN4Xiq&sz=w800"
     ]
   },
   {
@@ -29472,7 +29472,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kn8cBDccv3-t6h5J4ROfWfUPeHiYQrlg&sz=w800"
     ]
   },
   {
@@ -29489,7 +29489,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UCn7J_TZp2FBlVk0wIkOzUB9ZiuqqhmL&sz=w800"
     ]
   },
   {
@@ -29506,7 +29506,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iVz5tmE9IzuzXeRDdT-xzDzT-7yOuVtT&sz=w800"
     ]
   },
   {
@@ -29540,7 +29540,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yV3NQeiDdmqv-x_fCyQSXvNdEJlaQu6z&sz=w800"
     ]
   },
   {
@@ -29557,7 +29557,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1r-LHOvnexm3EmHhSTH6OO0fmMt-UaszH&sz=w800"
     ]
   },
   {
@@ -29574,7 +29574,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1W_nWu99QAZf19PE_Iq6QSSsiAR8hiJvf&sz=w800"
     ]
   },
   {
@@ -29591,7 +29591,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=158cOz7K9gwecbHgGSCPvw9-9eBA-l80H&sz=w800"
     ]
   },
   {
@@ -29608,7 +29608,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XR2qkwT2kvPSNFGGKx-5p8FiYCl_h03E&sz=w800"
     ]
   },
   {
@@ -29625,7 +29625,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1WP1gGxqUqQoGlj33ZWM9h6sggLiaJXzr&sz=w800"
     ]
   },
   {
@@ -29642,7 +29642,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1c5GSxfWS1Ft1wK14Qyf2rERV1Wo28RlH&sz=w800"
     ]
   },
   {
@@ -29676,7 +29676,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=11-KvfJKVNVNlqF8q80I6EfhYJ3bL6_0U&sz=w800"
     ]
   },
   {
@@ -29693,7 +29693,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vQ4C3ZZtxX58Cl5ZizEOuaBrcrMf-fgr&sz=w800"
     ]
   },
   {
@@ -29710,7 +29710,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ilUX46t2OelC5jQCG5cGisJXCr-74AVo&sz=w800"
     ]
   },
   {
@@ -29727,7 +29727,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bzChPNLHOzgXS08lhKBJQXGc8N7GHfqS&sz=w800"
     ]
   },
   {
@@ -29744,7 +29744,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pokdZLq_uOVxWOt-GdIJKuc1NyVVHzgd&sz=w800"
     ]
   },
   {
@@ -29761,7 +29761,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1xkuIMQJzZbdstTCDI81J9FHtqKQ-sQqF&sz=w800"
+      "https://drive.google.com/thumbnail?id=16oM4t1zAi2b156HLPh_WgwkLd06YXNpt&sz=w800"
     ]
   },
   {
@@ -33365,7 +33365,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UdsDiwMP5lyAa6237hAMEMR0sVQrkXug&sz=w800"
     ]
   },
   {
@@ -33382,7 +33382,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=11Kh335phDfEr4baGzkLllqIa7L-lXvE_&sz=w800"
     ]
   },
   {
@@ -33399,7 +33399,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ERYat2xvdwKcimMDt4CAvaLuqlP1vQpj&sz=w800"
     ]
   },
   {
@@ -33416,7 +33416,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xhFMgxT5B-0sZW3iXq5QWKtlrXxe4np2&sz=w800"
     ]
   },
   {
@@ -33433,7 +33433,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1k8gJecjBSGdDLjxXEU2hjU8mndBfQUNH&sz=w800"
     ]
   },
   {
@@ -33450,7 +33450,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1DnNFpLxhBUdpOaeWg6n5bIiowBsHjt6v&sz=w800"
     ]
   },
   {
@@ -33467,7 +33467,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hKv_hQLtpZU7_3u9sO_ZzDntqVG9lhCr&sz=w800"
     ]
   },
   {
@@ -33484,7 +33484,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1prdEkmFj9v1KfAH4q2AWpmnW1t_NCRx5&sz=w800"
     ]
   },
   {
@@ -33501,7 +33501,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1As2RCC5IojyKLlnmbqMwPB2RXHwLfC6Z&sz=w800"
     ]
   },
   {
@@ -33518,7 +33518,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hKv_hQLtpZU7_3u9sO_ZzDntqVG9lhCr&sz=w800"
     ]
   },
   {
@@ -33535,7 +33535,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vVuyi0lWqadGBC0wPp3vne8Naxt-ay5v&sz=w800"
     ]
   },
   {
@@ -33552,7 +33552,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZML_NvY8LM3yiRY-zI-5oIr0ITtV8ctu&sz=w800"
     ]
   },
   {
@@ -33569,7 +33569,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1RZ6lVeCYOeVsyjabspJkqAGErY7RiJiL&sz=w800"
     ]
   },
   {
@@ -33586,7 +33586,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1-h8h2Rgs2nRcrCukPQYRHgnoVTH0A5iA&sz=w800"
     ]
   },
   {
@@ -33603,7 +33603,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=10Go_JZNcmUL2pAihJHVEm1ahPhPf5p-K&sz=w800"
     ]
   },
   {
@@ -33620,7 +33620,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=15GGI8b_jGpfvfEWBXgbj-vzfoKbNzovh&sz=w800"
     ]
   },
   {
@@ -33637,7 +33637,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fO1FZNQDwGsYC9I00JdVS3TmcdY2pXes&sz=w800"
     ]
   },
   {
@@ -33654,7 +33654,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1__PKQRl0u1Q-apU-vXHdsQQqOOKGryp4&sz=w800"
     ]
   },
   {
@@ -33671,7 +33671,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Nus3QUwRaiful90Yoooy3TxpeMVVg5Xl&sz=w800"
     ]
   },
   {
@@ -33688,7 +33688,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=117ZeY5bXWMytNmK18at1iQ01YDFnW60M&sz=w800"
     ]
   },
   {
@@ -33705,7 +33705,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fVug7BKDeuBkkAn5wOzoxu0MM-vakSxB&sz=w800"
     ]
   },
   {
@@ -33722,7 +33722,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1x8XAAxhGMKawTTiTik-BvncFex-tPEtQ&sz=w800"
     ]
   },
   {
@@ -33739,7 +33739,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pkXFpPotYm6ZYGt1PyExIMkNUZw6Ol1T&sz=w800"
     ]
   },
   {
@@ -33756,7 +33756,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fVug7BKDeuBkkAn5wOzoxu0MM-vakSxB&sz=w800"
     ]
   },
   {
@@ -33773,7 +33773,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1F9yB_p6PCBrozB7e4hzZapkGhS16G8GG&sz=w800"
     ]
   },
   {
@@ -33790,7 +33790,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rs_TiGAqph_BTDJkAFnisftoK70CKvTP&sz=w800"
     ]
   },
   {
@@ -33807,7 +33807,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tOILyYCI-QDujgyCTMKWux18OEVSOMUq&sz=w800"
     ]
   },
   {
@@ -33824,7 +33824,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=16xojWAuLkjAKY71V1QL63HPgeDVCETwa&sz=w800"
     ]
   },
   {
@@ -33841,7 +33841,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MMBPecPSvmEc38kJy0Vi14tur0w3JPJg&sz=w800"
     ]
   },
   {
@@ -33858,7 +33858,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=10q4cw6j3wvftZvdFgsF3lJEtj-aU5WFk&sz=w800"
     ]
   },
   {
@@ -33875,7 +33875,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1piZgJTDi3lLC2jT04vEurNHGL2nXjvnB&sz=w800"
     ]
   },
   {
@@ -33892,7 +33892,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1x8XAAxhGMKawTTiTik-BvncFex-tPEtQ&sz=w800"
     ]
   },
   {
@@ -33909,7 +33909,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1O372RgG4MN3MsTMrJmqy6rRCJOWcTx_6&sz=w800"
     ]
   },
   {
@@ -33926,7 +33926,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdlQtAAQGNBFHjpV56uDJez7YgkLBy6F&sz=w800"
     ]
   },
   {
@@ -33943,7 +33943,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1HkrJHUnuMUAcZt7ssS0qihIp-8fwLp17&sz=w800"
     ]
   },
   {
@@ -33960,7 +33960,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Nat0_8cEVsVme4jre2OEzAWHU8kaUhw_&sz=w800"
     ]
   },
   {
@@ -33977,7 +33977,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rzLZslg4kqxFrM6I2jS6efK8mKvwjljQ&sz=w800"
     ]
   },
   {
@@ -33994,7 +33994,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JDUQ-Fk1GsoPmhx1d7ih4yZIeZ-vVIiy&sz=w800"
     ]
   },
   {
@@ -34011,7 +34011,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1uMbaYf0nfg9wB_Q0R-hDX8q7FIkZ-aDy&sz=w800"
     ]
   },
   {
@@ -34028,7 +34028,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ew33htqK1jj2yAk7LndcXQbwRYtKFqlD&sz=w800"
     ]
   },
   {
@@ -34045,7 +34045,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kYgaHwengE3HEaAu5SGGRLwv6C0ZVyrJ&sz=w800"
     ]
   },
   {
@@ -34062,7 +34062,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UZHYM-LZrzAypag0jgBRf8ns4y3HTGct&sz=w800"
     ]
   },
   {
@@ -34079,7 +34079,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Pz9O4Ey_uYT3RZcVg9iakUnsUG-kCo0s&sz=w800"
     ]
   },
   {
@@ -34096,7 +34096,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YDOLUraR_ZKjJjR1Hz-SZzEvvUBkNwzz&sz=w800"
     ]
   },
   {
@@ -34113,7 +34113,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ktLQBdNuQXAHPpvP8V2G5LaXMw7Es1Fm&sz=w800"
     ]
   },
   {
@@ -34130,7 +34130,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YDOLUraR_ZKjJjR1Hz-SZzEvvUBkNwzz&sz=w800"
     ]
   },
   {
@@ -34147,7 +34147,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UZHYM-LZrzAypag0jgBRf8ns4y3HTGct&sz=w800"
     ]
   },
   {
@@ -34164,7 +34164,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ktLQBdNuQXAHPpvP8V2G5LaXMw7Es1Fm&sz=w800"
     ]
   },
   {
@@ -34181,7 +34181,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1F1StTLfWsIH_H1s00IXc-xR1R3w9UL3N&sz=w800"
     ]
   },
   {
@@ -34198,7 +34198,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Od6EFw_4LUr-Dh3t0Bjksh5uNHaKKnNv&sz=w800"
     ]
   },
   {
@@ -34215,7 +34215,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fZEvOCAa1rZyZX7Jw0UnIBrXaQ5whDtc&sz=w800"
     ]
   },
   {
@@ -34232,7 +34232,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=11r79a2tym1deRowrgJOxeYynT3qe-vJ5&sz=w800"
     ]
   },
   {
@@ -34249,7 +34249,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XnzAkXoJfuuXohxBxSYVvA4uvsbvVduA&sz=w800"
     ]
   },
   {
@@ -34266,7 +34266,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xpt-ZG859U8hzR_mEnqt0QBDho5LuoJi&sz=w800"
     ]
   },
   {
@@ -34283,7 +34283,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TNJsPK8-yUnPb0fcFdQkIV5nul6O4oRM&sz=w800"
     ]
   },
   {
@@ -34300,7 +34300,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sIVZ2v62NnlXaMgrqJiWQeNfjs6GCcNK&sz=w800"
     ]
   },
   {
@@ -34317,7 +34317,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1uqoAqHgZa7f9Q_tR1aTnvr4omVvuqwHi&sz=w800"
     ]
   },
   {
@@ -34334,7 +34334,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fVug7BKDeuBkkAn5wOzoxu0MM-vakSxB&sz=w800"
     ]
   },
   {
@@ -34351,7 +34351,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1DoGv9PG4_6gL5-FPuBD9DdIlO8xQZh6A&sz=w800"
     ]
   },
   {
@@ -34368,7 +34368,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fZEvOCAa1rZyZX7Jw0UnIBrXaQ5whDtc&sz=w800"
     ]
   },
   {
@@ -34385,7 +34385,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1quoPitHtsIXQZPrQb3S-mLn6Xh0ulkTh&sz=w800"
     ]
   },
   {
@@ -34402,7 +34402,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34419,7 +34419,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34436,7 +34436,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34453,7 +34453,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34470,7 +34470,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34487,7 +34487,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34504,7 +34504,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34521,7 +34521,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34538,7 +34538,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34555,7 +34555,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34572,7 +34572,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34589,7 +34589,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zdfc-SpNJ4e0wy_8-5Q0yk56-Vv9iQf4&sz=w800"
     ]
   },
   {
@@ -34606,7 +34606,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=13-IrSMB72mS9N_RmJxP2QcrXRHGaaU3w&sz=w800"
     ]
   },
   {
@@ -34623,7 +34623,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ixITmTGJSxHB0ZrVUYNazR0l_Ts83jK9&sz=w800"
     ]
   },
   {
@@ -34640,7 +34640,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1g3Zxtw3PkgFRDwa1rDcSQ7xOowwyGkou&sz=w800"
     ]
   },
   {
@@ -34657,7 +34657,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MeQhynyBQ6glag93mDn7sxXdlRheyEVU&sz=w800"
     ]
   },
   {
@@ -34674,7 +34674,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Brlq-9rA3UI_EdU7Xi_gxBX94GSQH_6N&sz=w800"
     ]
   },
   {
@@ -34691,7 +34691,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ad5oUI2XXQC8cryOBQTGzvBGjNUlxpZn&sz=w800"
     ]
   },
   {
@@ -34708,7 +34708,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iOpZZO4PxQCUr7MdQqLQeF2YT1WDLZ9i&sz=w800"
     ]
   },
   {
@@ -34725,7 +34725,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1w9-8PhtkxgLofvYJGjQg3ypA0gZPEAq8&sz=w800"
     ]
   },
   {
@@ -34742,7 +34742,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TeN041tcPOXobMuj3U_RVW9ga41LyQjC&sz=w800"
     ]
   },
   {
@@ -34759,7 +34759,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1D4Ek4oEZ_daa7Ze-CxDPR5QCqdtIinxO&sz=w800"
     ]
   },
   {
@@ -34776,7 +34776,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1GYx9PWND9KsDV3d5zTDDbY7CzeM15lWD&sz=w800"
     ]
   },
   {
@@ -34793,7 +34793,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1--wFlOE8RXwNIEyhQlTF4fCKTIJ5BKMD&sz=w800"
     ]
   },
   {
@@ -34810,7 +34810,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hCj5aDKxnps1G9prnULc5FbhOhsXjtKd&sz=w800"
     ]
   },
   {
@@ -34827,7 +34827,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kzN5E6E9SIRvWcKZ9mRRLD0woLn92mql&sz=w800"
     ]
   },
   {
@@ -34844,7 +34844,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1OCE5FJOMIgQHyi7vS_FDaeofUv7I7crC&sz=w800"
     ]
   },
   {
@@ -34861,7 +34861,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ad5oUI2XXQC8cryOBQTGzvBGjNUlxpZn&sz=w800"
     ]
   },
   {
@@ -34878,7 +34878,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1H3qrUO-VnGY-OyF1pnEZKAegOZxtLZPc&sz=w800"
     ]
   },
   {
@@ -34895,7 +34895,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XggXFzd0_vyio1bUq7f8pOqpVy6HmUDM&sz=w800"
     ]
   },
   {
@@ -34912,7 +34912,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nnN4AT7xNLe2lApTPela-2I7NJqdsStZ&sz=w800"
     ]
   },
   {
@@ -34929,7 +34929,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1uWqg2PjRRXVt2WmuejjlnyYYOedkoLWS&sz=w800"
     ]
   },
   {
@@ -34946,7 +34946,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lzvpNIdIywqFmSlxDe54b1oQ0ffgPfV_&sz=w800"
     ]
   },
   {
@@ -34963,7 +34963,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1DU0HKyBHk_XoKMl0TcTJjrcVCg3mY_KW&sz=w800"
     ]
   },
   {
@@ -34980,7 +34980,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Lvm89SMj0kBom8kI2M-BZ4Cm6Pdup2Rh&sz=w800"
     ]
   },
   {
@@ -34997,7 +34997,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_wT1kw1wcVahtfiD3oIvKwa0gETVLTUp&sz=w800"
     ]
   },
   {
@@ -35014,7 +35014,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FTFuMlyRF8oNm5SUy-i2i7atvzHcBP3g&sz=w800"
     ]
   },
   {
@@ -35031,7 +35031,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yjfbGPN8swOO0IX3-dScA3XghHfSd1dT&sz=w800"
     ]
   },
   {
@@ -35048,7 +35048,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hhkTSuGRxcpKhuXVFSBkPeIo19q5DyyC&sz=w800"
     ]
   },
   {
@@ -35065,7 +35065,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Cbr95HNq1tlnOnydd8SkRLlPmVOYHeQw&sz=w800"
     ]
   },
   {
@@ -35082,7 +35082,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YvsbYQTWDQ3QhzyRCSYuR7qnnok216nM&sz=w800"
     ]
   },
   {
@@ -35099,7 +35099,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BbCy0yYuxFt7iZY6renD2ZHeJIpizwKb&sz=w800"
     ]
   },
   {
@@ -35116,7 +35116,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yjfbGPN8swOO0IX3-dScA3XghHfSd1dT&sz=w800"
     ]
   },
   {
@@ -35133,7 +35133,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1p1D-8wTLt9FsHlxKgj_Tgfv1bI-EO2U-&sz=w800"
     ]
   },
   {
@@ -35150,7 +35150,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1gMxTagvnz9FU-yvBF1htDwD55P1OJqH2&sz=w800"
     ]
   },
   {
@@ -35167,7 +35167,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kuGzfJ3whd4118e5569sfzQtEPLpI10e&sz=w800"
     ]
   },
   {
@@ -35184,7 +35184,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1DnNFpLxhBUdpOaeWg6n5bIiowBsHjt6v&sz=w800"
     ]
   },
   {
@@ -35201,7 +35201,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iOpZZO4PxQCUr7MdQqLQeF2YT1WDLZ9i&sz=w800"
     ]
   },
   {
@@ -35218,7 +35218,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Fs6qjKFQ36iSHR4YyypDsYAULbJRMNS-&sz=w800"
     ]
   },
   {
@@ -35235,7 +35235,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jiTtMSYgDiM-9LSdYUoSE-KQ3jdo58oh&sz=w800"
     ]
   },
   {
@@ -35252,7 +35252,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fcJp5nH_BKHhx6R-CcSN-aBbE1bRqzYL&sz=w800"
     ]
   },
   {
@@ -35269,7 +35269,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IqLdGTc9Ubl8p-EvqoSa11Cs5JzON6ef&sz=w800"
     ]
   },
   {
@@ -35286,7 +35286,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iOpZZO4PxQCUr7MdQqLQeF2YT1WDLZ9i&sz=w800"
     ]
   },
   {
@@ -35303,7 +35303,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1Glf8M4XESX-efnPKnqjd5DYWv3Naqar8&sz=w800"
+      "https://drive.google.com/thumbnail?id=1r5kDAyzjKLuOHIW-mBrvdDTVvOcMgJXU&sz=w800"
     ]
   },
   {
@@ -35320,7 +35320,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Obc__35Bg_Hc3o84IqbOBvIYPdMj6QDl&sz=w800"
     ]
   },
   {
@@ -35337,7 +35337,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_OpIDlI9ADRytEji1V-G6nBEyOucwlsL&sz=w800"
     ]
   },
   {
@@ -35354,7 +35354,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ztuiDvBZoSBqtTKuRpYOzo0ew-tE_FuO&sz=w800"
     ]
   },
   {
@@ -35371,7 +35371,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Js3TpCXyAXViaAvpQraG40MzqgJZwMru&sz=w800"
     ]
   },
   {
@@ -35388,7 +35388,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jMeMzAfu-Locv_WdbBVftQaaDjQC72h1&sz=w800"
     ]
   },
   {
@@ -35405,7 +35405,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=16t_gQsrZE3_7mTiAmmuyUQUfW4o-RNZZ&sz=w800"
     ]
   },
   {
@@ -35422,7 +35422,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=14jSYVxy5CpzQrzey9RaiO-kvrf-9MFJq&sz=w800"
     ]
   },
   {
@@ -35439,7 +35439,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1q6wsPfGPfRTw9IdOOv7AAA0nwnwe3qrk&sz=w800"
     ]
   },
   {
@@ -35456,7 +35456,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FRJbWXXM4_sTDPTsn1TmTeIL0-FExcgg&sz=w800"
     ]
   },
   {
@@ -35473,7 +35473,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XESenfuBIryO69pO339_AMHgjdgaKtYy&sz=w800"
     ]
   },
   {
@@ -35490,7 +35490,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mljnH3Ux6xsn8eB19DDj-_dZZecFfeFE&sz=w800"
     ]
   },
   {
@@ -35507,7 +35507,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1GYwxOa0o-ms9NMg8vI5RlJk_4jH4GjMl&sz=w800"
     ]
   },
   {
@@ -35524,7 +35524,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hPGUCnkrPtZyCoD4DTVKslhUOhml6iBh&sz=w800"
     ]
   },
   {
@@ -35541,7 +35541,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hPGUCnkrPtZyCoD4DTVKslhUOhml6iBh&sz=w800"
     ]
   },
   {
@@ -35558,7 +35558,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rUnHlNAFIO7nhn6h0cSb2otHayNCHAPR&sz=w800"
     ]
   },
   {
@@ -35575,7 +35575,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1GTkndk7TGg7Q-iY2WyTLu1VD2Cmqealk&sz=w800"
     ]
   },
   {
@@ -35592,7 +35592,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qTSoszmGFaU4QBqifd2mWST5wzn4bdTu&sz=w800"
     ]
   },
   {
@@ -35609,7 +35609,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yLjeMctrdQoxt3USxChUlXarrwLYl34Z&sz=w800"
     ]
   },
   {
@@ -35626,7 +35626,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=18_q3AFA_RZ4YjEOswoN4M7m0gCv048c1&sz=w800"
     ]
   },
   {
@@ -35643,7 +35643,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1f9UcBqcsH2cuT3mK5Xc9FbKXpZRSmGet&sz=w800"
     ]
   },
   {
@@ -35660,7 +35660,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tcpVTCaSxIdVZUGQFSo20Hltf3Fj4fkx&sz=w800"
     ]
   },
   {
@@ -35677,7 +35677,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XOhPxHEH2lPRNHlOZsDS_sLU_VzF7HSn&sz=w800"
     ]
   },
   {
@@ -35694,7 +35694,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BQimORWrOmLp9L0T2j3k-Lwr_PGl7VDz&sz=w800"
     ]
   },
   {
@@ -35711,7 +35711,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MGG38se3sQAz7Te582UyRUdMHKg2QnF_&sz=w800"
     ]
   },
   {
@@ -35728,7 +35728,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iEFe-DQj73KpHAqg_Fl9hkFBofWNghfE&sz=w800"
     ]
   },
   {
@@ -35745,7 +35745,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=10Z-lH1auFwbEPJsdsXYbNkrI6lQ67Uf5&sz=w800"
     ]
   },
   {
@@ -35762,7 +35762,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1R9jwlrrgOVZaCe0v96mC4sKynNuD0edP&sz=w800"
     ]
   },
   {
@@ -35779,7 +35779,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Hk89jN5G8kIN1ZIAOek6EgecJ-L5cZ_D&sz=w800"
     ]
   },
   {
@@ -35796,7 +35796,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FrJ6TuDoTJdNJLDUVWWBk8sYAH2SepuV&sz=w800"
     ]
   },
   {
@@ -35813,7 +35813,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jlge7JYcfWUc2NHbw4OQAdbhB4wDzzrP&sz=w800"
     ]
   },
   {
@@ -35830,7 +35830,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Ef4BxeGWXK8lECEgF-vNIR4wAqrpdjuV&sz=w800"
     ]
   },
   {
@@ -35847,7 +35847,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ED9LsOH4xcrUyfjsZIoN3bD7Hw4jCJG&sz=w800"
     ]
   },
   {
@@ -35864,7 +35864,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rljHhCrP7vPiIW7gI2PHcA2fxgi_yKGB&sz=w800"
     ]
   },
   {
@@ -35881,7 +35881,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kMLqBQQsDzapaQtQvUw1UxeuX6j4ryve&sz=w800"
     ]
   },
   {
@@ -35898,7 +35898,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1kMLqBQQsDzapaQtQvUw1UxeuX6j4ryve&sz=w800"
     ]
   },
   {
@@ -35915,7 +35915,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JPt4uInlq4jZMWCgwU4xDfqTNm_udJux&sz=w800"
     ]
   },
   {
@@ -35932,7 +35932,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1V_IXq8Iu6S7uLUfc7mVjF4P0n0ZZG0z3&sz=w800"
     ]
   },
   {
@@ -35949,7 +35949,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cfjEvrGp0YVgV_ln89079spoGiHHoK6n&sz=w800"
     ]
   },
   {
@@ -35966,7 +35966,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JZ_rdmSUbiu22sL0Htf7I4ZPrnL3ZHc2&sz=w800"
     ]
   },
   {
@@ -35983,7 +35983,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Il_x-wLgcifeBOiHFgx-2KfBDtS_8nki&sz=w800"
     ]
   },
   {
@@ -36000,7 +36000,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bq1PySiiSfKRm87NmrpGL7pS-LR0HEjM&sz=w800"
     ]
   },
   {
@@ -36017,7 +36017,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=14ED9LsOH4xcrUyfjsZIoN3bD7Hw4jCJG&sz=w800"
     ]
   },
   {
@@ -36034,7 +36034,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jFEEVXu1KL1ZxNBQl5_iIdh1j1A7z1Fy&sz=w800"
     ]
   },
   {
@@ -36051,7 +36051,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SQdZmO_UGUw_Z9G5wZPXd9GD2smjFboo&sz=w800"
     ]
   },
   {
@@ -36068,7 +36068,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vu59m-j1Tky7cjwzgf3B4-RT3L_0KUQe&sz=w800"
     ]
   },
   {
@@ -36085,7 +36085,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=12tqDTem4VGe_Bt8jbXZiFQpI7GZri5S5&sz=w800"
     ]
   },
   {
@@ -36102,7 +36102,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CyaEFeq-ERuWtCy_pceYHgy5iFjLO75o&sz=w800"
     ]
   },
   {
@@ -36119,7 +36119,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Vos-9uBr13QLoAX07nM419yy8QG7YeTY&sz=w800"
     ]
   },
   {
@@ -36136,7 +36136,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sI9zqT8TwZEeJpiC4APTsj5FtIrAzuKK&sz=w800"
     ]
   },
   {
@@ -36153,7 +36153,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1gZoCgE47Yf2j0T_UlIeZg8iPnIYRohJb&sz=w800"
     ]
   },
   {
@@ -36170,7 +36170,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bdAGhEmkXZq0-oyTjGJHDxx42v2e2t1l&sz=w800"
     ]
   },
   {
@@ -36187,7 +36187,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=12ArPZPTTWAMTqYTnfKSRrLpaHpujUeKy&sz=w800"
     ]
   },
   {
@@ -36204,7 +36204,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1V_IXq8Iu6S7uLUfc7mVjF4P0n0ZZG0z3&sz=w800"
     ]
   },
   {
@@ -36221,7 +36221,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_OpIDlI9ADRytEji1V-G6nBEyOucwlsL&sz=w800"
     ]
   },
   {
@@ -36238,7 +36238,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BYxBBBI9kFoUSaUDBYhkkiB9eXG9__Rx&sz=w800"
     ]
   },
   {
@@ -36255,7 +36255,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1x1EaLKMe7ZvXTcFT4WvTozEdCa9TcDg_&sz=w800"
     ]
   },
   {
@@ -36272,7 +36272,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Il_x-wLgcifeBOiHFgx-2KfBDtS_8nki&sz=w800"
     ]
   },
   {
@@ -36289,7 +36289,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1a77su3ZcEal-oJtlxkbGQ-63FWA_uJE6&sz=w800"
     ]
   },
   {
@@ -36306,7 +36306,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1x1EaLKMe7ZvXTcFT4WvTozEdCa9TcDg_&sz=w800"
     ]
   },
   {
@@ -36323,7 +36323,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PVAUDpVozAhq4OrtXc9TYOAXD682lEIr&sz=w800"
     ]
   },
   {
@@ -36340,7 +36340,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jFEEVXu1KL1ZxNBQl5_iIdh1j1A7z1Fy&sz=w800"
     ]
   },
   {
@@ -36357,7 +36357,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jiGJTVcltKZlcj2G_MmWwBMD_r3QNGmG&sz=w800"
     ]
   },
   {
@@ -36374,7 +36374,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1LVsRxzv_s0MkHG-3bH2b6exFBKVMapoD&sz=w800"
     ]
   },
   {
@@ -36391,7 +36391,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1q6wsPfGPfRTw9IdOOv7AAA0nwnwe3qrk&sz=w800"
     ]
   },
   {
@@ -36408,7 +36408,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1LO1_lqIKqAOcxz_qezQHKJs5Cx92-9x4&sz=w800"
     ]
   },
   {
@@ -36425,7 +36425,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CyaEFeq-ERuWtCy_pceYHgy5iFjLO75o&sz=w800"
     ]
   },
   {
@@ -36442,7 +36442,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Il_x-wLgcifeBOiHFgx-2KfBDtS_8nki&sz=w800"
     ]
   },
   {
@@ -36459,7 +36459,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bu4JDDvAYFwWD2ULIzqzMI4hLxb-l8rx&sz=w800"
     ]
   },
   {
@@ -36476,7 +36476,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=181VlgYa6r5OvPu4G_1vNMeP4D4ZhPYD5&sz=w800"
     ]
   },
   {
@@ -36493,7 +36493,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CN547ss3_086hLZaJ4JAxktXPomlD_rK&sz=w800"
     ]
   },
   {
@@ -36510,7 +36510,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1LPMWmMDinX4ZKtimNqmUAtDRGqfClUeF&sz=w800"
     ]
   },
   {
@@ -36527,7 +36527,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=16ncIPVbEjAo4H8o18lvRRjihJgKBiGVL&sz=w800"
     ]
   },
   {
@@ -36544,7 +36544,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qP8z9948XMh5yGqKEPw2OdEF06O6Ii0i&sz=w800"
     ]
   },
   {
@@ -36561,7 +36561,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=14Iz38GeNl-Gz7falOOlF94bFsxdD71BW&sz=w800"
     ]
   },
   {
@@ -36578,7 +36578,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1b70PQFjqNwV56lzlJGSwZUSqJFSs6Bta&sz=w800"
     ]
   },
   {
@@ -36595,7 +36595,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nalFubiE3uTeGoRJOjxzN1FwzxLZmgnR&sz=w800"
     ]
   },
   {
@@ -36612,7 +36612,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=11fy0oqTMmR9vBLBcyauJbu5bA9vJjXJa&sz=w800"
     ]
   },
   {
@@ -36629,7 +36629,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TwsPv5fHxt9x91z5IIGz8PQTZezx9loy&sz=w800"
     ]
   },
   {
@@ -36646,7 +36646,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1f7Mws5Y-7cDkgbx08yGxSa7KZm26Vghs&sz=w800"
     ]
   },
   {
@@ -36663,7 +36663,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hPGUCnkrPtZyCoD4DTVKslhUOhml6iBh&sz=w800"
     ]
   },
   {
@@ -36680,7 +36680,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1EVkhmMeLXkLbKymWp0skwP9_uAypLBnJ&sz=w800"
     ]
   },
   {
@@ -36697,7 +36697,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SRLzzURtXLjCBHJ6mTGVqfHNPemdB77Z&sz=w800"
     ]
   },
   {
@@ -36714,7 +36714,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1EVkhmMeLXkLbKymWp0skwP9_uAypLBnJ&sz=w800"
     ]
   },
   {
@@ -36731,7 +36731,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rgQfnDfZa02nOg0W1piVdSbdaSXyyQm5&sz=w800"
     ]
   },
   {
@@ -36748,7 +36748,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1QggiZc4xGKqz9yOm_caK1ciCcO34fd6h&sz=w800"
     ]
   },
   {
@@ -36765,7 +36765,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1G-8Sq2f-QSTK_z51ILwEryAPXdXUWQ10&sz=w800"
     ]
   },
   {
@@ -36782,7 +36782,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1RAvCRk6wsxYi6BlOGxVXmayPBgMwsVGG&sz=w800"
     ]
   },
   {
@@ -36799,7 +36799,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1IiGnrHvhC4izBhssnkysvyDsk237ogJS&sz=w800"
     ]
   },
   {
@@ -36816,7 +36816,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=19skvyHdI8o8wwBHJx1I0HL6-9N5LRwIv&sz=w800"
     ]
   },
   {
@@ -36833,7 +36833,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1aPzQo7x7rE4EzFiaQ8VAbJU55mZmMVpk&sz=w800"
     ]
   },
   {
@@ -36850,7 +36850,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NfTkwiZldFQd8O3BDCczJmQ_p7FSnqgP&sz=w800"
     ]
   },
   {
@@ -36867,7 +36867,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BtCGS9DlBYvSp8Zeh9w5qSvXFRCK9g38&sz=w800"
     ]
   },
   {
@@ -36884,7 +36884,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PVAUDpVozAhq4OrtXc9TYOAXD682lEIr&sz=w800"
     ]
   },
   {
@@ -36901,7 +36901,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Ch708pshCaltyKzmrREKkglDjKryQtw-&sz=w800"
     ]
   },
   {
@@ -36918,7 +36918,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1taAoBit8oMj8ubxa_1famkOy5t_yQXis&sz=w800"
     ]
   },
   {
@@ -36935,7 +36935,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KoWin-Uw1V9Y6FaU5Gqvpk3Rvkn06JA8&sz=w800"
     ]
   },
   {
@@ -36952,7 +36952,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=11fy0oqTMmR9vBLBcyauJbu5bA9vJjXJa&sz=w800"
     ]
   },
   {
@@ -36969,7 +36969,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XESenfuBIryO69pO339_AMHgjdgaKtYy&sz=w800"
     ]
   },
   {
@@ -36986,7 +36986,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PHTEI6wkA2AnXlPgH9l7_BgyGcYxwlNa&sz=w800"
     ]
   },
   {
@@ -37003,7 +37003,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NfTkwiZldFQd8O3BDCczJmQ_p7FSnqgP&sz=w800"
     ]
   },
   {
@@ -37020,7 +37020,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wkcXeLbsQ23ws_Y0lqtR1wTJm-_1JWs6&sz=w800"
     ]
   },
   {
@@ -37037,7 +37037,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AWdOR7ZvMCkppMN-LKmqJxKEh1PW6h-N&sz=w800"
     ]
   },
   {
@@ -37054,7 +37054,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1V_IXq8Iu6S7uLUfc7mVjF4P0n0ZZG0z3&sz=w800"
     ]
   },
   {
@@ -37071,7 +37071,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1D6rCecDmGNmumHst3MXojxXTqFLerW4l&sz=w800"
     ]
   },
   {
@@ -37088,7 +37088,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TX3kvdiEZPqkw_8KE-1CMwBDfHYUGPYp&sz=w800"
     ]
   },
   {
@@ -37105,7 +37105,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sZt4j4CtazL_cw7eLYzSsSPn-mOTUnR2&sz=w800"
     ]
   },
   {
@@ -37122,7 +37122,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MGG38se3sQAz7Te582UyRUdMHKg2QnF_&sz=w800"
     ]
   },
   {
@@ -37139,7 +37139,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JJMmUHfljaOqg0r_PycvhEoqnhZMKEvt&sz=w800"
     ]
   },
   {
@@ -37156,7 +37156,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JJMmUHfljaOqg0r_PycvhEoqnhZMKEvt&sz=w800"
     ]
   },
   {
@@ -37173,7 +37173,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nNcrbUmKTxiKIQYhZkpozIP_vRlo9VXq&sz=w800"
     ]
   },
   {
@@ -37190,7 +37190,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rgQfnDfZa02nOg0W1piVdSbdaSXyyQm5&sz=w800"
     ]
   },
   {
@@ -37207,7 +37207,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bLTUvHVjBbg-wFQjiE6sNiVqk_lpy8kL&sz=w800"
     ]
   },
   {
@@ -37224,7 +37224,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JZ_rdmSUbiu22sL0Htf7I4ZPrnL3ZHc2&sz=w800"
     ]
   },
   {
@@ -37241,7 +37241,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1jwJ55WbImFLo_6zZETKZy0n2p7EhWrF1&sz=w800"
+      "https://drive.google.com/thumbnail?id=125k2MOQCRsREJNtBPeGqFFNos2TN4Onn&sz=w800"
     ]
   },
   {
@@ -37258,7 +37258,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1PDPMxTwKApnAZ9WFSm4BWArEgc6km7PR&sz=w800"
     ]
   },
   {
@@ -37292,7 +37292,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=136ZAF3glz0u9oXykBgn6lBB1ZXtTbFWr&sz=w800"
     ]
   },
   {
@@ -37309,7 +37309,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Ndd_G4htQI7uz1SpHH6bcJcqJtglCJtm&sz=w800"
     ]
   },
   {
@@ -37343,7 +37343,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1R9ImLpUzgQbE7GSHp0_6y8bLJVV_oJK8&sz=w800"
     ]
   },
   {
@@ -37360,7 +37360,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1R9ImLpUzgQbE7GSHp0_6y8bLJVV_oJK8&sz=w800"
     ]
   },
   {
@@ -37377,7 +37377,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KW8t4H1vhokRh6wQmtgWZofwO8O1ZTYg&sz=w800"
     ]
   },
   {
@@ -37394,7 +37394,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1tmF8QBLAqYf3EUw-Kp89vwSHjascj76R&sz=w800"
     ]
   },
   {
@@ -37411,7 +37411,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=17Q9nwlWYECbLg5xdD90Dtre8V-tCGCJH&sz=w800"
     ]
   },
   {
@@ -37462,7 +37462,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yCIRmbpGVruX6JR2wGIKBORiyws38jsZ&sz=w800"
     ]
   },
   {
@@ -37581,7 +37581,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NnQp8NQS4zNGB9CYXYolCpCIr35onXMY&sz=w800"
     ]
   },
   {
@@ -37598,7 +37598,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1o2T0EKV9pvsHl4bQT27qkNsJzTHAjwNO&sz=w800"
     ]
   },
   {
@@ -37615,7 +37615,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YVSMJpfVzxvNB1Y2sODVp5F_HvkF_l87&sz=w800"
     ]
   },
   {
@@ -37649,7 +37649,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=17LZ98lta4XXUAWWmbSbKlU1TeyoYGx3X&sz=w800"
     ]
   },
   {
@@ -37666,7 +37666,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vba46xjirUC-TVZQrA_1Q4wU1xMrVqpT&sz=w800"
     ]
   },
   {
@@ -37768,7 +37768,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Wy6-cuaKvB2n73_OvrTEEBpnaTx_0iJZ&sz=w800"
     ]
   },
   {
@@ -37785,7 +37785,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1S1AjJaAAO_Ypqb4j-qxbhTUANkhtoCNY&sz=w800"
     ]
   },
   {
@@ -37819,7 +37819,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Ndd_G4htQI7uz1SpHH6bcJcqJtglCJtm&sz=w800"
     ]
   },
   {
@@ -37853,7 +37853,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UNYTgZU-sz_-SYd4UBykiiSmKNVnJ6Aj&sz=w800"
     ]
   },
   {
@@ -37870,7 +37870,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1oi-B_DBMg4cjAcqkK44RMzuRZZ2bXLcB&sz=w800"
     ]
   },
   {
@@ -37887,7 +37887,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_b1Yh0kD04NxSgoaO0nV0UoFrZ9klsii&sz=w800"
     ]
   },
   {
@@ -37904,7 +37904,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lYVyQpaq8lFmlx5xWgWZONyQ7UiKPhpf&sz=w800"
     ]
   },
   {
@@ -37938,7 +37938,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qAJbc6MB17YSYs_61St6mO9y80vyVxIq&sz=w800"
     ]
   },
   {
@@ -37972,7 +37972,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UNYTgZU-sz_-SYd4UBykiiSmKNVnJ6Aj&sz=w800"
     ]
   },
   {
@@ -37989,7 +37989,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XXKYA_rba_RfX1HclyxI8S4imRkq0Aax&sz=w800"
     ]
   },
   {
@@ -38057,7 +38057,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fBYgkQZRMvXw5b7LeqQJlCyC9dcnRaae&sz=w800"
     ]
   },
   {
@@ -38125,7 +38125,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1907IswoMUEmBuWujeRth9JAK_zgpuCpV&sz=w800"
     ]
   },
   {
@@ -38176,7 +38176,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=187pqlybAi1KQ0-IRw8LTE4zPD6ijNYv9&sz=w800"
     ]
   },
   {
@@ -38244,7 +38244,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1T6tj6ApvOx05DS18YF01GQr8d79I1YPn&sz=w800"
     ]
   },
   {
@@ -38278,7 +38278,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1f7Y-dAdmVgvVTIFZnRJvEIGVARs5LxtA&sz=w800"
     ]
   },
   {
@@ -38312,7 +38312,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SjEZ-KALMo3-Y5UeOvPNTIljW-_pbm2z&sz=w800"
     ]
   },
   {
@@ -38346,7 +38346,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Lb-0Vr2DBlpZqdCMIingSrLCPNHgi9Ll&sz=w800"
     ]
   },
   {
@@ -38380,7 +38380,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1d2dq29PkhRL5EQvd_NCOBCfOqcgISZh9&sz=w800"
+      "https://drive.google.com/thumbnail?id=1txOEhVBkyBJotqPBLmJzyuBzJIQzjBEV&sz=w800"
     ]
   },
   {
@@ -38414,7 +38414,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NnjjI3bdWmawJUkDMdTxQ_w-ygLrdCTd&sz=w800"
     ]
   },
   {
@@ -38431,7 +38431,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NnjjI3bdWmawJUkDMdTxQ_w-ygLrdCTd&sz=w800"
     ]
   },
   {
@@ -38448,7 +38448,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TXU6VelTGTIDptf2H-ObSOkXhy7DGGlA&sz=w800"
     ]
   },
   {
@@ -38465,7 +38465,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VptVdzHpA7j0S2b6BsGIrA37gmILns_S&sz=w800"
     ]
   },
   {
@@ -38482,7 +38482,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nCweiNMZiNR-28wIUlbUIuTWI1RPMPP3&sz=w800"
     ]
   },
   {
@@ -38499,7 +38499,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1C5fTcwZNweCe2b_DcdUL-8O1AA9Gajkf&sz=w800"
     ]
   },
   {
@@ -38516,7 +38516,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JKmZ6SUtFvBFuHWATJURPGIqaVQUNX2r&sz=w800"
     ]
   },
   {
@@ -38533,7 +38533,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1T3dn_g5TV-hTLI7pFl9_IDLzmYwUrfr5&sz=w800"
     ]
   },
   {
@@ -38550,7 +38550,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1N7Xyt54lvv63wDThpGEVn5d-wEDL564f&sz=w800"
     ]
   },
   {
@@ -38567,7 +38567,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1pVLbUMn4B-VXIzCLWdVwq6opSoEeTsBw&sz=w800"
     ]
   },
   {
@@ -38584,7 +38584,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fIdf03rgu7PDdAx8-OPR08ir8_OJ49LJ&sz=w800"
     ]
   },
   {
@@ -38601,7 +38601,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1E170faHSnwzxECAWR4fgIGQoitiuHke9&sz=w800"
     ]
   },
   {
@@ -38618,7 +38618,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1whYzw1eiaRgpi7fsYiHA4OUqj6yg1DnH&sz=w800"
     ]
   },
   {
@@ -38635,7 +38635,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jo3PQ4iJw247n51wfRllN_JNzKNGToun&sz=w800"
     ]
   },
   {
@@ -38652,7 +38652,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1M2f2fNh1aPN1Jr6uUPI2ARGQqQ-yLEKc&sz=w800"
     ]
   },
   {
@@ -38669,7 +38669,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vdgce_brEAV54qRBVbFdmrwEaJPTs1TB&sz=w800"
     ]
   },
   {
@@ -38686,7 +38686,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=17FvBmI5U8P-pDREClqNv5XeK0ZSFb_34&sz=w800"
     ]
   },
   {
@@ -38703,7 +38703,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1l_764Uj-oE2pUSo-qV4_zXyfNBQ8m7Os&sz=w800"
     ]
   },
   {
@@ -38720,7 +38720,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1WDmb1BeL0GYR5IJPdHJHfPiZjky07WuR&sz=w800"
     ]
   },
   {
@@ -38737,7 +38737,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_6dmH1U_V3o0Mrq0VNK2eWNl2D2DtDkN&sz=w800"
     ]
   },
   {
@@ -38754,7 +38754,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MOwoQBFPWYXdm6ZAlxumV3Cnm8ZaWXPe&sz=w800"
     ]
   },
   {
@@ -38771,7 +38771,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FTuX-N-O7ny9lsYQWRjVvcCQIXqNASBV&sz=w800"
     ]
   },
   {
@@ -38788,7 +38788,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UqvJzd8P41xM6-Z8NTwJZV9dUjn-p48D&sz=w800"
     ]
   },
   {
@@ -38805,7 +38805,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VU8F9Rfs-ZSvhbrgz--32jU2SxI_WzNx&sz=w800"
     ]
   },
   {
@@ -38822,7 +38822,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MwPqvh6O4vNrAYqhLJxYRgwufw-GyR_4&sz=w800"
     ]
   },
   {
@@ -38839,7 +38839,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=14h6QqK4E_kQ4di9asG_4qltH28cJ2TRk&sz=w800"
     ]
   },
   {
@@ -38856,7 +38856,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=11kytK-ylAV0hcYAhAL1kGcHgIqySvo8t&sz=w800"
     ]
   },
   {
@@ -38873,7 +38873,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=13Tznyv_gIindaDiiBgetsx6PgcqiSWxi&sz=w800"
     ]
   },
   {
@@ -38890,7 +38890,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=17_ugkvD4UV7cIpb-oXMR1P2OT2cT08Ex&sz=w800"
     ]
   },
   {
@@ -38907,7 +38907,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TDVi51R74HzvRjxUW7M5kFfm7UDeQa_A&sz=w800"
     ]
   },
   {
@@ -38924,7 +38924,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1biXziENJgRnpgo5BcKF-xF7BXIGk0QT7&sz=w800"
     ]
   },
   {
@@ -38941,7 +38941,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1GhroMHjn27AtZAMT-lkrnafONXDjdBmE&sz=w800"
     ]
   },
   {
@@ -38958,7 +38958,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vYv_HkYDcqq9CFqNHlxa54EiHsOw-4Ar&sz=w800"
     ]
   },
   {
@@ -38975,7 +38975,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MOwoQBFPWYXdm6ZAlxumV3Cnm8ZaWXPe&sz=w800"
     ]
   },
   {
@@ -38992,7 +38992,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1E170faHSnwzxECAWR4fgIGQoitiuHke9&sz=w800"
     ]
   },
   {
@@ -39009,7 +39009,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1dk8XaJ2hLIpdLpz2iMvRMbjAmJbOw9eU&sz=w800"
     ]
   },
   {
@@ -39026,7 +39026,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1h2xNobyAhWibo6tHbNi27bUYNPydzPyT&sz=w800"
     ]
   },
   {
@@ -39043,7 +39043,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bJGomj9e2kE5cc5L1khhBtTkaBD2Cg0n&sz=w800"
     ]
   },
   {
@@ -39060,7 +39060,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=18MSMQzYA-Kj-busjct3Dohe1D575Wwuw&sz=w800"
     ]
   },
   {
@@ -39077,7 +39077,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1rFmXxBIsf9UXzzQxa9jSv74rilLUEh-7&sz=w800"
     ]
   },
   {
@@ -39094,7 +39094,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1E170faHSnwzxECAWR4fgIGQoitiuHke9&sz=w800"
     ]
   },
   {
@@ -39111,7 +39111,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1R6RzFaUa2fZNc8zlY_ruUTV-B5AWAwN7&sz=w800"
     ]
   },
   {
@@ -39128,7 +39128,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hE1UIkavkTZDuzsYtf74kuiG8r6Yn9tQ&sz=w800"
     ]
   },
   {
@@ -39145,7 +39145,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hE1UIkavkTZDuzsYtf74kuiG8r6Yn9tQ&sz=w800"
     ]
   },
   {
@@ -39162,7 +39162,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yLR9n4_L3XXNP8EFOq5-F-DPShKKXPxU&sz=w800"
     ]
   },
   {
@@ -39179,7 +39179,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1sXoOB7_6T3zqp728UVInAVReFVE_WfIp&sz=w800"
     ]
   },
   {
@@ -39196,7 +39196,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=118l9MCzOmhImcEc2sVXyCxOfrB8o0bhR&sz=w800"
     ]
   },
   {
@@ -39213,7 +39213,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xDF3neLd2KolBsXHhCYUZ8Qf7AvT9afz&sz=w800"
     ]
   },
   {
@@ -39230,7 +39230,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1xDF3neLd2KolBsXHhCYUZ8Qf7AvT9afz&sz=w800"
     ]
   },
   {
@@ -39247,7 +39247,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wNwMvKYH-qlOW7q8ey_eralaLIMxDvMS&sz=w800"
     ]
   },
   {
@@ -39264,7 +39264,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wNwMvKYH-qlOW7q8ey_eralaLIMxDvMS&sz=w800"
     ]
   },
   {
@@ -39281,7 +39281,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wNwMvKYH-qlOW7q8ey_eralaLIMxDvMS&sz=w800"
     ]
   },
   {
@@ -39298,7 +39298,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wNwMvKYH-qlOW7q8ey_eralaLIMxDvMS&sz=w800"
     ]
   },
   {
@@ -39315,7 +39315,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SmsxB7LsTm3w9AmP2c-tTUGnAVi0LtwO&sz=w800"
     ]
   },
   {
@@ -39332,7 +39332,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1nE1c3GqZCmlpoZzJQDiVuSB8Ip3I-eEY&sz=w800"
     ]
   },
   {
@@ -39349,7 +39349,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1MOwoQBFPWYXdm6ZAlxumV3Cnm8ZaWXPe&sz=w800"
     ]
   },
   {
@@ -39366,7 +39366,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=190s067qif3s-w710XWYuUeRnSk-9E5fO&sz=w800"
     ]
   },
   {
@@ -39383,7 +39383,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=10PQixm05wTn_5ekyaWe7K-kBqoFUpYWd&sz=w800"
     ]
   },
   {
@@ -39400,7 +39400,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XSYm795DHY8NBTcQKsQgHYd9bboY0JHp&sz=w800"
     ]
   },
   {
@@ -39417,7 +39417,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VxXwHnTNNUqpgRbkGsBoaAjTXOehbd9N&sz=w800"
     ]
   },
   {
@@ -39434,7 +39434,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1vWFjqn9vXBs8DnpQzkXRg7Ok8Uua42Tr&sz=w800"
     ]
   },
   {
@@ -39451,7 +39451,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KRn7q7Bvxpp_d76G41PfVUlveNMSptMK&sz=w800"
     ]
   },
   {
@@ -39468,7 +39468,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1mTDvMtnJ-YvDvnNwlsdkwFto-pd4CNJj&sz=w800"
     ]
   },
   {
@@ -39485,7 +39485,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1U3m7s7J9qTpnB4f_ZSguvnVg6QSfA0S3&sz=w800"
     ]
   },
   {
@@ -39502,7 +39502,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yx8Hi5fIsZP4dxAOvudMO0F-gNjBOd7J&sz=w800"
     ]
   },
   {
@@ -39519,7 +39519,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1a51YBqacjwxPygpgPmVID2hi5z1nTdk3&sz=w800"
     ]
   },
   {
@@ -39536,7 +39536,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=19AVzUPtcIdkerhdIawobnQPH9lPtpkso&sz=w800"
     ]
   },
   {
@@ -39553,7 +39553,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1E170faHSnwzxECAWR4fgIGQoitiuHke9&sz=w800"
     ]
   },
   {
@@ -39570,7 +39570,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1wel6zsf0CRW4JwyInYTpkIckbJ4sSdhU&sz=w800"
     ]
   },
   {
@@ -39587,7 +39587,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hNXZYpdhKOewgvqjNSN1uicKPxHzy0yN&sz=w800"
     ]
   },
   {
@@ -39604,7 +39604,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1F5DBMQTUWOv8ZIuRa7zh9LmM09PZ5dLm&sz=w800"
     ]
   },
   {
@@ -39621,7 +39621,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yx8Hi5fIsZP4dxAOvudMO0F-gNjBOd7J&sz=w800"
     ]
   },
   {
@@ -39638,7 +39638,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JKmZ6SUtFvBFuHWATJURPGIqaVQUNX2r&sz=w800"
     ]
   },
   {
@@ -39655,7 +39655,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XidMiQl-AUzpjrGLxi7EcPZkugJWUUCN&sz=w800"
     ]
   },
   {
@@ -39672,7 +39672,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qc3IUuT8nFK1uiMQ6_kcoAu7xwGl7uYU&sz=w800"
     ]
   },
   {
@@ -39689,7 +39689,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ep2qavlUlfDS0qCvX5DxwTMLzovoiytt&sz=w800"
     ]
   },
   {
@@ -39706,7 +39706,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1jCz2emqoB5tMmix6dFnPoj_uaszLxwm5&sz=w800"
     ]
   },
   {
@@ -39723,7 +39723,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1KDbzBvxs8ZFlGrBLns9xNfxTKoPF32Zz&sz=w800"
     ]
   },
   {
@@ -39740,7 +39740,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1XPKViqd9CRRXnwucarCP05jYYZlvftJQ&sz=w800"
     ]
   },
   {
@@ -39757,7 +39757,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1fkU1Eq53cibMlY7BmGYTjBMjIp0RirHN&sz=w800"
     ]
   },
   {
@@ -39774,7 +39774,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1bM76OHw_eRfCZQ0Ra0E0-1C0p8sPseVu&sz=w800"
     ]
   },
   {
@@ -39791,7 +39791,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1lSdrnJEk4o6DQV2W1S5AGtb6sK-wTP51&sz=w800"
     ]
   },
   {
@@ -39808,7 +39808,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1TqtqoAKr8Bbplwx6EaEZQZlPcz_66bID&sz=w800"
     ]
   },
   {
@@ -39825,7 +39825,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1YYaScgWfCYnnYwHv9c_W2aO2arAg0p6t&sz=w800"
     ]
   },
   {
@@ -39842,7 +39842,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1qNVs49GoOVMeAw4KbqKrfE6eZ6io13Si&sz=w800"
     ]
   },
   {
@@ -39859,7 +39859,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=14Zix_mCXst3DLt-_k2DLiEcnj0fPx4e1&sz=w800"
     ]
   },
   {
@@ -39876,7 +39876,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=153_ioS4s4iVKuEIcJytRHpieH7eKYKvf&sz=w800"
     ]
   },
   {
@@ -39893,7 +39893,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1n7ITAjZ41Xt5MhYX-bMYLBOghri3Xd5I&sz=w800"
     ]
   },
   {
@@ -39910,7 +39910,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Land",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1JJ2mdE4sDuvh1zWZRGWaJL6IVMAdJGqb&sz=w800"
     ]
   },
   {
@@ -39927,7 +39927,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1hwEjBWyPilVFN808zeBNT0FhAUTqX4Y2&sz=w800"
     ]
   },
   {
@@ -39944,7 +39944,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1l4NO6TlXS-fkx-5jEYjPXGTIIqW-h8D_&sz=w800"
     ]
   },
   {
@@ -39961,7 +39961,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=10WXV5Q_tGbA20kyeqLqr1wMlOgs5TUxQ&sz=w800"
     ]
   },
   {
@@ -39978,7 +39978,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1whYzw1eiaRgpi7fsYiHA4OUqj6yg1DnH&sz=w800"
     ]
   },
   {
@@ -39995,7 +39995,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZueQPUjMnDAZKhJ2xoTRGBFX1oFq7Gis&sz=w800"
     ]
   },
   {
@@ -40012,7 +40012,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1m7S9pBwNjRYlX_5pNqunvl2ST3xb6TGH&sz=w800"
     ]
   },
   {
@@ -40029,7 +40029,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=17FvBmI5U8P-pDREClqNv5XeK0ZSFb_34&sz=w800"
     ]
   },
   {
@@ -40046,7 +40046,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1VbjDKY1nVrnKCObFfDnBOpLsozOaoTBE&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_VnFybPHZEN9_DNPa-VOSJbqmn1j2pQs&sz=w800"
     ]
   },
   {
@@ -40063,7 +40063,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1cQe-nm_MP5Dz2Td8Ikhwlr-fg3d2nBgu&sz=w800"
     ]
   },
   {
@@ -40080,7 +40080,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1erqtzX7uKib-kAU9RRS_tnumr-lbPipz&sz=w800"
     ]
   },
   {
@@ -40097,7 +40097,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1BP3bDr2lN954kR_HQObEmB4IDKDqo3Iy&sz=w800"
     ]
   },
   {
@@ -40114,7 +40114,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_wHiyX16njsWmrjENCvnf56Y2SlCdXw4&sz=w800"
     ]
   },
   {
@@ -40131,7 +40131,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1CJQWWpbA61hFGpLJZOxrubLrZvwQEDBu&sz=w800"
     ]
   },
   {
@@ -40148,7 +40148,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=10bn8EtT4lL8ukog4ZYfsT54SA0ArJfEh&sz=w800"
     ]
   },
   {
@@ -40165,7 +40165,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1laeRoB1fQ4pKIx3Z0OvF-xCUEiCEnY9N&sz=w800"
     ]
   },
   {
@@ -40182,7 +40182,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1yNDBOp_BKwpb9t2tgJn3Mb8UssMfVmZn&sz=w800"
     ]
   },
   {
@@ -40199,7 +40199,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1NkIYEElWfYkS2271BthqrfmANyKJJyzK&sz=w800"
     ]
   },
   {
@@ -40216,7 +40216,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1FSYyY5BqcQSCX5pYWc8P6NriMyGx-no6&sz=w800"
     ]
   },
   {
@@ -40233,7 +40233,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=13Hvf8dngkRdeku32JKj5etbB3uIyf3DJ&sz=w800"
     ]
   },
   {
@@ -40250,7 +40250,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Commercial",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1iqlN5xB0ChrfmlR2F_RnC__qrxTg7zj-&sz=w800"
     ]
   },
   {
@@ -40267,7 +40267,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1AepAB1V_pdOQzlOvVwbwpF0ygvx68Qqs&sz=w800"
     ]
   },
   {
@@ -40284,7 +40284,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1_I3Fj1rl_1ZbRLqUJWlAW-0-sMjripK8&sz=w800"
     ]
   },
   {
@@ -40301,7 +40301,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1d8lYl43R6hVXRqG2GaQcwoD3DcZcxDIx&sz=w800"
     ]
   },
   {
@@ -40318,7 +40318,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=19zld3VnqXedR2U6zGYwzvWaAoHbzraU0&sz=w800"
     ]
   },
   {
@@ -40335,7 +40335,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1SO329HlTuB0iauDAgqmwurzeJh94x9nJ&sz=w800"
     ]
   },
   {
@@ -40352,7 +40352,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Condo/Apartment",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1VDlUd_pli5VG0taO_2zgNWyLn8v7GW5v&sz=w800"
     ]
   },
   {
@@ -40369,7 +40369,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1n2rayqfX0h1h0c24tQYb_xMHASUJU3f_&sz=w800"
     ]
   },
   {
@@ -40386,7 +40386,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zNAImfoGJtH222uxgEJA2BdGWVu0kW5S&sz=w800"
     ]
   },
   {
@@ -40403,7 +40403,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1zNAImfoGJtH222uxgEJA2BdGWVu0kW5S&sz=w800"
     ]
   },
   {
@@ -40420,7 +40420,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1ZLUR5m0kxvQljfwdgdgXSW5uGr2tB68J&sz=w800"
     ]
   },
   {
@@ -40437,7 +40437,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UE-VpntlsAX9YGAak5E7ie5UXbXBAHnU&sz=w800"
     ]
   },
   {
@@ -40454,7 +40454,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Terrace",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1Rf34emaO3qYOnbhKpuYcDHQz-fQ0XTNI&sz=w800"
     ]
   },
   {
@@ -40471,7 +40471,7 @@ export const PROPERTIES: Property[] = [
     "tenure": "Freehold",
     "type": "Semi-D/Bungalow",
     "images": [
-      "https://drive.google.com/thumbnail?id=1J9WdiCnhaA0fFXpK0gNX9iq2XKC59qWU&sz=w800"
+      "https://drive.google.com/thumbnail?id=1UI4glFx05DMw20USmNWc5NFB2hCkA2jk&sz=w800"
     ]
   }
 ];
