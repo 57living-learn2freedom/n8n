@@ -58723,40 +58723,6 @@ export const PROPERTIES: Property[] = [
   {
     "id": "3414",
     "title": "1 Storey Terrace House",
-    "address": "Lot 2713, Jalan Air Jernih-ibok, Kampung Air Jernih, 24210 Kemasik, Terengganu",
-    "postcode": "24210",
-    "state": "Terengganu",
-    "area": "Kemasik",
-    "reservePrice": 200000,
-    "auctionDate": "27th Sep 2026 (Sun)",
-    "landArea": "—",
-    "builtUp": "076 sq.ft",
-    "tenure": "Freehold",
-    "type": "Terrace",
-    "images": [
-      "https://drive.google.com/thumbnail?id=1_wHiyX16njsWmrjENCvnf56Y2SlCdXw4&sz=w800"
-    ]
-  },
-  {
-    "id": "3415",
-    "title": "1 Storey Detached House",
-    "address": "Lot 7946, Jalan TBGU 5, Taman Bukit Gedup Utama, Pulai Serai, 23000 Dungun, Terengganu",
-    "postcode": "23000",
-    "state": "Terengganu",
-    "area": "Dungun",
-    "reservePrice": 390000,
-    "auctionDate": "27th Sep 2026 (Sun)",
-    "landArea": "—",
-    "builtUp": "251 sq.ft",
-    "tenure": "Freehold",
-    "type": "Terrace",
-    "images": [
-      "https://drive.google.com/thumbnail?id=1CJQWWpbA61hFGpLJZOxrubLrZvwQEDBu&sz=w800"
-    ]
-  },
-  {
-    "id": "3416",
-    "title": "1 Storey Terrace House",
     "address": "No. 1825, Jalan Tempurong, Taman Mawar 2, Kampung Tempurong, 24000 Chukai, Terengganu",
     "postcode": "24000",
     "state": "Terengganu",
@@ -58772,7 +58738,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3417",
+    "id": "3415",
     "title": "2 Storey Terrace House",
     "address": "Taman Geliga Besar, Jalan Kemaman-Kuantan, 24000 Cukai, Terengganu",
     "postcode": "24000",
@@ -58789,7 +58755,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3418",
+    "id": "3416",
     "title": "2 Storey Terrace House",
     "address": "Taman Permai, Kampung Bukit Gasing, Seberang Marang, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -58806,7 +58772,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3419",
+    "id": "3417",
     "title": "1 Storey Detached House",
     "address": "PT. 10629K, Kampung Pagar Besi, Batu Rakit, 21020 Kuala Nerus, Terengganu",
     "postcode": "21020",
@@ -58823,7 +58789,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3420",
+    "id": "3418",
     "title": "1 Storey Semi Detached House",
     "address": "Kampung Gong Pipit, Gelugur Kedai, 20050 Kuala Terengganu, Terengganu",
     "postcode": "20050",
@@ -58840,7 +58806,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3421",
+    "id": "3419",
     "title": "1 Storey Terrace House",
     "address": "Bukit Payung, Taman Safiah Murni, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -58857,7 +58823,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3422",
+    "id": "3420",
     "title": "1 Storey Terrace House",
     "address": "PT. 9766, Jalan Punai, Perumahan Taman Kijal Meraga 1-2, 24100 Kemaman, Terengganu",
     "postcode": "24100",
@@ -58874,7 +58840,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3423",
+    "id": "3421",
     "title": "Shop House",
     "address": "Bangunan MAIDAM, Pekan Batu Enam, 21200, Terengganu",
     "postcode": "21200",
@@ -58891,7 +58857,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3424",
+    "id": "3422",
     "title": "1 Storey Semi Detached House",
     "address": "MBKT-PT 24224 (29594), Taman Desa Baroh, Tanjung Damai, Belakang Sekolah Menengah Kompleks Gong Badak, 21300 Kuala Terengganu, Terengganu",
     "postcode": "24224",
@@ -58908,7 +58874,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3425",
+    "id": "3423",
     "title": "Detached House",
     "address": "Lot PT 8940 (Lot 51858), Tasik, Batu 38-39, 22100 Setiu, Terengganu",
     "postcode": "51858",
@@ -58925,7 +58891,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3426",
+    "id": "3424",
     "title": "1 Storey Semi Detached House",
     "address": "Lot 60077, Lorong Melor 2, Kampung Baru Kanan, 24200 Kemasik, Terengganu",
     "postcode": "60077",
@@ -58942,7 +58908,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3427",
+    "id": "3425",
     "title": "1 Storey Semi Detached House",
     "address": "Taman Paka Delima, Jalan Duku, 23100 Paka, Terengganu",
     "postcode": "23100",
@@ -58959,7 +58925,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3428",
+    "id": "3426",
     "title": "Terrace House",
     "address": "Taman Desa Damai, Kampung Belukar Pak Ra, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -58976,7 +58942,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3429",
+    "id": "3427",
     "title": "Flat",
     "address": "Unit No. B 1/4, Block B, Tingkat 1/4, Rumah Pangsa Batas Baru, 20300 Kuala Terengganu, Terengganu",
     "postcode": "20300",
@@ -58993,7 +58959,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3430",
+    "id": "3428",
     "title": "1 Storey Semi Detached House",
     "address": "No. 8, Taman Laut 1, Jalan Kelisa, Paka, 23100, Dungun, Terengganu",
     "postcode": "23100",
@@ -59010,7 +58976,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3431",
+    "id": "3429",
     "title": "1 Storey Bungalow",
     "address": "Jalan Khatib Abas, Kampung Undang, 21400 Marang, Terengganu",
     "postcode": "21400",
@@ -59027,7 +58993,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3432",
+    "id": "3430",
     "title": "1 Storey Terrace House",
     "address": "Lorong Semarak 2, Taman Semarak, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -59044,7 +59010,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3433",
+    "id": "3431",
     "title": "1 Storey Semi Detached House",
     "address": "Tok Kaya Kanan, 24200 Kemasik, Terengganu",
     "postcode": "24200",
@@ -59061,7 +59027,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3434",
+    "id": "3432",
     "title": "Semi Detached House",
     "address": "Jalan Rengas, Taman Bukit Kuang, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -59078,7 +59044,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3435",
+    "id": "3433",
     "title": "Semi Detached House",
     "address": "Jalan Rengas, Taman Bukit Kuang, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -59095,7 +59061,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3436",
+    "id": "3434",
     "title": "Detached House",
     "address": "Jalan Mak Chili, Kampung Mak Chili Atas, 24000 Chukai, Terengganu",
     "postcode": "24000",
@@ -59112,7 +59078,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3437",
+    "id": "3435",
     "title": "1 Storey Terrace House",
     "address": "Jalan BI A/12, Taman Banggol Indah, Paya Berenjut, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -59129,7 +59095,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3438",
+    "id": "3436",
     "title": "1 Storey Detached House",
     "address": "Kampung Bukit Anak Dara, Kijal, 24100 Kemaman, Terengganu",
     "postcode": "24100",
@@ -59146,7 +59112,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3439",
+    "id": "3437",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Belakang Sekolah SMTIZ, 23000 Dungun, Terengganu",
     "postcode": "23000",
@@ -59163,7 +59129,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3440",
+    "id": "3438",
     "title": "2 Storey Terrace House",
     "address": "Jalan Taman Permai, Kampung Bukit Gasing, 21600 Marang, Terengganu",
     "postcode": "21600",
