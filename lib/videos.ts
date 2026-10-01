@@ -22,9 +22,9 @@ export interface VideoItem {
 export const VIDEO_ITEMS: VideoItem[] = [
   {
     id: "video-1",
-    title: "Cara Scammer menyamar",
-    description: "Cara Scammer menyamar sebagai ejen sewa rumah dibongkar! Tengok habis video ni dan jangan ditipu!",
-    posterSrc: "https://drive.google.com/thumbnail?id=19SpBSRr4-JPVVkGTDkuFqGYCNhImkETK&sz=w1200",
+    title: "Rumah lelong mesti buruk ke?",
+    description: "Jom unbox rumah lelong \"BURUK\"!",
+    posterSrc: "https://drive.google.com/thumbnail?id=1v93Es6xCnxsjJv9Npbm0-xLjmS7RS7Lo&sz=w1200",
     videoSrc: "https://drive.google.com/uc?export=download&id=1dMT31RRuHYSk8HpVo6RM0dZGvC3GFsxt",
     detailsUrl: "",
   }
